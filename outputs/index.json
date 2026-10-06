@@ -1,0 +1,156 @@
+[
+  {
+    "pdf": "2353 Gerrard Street Shelter/2.02 2535 Gerrard Shelter-Issued for Tender_5-Architectural Specifications.pdf",
+    "output": "2353 Gerrard Street Shelter/2.02 2535 Gerrard Shelter-Issued for Tender_5-Architectural Specifications.json",
+    "sets": 35,
+    "components": 466,
+    "low_confidence_sets": 0
+  },
+  {
+    "pdf": "2353 Gerrard Street Shelter/Hdw Spec & Sch-IFT_5.pdf",
+    "output": "2353 Gerrard Street Shelter/Hdw Spec & Sch-IFT_5.json",
+    "sets": 35,
+    "components": 466,
+    "low_confidence_sets": 0
+  },
+  {
+    "pdf": "81-85 Bridgeport/08-70-00-Hardware-Schedule.pdf",
+    "output": "81-85 Bridgeport/08-70-00-Hardware-Schedule.json",
+    "sets": 90,
+    "components": 726,
+    "low_confidence_sets": 0
+  },
+  {
+    "pdf": "81-85 Bridgeport/08-70-00-Hardware-Schedule_Rev_0.pdf",
+    "output": "81-85 Bridgeport/08-70-00-Hardware-Schedule_Rev_0.json",
+    "sets": 90,
+    "components": 726,
+    "low_confidence_sets": 0
+  },
+  {
+    "pdf": "AMI _Copy_/c43c36d9-000_Full_Volume_ATC_Renovation_Bid_Specs_Volume_1__1_.pdf",
+    "output": "AMI _Copy_/c43c36d9-000_Full_Volume_ATC_Renovation_Bid_Specs_Volume_1__1_.json",
+    "sets": 44,
+    "components": 398,
+    "low_confidence_sets": 0
+  },
+  {
+    "pdf": "Forest Park School/Project Manual (1).pdf",
+    "output": "Forest Park School/Project Manual (1).json",
+    "sets": 1,
+    "components": 4,
+    "low_confidence_sets": 0
+  },
+  {
+    "pdf": "HFH DG - HOSPITAL/08 71 00 - DOOR HARDWARE.pdf",
+    "output": "HFH DG - HOSPITAL/08 71 00 - DOOR HARDWARE.json",
+    "sets": 190,
+    "components": 1933,
+    "low_confidence_sets": 3
+  },
+  {
+    "pdf": "JC Ryan 2/087100 - Door Hardware-6.pdf",
+    "output": "JC Ryan 2/087100 - Door Hardware-6.json",
+    "sets": 38,
+    "components": 255,
+    "low_confidence_sets": 4
+  },
+  {
+    "pdf": "Livelle Mulholland - Life Plan Community/2025-12-12_Livelle_Bid_Set_Project_Manual_Vol1_rev1.pdf",
+    "output": "Livelle Mulholland - Life Plan Community/2025-12-12_Livelle_Bid_Set_Project_Manual_Vol1_rev1.json",
+    "sets": 160,
+    "components": 1293,
+    "low_confidence_sets": 0
+  },
+  {
+    "pdf": "Lyons Township HS/Project Manual (1).pdf",
+    "output": "Lyons Township HS/Project Manual (1).json",
+    "sets": 29,
+    "components": 145,
+    "low_confidence_sets": 3
+  },
+  {
+    "pdf": "Market View Apartments/S_251107 Market View Prelim Project Manual_pdf.pdf",
+    "output": "Market View Apartments/S_251107 Market View Prelim Project Manual_pdf.json",
+    "sets": 24,
+    "components": 204,
+    "low_confidence_sets": 0
+  },
+  {
+    "pdf": "Morris Bank/030f2d1d-Morris_Bank_Macon_-Spec_Manual_Issued_for_Const._1-26-26_FULL_SPECS.pdf",
+    "output": "Morris Bank/030f2d1d-Morris_Bank_Macon_-Spec_Manual_Issued_for_Const._1-26-26_FULL_SPECS.json",
+    "sets": 47,
+    "components": 360,
+    "low_confidence_sets": 1
+  },
+  {
+    "pdf": "National Doors and Hardware/15e2b8ac-FS17_Specs_V1.pdf",
+    "output": "National Doors and Hardware/15e2b8ac-FS17_Specs_V1.json",
+    "sets": 15,
+    "components": 91,
+    "low_confidence_sets": 1
+  },
+  {
+    "pdf": "Roselle Public Library/087100_FL_-_Door_Hardware_IFB_REVISED.pdf",
+    "output": "Roselle Public Library/087100_FL_-_Door_Hardware_IFB_REVISED.json",
+    "sets": 33,
+    "components": 196,
+    "low_confidence_sets": 0
+  },
+  {
+    "pdf": "SAT TDP/2025.12.19 - SAT TDP - Project Manual.pdf",
+    "output": "SAT TDP/2025.12.19 - SAT TDP - Project Manual.json",
+    "sets": 158,
+    "components": 1926,
+    "low_confidence_sets": 5
+  },
+  {
+    "pdf": "SJC Well Behavioral/89671ede-20260218_SJC_BeWell_Bldg_B_85__DESIGN_UPDATE_-_SPECIFICATIONS.pdf",
+    "output": "SJC Well Behavioral/89671ede-20260218_SJC_BeWell_Bldg_B_85__DESIGN_UPDATE_-_SPECIFICATIONS.json",
+    "sets": 102,
+    "components": 709,
+    "low_confidence_sets": 0
+  },
+  {
+    "pdf": "Shubie Center/e2231795-IFT_Specs.pdf",
+    "output": "Shubie Center/e2231795-IFT_Specs.json",
+    "sets": 3,
+    "components": 31,
+    "low_confidence_sets": 0
+  },
+  {
+    "pdf": "StarHardware/9839d1a1-Division_8_Specs_-_Commons_Lane.pdf",
+    "output": "StarHardware/9839d1a1-Division_8_Specs_-_Commons_Lane.json",
+    "sets": 47,
+    "components": 283,
+    "low_confidence_sets": 46
+  },
+  {
+    "pdf": "The Door Company _Copy_/Vantage TX-22 Div 01, 08.pdf",
+    "output": "The Door Company _Copy_/Vantage TX-22 Div 01, 08.json",
+    "sets": 43,
+    "components": 460,
+    "low_confidence_sets": 0
+  },
+  {
+    "pdf": "USI/c9634958-Radnet_Building_-_Specs.pdf",
+    "output": "USI/c9634958-Radnet_Building_-_Specs.json",
+    "sets": 3,
+    "components": 30,
+    "low_confidence_sets": 0
+  },
+  {
+    "pdf": "Valor Acres Building E/087100-DOOR-HARDWARE_Rev_2.pdf",
+    "output": "Valor Acres Building E/087100-DOOR-HARDWARE_Rev_2.json",
+    "sets": 37,
+    "components": 242,
+    "low_confidence_sets": 0
+  },
+  {
+    "pdf": "Village of Oswego New Public Works Facility  _Copy_/SPECIFICATIONS VOLUME 1.pdf",
+    "output": "Village of Oswego New Public Works Facility  _Copy_/SPECIFICATIONS VOLUME 1.json",
+    "sets": 39,
+    "components": 371,
+    "low_confidence_sets": 0
+  }
+]

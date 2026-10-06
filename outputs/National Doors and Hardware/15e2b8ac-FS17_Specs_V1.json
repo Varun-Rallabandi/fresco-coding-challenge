@@ -1,0 +1,2192 @@
+{
+  "source_file": "15e2b8ac-FS17_Specs_V1.pdf",
+  "hardware_pages": [
+    406,
+    407,
+    408,
+    409,
+    410,
+    411,
+    412
+  ],
+  "columns": [
+    {
+      "pages": "406-412",
+      "columns": [
+        {
+          "x": 81,
+          "kind": "qty",
+          "confidence": 1.0,
+          "votes": {},
+          "examples": [
+            "1",
+            "3",
+            "2",
+            "4",
+            "7",
+            "12A"
+          ]
+        },
+        {
+          "x": 108,
+          "kind": "unit",
+          "confidence": 1.0,
+          "votes": {},
+          "examples": [
+            "EA",
+            "SET"
+          ]
+        },
+        {
+          "x": 144,
+          "kind": "description",
+          "confidence": 1.0,
+          "votes": {},
+          "examples": [
+            "HINGE",
+            "SURFACE CLOSER",
+            "GASKETING",
+            "KICK PLATE",
+            "WALL STOP",
+            "RIM CYLINDER"
+          ]
+        },
+        {
+          "x": 276,
+          "kind": "catalog",
+          "confidence": 1.0,
+          "votes": {
+            "mfr": 0.0,
+            "finish": 1.0
+          },
+          "examples": [
+            "5BB1 4.5",
+            "8400 10\"",
+            "188SBK",
+            "WS406/407CCV",
+            "4040XP RW/PA",
+            "20-057 ICX"
+          ]
+        },
+        {
+          "x": 318,
+          "kind": "catalog",
+          "confidence": 1.0,
+          "votes": {
+            "mfr": 0.3,
+            "finish": 0.2
+          },
+          "examples": [
+            "X",
+            "PSA",
+            "RHO",
+            "41A",
+            "12/16/24/28",
+            "33"
+          ]
+        },
+        {
+          "x": 327,
+          "kind": "catalog",
+          "confidence": 1.0,
+          "votes": {},
+          "examples": [
+            "4.5",
+            "2\" LDW B-CS",
+            "4.5 NRP",
+            "Electric Trim",
+            "10\" O",
+            "1\" LDW B-CS"
+          ]
+        },
+        {
+          "x": 471,
+          "kind": "finish",
+          "confidence": 1.0,
+          "votes": {
+            "mfr": 0.2,
+            "finish": 6.5
+          },
+          "examples": [
+            "630",
+            "626",
+            "689",
+            "BK",
+            "652",
+            "A"
+          ]
+        },
+        {
+          "x": 510,
+          "kind": "mfr",
+          "confidence": 1.0,
+          "votes": {
+            "mfr": 7.4,
+            "finish": 0.0
+          },
+          "examples": [
+            "IVE",
+            "ZER",
+            "LCN",
+            "SCH",
+            "VON",
+            "ADA"
+          ]
+        }
+      ]
+    }
+  ],
+  "learned_codes": {
+    "mfr": {
+      "IVE": "H.B. Ives",
+      "SCH": "Schlage Lock Company",
+      "TRI": "Trimco/BBW/Quality",
+      "VON": "Von Duprin",
+      "ZER": "Zero International Inc"
+    },
+    "finish": {}
+  },
+  "stats": {
+    "format": "list",
+    "seconds": 2.33,
+    "pages_in_pdf": 566,
+    "hardware_pages": 7,
+    "ocr_pages": [],
+    "sets": 15,
+    "components": 91,
+    "low_confidence_sets": 1,
+    "ungrounded_values_removed": 0,
+    "ai_rereads": 0,
+    "cache": "miss"
+  },
+  "sets": [
+    {
+      "set_number": "01",
+      "description": null,
+      "doors": null,
+      "not_used": false,
+      "location": [
+        {
+          "page": 406,
+          "bbox": [
+            72.0,
+            363.0,
+            533.3,
+            620.5
+          ],
+          "lines": [
+            16,
+            32
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 4,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5 NRP",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 406,
+          "bbox": [
+            79.9,
+            438.1,
+            527.7,
+            448.2
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "POWER TRANSFER",
+          "catalog_number": "EPT10 CON",
+          "mfr": "VON",
+          "mfr_name": "Von Duprin",
+          "finish": "689",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 406,
+          "bbox": [
+            79.9,
+            451.5,
+            533.3,
+            461.6
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "EXIT DEVICE",
+          "catalog_number": "EX76 CVR Electric Trim",
+          "mfr": "ADA",
+          "mfr_name": "Adams Rite",
+          "finish": "626",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 406,
+          "bbox": [
+            79.9,
+            465.0,
+            532.1,
+            475.1
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "RIM CYLINDER",
+          "catalog_number": "20-057 ICX",
+          "mfr": "SCH",
+          "mfr_name": "Schlage Lock Company",
+          "finish": "626",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 406,
+          "bbox": [
+            79.9,
+            478.4,
+            532.6,
+            488.5
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "90 DEG OFFSET PULL",
+          "catalog_number": "8190EZHD 10\" O",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630-316",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 406,
+          "bbox": [
+            79.9,
+            492.1,
+            527.7,
+            513.5
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "mfr_name": "LCN",
+          "finish": "689",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 406,
+          "bbox": [
+            79.9,
+            517.1,
+            531.4,
+            527.2
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "CUSH SHOE SUPPORT",
+          "catalog_number": "4040XP-30",
+          "mfr": "LCN",
+          "mfr_name": "LCN",
+          "finish": "689",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 406,
+          "bbox": [
+            79.9,
+            530.5,
+            531.4,
+            540.6
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "BLADE STOP SPACER",
+          "catalog_number": "4040XP-61",
+          "mfr": "LCN",
+          "mfr_name": "LCN",
+          "finish": "689",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 406,
+          "bbox": [
+            79.9,
+            544.0,
+            531.4,
+            554.0
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "THRESHOLD",
+          "catalog_number": "566A-223",
+          "mfr": "ZER",
+          "mfr_name": "Zero International Inc",
+          "finish": "A",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 406,
+          "bbox": [
+            79.9,
+            557.4,
+            531.7,
+            567.5
+          ]
+        },
+        {
+          "qty": null,
+          "description": "BALANCE HARDWARE TO BE SUPPLIED",
+          "catalog_number": "BY ALUMINUM SUPPLIER",
+          "mfr": null,
+          "mfr_name": null,
+          "finish": null,
+          "notes": "OF DOOR",
+          "confidence": 0.9,
+          "source": "rules",
+          "page": 406,
+          "bbox": [
+            72.0,
+            587.4,
+            437.5,
+            597.5
+          ]
+        }
+      ],
+      "notes": "CARD READER BY SECURITY SUB DIV.28 TO RELEASE DEVICE FOR ACCESS OPENING TO COMPLY WITH LEVEL E TESTING",
+      "confidence": 0.9,
+      "warnings": []
+    },
+    {
+      "set_number": "02",
+      "description": null,
+      "doors": null,
+      "not_used": false,
+      "location": [
+        {
+          "page": 407,
+          "bbox": [
+            72.0,
+            73.4,
+            533.3,
+            266.4
+          ],
+          "lines": [
+            2,
+            14
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 7,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5 NRP",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 407,
+          "bbox": [
+            79.9,
+            148.3,
+            527.7,
+            158.4
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "PANIC HARDWARE",
+          "catalog_number": "WS-9927-EO",
+          "mfr": "VON",
+          "mfr_name": "Von Duprin",
+          "finish": "626",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 407,
+          "bbox": [
+            79.9,
+            162.0,
+            533.3,
+            172.1
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "PANIC HARDWARE",
+          "catalog_number": "WS-9927-L-06",
+          "mfr": "VON",
+          "mfr_name": "Von Duprin",
+          "finish": "626",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 407,
+          "bbox": [
+            79.9,
+            175.4,
+            533.3,
+            185.5
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "RIM CYLINDER",
+          "catalog_number": "20-057 ICX",
+          "mfr": "SCH",
+          "mfr_name": "Schlage Lock Company",
+          "finish": "626",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 407,
+          "bbox": [
+            79.9,
+            188.9,
+            532.6,
+            199.0
+          ]
+        },
+        {
+          "qty": 2,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "mfr_name": "LCN",
+          "finish": "689",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 407,
+          "bbox": [
+            79.9,
+            202.3,
+            531.4,
+            212.4
+          ]
+        },
+        {
+          "qty": 2,
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 1\" LDW B-CS",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 407,
+          "bbox": [
+            79.9,
+            216.0,
+            527.7,
+            226.1
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "mfr_name": "Zero International Inc",
+          "finish": "BK",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 407,
+          "bbox": [
+            79.9,
+            229.5,
+            531.7,
+            239.5
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "MEETING STILE",
+          "catalog_number": "328AA-S",
+          "mfr": "ZER",
+          "mfr_name": "Zero International Inc",
+          "finish": "AA",
+          "notes": "SET",
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 407,
+          "bbox": [
+            79.9,
+            242.9,
+            531.7,
+            253.0
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "THRESHOLD",
+          "catalog_number": "566A-223",
+          "mfr": "ZER",
+          "mfr_name": "Zero International Inc",
+          "finish": "A",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 407,
+          "bbox": [
+            79.9,
+            256.3,
+            531.7,
+            266.4
+          ]
+        }
+      ],
+      "notes": null,
+      "confidence": 1.0,
+      "warnings": []
+    },
+    {
+      "set_number": "03",
+      "description": null,
+      "doors": null,
+      "not_used": false,
+      "location": [
+        {
+          "page": 407,
+          "bbox": [
+            72.0,
+            307.7,
+            533.3,
+            551.9
+          ],
+          "lines": [
+            15,
+            30
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 4,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5 NRP",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 407,
+          "bbox": [
+            79.9,
+            382.9,
+            527.7,
+            393.0
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "POWER TRANSFER",
+          "catalog_number": "EPT10 CON",
+          "mfr": "VON",
+          "mfr_name": "Von Duprin",
+          "finish": "689",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 407,
+          "bbox": [
+            79.9,
+            396.3,
+            533.3,
+            406.4
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "ELEC FIRE EXIT HARDWARE",
+          "catalog_number": "RX-QEL-WS-9927-L-F-06 24 VDC",
+          "mfr": "VON",
+          "mfr_name": "Von Duprin",
+          "finish": "626",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 407,
+          "bbox": [
+            79.9,
+            409.8,
+            533.3,
+            431.4
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "RIM CYLINDER",
+          "catalog_number": "20-057 ICX",
+          "mfr": "SCH",
+          "mfr_name": "Schlage Lock Company",
+          "finish": "626",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 407,
+          "bbox": [
+            79.9,
+            434.7,
+            532.6,
+            444.8
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "mfr_name": "LCN",
+          "finish": "689",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 407,
+          "bbox": [
+            79.9,
+            448.4,
+            531.4,
+            458.5
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "mfr_name": "Zero International Inc",
+          "finish": "BK",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 407,
+          "bbox": [
+            79.9,
+            461.9,
+            531.7,
+            471.9
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "THRESHOLD",
+          "catalog_number": "566A-223",
+          "mfr": "ZER",
+          "mfr_name": "Zero International Inc",
+          "finish": "A",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 407,
+          "bbox": [
+            79.9,
+            475.3,
+            531.7,
+            485.4
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "WIRE HARNESS",
+          "catalog_number": "CON-12",
+          "mfr": "SCH",
+          "mfr_name": "Schlage Lock Company",
+          "finish": null,
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 407,
+          "bbox": [
+            79.9,
+            488.7,
+            532.6,
+            498.8
+          ]
+        },
+        {
+          "qty": null,
+          "description": "CARD READER OR KEYPAD AND POWER SUPPLY",
+          "catalog_number": "BY SECURITY SUB DIV. 28 TO RELEASE",
+          "mfr": null,
+          "mfr_name": null,
+          "finish": null,
+          "notes": null,
+          "confidence": 0.9,
+          "source": "rules",
+          "page": 407,
+          "bbox": [
+            72.0,
+            518.8,
+            503.5,
+            528.8
+          ]
+        }
+      ],
+      "notes": "DEVICE FOR ACCESS. OPENING TO COMPLY WITH LEVEL E TESTING",
+      "confidence": 0.9,
+      "warnings": []
+    },
+    {
+      "set_number": "04",
+      "description": null,
+      "doors": null,
+      "not_used": false,
+      "location": [
+        {
+          "page": 408,
+          "bbox": [
+            72.0,
+            73.4,
+            533.3,
+            294.5
+          ],
+          "lines": [
+            2,
+            15
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5 NRP",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 408,
+          "bbox": [
+            79.9,
+            148.3,
+            527.7,
+            158.4
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "POWER TRANSFER",
+          "catalog_number": "EPT10 CON",
+          "mfr": "VON",
+          "mfr_name": "Von Duprin",
+          "finish": "689",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 408,
+          "bbox": [
+            79.9,
+            162.0,
+            533.3,
+            172.1
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "ELEC FIRE EXIT HARDWARE",
+          "catalog_number": "QEL-98-L-F-06-CON 24 VDC",
+          "mfr": "VON",
+          "mfr_name": "Von Duprin",
+          "finish": "626",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 408,
+          "bbox": [
+            79.9,
+            175.4,
+            533.3,
+            197.1
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "RIM CYLINDER",
+          "catalog_number": "20-057 ICX",
+          "mfr": "SCH",
+          "mfr_name": "Schlage Lock Company",
+          "finish": "626",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 408,
+          "bbox": [
+            79.9,
+            200.4,
+            532.6,
+            210.5
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP RW/PA",
+          "mfr": "LCN",
+          "mfr_name": "LCN",
+          "finish": "689",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 408,
+          "bbox": [
+            79.9,
+            213.9,
+            531.4,
+            223.9
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CCV",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 408,
+          "bbox": [
+            79.9,
+            227.5,
+            527.7,
+            237.6
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "mfr_name": "Zero International Inc",
+          "finish": "BK",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 408,
+          "bbox": [
+            79.9,
+            241.0,
+            531.7,
+            251.1
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "THRESHOLD",
+          "catalog_number": "65A-223",
+          "mfr": "ZER",
+          "mfr_name": "Zero International Inc",
+          "finish": "A",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 408,
+          "bbox": [
+            79.9,
+            254.4,
+            531.7,
+            264.5
+          ]
+        }
+      ],
+      "notes": "CARD READER AND POWER SUPPLY BY SECURITY SUB TO RELEASE DEVICE FOR ACCESS",
+      "confidence": 1.0,
+      "warnings": []
+    },
+    {
+      "set_number": "05",
+      "description": null,
+      "doors": null,
+      "not_used": false,
+      "location": [
+        {
+          "page": 408,
+          "bbox": [
+            72.0,
+            337.7,
+            533.3,
+            490.4
+          ],
+          "lines": [
+            16,
+            25
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "652",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 408,
+          "bbox": [
+            79.9,
+            412.9,
+            527.7,
+            423.0
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "CLASSROOM LOCK",
+          "catalog_number": "ND70PD RHO",
+          "mfr": "SCH",
+          "mfr_name": "Schlage Lock Company",
+          "finish": "626",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 408,
+          "bbox": [
+            79.9,
+            426.3,
+            532.6,
+            436.4
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP RW/PA",
+          "mfr": "LCN",
+          "mfr_name": "LCN",
+          "finish": "689",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 408,
+          "bbox": [
+            79.9,
+            439.8,
+            531.4,
+            449.9
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 408,
+          "bbox": [
+            79.9,
+            453.2,
+            527.7,
+            463.3
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CCV",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 408,
+          "bbox": [
+            79.9,
+            466.9,
+            527.7,
+            477.0
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "mfr_name": "Zero International Inc",
+          "finish": "BK",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 408,
+          "bbox": [
+            79.9,
+            480.3,
+            531.7,
+            490.4
+          ]
+        }
+      ],
+      "notes": null,
+      "confidence": 1.0,
+      "warnings": []
+    },
+    {
+      "set_number": "06",
+      "description": null,
+      "doors": null,
+      "not_used": false,
+      "location": [
+        {
+          "page": 409,
+          "bbox": [
+            72.0,
+            73.4,
+            533.3,
+            253.0
+          ],
+          "lines": [
+            2,
+            13
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "652",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            148.3,
+            527.7,
+            158.4
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "CLASSROOM LOCK",
+          "catalog_number": "ND70PD RHO",
+          "mfr": "SCH",
+          "mfr_name": "Schlage Lock Company",
+          "finish": "626",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            162.0,
+            532.6,
+            172.1
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "ELECTRIC STRIKE",
+          "catalog_number": "6211 FSE 12/16/24/28 VAC/VDC",
+          "mfr": "VON",
+          "mfr_name": "Von Duprin",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            175.4,
+            533.3,
+            185.5
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "SURF. AUTO OPERATOR",
+          "catalog_number": "4642 WMS 120 VAC",
+          "mfr": "LCN",
+          "mfr_name": "LCN",
+          "finish": "689",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            188.9,
+            531.4,
+            199.0
+          ]
+        },
+        {
+          "qty": 2,
+          "description": "ACTUATOR, TOUCH",
+          "catalog_number": "8310-856",
+          "mfr": "LCN",
+          "mfr_name": "LCN",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            202.3,
+            531.4,
+            212.4
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            216.0,
+            527.7,
+            226.1
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CCV",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            229.5,
+            527.7,
+            239.5
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "mfr_name": "Zero International Inc",
+          "finish": "BK",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            242.9,
+            531.7,
+            253.0
+          ]
+        }
+      ],
+      "notes": null,
+      "confidence": 1.0,
+      "warnings": []
+    },
+    {
+      "set_number": "07",
+      "description": null,
+      "doors": null,
+      "not_used": false,
+      "location": [
+        {
+          "page": 409,
+          "bbox": [
+            72.0,
+            276.8,
+            533.3,
+            484.4
+          ],
+          "lines": [
+            14,
+            26
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 2,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "652",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            351.9,
+            527.7,
+            362.0
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "ELECTRIC HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5 CON TW8",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "652",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            365.4,
+            527.7,
+            375.4
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "STOREROOM LOCK",
+          "catalog_number": "ND80PDEU RHO RX 12V/24V DC",
+          "mfr": "SCH",
+          "mfr_name": "Schlage Lock Company",
+          "finish": "626",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            378.8,
+            532.6,
+            400.4
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP RW/PA",
+          "mfr": "LCN",
+          "mfr_name": "LCN",
+          "finish": "689",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            403.8,
+            531.4,
+            413.8
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            417.2,
+            527.7,
+            427.3
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CCV",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            430.9,
+            527.7,
+            441.0
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "mfr_name": "Zero International Inc",
+          "finish": "BK",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            444.3,
+            531.7,
+            454.4
+          ]
+        }
+      ],
+      "notes": "CARD READER BY SECURITY SUB DIV.28 TO RELEASE LOCK FOR ACCESS",
+      "confidence": 1.0,
+      "warnings": []
+    },
+    {
+      "set_number": "08",
+      "description": null,
+      "doors": null,
+      "not_used": false,
+      "location": [
+        {
+          "page": 409,
+          "bbox": [
+            72.0,
+            527.6,
+            533.3,
+            666.9
+          ],
+          "lines": [
+            27,
+            35
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "652",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            602.8,
+            527.7,
+            612.9
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "ENTRANCE LOCK",
+          "catalog_number": "ND53PD RHO",
+          "mfr": "SCH",
+          "mfr_name": "Schlage Lock Company",
+          "finish": "626",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            616.2,
+            532.6,
+            626.3
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            629.7,
+            527.7,
+            639.7
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CCV",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            643.1,
+            527.7,
+            653.2
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING",
+          "catalog_number": "488SBR PSA",
+          "mfr": "ZER",
+          "mfr_name": "Zero International Inc",
+          "finish": "BR",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 409,
+          "bbox": [
+            79.9,
+            656.8,
+            531.7,
+            666.9
+          ]
+        }
+      ],
+      "notes": null,
+      "confidence": 1.0,
+      "warnings": []
+    },
+    {
+      "set_number": "09",
+      "description": null,
+      "doors": null,
+      "not_used": false,
+      "location": [
+        {
+          "page": 410,
+          "bbox": [
+            72.0,
+            90.9,
+            533.3,
+            229.9
+          ],
+          "lines": [
+            2,
+            10
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "652",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 410,
+          "bbox": [
+            79.9,
+            165.8,
+            527.7,
+            175.9
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "STOREROOM LOCK",
+          "catalog_number": "ND80PD RHO",
+          "mfr": "SCH",
+          "mfr_name": "Schlage Lock Company",
+          "finish": "626",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 410,
+          "bbox": [
+            79.9,
+            179.5,
+            532.6,
+            189.6
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "mfr_name": "LCN",
+          "finish": "689",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 410,
+          "bbox": [
+            79.9,
+            193.0,
+            531.4,
+            203.1
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 410,
+          "bbox": [
+            79.9,
+            206.4,
+            527.7,
+            216.5
+          ]
+        },
+        {
+          "qty": 3,
+          "description": "SILENCER",
+          "catalog_number": "SR64",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "GRY",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 410,
+          "bbox": [
+            79.9,
+            219.9,
+            527.7,
+            229.9
+          ]
+        }
+      ],
+      "notes": null,
+      "confidence": 1.0,
+      "warnings": []
+    },
+    {
+      "set_number": "10",
+      "description": null,
+      "doors": null,
+      "not_used": false,
+      "location": [
+        {
+          "page": 410,
+          "bbox": [
+            72.0,
+            253.7,
+            533.3,
+            406.4
+          ],
+          "lines": [
+            11,
+            20
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "652",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 410,
+          "bbox": [
+            79.9,
+            328.9,
+            527.7,
+            338.9
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "PRIVACY LOCK",
+          "catalog_number": "ND40S RHO",
+          "mfr": "SCH",
+          "mfr_name": "Schlage Lock Company",
+          "finish": "626",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 410,
+          "bbox": [
+            79.9,
+            342.3,
+            532.6,
+            352.4
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP RW/PA",
+          "mfr": "LCN",
+          "mfr_name": "LCN",
+          "finish": "689",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 410,
+          "bbox": [
+            79.9,
+            355.8,
+            531.4,
+            365.8
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 410,
+          "bbox": [
+            79.9,
+            369.2,
+            527.7,
+            379.3
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CCV",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 410,
+          "bbox": [
+            79.9,
+            382.9,
+            527.7,
+            393.0
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "mfr_name": "Zero International Inc",
+          "finish": "BK",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 410,
+          "bbox": [
+            79.9,
+            396.3,
+            531.7,
+            406.4
+          ]
+        }
+      ],
+      "notes": null,
+      "confidence": 1.0,
+      "warnings": []
+    },
+    {
+      "set_number": "11",
+      "description": null,
+      "doors": null,
+      "not_used": false,
+      "location": [
+        {
+          "page": 410,
+          "bbox": [
+            72.0,
+            447.7,
+            533.3,
+            600.1
+          ],
+          "lines": [
+            21,
+            30
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "652",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 410,
+          "bbox": [
+            79.9,
+            522.6,
+            527.7,
+            532.7
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "PASSAGE SET",
+          "catalog_number": "ND10S RHO",
+          "mfr": "SCH",
+          "mfr_name": "Schlage Lock Company",
+          "finish": "626",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 410,
+          "bbox": [
+            79.9,
+            536.0,
+            532.6,
+            546.1
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP RW/PA",
+          "mfr": "LCN",
+          "mfr_name": "LCN",
+          "finish": "689",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 410,
+          "bbox": [
+            79.9,
+            549.7,
+            531.4,
+            559.8
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 410,
+          "bbox": [
+            79.9,
+            563.2,
+            527.7,
+            573.2
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CCV",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 410,
+          "bbox": [
+            79.9,
+            576.6,
+            527.7,
+            586.7
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "mfr_name": "Zero International Inc",
+          "finish": "BK",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 410,
+          "bbox": [
+            79.9,
+            590.1,
+            531.7,
+            600.1
+          ]
+        }
+      ],
+      "notes": null,
+      "confidence": 1.0,
+      "warnings": []
+    },
+    {
+      "set_number": "12",
+      "description": null,
+      "doors": null,
+      "not_used": false,
+      "location": [
+        {
+          "page": 411,
+          "bbox": [
+            72.0,
+            90.9,
+            533.3,
+            268.6
+          ],
+          "lines": [
+            2,
+            13
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "652",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 411,
+          "bbox": [
+            79.9,
+            165.8,
+            527.7,
+            175.9
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "PRIVACY LOCK W/ OUTSIDE INDICATOR",
+          "catalog_number": "ND40S RHO OS-OCC",
+          "mfr": "SCH",
+          "mfr_name": "Schlage Lock Company",
+          "finish": "626",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 411,
+          "bbox": [
+            79.9,
+            179.5,
+            532.6,
+            200.9
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP RW/PA",
+          "mfr": "LCN",
+          "mfr_name": "LCN",
+          "finish": "689",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 411,
+          "bbox": [
+            79.9,
+            204.5,
+            531.4,
+            214.6
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 411,
+          "bbox": [
+            79.9,
+            217.9,
+            527.7,
+            228.0
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CCV",
+          "mfr": "IVE",
+          "mfr_name": "H.B. Ives",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 411,
+          "bbox": [
+            79.9,
+            231.4,
+            527.7,
+            241.5
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "mfr_name": "Zero International Inc",
+          "finish": "BK",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 411,
+          "bbox": [
+            79.9,
+            244.8,
+            531.7,
+            254.9
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "DOOR SWEEP",
+          "catalog_number": "39A",
+          "mfr": "ZER",
+          "mfr_name": "Zero International Inc",
+          "finish": "A",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 411,
+          "bbox": [
+            79.9,
+            258.5,
+            531.7,
+            268.6
+          ]
+        }
+      ],
+      "notes": null,
+      "confidence": 1.0,
+      "warnings": []
+    },
+    {
+      "set_number": "13",
+      "description": null,
+      "doors": null,
+      "not_used": false,
+      "location": [
+        {
+          "page": 411,
+          "bbox": [
+            72.0,
+            292.4,
+            533.3,
+            454.4
+          ],
+          "lines": [
+            14,
+            24
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "description": "BARN DOOR HARDWARE KIT",
+          "catalog_number": "2610F96S SOFT CLOSE",
+          "mfr": "JOH",
+          "mfr_name": null,
+          "finish": "626",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 411,
+          "bbox": [
+            79.9,
+            394.4,
+            531.7,
+            415.8
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "BOTTOM FLOOR GUIDE",
+          "catalog_number": "C-GUIDE SLDING BARN DOOR FLOOR GUIDE",
+          "mfr": null,
+          "mfr_name": null,
+          "finish": "630",
+          "notes": null,
+          "confidence": 0.7,
+          "source": "rules",
+          "page": 411,
+          "bbox": [
+            79.9,
+            419.4,
+            486.5,
+            441.0
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "DOOR PULL",
+          "catalog_number": "AP411G 12 CTC",
+          "mfr": "TRI",
+          "mfr_name": "Trimco/BBW/Quality",
+          "finish": "630",
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 411,
+          "bbox": [
+            79.9,
+            444.3,
+            527.6,
+            454.4
+          ]
+        }
+      ],
+      "notes": null,
+      "confidence": 0.7,
+      "warnings": []
+    },
+    {
+      "set_number": "14",
+      "description": "41.1BF 41.2BF 41.3BF 41.4BF 41.5OH 41.6OH",
+      "doors": null,
+      "not_used": false,
+      "location": [
+        {
+          "page": 411,
+          "bbox": [
+            72.0,
+            495.7,
+            533.3,
+            594.1
+          ],
+          "lines": [
+            25,
+            30
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": null,
+          "description": "ALL HARDWARE",
+          "catalog_number": "BY OVERHEAD DOOR MFG",
+          "mfr": "B/O",
+          "mfr_name": null,
+          "finish": "626",
+          "notes": null,
+          "confidence": 0.9,
+          "source": "rules",
+          "page": 411,
+          "bbox": [
+            109.0,
+            584.1,
+            528.8,
+            594.1
+          ]
+        }
+      ],
+      "notes": null,
+      "confidence": 0.9,
+      "warnings": []
+    },
+    {
+      "set_number": "15",
+      "description": null,
+      "doors": null,
+      "not_used": false,
+      "location": [
+        {
+          "page": 412,
+          "bbox": [
+            72.0,
+            90.9,
+            533.3,
+            175.9
+          ],
+          "lines": [
+            2,
+            6
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "description": "ALL HARDWARE",
+          "catalog_number": "BY GATE MFG",
+          "mfr": null,
+          "mfr_name": null,
+          "finish": null,
+          "notes": null,
+          "confidence": 1.0,
+          "source": "rules",
+          "page": 412,
+          "bbox": [
+            79.9,
+            165.8,
+            344.9,
+            175.9
+          ]
+        }
+      ],
+      "notes": null,
+      "confidence": 1.0,
+      "warnings": []
+    }
+  ]
+}

@@ -1,0 +1,727 @@
+set_number,set_description,not_used,page,qty,description,catalog_number,mfr,finish,notes,confidence
+1,,False,3,3,Standard Hinge,"T4A3386 5"" x 4 1/2"" C32D NRP",,C32D,,0.97
+1,,False,3,1,Exit Device,25-R-L-NL 622 510L-NL LAT 626 965 x 2134 Door,,626/622,RHR,0.97
+1,,False,3,1,Cylinder,"985 626 1 1/4"" G 6-Pin Open",,626,,0.97
+1,,False,3,1,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+1,,False,3,1,Weatherstripping,"W-50S-CA x 38""x84"" Opening",,CA,,0.97
+1,,False,3,1,Weatherstripping,"W-38S-CA x 38""",,CA,,0.97
+1,,False,3,1,Threshold,"CT-45 x 38""",,,,1.0
+2,,False,4,1,Continuous Hinge,"112XY-83"" C28 EPT @ 42"" Top Down",,C28,,0.97
+2,,False,4,1,Continuous Hinge,"112XY-83"" C28",,C28,,0.97
+2,,False,4,1,Accessory,EPT-10-689,,689,,0.97
+2,,False,4,1,Electrified Exit Device,RX-MEL-24-R-C 630 718C 626 4' LENGTH CON 965 x 2147 Door,,626/630,LHR,0.97
+2,,False,4,1,Exit Device,24-R L 630 4' LENGTH 965 x 2147 Door,,630,RHR,0.97
+2,,False,4,1,Cylinder,"951 626 1 1/4"" G 6-Pin Open",,626,,0.97
+2,,False,4,1,Removable Mullion,"KR-4023 689 84 17/32""",,689,,0.97
+2,,False,4,1,Cylinder,"985 626 1 1/4"" G 6-Pin Open",,626,,0.97
+2,,False,4,2,Door Pull,8145EZHD-18 C32D-316,,C32D-316,,0.97
+2,,False,4,1,Card Access,Card Reader & Fobs By Security Contractor,,,,1.0
+2,,False,4,2,Overhead Door Stop,104S C26D,,C26D,,0.97
+2,,False,4,1,Surface Closer,SC71A Rw/ PA 689 SC70A-18,,689,,0.97
+2,,False,4,1,Auto Operator,Horton 4100 Push Series,,US28,LHR,0.97
+2,,False,4,2,Actuator,8310-813,,,,1.0
+2,,False,4,2,Mounting Box,9530-18 628,,628,,0.97
+2,,False,4,1,Weatherstripping,Weatherstrip Set By Door Supplier,,CA,,0.97
+2,,False,4,1,Threshold,"CT-65(Stock Size) x 76""",,,,1.0
+2,,False,4,2,Door Postion Switch,679-05HM,,,,1.0
+2,,False,4,1,Schematic,Opening Schematic By Others,,,,1.0
+2,,False,4,1,1 Door Opens Automatically Both Doors Are Free Egress,Power Supply - By Security Contractor w/ Auto Operator Out At All Times,,,,1.0
+2,,False,4,,120V Power To Be Provided All Low Voltage Wiring For Auto,By Electrical Contractor - Push Side Of Active Door-Leading Edge Of Frame Operator Devices By Auto Operator Supplier,,,,0.9
+3,,False,4,3,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+3,,False,4,1,Lockset,W581 P6 LAT/LAT 626/626 G,,626/626,,0.97
+3,,False,4,1,Floor Door Stop,S102LF C26D,,C26D,,0.97
+3,,False,4,3,Door Silencer,SR64 GRY,,GRY,,0.97
+4,,False,5,3,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+4,,False,5,1,Lockset,W511 P6 LAT/LAT 626/626 G,,626/626,,0.97
+4,,False,5,1,Wall Door Stop,63F-626E,,-626E,,0.97
+4,,False,5,3,Door Silencer,SR64 GRY,,GRY,,0.97
+5,,False,5,3,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+5,,False,5,1,Lockset,T581 P6 LAT/LAT 626/626 G 23981152,,626/626,,0.97
+5,,False,5,1,Electric Strike,6400-24VDC-630,,630,,0.97
+5,,False,5,1,Card Access,Card Reader & Fobs By Security Contractor,,,,1.0
+5,,False,5,1,Door Postion Switch,679-05HM,,,,1.0
+5,,False,5,1,Floor Door Stop,S102LF C26D,,C26D,,0.97
+5,,False,5,3,Door Silencer,SR64 GRY,,GRY,,0.97
+6,,False,5,3,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+6,,False,5,1,Latchset,T101 LAT/LAT 626/626,,626/626,,0.97
+6,,False,5,1,Dead Lock,B660 P6 626/626 KD C Final Keying By Canada Post,,626/626,,0.97
+6,,False,5,1,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+6,,False,5,1,Floor Door Stop,S102LF C26D,,C26D,,0.97
+6,,False,5,3,Door Silencer,SR64 GRY,,GRY,,0.97
+7,,False,6,3,Standard Hinge,"TA786 5"" x 4 1/2"" C26D",,C26D,,0.97
+7,,False,6,1,Lockset,MA581 P LTG/LTG 626/626 g,,626/626,LH,0.97
+7,,False,6,1,Cylinder,"985 626 1 1/4"" G 6-Pin Open",,626,,0.97
+7,,False,6,1,Electric Strike,6400-24VDC-630,,630,,0.97
+7,,False,6,1,Entry Phone,Visitor Entry Phone System By Security Contractor,,,,1.0
+7,,False,6,1,Door Postion Switch,679-05HM,,,,1.0
+7,,False,6,1,Auto Operator,Horton 4100 Push Series,,US28,RHR,0.97
+7,,False,6,2,Actuator,8310-813,,,,1.0
+7,,False,6,2,Mounting Box,9530-18 628,,628,,0.97
+7,,False,6,1,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+7,,False,6,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+7,,False,6,1,Schematic,Opening Schematic By Others,,,,1.0
+8,,False,6,6,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+8,,False,6,2,Exit Device,F-25-R-L-BE 626 510L-BE LAT 626 914 x 2134 Door,,626/626,RHR,0.97
+8,,False,6,2,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+8,,False,6,2,Overhead Door Stop,104S C26D,,C26D,,0.97
+8,,False,6,2,Kick Plate,8400 C32D 8x34,,C32D,,0.97
+8,,False,6,6,Door Silencer,SR64 GRY,,GRY,,0.97
+9,,False,7,12,Standard Hinge,"TA2314 4 1/2"" x 4 1/2"" C32D NRP",,C32D,,0.97
+9,,False,7,2,Lockset,T561 P6 LAT/LAT 626/626 G 23981152,,626/626,,0.97
+9,,False,7,2,Flush Bolt,FB31P-12-MD C32D,,C32D,,0.97
+9,,False,7,2,Astragal,W-8SP x 2150mm,,,,1.0
+9,,False,7,4,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+9,,False,7,4,Overhead Door Stop,104S C26D,,C26D,,0.97
+9,,False,7,4,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+9,,False,7,2,Weatherstripping,"W-2050S-CA x 76""",,CA,,0.97
+9,,False,7,4,Jamb Weatherstripping,"W-50S-CAx84"" Opening",,CA,,0.97
+9,,False,7,2,Threshold,"CT-65(Stock Size) x 76""",,,,1.0
+10,,False,7,6,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+10,,False,7,1,Lockset,T561 P6 LAT/LAT 626/626 G 23981152,,626/626,,0.97
+10,,False,7,1,Flush Bolt,FB31P-12-MD C32D,,C32D,,0.97
+10,,False,7,1,Astragal,W-8SP x 2150mm,,,,1.0
+10,,False,7,2,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+10,,False,7,2,Overhead Door Stop,104S C26D ADJ,,C26D,,0.97
+10,,False,7,2,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+10,,False,7,2,Door Silencer,SR64 GRY,,GRY,,0.97
+11,,False,8,3,Standard Hinge,"TA786 5"" x 4 1/2"" C26D",,C26D,,0.97
+11,,False,8,1,Lockset,MA581 P LTG/LTG 626/626 g,,626/626,RH,0.97
+11,,False,8,1,Cylinder,"985 626 1 1/4"" G 6-Pin Open",,626,,0.97
+11,,False,8,1,Electric Strike,6400-24VDC-630,,630,,0.97
+11,,False,8,1,Entry Phone,Visitor Entry Phone System By Security Contractor,,,,1.0
+11,,False,8,1,Door Postion Switch,679-05HM,,,,1.0
+11,,False,8,1,Auto Operator,Horton 4100 Push Series,,US28,LHR,0.97
+11,,False,8,2,Actuator,8310-813,,,,1.0
+11,,False,8,2,Mounting Box,9530-18 628,,628,,0.97
+11,,False,8,1,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+11,,False,8,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+11,,False,8,1,Schematic,Opening Schematic By Others,,,,1.0
+12,,False,8,3,Standard Hinge,"TA786 5"" x 4 1/2"" C26D",,C26D,,0.97
+12,,False,8,1,Latchset,W101 LAT/LAT 626/626,,626/626,,0.97
+12,,False,8,1,Electric Strike,6400-24VDC-630,,630,,0.97
+12,,False,8,1,Auto Operator,Horton 4100 Push Series,,US28,RHR,0.97
+12,,False,8,2,Actuator,8310-813,,,,1.0
+12,,False,8,2,Mounting Box,9530-18 628,,628,,0.97
+12,,False,8,1,Weatherstripping,"W-50S-CA x 38""x84"" Opening",,CA,,0.97
+12,,False,8,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+12,,False,8,1,Weatherstripping,"W-24S-CA x 38""",,CA,,0.97
+12,,False,8,1,Threshold,"CT-65 x 38""",,,,1.0
+13,,False,9,3,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+13,,False,9,1,Lockset,W581 P6 LAT/LAT 626/626 G,,626/626,,0.97
+13,,False,9,1,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+13,,False,9,1,Floor Door Stop,S102LF C26D,,C26D,,0.97
+13,,False,9,1,Weatherstripping,"W-50S-CA x 38""x84"" Opening",,CA,,0.97
+13,,False,9,1,Weatherstripping,"W-38S-CA x 38""",,CA,,0.97
+13,,False,9,1,Threshold,"CT-65 x 38""",,,,1.0
+14,,False,9,3,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+14,,False,9,1,Lockset,T581 P6 LAT/LAT 626/626 G 23981152,,626/626,,0.97
+14,,False,9,1,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+14,,False,9,1,Floor Door Stop,S102LF C26D,,C26D,,0.97
+14,,False,9,1,Weatherstripping,"W-50S-CA x 38""x84"" Opening",,CA,,0.97
+14,,False,9,1,Weatherstripping,"W-38S-CA x 38""",,CA,,0.97
+14,,False,9,1,Threshold,"CT-65 x 38""",,,,1.0
+15,,False,9,6,Standard Hinge,"TA2314 4 1/2"" x 4 1/2"" C32D NRP",,C32D,,0.97
+15,,False,9,1,Lockset,T581 P6 LAT/LAT 626/626 G 23981152,,626/626,,0.97
+15,,False,9,1,Flush Bolt,FB31P-12-MD C32D,,C32D,,0.97
+15,,False,9,1,Astragal,W-8SP x 2150mm,,,,1.0
+15,,False,9,2,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+15,,False,9,2,Overhead Door Stop,104S C26D,,C26D,,0.97
+15,,False,9,2,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+15,,False,9,2,Weatherstripping,"W-38S-CA x 38""",,CA,,0.97
+15,,False,9,1,Weatherstripping,"W-2050S-CA x 76""",,CA,,0.97
+15,,False,9,2,Jamb Weatherstripping,"W-50S-CAx84"" Opening",,CA,,0.97
+15,,False,9,1,Threshold,"CT-65(Stock Size) x 76""",,,,1.0
+16,,False,10,9,Standard Hinge,"T4A3386 5"" x 4 1/2"" C32D NRP",,C32D,,0.97
+16,,False,10,1,Exit Device,F-25-R EO 630 914 x 2134 Door,,630,LHR,0.97
+16,,False,10,2,Exit Device,F-25-R EO 630 914 x 2134 Door,,630,RHR,0.97
+16,,False,10,3,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+16,,False,10,3,Kick Plate,8400 C32D 8x34,,C32D,,0.97
+16,,False,10,3,Weatherstripping,"W-38S-CA x 36""",,CA,,0.97
+16,,False,10,3,Weatherstripping,"W-2050S-CA x 36""",,CA,,0.97
+16,,False,10,6,Jamb Weatherstripping,"W-50S-CAx84"" Opening",,CA,,0.97
+16,,False,10,3,Threshold,"CT-65 x 38""",,,,1.0
+17,,False,12,204,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+17,,False,12,68,Exit Device,F-25-R-L-BE 626 510L-BE LAT 626 914 x 2134 Door,,626/626,LHR,0.97
+17,,False,12,68,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+17,,False,12,68,Wall Door Stop,S120 C26D,,C26D,,0.97
+17,,False,12,68,Kick Plate,8400 C32D 8x34,,C32D,,0.97
+17,,False,12,204,Door Silencer,SR64 GRY,,GRY,,0.97
+18,,False,13,6,Standard Hinge,"TA2314 4 1/2"" x 4 1/2"" C32D NRP",,C32D,,0.97
+18,,False,13,2,Lockset,W581 P6 LAT/LAT 626/626 G,,626/626,,0.97
+18,,False,13,2,Electric Strike,6400-24VDC-630,,630,,0.97
+18,,False,13,2,Card Access,Card Reader & Fobs By Security Contractor,,,,1.0
+18,,False,13,2,Door Postion Switch,679-05HM,,,,1.0
+18,,False,13,2,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+18,,False,13,2,Overhead Door Stop,104S C26D ADJ,,C26D,,0.97
+18,,False,13,2,Weatherstripping,KN Crowder W-16S 1/965 x 2/2134,,CA,,0.97
+18,,False,13,2,Weatherstripping,"W-38S-CA x 38""",,CA,,0.97
+18,,False,13,2,Threshold,"CT-65 x 38""",,,,1.0
+18,,False,13,2,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+19,,False,13,1,Continuous Hinge,"112XY-83"" C28",,C28,,0.97
+19,,False,13,1,Dead Lock,4531-35-101-628 - *Confirm Door Thickness,,628,LH,0.97
+19,,False,13,1,Push Paddle Trim,4590-02-00-628 *Confirm Door Thickness,,628,,0.97
+19,,False,13,1,Cylinder,"985 630 1 1/8"" G - Adams Rite MS CAM 6-Pin Open",,630,,0.97
+19,,False,13,1,Dead Lock,4600-MD-612-32D,,32D,,0.97
+19,,False,13,1,Electric Strike,7100-510-628-00,,628,,0.97
+19,,False,13,1,Auto Operator,Horton 4100 Pull Series,,US28,LH,0.97
+19,,False,13,2,Actuator,8310-813,,,,1.0
+19,,False,13,2,Mounting Box,9530-18 628,,628,,0.97
+19,,False,13,1,Weatherstripping,Weatherstrip Set By Door Supplier,,CA,,0.97
+19,,False,13,1,Weatherstripping,"W-24S-CA x 38""",,CA,,0.97
+19,,False,13,1,Threshold,"CT-65 x 38""",,,,1.0
+20,,False,14,3,Standard Hinge,"TA786 5"" x 4 1/2"" C26D",,C26D,,0.97
+20,,False,14,1,Lockset,MA581 P LTG/LTG 626/626 g,,626/626,LH,0.97
+20,,False,14,1,Cylinder,"985 626 1 1/4"" G 6-Pin Open",,626,,0.97
+20,,False,14,1,Electric Strike,6400-24VDC-630,,630,,0.97
+20,,False,14,1,Entry Phone,Visitor Entry Phone System By Security Contractor,,,,1.0
+20,,False,14,1,Door Postion Switch,679-05HM,,,,1.0
+20,,False,14,1,Auto Operator,Horton 4100 Pull Series,,US28,LH,0.97
+20,,False,14,2,Actuator,8310-813,,,,1.0
+20,,False,14,2,Mounting Box,9530-18 628,,628,,0.97
+20,,False,14,1,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+20,,False,14,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+20,,False,14,1,Schematic,Opening Schematic By Others,,,,1.0
+21,,False,14,3,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+21,,False,14,1,Lockset,W561 P6 LAT/LAT 626/626 G,,626/626,,0.97
+21,,False,14,1,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+21,,False,14,1,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+21,,False,14,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+22,,False,14,3,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+22,,False,14,1,Exit Device,F-25-R-L-NL 626 510L-NL LAT 626 914 x 2134 Door,,626/626,LHR,0.97
+22,,False,14,1,Electric Strike,6300-24VDC-630,,630,,0.97
+22,,False,14,1,Card Access,Card Reader & Fobs By Security Contractor,,,,1.0
+22,,False,14,1,Door Postion Switch,679-05HM,,,,1.0
+22,,False,14,1,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+22,,False,14,1,Wall Door Stop,S120 C26D,,C26D,,0.97
+22,,False,14,1,Kick Plate,8400 C32D 8x34,,C32D,,0.97
+22,,False,14,3,Door Silencer,SR64 GRY,,GRY,,0.97
+23,,False,15,3,Standard Hinge,"TA786 5"" x 4 1/2"" C26D",,C26D,,0.97
+23,,False,15,1,Latchset,T101 LAT/LAT 626/626,,626/626,,0.97
+23,,False,15,1,Electric Strike,6400-24VDC-630,,630,,0.97
+23,,False,15,1,Auto Operator,Horton 4100 Pull Series,,US28,RH,0.97
+23,,False,15,2,Actuator,8310-813,,,,1.0
+23,,False,15,2,Mounting Box,9530-18 628,,628,,0.97
+23,,False,15,1,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+23,,False,15,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+23,,False,15,1,Weatherstripping,"W-24S-CA x 38""",,CA,,0.97
+24,,False,15,3,Standard Hinge,"TA2314 4 1/2"" x 4 1/2"" C32D NRP",,C32D,,0.97
+24,,False,15,1,Exit Device,F-25-R-L-NL 626 510L-NL LAT 626 965 x 2134 Door,,626/626,RHR,0.97
+24,,False,15,1,Cylinder,"985 626 1 1/4"" G 6-Pin Open",,626,,0.97
+24,,False,15,1,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+24,,False,15,1,Overhead Door Stop,104S C26D,,C26D,,0.97
+24,,False,15,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+24,,False,15,1,Weatherstripping,"W-2050S-CA x 38""",,CA,,0.97
+24,,False,15,2,Jamb Weatherstripping,"W-50S-CAx84"" Opening",,CA,,0.97
+24,,False,15,1,Weatherstripping,"W-38S-CA x 38""",,CA,,0.97
+24,,False,15,1,Threshold Card Access Required For Entry Free Egress From Parking Side,"CT-65 x 38"" From Vestibule At All Times",,,,1.0
+25,,False,16,3,Standard Hinge,"TA786 5"" x 4 1/2"" C26D",,C26D,,0.97
+25,,False,16,1,Exit Device,F-25-R-L-NL 626 510L-NL LAT 626 965 x 2134 Door,,626/626,LH,0.97
+25,,False,16,1,Cylinder,"985 626 1 1/4"" G 6-Pin Open",,626,,0.97
+25,,False,16,1,Magnetic Lock,Magnetic Lock - By Security Contractor,,,,1.0
+25,,False,16,1,REX,Request To Exit By Security Division,,,,1.0
+25,,False,16,1,Electric Strike,6300-24VDC-630,,630,,0.97
+25,,False,16,1,Card Access,Card Reader & Fobs By Security Contractor,,,,1.0
+25,,False,16,1,Auto Operator,Horton 4100 Push Series,,US28,RHR,0.97
+25,,False,16,2,Actuator,8310-813,,,,1.0
+25,,False,16,2,Mounting Box,9530-18 628,,628,,0.97
+25,,False,16,1,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+25,,False,16,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+26,,False,16,8,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+26,,False,16,1,Lockset,W581 P6 LAT/LAT 626/626 G,,626/626,,0.97
+26,,False,16,1,Flush Bolt,FB31P-12-MD C32D,,C32D,,0.97
+26,,False,16,1,Weatherstripping,W-8SP x 8',,,,1.0
+26,,False,16,2,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+26,,False,16,2,Floor Door Stop,S102LF C26D,,C26D,,0.97
+26,,False,16,2,Door Silencer,SR64 GRY,,GRY,,0.97
+27,,False,16,8,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+27,,False,16,1,Lockset,W581 P6 LAT/LAT 626/626 G,,626/626,,0.97
+27,,False,16,1,Flush Bolt,FB31P-12-MD C32D,,C32D,,0.97
+27,,False,16,1,Weatherstripping,W-8SP x 8',,,,1.0
+27,,False,16,2,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+27,,False,16,2,Floor Door Stop,S102LF C26D,,C26D,,0.97
+27,,False,16,2,Door Silencer,SR64 GRY,,GRY,,0.97
+28,,False,17,6,Continuous Hinge,"112XY-119"" C28",,C28,,0.97
+28,,False,17,3,Lockset,T581 P6 LAT/LAT 626/626 G 23981152,,626/626,,0.97
+28,,False,17,3,Flush Bolt,"FB31T-12-MD C32D 36""",,C32D,,0.97
+28,,False,17,3,Flush Bolt,FB31B-12-MD C32D,,C32D,,0.97
+28,,False,17,3,Z Astragal,Z Astragal Factory Applied By Door Manufacturer,,,,1.0
+28,,False,17,6,Surface Closer,SC71A FA 689,,689,,0.97
+28,,False,17,6,Overhead Door Stop,105S C32D,,C32D,,0.97
+28,,False,17,6,Kick Plate,8400 C32D 10x38,,C32D,,0.97
+28,,False,17,6,Weatherstripping,"W-38S-CA x 40""",,CA,,0.97
+28,,False,17,3,Weatherstripping,"W-2050S-CA x 78 3/4""x118 1/8"" Opening",,CA,,0.97
+28,,False,17,3,Threshold,"CT-65 x 78 3/4""",,,,1.0
+29,,False,17,4,Continuous Hinge,"112XY-83"" C28",,C28,,0.97
+29,,False,17,2,Lockset,T581 P6 LAT/LAT 626/626 G 23981152,,626/626,,0.97
+29,,False,17,2,Flush Bolt,FB31P-12-MD C32D,,C32D,,0.97
+29,,False,17,2,Z Astragal,Z Astragal Factory Applied By Door Manufacturer,,,,1.0
+29,,False,17,4,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+29,,False,17,4,Overhead Door Stop,105S C32D,,C32D,,0.97
+29,,False,17,4,Kick Plate,8400 C32D 10x38,,C32D,,0.97
+29,,False,17,4,Weatherstripping,"W-38S-CA x 40""",,CA,,0.97
+29,,False,17,2,Weatherstripping,"W-2050S-CA x 78 3/4""x84"" Opening",,CA,,0.97
+29,,False,17,2,Threshold,"CT-65 x 78 3/4""",,,,1.0
+30,,False,18,3,Standard Hinge,"T4A3386 5"" x 4 1/2"" C32D NRP",,C32D,,0.97
+30,,False,18,1,Exit Device,F-25-R EO 630 965 x 2134 Door,,630,LHR,0.97
+30,,False,18,1,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+30,,False,18,1,Overhead Door Stop,104S C26D,,C26D,,0.97
+30,,False,18,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+30,,False,18,1,Weatherstripping,"W-38S-CA x 38""",,CA,,0.97
+30,,False,18,1,Weatherstripping,"W-2050S-CA x 38""",,CA,,0.97
+30,,False,18,2,Jamb Weatherstripping,"W-50S-CAx84"" Opening",,CA,,0.97
+30,,False,18,1,Threshold,"CT-65 x 38""",,,,1.0
+31,,False,18,3,Standard Hinge,"TA786 5"" x 4 1/2"" C26D",,C26D,,0.97
+31,,False,18,1,Exit Device,F-25-R EO 630 965 x 2134 Door,,630,LHR,0.97
+31,,False,18,1,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+31,,False,18,1,Overhead Door Stop,104S C26D,,C26D,,0.97
+31,,False,18,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+31,,False,18,1,Weatherstripping,"W-2050S-CA x 38""",,CA,,0.97
+31,,False,18,2,Jamb Weatherstripping,"W-50S-CAx84"" Opening",,CA,,0.97
+31,,False,18,1,Threshold,"CT-65 x 38""",,,,1.0
+32,,False,19,3,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+32,,False,19,1,Exit Device,F-25-R-L-BE 626 510L-BE LAT 626 965 x 2134 Door,,626/626,RHR,0.97
+32,,False,19,1,Electric Strike,6300-24VDC-630,,630,,0.97
+32,,False,19,1,Card Access,Card Reader & Fobs By Security Contractor,,,,1.0
+32,,False,19,1,Door Postion Switch,679-05HM,,,,1.0
+32,,False,19,1,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+32,,False,19,1,Overhead Door Stop,104S C26D,,C26D,,0.97
+32,,False,19,1,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+32,,False,19,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+32,,False,19,1,Threshold Card Access Required For Entry Free Egress From Parking Side,"CT-65 x 38"" From Vestibule At All Times",,,,1.0
+33,,False,19,3,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+33,,False,19,1,Lockset,W581 P6 LAT/LAT 626/626 G,,626/626,,0.97
+33,,False,19,1,Electric Strike,6400-24VDC-630,,630,,0.97
+33,,False,19,1,Card Access,Card Reader & Fobs By Security Contractor,,,,1.0
+33,,False,19,1,Door Postion Switch,679-05HM,,,,1.0
+33,,False,19,1,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+33,,False,19,1,Wall Door Stop,S120 C26D,,C26D,,0.97
+33,,False,19,1,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+33,,False,19,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+34,,False,20,1,Continuous Hinge,"112XY-83"" C28 EPT @ 42"" Top Down",,C28,,0.97
+34,,False,20,1,Continuous Hinge,"112XY-83"" C28",,C28,,0.97
+34,,False,20,1,Accessory,EPT-10-689,,689,,0.97
+34,,False,20,1,Electrified Exit Device,RX-MEL-24-R-C 630 718C 626 4' LENGTH CON 965 x 2134 Door,,626/630,LHR,0.97
+34,,False,20,1,Exit Device,24-R L 630 4' LENGTH 965 x 2134 Door,,630,RHR,0.97
+34,,False,20,1,Cylinder,"951 626 1 1/4"" G 6-Pin Open",,626,,0.97
+34,,False,20,1,Removable Mullion,"KR-4023 689 84 17/32""",,689,,0.97
+34,,False,20,1,Cylinder,"985 626 1 1/4"" G 6-Pin Open",,626,,0.97
+34,,False,20,2,Door Pull,8145EZHD-18 C32D-316,,C32D-316,,0.97
+34,,False,20,1,Card Access,Card Reader & Fobs By Security Contractor,,,,1.0
+34,,False,20,2,Overhead Door Stop,104S C26D,,C26D,,0.97
+34,,False,20,1,Surface Closer,SC71A Rw/ PA 689 SC70A-18,,689,,0.97
+34,,False,20,1,Auto Operator,Horton 4100 Push Series,,US28,LHR,0.97
+34,,False,20,2,Actuator,8310-813,,,,1.0
+34,,False,20,2,Mounting Box,9530-18 628,,628,,0.97
+34,,False,20,1,Weatherstripping,Weatherstrip Set By Door Supplier,,CA,,0.97
+34,,False,20,1,Threshold,"CT-65(Stock Size) x 76""",,,,1.0
+34,,False,20,2,Door Postion Switch,679-05HM,,,,1.0
+34,,False,20,1,Schematic,Opening Schematic By Others,,,,1.0
+34,,False,20,1,1 Door Opens Automatically Both Doors Are Free Egress,Power Supply - By Security Contractor w/ Auto Operator Out At All Times,,,,1.0
+34,,False,20,,120V Power To Be Provided All Low Voltage Wiring For Auto,By Electrical Contractor - Push Side Of Active Door-Leading Edge Of Frame Operator Devices By Auto Operator Supplier,,,,0.9
+35,,False,21,3,Standard Hinge,"TA786 5"" x 4 1/2"" C26D",,C26D,,0.97
+35,,False,21,1,Lockset,MA581 P LTG/LTG 626/626 g,,626/626,RHR,0.97
+35,,False,21,1,Cylinder,"985 626 1 1/4"" G 6-Pin Open",,626,,0.97
+35,,False,21,1,Electric Strike,6400-24VDC-630,,630,,0.97
+35,,False,21,1,Entry Phone,Visitor Entry Phone System By Security Contractor,,,,1.0
+35,,False,21,1,Door Postion Switch,679-05HM,,,,1.0
+35,,False,21,1,Auto Operator,Horton 4100 Pull Series,,US28,LH,0.97
+35,,False,21,2,Actuator,8310-813,,,,1.0
+35,,False,21,2,Mounting Box,9530-18 628,,628,,0.97
+35,,False,21,1,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+35,,False,21,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+35,,False,21,1,Schematic,Opening Schematic By Others,,,,1.0
+36,,False,21,6,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+36,,False,21,1,Lockset,T561 P6 LAT/LAT 626/626 G 23981152,,626/626,,0.97
+36,,False,21,1,Flush Bolt,FB31P-12-MD C32D,,C32D,,0.97
+36,,False,21,1,Astragal,W-8SP x 2150mm,,,,1.0
+36,,False,21,2,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+36,,False,21,2,Overhead Door Holder,104H C26D,,C26D,,0.97
+36,,False,21,2,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+36,,False,21,2,Door Silencer,SR64 GRY,,GRY,,0.97
+37,,False,22,6,Standard Hinge,"TA2314 4 1/2"" x 4 1/2"" C32D NRP",,C32D,,0.97
+37,,False,22,1,Lockset,T581 P6 LAT/LAT 626/626 G 23981152,,626/626,,0.97
+37,,False,22,1,Flush Bolt,FB31P-12-MD C32D,,C32D,,0.97
+37,,False,22,1,Z Astragal,Z Astragal Factory Applied By Door Manufacturer,,,,1.0
+37,,False,22,2,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+37,,False,22,2,Overhead Door Holder,104H C26D,,C26D,,0.97
+37,,False,22,2,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+37,,False,22,2,Weatherstripping,"W-38S-CA x 38""",,CA,,0.97
+37,,False,22,1,Weatherstripping,"W-2050S-CA x 76""",,CA,,0.97
+37,,False,22,2,Jamb Weatherstripping,"W-50S-CAx84"" Opening",,CA,,0.97
+37,,False,22,1,Threshold,"CT-65(Stock Size) x 76""",,,,1.0
+38,,False,22,3,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+38,,False,22,1,Lockset,W561 P6 LAT/LAT 626/626 G,,626/626,,0.97
+38,,False,22,1,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+38,,False,22,1,Wall Door Stop,S120 C26D,,C26D,,0.97
+38,,False,22,1,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+38,,False,22,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+39,,False,22,3,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+39,,False,22,1,Lockset,W581 P6 LAT/LAT 626/626 G,,626/626,,0.97
+39,,False,22,1,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+39,,False,22,1,Wall Door Stop,S120 C26D,,C26D,,0.97
+39,,False,22,1,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+39,,False,22,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+40,,False,23,3,Standard Hinge,"TA786 5"" x 4 1/2"" C26D",,C26D,,0.97
+40,,False,23,1,Lockset,MA581 P LTG/LTG 626/626 g,,626/626,RH,0.97
+40,,False,23,1,Cylinder,"985 626 1 1/4"" G 6-Pin Open",,626,,0.97
+40,,False,23,1,Electric Strike,6400-24VDC-630,,630,,0.97
+40,,False,23,1,Entry Phone,Visitor Entry Phone System By Security Contractor,,,,1.0
+40,,False,23,1,Door Postion Switch,679-05HM,,,,1.0
+40,,False,23,1,Auto Operator,Horton 4100 Pull Series,,US28,RH,0.97
+40,,False,23,2,Actuator,8310-813,,,,1.0
+40,,False,23,2,Mounting Box,9530-18 628,,628,,0.97
+40,,False,23,1,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+40,,False,23,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+40,,False,23,1,Schematic,Opening Schematic By Others,,,,1.0
+41,,False,23,3,Standard Hinge,"TA786 5"" x 4 1/2"" C26D",,C26D,,0.97
+41,,False,23,1,Latchset,W101 LAT/LAT 626/626,,626/626,,0.97
+41,,False,23,1,Electric Strike,6400-24VDC-630,,630,,0.97
+41,,False,23,1,Auto Operator,Horton 4100 Push Series,,US28,RHR,0.97
+41,,False,23,2,Actuator,8310-813,,,,1.0
+41,,False,23,2,Mounting Box,9530-18 628,,628,,0.97
+41,,False,23,1,Weatherstripping,"W-50S-CA x 38""x84"" Opening",,CA,,0.97
+41,,False,23,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+41,,False,23,1,Weatherstripping,"W-24S-CA x 38""",,CA,,0.97
+41,,False,23,1,Threshold,"CT-65 x 38""",,,,1.0
+42,,False,24,3,Standard Hinge,"T2714 5"" x 4 1/2"" C26D",,C26D,,0.97
+42,,False,24,1,Lockset,T581 P6 LAT/LAT 626/626 G 23981152,,626/626,,0.97
+42,,False,24,1,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+42,,False,24,1,Wall Door Stop,S120 C26D,,C26D,,0.97
+42,,False,24,1,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+42,,False,24,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+43,,False,24,6,Standard Hinge,"TA2314 4 1/2"" x 4 1/2"" C32D NRP",,C32D,,0.97
+43,,False,24,1,Lockset,T581 P6 LAT/LAT 626/626 G 23981152,,626/626,,0.97
+43,,False,24,1,Flush Bolt,FB31P-12-MD C32D,,C32D,,0.97
+43,,False,24,1,Astragal,W-8SP x 2150mm,,,,1.0
+43,,False,24,2,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+43,,False,24,2,Overhead Door Stop,104S C26D,,C26D,,0.97
+43,,False,24,2,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+43,,False,24,2,Weatherstripping,"W-38S-CA x 38""",,CA,,0.97
+43,,False,24,1,Weatherstripping,"W-2050S-CA x 76""",,CA,,0.97
+43,,False,24,2,Jamb Weatherstripping,"W-50S-CAx84"" Opening",,CA,,0.97
+43,,False,24,1,Threshold,"CT-65(Stock Size) x 76""",,,,1.0
+44,,False,24,3,Standard Hinge,"T4A3386 5"" x 4 1/2"" C32D NRP",,C32D,,0.97
+44,,False,24,1,Exit Device,25-R-L-NL 622 510L-NL LAT 626 965 x 2134 Door,,626/622,LHR,0.97
+44,,False,24,1,Cylinder,"985 626 1 1/4"" G 6-Pin Open",,626,,0.97
+44,,False,24,1,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+44,,False,24,1,Weatherstripping,"W-50S-CA x 38""x84"" Opening",,CA,,0.97
+44,,False,24,1,Weatherstripping,"W-38S-CA x 38""",,CA,,0.97
+44,,False,24,1,Threshold,"CT-45 x 38""",,,,1.0
+45,,False,25,3,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+45,,False,25,1,Exit Device,F-25-R-L-BE 626 510L-BE LAT 626 965 x 2134 Door,,626/626,RHR,0.97
+45,,False,25,1,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+45,,False,25,1,Overhead Door Stop,104S C26D,,C26D,,0.97
+45,,False,25,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+45,,False,25,3,Door Silencer,SR64 GRY,,GRY,,0.97
+46,,False,25,3,Standard Hinge,"TA786 5"" x 4 1/2"" C26D",,C26D,,0.97
+46,,False,25,1,Exit Device,F-25-R EO 630 965 x 2134 Door,,630,RHR,0.97
+46,,False,25,1,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+46,,False,25,1,Overhead Door Stop,104S C26D,,C26D,,0.97
+46,,False,25,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+46,,False,25,3,Door Silencer,SR64 GRY,,GRY,,0.97
+47,,False,26,8,Continuous Hinge,"112XY-83"" C28",,C28,,0.97
+47,,False,26,4,Exit Device,24-R-C 630 718C 626 4' LENGTH 965 x 2134 Door,,626/630,RHR,0.97
+47,,False,26,4,Exit Device,24-R L 630 4' LENGTH 965 x 2134 Door,,630,LHR,0.97
+47,,False,26,4,Cylinder,"951 626 1 1/4"" G 6-Pin Open",,626,,0.97
+47,,False,26,4,Removable Mullion,"KR-4023 689 84 17/32""",,689,,0.97
+47,,False,26,4,Cylinder,"985 626 1 1/4"" G 6-Pin Open",,626,,0.97
+47,,False,26,8,Door Pull,8145EZHD-18 C32D-316,,C32D-316,,0.97
+47,,False,26,8,Overhead Door Stop,104S C26D,,C26D,,0.97
+47,,False,26,8,Surface Closer,SC71A Rw/ PA 689 SC70A-18,,689,,0.97
+47,,False,26,4,Weatherstripping,Weatherstrip Set By Door Supplier,,CA,,0.97
+47,,False,26,8,Weatherstripping,"W-24S-CA x 38""",,CA,,0.97
+47,,False,26,4,Threshold 1 Door Has Exterior Keyed Cylinder,"CT-65(Stock Size) x 76"" - Night Latching Device",,,,1.0
+48,,False,26,9,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+48,,False,26,3,Lockset,W581 P6 LAT/LAT 626/626 G,,626/626,,0.97
+48,,False,26,3,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+48,,False,26,3,Wall Door Stop,S120 C26D,,C26D,,0.97
+48,,False,26,3,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+48,,False,26,3,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+49,,False,27,3,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+49,,False,27,1,Lockset,W581 P6 LAT/LAT 626/626 G,,626/626,,0.97
+49,,False,27,1,Electric Strike,6400-24VDC-630,,630,,0.97
+49,,False,27,1,Card Access,Card Reader & Fobs By Security Contractor,,,,1.0
+49,,False,27,1,Door Postion Switch,679-05HM,,,,1.0
+49,,False,27,1,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+49,,False,27,1,Wall Door Stop,S120 C26D,,C26D,,0.97
+49,,False,27,1,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+49,,False,27,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+50,,False,27,3,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+50,,False,27,1,Exit Device,F-25-R-L-BE 626 510L-BE LAT 626 965 x 2134 Door,,626/626,RHR,0.97
+50,,False,27,1,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+50,,False,27,1,Wall Door Stop,S120 C26D,,C26D,,0.97
+50,,False,27,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+50,,False,27,3,Door Silencer,SR64 GRY,,GRY,,0.97
+51,,False,27,3,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+51,,False,27,1,Latchset,T101 LAT/LAT 626/626,,626/626,,0.97
+51,,False,27,1,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+51,,False,27,1,Wall Door Stop,S120 C26D,,C26D,,0.97
+51,,False,27,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+51,,False,27,3,Door Silencer,SR64 GRY,,GRY,,0.97
+52,,False,28,6,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+52,,False,28,2,Exit Device,F-25-R-L-BE 626 510L-BE LAT 626 965 x 2134 Door,,626/626,RHR,0.97
+52,,False,28,2,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+52,,False,28,2,Wall Door Stop,S120 C26D,,C26D,,0.97
+52,,False,28,2,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+52,,False,28,6,Door Silencer,SR64 GRY,,GRY,,0.97
+53,,False,28,48,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+53,,False,28,16,Lockset,W581 P6 LAT/LAT 626/626 G,,626/626,,0.97
+53,,False,28,16,Electric Strike,6400-24VDC-630,,630,,0.97
+53,,False,28,16,Card Access,Card Reader & Fobs By Security Contractor,,,,1.0
+53,,False,28,16,Door Postion Switch,679-05HM,,,,1.0
+53,,False,28,16,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+53,,False,28,16,Wall Door Stop,S120 C26D,,C26D,,0.97
+53,,False,28,16,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+53,,False,28,16,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+54,,False,29,210,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+54,,False,29,70,Electronic Locking Device,SALTO Suite Entry Levers By Others,,626,,0.97
+54,,False,29,70,Surface Closer,161BFxTPN 689,,689,,0.97
+54,,False,29,140,Door Viewer,U698B26D,,26D,,0.97
+54,,False,29,70,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+54,,False,29,70,Threshold,"CT-65 x 38""",,,,1.0
+55,,False,30,,1449 Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.87
+55,,False,30,483,Electronic Locking Device,SALTO Suite Entry Levers By Others,,626,,0.97
+55,,False,30,483,Surface Closer,161BFxTPN 689,,689,,0.97
+55,,False,30,483,Door Viewer,U698B26D,,26D,,0.97
+56,,False,31,15,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+56,,False,31,5,Exit Device,25-R-L-NL 622 510L-NL LAT 626 965 x 2134 Door,,626/622,RHR,0.97
+56,,False,31,5,Cylinder,"985 626 1 1/4"" G 6-Pin Open",,626,,0.97
+56,,False,31,5,Electric Strike,6300-24VDC-630,,630,,0.97
+56,,False,31,5,Card Access,Card Reader & Fobs By Security Contractor,,,,1.0
+56,,False,31,5,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+56,,False,31,5,Wall Door Stop,S120 C26D,,C26D,,0.97
+56,,False,31,5,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+56,,False,31,5,Kick Plate Card Access Required For Entry,"8400 C32D 8"" x 36 1/2"" From Vestibule",,C32D,,0.97
+57,,False,32,30,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+57,,False,32,10,Exit Device,F-25-R-L-BE 626 510L-BE LAT 626 965 x 2134 Door,,626/626,LHR,0.97
+57,,False,32,10,Electric Strike,6300-24VDC-630,,630,,0.97
+57,,False,32,10,Auto Operator,Horton 4100 Push Series,,US28,LHR,0.97
+57,,False,32,20,Actuator,8310-813,,,,1.0
+57,,False,32,20,Mounting Box,9530-18 628,,628,,0.97
+57,,False,32,10,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+57,,False,32,10,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+57,,False,32,10,Weatherstripping,"W-24S-CA x 38""",,CA,,0.97
+58,,False,32,15,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+58,,False,32,5,Exit Device,F-25-R-L-BE 626 510L-BE LAT 626 965 x 2134 Door,,626/626,RHR,0.97
+58,,False,32,5,Electric Strike,6300-24VDC-630,,630,,0.97
+58,,False,32,5,Auto Operator,Horton 4100 Push Series,,US28,RHR,0.97
+58,,False,32,10,Actuator,8310-813,,,,1.0
+58,,False,32,10,Mounting Box,9530-18 628,,628,,0.97
+58,,False,32,5,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+58,,False,32,5,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+58,,False,32,5,Weatherstripping,"W-24S-CA x 38""",,CA,,0.97
+59,,False,34,174,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+59,,False,34,58,Latchset,W101 LAT/LAT 626/626,,626/626,,0.97
+59,,False,34,58,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+59,,False,34,58,Wall Door Stop,S120 C26D,,C26D,,0.97
+59,,False,34,58,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+59,,False,34,58,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+60,,False,36,348,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+60,,False,36,58,Lockset,T581 P6 LAT/LAT 626/626 G 23981152,,626/626,,0.97
+60,,False,36,58,Flush Bolt,FB31P-12-MD C32D,,C32D,,0.97
+60,,False,36,58,Astragal,W-8SP x 2150mm,,,,1.0
+60,,False,36,116,Surface Closer,SC61A Rw/ PA 689,,689,,0.97
+60,,False,36,58,Coordinator,COR72 C26D,,C26D,,0.97
+60,,False,36,58,Gasketing,W-22AL 1/1930 x 2/2134,,,,1.0
+61,,False,36,30,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+61,,False,36,10,Exit Device,F-25-R-L-BE 626 510L-BE LAT 626 914 x 2134 Door,,626/626,LHR,0.97
+61,,False,36,10,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+61,,False,36,10,Wall Door Stop,S120 C26D,,C26D,,0.97
+61,,False,36,10,Kick Plate,8400 C32D 8x34,,C32D,,0.97
+61,,False,36,30,Door Silencer,SR64 GRY,,GRY,,0.97
+62,,False,37,15,Standard Hinge,"TA786 5"" x 4 1/2"" C26D",,C26D,,0.97
+62,,False,37,5,Exit Device,25-R-L-NL 622 510L-NL LAT 626 965 x 2134 Door,,626/622,LHR,0.97
+62,,False,37,5,Cylinder,"985 626 1 1/4"" G 6-Pin Open",,626,,0.97
+62,,False,37,5,Electric Strike,6300-24VDC-630,,630,,0.97
+62,,False,37,5,Card Access,Card Reader & Fobs By Security Contractor,,,,1.0
+62,,False,37,5,Auto Operator,Horton 4100 Push Series,,US28,LHR,0.97
+62,,False,37,10,Actuator,8310-813,,,,1.0
+62,,False,37,10,Mounting Box,9530-18 628,,628,,0.97
+62,,False,37,5,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+62,,False,37,5,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+63,,False,38,105,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+63,,False,38,35,Exit Device,F-25-R-L-BE 626 510L-BE LAT 626 914 x 2134 Door,,626/626,RHR,0.97
+63,,False,38,35,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+63,,False,38,35,Wall Door Stop,S120 C26D,,C26D,,0.97
+63,,False,38,35,Kick Plate,8400 C32D 8x34,,C32D,,0.97
+63,,False,38,105,Door Silencer,SR64 GRY,,GRY,,0.97
+64,,False,39,30,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+64,,False,39,10,Lockset,W581 P6 LAT/LAT 626/626 G,,626/626,,0.97
+64,,False,39,10,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+64,,False,39,10,Wall Door Stop,S120 C26D,,C26D,,0.97
+64,,False,39,10,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+64,,False,39,10,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+65,,False,39,15,Standard Hinge,"TA786 5"" x 4 1/2"" C26D",,C26D,,0.97
+65,,False,39,5,Lockset,MA581 P LTG/LTG 626/626 g,,626/626,RH,0.97
+65,,False,39,5,Cylinder,"985 626 1 1/4"" G 6-Pin Open",,626,,0.97
+65,,False,39,5,Electric Strike,6400-24VDC-630,,630,,0.97
+65,,False,39,5,Card Access,Card Reader & Fobs By Security Contractor,,,,1.0
+65,,False,39,5,Door Postion Switch,679-05HM,,,,1.0
+65,,False,39,5,Auto Operator,Horton 4100 Pull Series,,US28,RH,0.97
+65,,False,39,10,Actuator,8310-813,,,,1.0
+65,,False,39,10,Mounting Box,9530-18 628,,628,,0.97
+65,,False,39,5,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+65,,False,39,5,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+65,,False,39,5,Schematic,Opening Schematic By Others,,,,1.0
+66,,False,40,15,Standard Hinge,"TA786 5"" x 4 1/2"" C26D",,C26D,,0.97
+66,,False,40,5,Latchset,MA101 LTG/LTG 626/626,,626/626,LH,0.97
+66,,False,40,5,Electric Strike,6400-24VDC-630,,630,,0.97
+66,,False,40,5,Auto Operator,Horton 4100 Push Series,,US28,RHR,0.97
+66,,False,40,10,Actuator,8310-813,,,,1.0
+66,,False,40,10,Mounting Box,9530-18 628,,628,,0.97
+66,,False,40,5,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+66,,False,40,5,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+66,,False,40,5,Weatherstripping,"W-24S-CA x 38""",,CA,,0.97
+67,,False,40,15,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+67,,False,40,5,Exit Device,F-25-R-L-BE 626 510L-BE LAT 626 914 x 2134 Door,,626/626,RHR,0.97
+67,,False,40,5,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+67,,False,40,5,Overhead Door Stop,104S C26D,,C26D,,0.97
+67,,False,40,5,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+67,,False,40,5,Kick Plate Card Access Required For Entry Free Egress From Parking Side,8400 C32D 8x34 From Vestibule At All Times,,C32D,,0.97
+68,,False,41,15,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+68,,False,41,5,Exit Device,F-25-R-L-BE 626 510L-BE LAT 626 914 x 2134 Door,,626/626,RHR,0.97
+68,,False,41,5,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+68,,False,41,5,Overhead Door Stop,104S C26D,,C26D,,0.97
+68,,False,41,5,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+68,,False,41,5,Kick Plate Card Access Required For Entry Free Egress From Parking Side,8400 C32D 8x34 From Vestibule At All Times,,C32D,,0.97
+69,,False,41,15,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+69,,False,41,5,Exit Device,F-25-R-L-BE 626 510L-BE LAT 626 965 x 2134 Door,,626/626,RHR,0.97
+69,,False,41,5,Electric Strike,6300-24VDC-630,,630,,0.97
+69,,False,41,5,Card Access,Card Reader & Fobs By Security Contractor,,,,1.0
+69,,False,41,5,Door Postion Switch,679-05HM,,,,1.0
+69,,False,41,5,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+69,,False,41,5,Overhead Door Stop,104S C26D,,C26D,,0.97
+69,,False,41,5,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+69,,False,41,5,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+69,,False,41,5,Threshold Card Access Required For Entry Free Egress From Parking Side,"CT-65 x 38"" From Vestibule At All Times",,,,1.0
+70,,False,42,15,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+70,,False,42,5,Exit Device,F-25-R-L-BE 626 510L-BE LAT 626 965 x 2134 Door,,626/626,RHR,0.97
+70,,False,42,5,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+70,,False,42,5,Overhead Door Stop,104S C26D,,C26D,,0.97
+70,,False,42,5,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+70,,False,42,5,Kick Plate Card Access Required For Entry Free Egress From Parking Side,"8400 C32D 8"" x 36 1/2"" From Vestibule At All Times",,C32D,,0.97
+71,,False,42,6,Standard Hinge,"TA786 5"" x 4 1/2"" C26D",,C26D,,0.97
+71,,False,42,2,Exit Device,F-25-R-L-BE 626 510L-BE LAT 626 965 x 2134 Door,,626/626,RHR,0.97
+71,,False,42,2,Electric Strike,6300-24VDC-630,,630,,0.97
+71,,False,42,2,Overhead Door Stop,104S C26D,,C26D,,0.97
+71,,False,42,2,Auto Operator,Horton 4100 Push Series,,US28,RHR,0.97
+71,,False,42,4,Actuator,8310-813,,,,1.0
+71,,False,42,4,Mounting Box,9530-18 628,,628,,0.97
+71,,False,42,2,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+71,,False,42,2,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+72,,False,43,2,Continuous Hinge,"112XY-83"" C28 EPT @ 42"" Top Down",,C28,,0.97
+72,,False,43,2,Accessory,EPT-10-689,,689,,0.97
+72,,False,43,2,Exit Device,MEL-24-R-L-BE 630 712L-BE LAT 626 4' LENGTH 965 x 2134,,626/630,RHR,0.97
+72,,False,43,2,,Power Supply - By Security Contractor,,,,1.0
+72,,False,43,2,Overhead Door Stop,104S C26D,,C26D,,0.97
+72,,False,43,2,Auto Operator,Horton 4100 Pull Series,,US28,LH,0.97
+72,,False,43,4,Actuator,8310-813,,,,1.0
+72,,False,43,4,Mounting Box,9530-18 628,,628,,0.97
+72,,False,43,2,Weatherstripping,Weatherstrip Set By Door Supplier,,CA,,0.97
+72,,False,43,2,Weatherstripping,"W-24S-CA x 38""",,CA,,0.97
+72,,False,43,2,Threshold,"CT-65 x 38""",,,,1.0
+73,,False,43,3,Standard Hinge,"TA786 5"" x 4 1/2"" C26D",,C26D,,0.97
+73,,False,43,1,Exit Device,F-25-R-L-BE 626 510L-BE LAT 626 965 x 2134 Door,,626/626,LHR,0.97
+73,,False,43,1,Electric Strike,6300-24VDC-630,,630,,0.97
+73,,False,43,1,Overhead Door Stop,104S C26D,,C26D,,0.97
+73,,False,43,1,Auto Operator,Horton 4100 Push Series,,US28,LHR,0.97
+73,,False,43,2,Actuator,8310-813,,,,1.0
+73,,False,43,2,Mounting Box,9530-18 628,,628,,0.97
+73,,False,43,1,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+73,,False,43,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+74,,False,44,1,Continuous Hinge,"112XY-83"" C28 EPT @ 42"" Top Down",,C28,,0.97
+74,,False,44,1,Accessory,EPT-10-689,,689,,0.97
+74,,False,44,1,Exit Device,MEL-24-R-L-BE 630 712L-BE LAT 626 4' LENGTH 965 x 2134,,626/630,LHR,0.97
+74,,False,44,1,,Power Supply - By Security Contractor,,,,1.0
+74,,False,44,1,Overhead Door Stop,104S C26D,,C26D,,0.97
+74,,False,44,1,Auto Operator,Horton 4100 Pull Series,,US28,RH,0.97
+74,,False,44,2,Actuator,8310-813,,,,1.0
+74,,False,44,2,Mounting Box,9530-18 628,,628,,0.97
+74,,False,44,1,Weatherstripping,Weatherstrip Set By Door Supplier,,CA,,0.97
+74,,False,44,1,Weatherstripping,"W-24S-CA x 38""",,CA,,0.97
+74,,False,44,1,Threshold,"CT-65 x 38""",,,,1.0
+75,,False,44,3,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+75,,False,44,1,Lockset,W581 P6 LAT/LAT 626/626 G,,626/626,,0.97
+75,,False,44,1,Electric Strike,6400-24VDC-630,,630,,0.97
+75,,False,44,1,Card Access,Card Reader & Fobs By Security Contractor,,,,1.0
+75,,False,44,1,Door Postion Switch,679-05HM,,,,1.0
+75,,False,44,1,Auto Operator,Horton 7900 Pull Series,,US28,RH,0.97
+75,,False,44,2,Actuator,8310-813,,,,1.0
+75,,False,44,2,Mounting Box,9530-18 628,,628,,0.97
+75,,False,44,1,Door Viewer,U698B26D,,26D,,0.97
+75,,False,44,1,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+75,,False,44,1,Threshold,"CT-65 x 38""",,,,1.0
+76,,False,45,3,Standard Hinge,"TA714 4 1/2"" x 4"" C26D",,C26D,,0.97
+76,,False,45,1,Lockset,W581 P6 LAT/LAT 626/626 G,,626/626,,0.97
+76,,False,45,1,Electric Strike,6400-24VDC-630,,630,,0.97
+76,,False,45,1,Auto Operator,Horton 7900 Pull Series,,US28,RH,0.97
+76,,False,45,1,Emergency Call Kit,CX-WEC10,,,,1.0
+76,,False,45,1,Push To Lock Kit,CX-WC13XFM,,,,1.0
+76,,False,45,1,Logic Relay,CX-33,,,,1.0
+76,,False,45,1,Wall Door Stop,63F-626E,,-626E,,0.97
+76,,False,45,1,Gasketing,W-22AL 1/965 x 2/2134,,,,1.0
+77,,False,45,3,Standard Hinge,1010RP F-626E,,-626E,,0.97
+77,,False,45,1,Latchset,GLA101 MIL RDT,,US15,,0.97
+77,,False,45,1,Door Stop,IVES 69 / 63 As Required,,US15,,0.97
+78,,False,45,6,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+78,,False,45,1,Exit Device,25-R-L-NL 622 510L-NL LAT 626 914 x 2134 Door,,626/622,LHR,0.97
+78,,False,45,1,Exit Device,25-R-L-NL 622 510L-NL LAT 626 914 x 2134 Door,,626/622,RHR,0.97
+78,,False,45,2,Cylinder,"985 626 1 1/4"" G 6-Pin Open",,626,,0.97
+78,,False,45,2,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+78,,False,45,2,Wall Door Stop,S120 C26D,,C26D,,0.97
+78,,False,45,2,Kick Plate,8400 C32D 8x34,,C32D,,0.97
+78,,False,45,6,Door Silencer,SR64 GRY,,GRY,,0.97
+79,,False,46,6,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+79,,False,46,2,Exit Device,F-25-R-L-BE 626 510L-BE LAT 626 965 x 2134 Door,,626/626,LHR,0.97
+79,,False,46,2,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+79,,False,46,2,Wall Door Stop,S120 C26D,,C26D,,0.97
+79,,False,46,2,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+79,,False,46,6,Door Silencer,SR64 GRY,,GRY,,0.97
+80,,False,46,3,Standard Hinge,"TA2314 4 1/2"" x 4 1/2"" C32D NRP",,C32D,,0.97
+80,,False,46,1,Lockset,W581 P6 LAT/LAT 626/626 G,,626/626,,0.97
+80,,False,46,1,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+80,,False,46,1,Weatherstripping,"W-2050S-CA x 38""",,CA,,0.97
+80,,False,46,2,Jamb Weatherstripping,"W-50S-CAx84"" Opening",,CA,,0.97
+80,,False,46,1,Weatherstripping,"W-38S-CA x 38""",,CA,,0.97
+80,,False,46,1,Threshold,"CT-65 x 38""",,,,1.0
+81,,False,46,6,Continuous Hinge,"112XY-83"" C28",,C28,,0.97
+81,,False,46,3,Lockset,T581 P6 LAT/LAT 626/626 G 23981152,,626/626,,0.97
+81,,False,46,3,Flush Bolt,FB31P-12-MD C32D,,C32D,,0.97
+81,,False,46,3,Astragal,W-8SP x 2150mm,,,,1.0
+81,,False,46,6,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+81,,False,46,3,Coordinator,COR72 C26D,,C26D,,0.97
+81,,False,46,3,Gasketing,W-22AL 1/2400 x 2/2134,,,,1.0
+82,,False,47,3,Standard Hinge,"TA2314 4 1/2"" x 4 1/2"" C32D NRP",,C32D,,0.97
+82,,False,47,1,Lockset,W581 P6 LAT/LAT 626/626 G,,626/626,,0.97
+82,,False,47,1,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+82,,False,47,1,Weatherstripping,"W-2050S-CA x 38""",,CA,,0.97
+82,,False,47,2,Jamb Weatherstripping,"W-50S-CAx84"" Opening",,CA,,0.97
+82,,False,47,1,Weatherstripping,"W-38S-CA x 38""",,CA,,0.97
+82,,False,47,1,Threshold,"CT-65 x 38""",,,,1.0
+83,,False,47,3,Standard Hinge,"TA786 4 1/2"" x 4"" C26D",,C26D,,0.97
+83,,False,47,1,Exit Device,25-R-L-NL 622 510L-NL LAT 626 965 x 2134 Door,,626/622,LHR,0.97
+83,,False,47,1,Cylinder,"985 626 1 1/4"" G 6-Pin Open",,626,,0.97
+83,,False,47,1,Surface Closer,SC81A Rw/ PA 689,,689,,0.97
+83,,False,47,1,Wall Door Stop,S120 C26D,,C26D,,0.97
+83,,False,47,1,Kick Plate,"8400 C32D 8"" x 36 1/2""",,C32D,,0.97
+83,,False,47,3,Door Silencer,SR64 GRY,,GRY,,0.97
+84,,False,47,3,Standard Hinge,"TA2314 4 1/2"" x 4 1/2"" C32D NRP",,C32D,,0.97
+84,,False,47,1,Lockset,W581 P6 LAT/LAT 626/626 G,,626/626,,0.97
+84,,False,47,1,Surface Closer,SC71A Rw/ PA 689,,689,,0.97
+84,,False,47,1,Weatherstripping,"W-2050S-CA x 38""",,CA,,0.97
+84,,False,47,2,Jamb Weatherstripping,"W-50S-CAx84"" Opening",,CA,,0.97
+84,,False,47,1,Weatherstripping,"W-38S-CA x 38""",,CA,,0.97
+84,,False,47,1,Threshold,"CT-65 x 38""",,,,1.0
+85,,False,48,857,Latchset,GLA101 MIL RDT,,US15,,0.97
+85,,False,48,857,Door Stop,IVES 69 / 63 As Required,,US15,,0.97
+86,,False,48,437,Latchset,GLA101 MIL RDT,,US15,,0.97
+86,,False,48,437,Door Stop,IVES 69 / 63 As Required,,US15,,0.97
+87,,False,48,796,Lockset,GLA331 MIL RDT,,US15,,0.97
+87,,False,48,796,Door Stop,IVES 69 / 63 As Required,,US15,,0.97
+88,,False,48,545,Latchset,GLA101 MIL RDT,,US15,,0.97
+88,,False,48,545,Door Stop,IVES 69 / 63 As Required,,US15,,0.97
+89,,False,49,260,Latchset,GLA101 MIL RDT,,US15,,0.97
+89,,False,49,260,Door Stop,IVES 69 / 63 As Required,,US15,,0.97
+90,,False,49,36,Standard Hinge,1010RP F-626E,,-626E,,0.97
+90,,False,49,12,Latchset,GLA101 MIL RDT,,US15,,0.97
+90,,False,49,12,Door Stop,IVES 69 / 63 As Required,,US15,,0.97

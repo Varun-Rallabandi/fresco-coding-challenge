@@ -1,0 +1,257 @@
+set_number,set_description,not_used,page,qty,description,catalog_number,mfr,finish,notes,confidence
+EX-1.0,Description: Balanced Door Assembly Opening,False,24,,Hanging Device,By Balanced Door Manufacturer,,,,0.9
+EX-1.0,Description: Balanced Door Assembly Opening,False,24,,Panic Hardware Device (Blumcraft Style),By Balanced Door Manufacturer,,,,0.9
+EX-1.0,Description: Balanced Door Assembly Opening,False,24,,"Gasketing, threshold, sweep, astragal",By Balanced Door Manufacturer,,,,0.9
+EX-1.0,Description: Balanced Door Assembly Opening,False,24,1,Electric Strike,By Balanced Door Manufacturer,,,,1.0
+EX-2.0,Description: Terrace Door Assembly,False,24,,Hanging Device,By Door Manufacturer,,,,0.9
+EX-2.0,Description: Terrace Door Assembly,False,24,,Panic Hardware Device,By Door Manufacturer,,,,0.9
+EX-3.0,Description: Single Opening – Exterior Stair Fan,False,26,1,Continuous Hinge,FMHD1 Pemko,,,,1.0
+EX-3.0,Description: Single Opening – Exterior Stair Fan,False,26,1,Storeroom Lock,8204 LNL Sargent,,,,1.0
+EX-3.0,Description: Single Opening – Exterior Stair Fan,False,26,1,Surface Closer,UNI-7500 Norton,,,,1.0
+EX-3.0,Description: Single Opening – Exterior Stair Fan,False,26,1,Perimeter Gasket,290 x 2891APK Pemko,,,,1.0
+EX-3.0,Description: Single Opening – Exterior Stair Fan,False,26,1,Gasketing,S88BL Pemko,,,,1.0
+EX-3.0,Description: Single Opening – Exterior Stair Fan,False,26,1,Door Shoe,234AV Pemko,,,,1.0
+EX-3.0,Description: Single Opening – Exterior Stair Fan,False,26,1,Threshold,2005AT Pemko,,,,1.0
+EX-4.0,Description: Paired Opening – Exterior Access Controlled,False,27,1,Continuous Hinge x Power Transfer,FMHD1 QC Pemko,,,,1.0
+EX-4.0,Description: Paired Opening – Exterior Access Controlled,False,27,1,Continuous Hinge,FMHD1 Pemko,,,,1.0
+EX-4.0,Description: Paired Opening – Exterior Access Controlled,False,27,1,Constant Latching Flush Bolt,2845/ 2945(as required) Rockwood,,,,1.0
+EX-4.0,Description: Paired Opening – Exterior Access Controlled,False,27,1,Dust Proof Strike,570 Rockwood,,,,1.0
+EX-4.0,Description: Paired Opening – Exterior Access Controlled,False,27,1,"Electrified Mortise Lock, Fail Secure Key on interior side",NAC-82271-24v LNL Sargent,,,,1.0
+EX-4.0,Description: Paired Opening – Exterior Access Controlled,False,27,1,Coordinator x Filler Bar x Brackets,2600 Series (Cutouts as Required) Rockwood,,,,1.0
+EX-4.0,Description: Paired Opening – Exterior Access Controlled,False,27,2,Surface Closer,UNI-7500 Norton,,,,1.0
+EX-4.0,Description: Paired Opening – Exterior Access Controlled,False,27,2,Kick Plate,"K1050 x 10"" High x CSK x 4BE Rockwood",,,,1.0
+EX-4.0,Description: Paired Opening – Exterior Access Controlled,False,27,1,Perimeter Gasket,290 x 2891APK Pemko,,,,1.0
+EX-4.0,Description: Paired Opening – Exterior Access Controlled,False,27,2,Astragals,303AS Pemko,,,,1.0
+EX-4.0,Description: Paired Opening – Exterior Access Controlled,False,27,1,Gasketing,S88BL Pemko,,,,1.0
+EX-4.0,Description: Paired Opening – Exterior Access Controlled,False,27,1,Door Shoe,234AV Pemko,,,,1.0
+EX-4.0,Description: Paired Opening – Exterior Access Controlled,False,27,1,Threshold,2005AT Pemko,,,,1.0
+EX-4.0,Description: Paired Opening – Exterior Access Controlled,False,27,1,Door/Frame Harness,,,,,0.9
+1.0,Description: Storeroom function with closer - single,False,28,1,Continuous Hinge,CFMxxHD1-M (Length Required) Pemko,,,,1.0
+1.0,Description: Storeroom function with closer - single,False,28,1,Storeroom/Closet Lock,8204 LNMI Sargent,,,,1.0
+1.0,Description: Storeroom function with closer - single,False,28,1,Door Closer,UNI7500 Norton,,,,1.0
+1.0,Description: Storeroom function with closer - single,False,28,1,Jamb Gasketing,290_S (Finish to match door/frame Pemko color),,,,1.0
+1.0,Description: Storeroom function with closer - single,False,28,1,Head Gasketing,2891_S (Finish to match door/frame Pemko color),,,,1.0
+1.0,Description: Storeroom function with closer - single,False,28,1,Door Bottom,216AFG Pemko,,,,1.0
+1.0,Description: Storeroom function with closer - single,False,28,1,Threshold,To Suit Sill Condition,,,,1.0
+2.0,"Description: Single Opening – Access Controlled, Stairwell, Fail Safe",False,28,1,Electric Power Transfer,EL-CEPT Securitron,,,,1.0
+2.0,"Description: Single Opening – Access Controlled, Stairwell, Fail Safe",False,28,1,"Fail Safe Exit Device, RX",[12] 55 PE8875 ETMI Sargent,,,,1.0
+2.0,"Description: Single Opening – Access Controlled, Stairwell, Fail Safe",False,28,1,Surface Closer (Mounted on stairwell side of door),7500 Norton,,,,1.0
+2.0,"Description: Single Opening – Access Controlled, Stairwell, Fail Safe",False,28,1,Kick Plate,"K1050 x 10"" High x CSK x 4BE Rockwood",,,,1.0
+2.0,"Description: Single Opening – Access Controlled, Stairwell, Fail Safe",False,28,1,Stop,RM860 / 446 / 9-ADJ Series Per Rockwood Conditions,,,,1.0
+2.0,"Description: Single Opening – Access Controlled, Stairwell, Fail Safe",False,28,1,Gasketing,S44BL Pemko,,,,1.0
+2.0,"Description: Single Opening – Access Controlled, Stairwell, Fail Safe",False,28,1,Door Sweep,315CN Pemko,,,,1.0
+2.0,"Description: Single Opening – Access Controlled, Stairwell, Fail Safe",False,28,1,Threshold,151A Pemko,,,,1.0
+2.0,"Description: Single Opening – Access Controlled, Stairwell, Fail Safe",False,28,1,Door/Frame Harness,,,,,0.9
+2.5,"Description: Single Opening – Access Controlled, Stairwell, Fail Secure",False,29,1,Electric Power Transfer,EL-CEPT Securitron,,,,1.0
+2.5,"Description: Single Opening – Access Controlled, Stairwell, Fail Secure",False,29,1,"Fail Secure Exit Device, RX",[12] 55 PE8876 ETMI Sargent,,,,1.0
+2.5,"Description: Single Opening – Access Controlled, Stairwell, Fail Secure",False,29,1,Surface Closer (Mounted on stairwell side of door),7500 Norton,,,,1.0
+2.5,"Description: Single Opening – Access Controlled, Stairwell, Fail Secure",False,29,1,Kick Plate,"K1050 x 10"" High x CSK x 4BE Rockwood",,,,1.0
+2.5,"Description: Single Opening – Access Controlled, Stairwell, Fail Secure",False,29,1,Stop,RM860 / 446 / 9-ADJ Series Per Rockwood Conditions,,,,1.0
+2.5,"Description: Single Opening – Access Controlled, Stairwell, Fail Secure",False,29,1,Gasketing,S44BL Pemko,,,,1.0
+2.5,"Description: Single Opening – Access Controlled, Stairwell, Fail Secure",False,29,1,Door Sweep,315CN Pemko,,,,1.0
+2.5,"Description: Single Opening – Access Controlled, Stairwell, Fail Secure",False,29,1,Threshold,151A Pemko,,,,1.0
+2.5,"Description: Single Opening – Access Controlled, Stairwell, Fail Secure",False,29,1,Door/Frame Harness,,,,,0.9
+3.0,"Description: Single Opening – Access Controlled, Stairwell, Fire Rated Aluminum Assembly",False,30,1,Electric Power Transfer By,Fire Rated Door Manufacturer,,,,0.7
+3.0,"Description: Single Opening – Access Controlled, Stairwell, Fire Rated Aluminum Assembly",False,30,1,Fail Safe Rim Exit Device with [12] integrated request to exit switch By,55 PE8875 ETMI Sargent Door Manufacturer,,,,0.7
+3.0,"Description: Single Opening – Access Controlled, Stairwell, Fire Rated Aluminum Assembly",False,30,1,Door Closer x Regular Arm By mounted on pull side of door,Fire Rated Door Manufacturer,,,,1.0
+3.0,"Description: Single Opening – Access Controlled, Stairwell, Fire Rated Aluminum Assembly",False,30,1,Gasketing By,Fire Rated Door Manufacturer,,,,0.7
+3.0,"Description: Single Opening – Access Controlled, Stairwell, Fire Rated Aluminum Assembly",False,30,1,Door/Frame Harness By Hardware provided by Section 08 71 00,Fire Rated Door Manufacturer,,,,1.0
+3.0,"Description: Single Opening – Access Controlled, Stairwell, Fire Rated Aluminum Assembly",False,30,1,Stop RM860,Rockwood,,,,0.6
+4.0,Description: Fail Secure exit device Pair - (Switchgear),False,31,2,Electric Power Transfer EL-CEPT,Securitron,,,,0.6
+4.0,Description: Fail Secure exit device Pair - (Switchgear),False,31,1,"Fail Secure Exit Device, SVR [12]",55 PE8774 ETMI Sargent,,,,1.0
+4.0,Description: Fail Secure exit device Pair - (Switchgear),False,31,1,Surface Vert Rod Exit [12,] 55 PE8706 ETMI Sargent,,,,1.0
+4.0,Description: Fail Secure exit device Pair - (Switchgear),False,31,2,Surface Closer UNI-7500,Norton,,,,0.6
+4.0,Description: Fail Secure exit device Pair - (Switchgear),False,31,2,Kick Plate K1050,"x 10"" High x CSK x 4BE Rockwood",,,,1.0
+4.0,Description: Fail Secure exit device Pair - (Switchgear),False,31,1,Gasketing S88BL,Pemko,,,,0.6
+4.0,Description: Fail Secure exit device Pair - (Switchgear),False,31,2,Astragals 303AS,Pemko,,,,0.6
+4.0,Description: Fail Secure exit device Pair - (Switchgear),False,31,2,Door/Frame Harness,,,,,0.9
+4.5,"Description: Paired Opening - Corridor, Double Egress",False,32,2,"Exit Devices, Exit Only [12]",PE8610 NB Sargent,,,,1.0
+4.5,"Description: Paired Opening - Corridor, Double Egress",False,32,2,Surface Closer UNI-7500,Norton,,,,0.6
+4.5,"Description: Paired Opening - Corridor, Double Egress",False,32,2,Kick Plate K1050,"x 10"" High x CSK x 4BE Rockwood",,,,1.0
+4.5,"Description: Paired Opening - Corridor, Double Egress",False,32,1,Gasketing S88BL,Pemko,,,,0.6
+5.0,"Description: Single Opening – Access Controlled, Primary Electrical Room, Secondary Electrical Room,",False,32,1,Continuous Hinge x Power Transfer A500 at 48” Wide Doors,x TW ABH,,,,1.0
+5.0,"Description: Single Opening – Access Controlled, Primary Electrical Room, Secondary Electrical Room,",False,32,1,Electric Power Transfer EL-CEPT,Securitron,,,,0.6
+5.0,"Description: Single Opening – Access Controlled, Primary Electrical Room, Secondary Electrical Room,",False,32,1,Fail Secure Exit Device [12],55 PE8876 ETMI Sargent,,,,1.0
+5.0,"Description: Single Opening – Access Controlled, Primary Electrical Room, Secondary Electrical Room,",False,32,1,Surface Closer 7500,Norton,,,,0.6
+5.0,"Description: Single Opening – Access Controlled, Primary Electrical Room, Secondary Electrical Room,",False,32,1,Stop RM860,Rockwood,,,,0.6
+5.0,"Description: Single Opening – Access Controlled, Primary Electrical Room, Secondary Electrical Room,",False,32,1,Gasketing S44BL,Pemko,,,,0.6
+5.0,"Description: Single Opening – Access Controlled, Primary Electrical Room, Secondary Electrical Room,",False,32,1,Door/Frame Harness,,,,,0.9
+5.5,"Description: Single Opening – Access Controlled, Fire Pump Room",False,33,1,Continuous Hinge x Power Transfer at 48” Wide Doors,A500 x TW ABH,,,,1.0
+5.5,"Description: Single Opening – Access Controlled, Fire Pump Room",False,33,1,Electric Power Transfer,EL-CEPT Securitron,,,,1.0
+5.5,"Description: Single Opening – Access Controlled, Fire Pump Room",False,33,1,Fail Secure Exit Device,[12] 55 PE8876 ETMI Sargent,,,,1.0
+5.5,"Description: Single Opening – Access Controlled, Fire Pump Room",False,33,1,Surface Closer,7500 Norton,,,,1.0
+5.5,"Description: Single Opening – Access Controlled, Fire Pump Room",False,33,1,Stop,RM860 Rockwood,,,,1.0
+5.5,"Description: Single Opening – Access Controlled, Fire Pump Room",False,33,1,Gasketing,S88BL Pemko,,,,1.0
+5.5,"Description: Single Opening – Access Controlled, Fire Pump Room",False,33,1,Door Shoe,234AV Pemko,,,,1.0
+5.5,"Description: Single Opening – Access Controlled, Fire Pump Room",False,33,1,Saddle,2005AT Pemko,,,,1.0
+5.5,"Description: Single Opening – Access Controlled, Fire Pump Room",False,33,1,Door/Frame Harness,,,,,0.9
+6.0,"Description: Classroom function with closer - single (Break Room, Locker Room, Tenant Entry)",False,33,1,Classroom Lock,8237 LNMI Sargent,,,,1.0
+6.0,"Description: Classroom function with closer - single (Break Room, Locker Room, Tenant Entry)",False,33,1,Surface Closer,R 7500/ PR7500 (as required) Norton,,,,1.0
+6.0,"Description: Classroom function with closer - single (Break Room, Locker Room, Tenant Entry)",False,33,1,Kick Plate,"K1050 x 10"" High x CSK x 4BE Rockwood",,,,1.0
+6.0,"Description: Classroom function with closer - single (Break Room, Locker Room, Tenant Entry)",False,33,1,Stop,RM860 / 446 / 9-ADJ Series Per Rockwood Conditions,,,,1.0
+6.0,"Description: Classroom function with closer - single (Break Room, Locker Room, Tenant Entry)",False,33,3,Silencers,SR64/ SR65,,,,1.0
+7.0,Description: Paired Opening – Access Controlled,False,34,1,Electric Power Transfer,EL-CEPT Securitron,,,,1.0
+7.0,Description: Paired Opening – Access Controlled,False,34,1,Constant Latching Flush Bolt,2845/ 2945(as required) Rockwood,,,,1.0
+7.0,Description: Paired Opening – Access Controlled,False,34,1,Dust Proof Strike,570 Rockwood,,,,1.0
+7.0,Description: Paired Opening – Access Controlled,False,34,1,"Electrified Mortise Lock, Fail Secure",NAC-82271-24v LNMI Sargent,,,,1.0
+7.0,Description: Paired Opening – Access Controlled,False,34,1,Coordinator x Filler Bar x Brackets,2600 Series (Cutouts as Required) Rockwood,,,,1.0
+7.0,Description: Paired Opening – Access Controlled,False,34,2,Surface Closer,R 7500/ PR7500 (as required) Norton,,,,1.0
+7.0,Description: Paired Opening – Access Controlled,False,34,2,Kick Plate,"K1050 x 10"" High x CSK x 4BE Rockwood",,,,1.0
+7.0,Description: Paired Opening – Access Controlled,False,34,2,Stop,RM860 / 446 / 9-ADJ Series Per Rockwood Conditions,,,,1.0
+7.0,Description: Paired Opening – Access Controlled,False,34,1,Gasketing,S88BL Pemko,,,,1.0
+7.0,Description: Paired Opening – Access Controlled,False,34,1,Gasketing,S44BL Pemko,,,,1.0
+7.0,Description: Paired Opening – Access Controlled,False,34,1,Door/Frame Harness,,,,,0.9
+7.5,"Description: Paired Opening – Access Controlled, Mechanical Room",False,35,1,Electric Power Transfer,EL-CEPT Securitron,,,,1.0
+7.5,"Description: Paired Opening – Access Controlled, Mechanical Room",False,35,1,Constant Latching Flush Bolt,2845/ 2945(as required) Rockwood,,,,1.0
+7.5,"Description: Paired Opening – Access Controlled, Mechanical Room",False,35,1,Dust Proof Strike,570 Rockwood,,,,1.0
+7.5,"Description: Paired Opening – Access Controlled, Mechanical Room",False,35,1,"Electrified Mortise Lock, Fail Secure",NAC-82271-24v LNMI Sargent,,,,1.0
+7.5,"Description: Paired Opening – Access Controlled, Mechanical Room",False,35,1,Coordinator x Filler Bar x Brackets,2600 Series (Cutouts as Required) Rockwood,,,,1.0
+7.5,"Description: Paired Opening – Access Controlled, Mechanical Room",False,35,2,Surface Closer,R 7500/ PR7500 (as required) Norton,,,,1.0
+7.5,"Description: Paired Opening – Access Controlled, Mechanical Room",False,35,2,Kick Plate,"K1050 x 10"" High x CSK x 4BE Rockwood",,,,1.0
+7.5,"Description: Paired Opening – Access Controlled, Mechanical Room",False,35,2,Stop,RM860 / 446 / 9-ADJ Series Per Rockwood Conditions,,,,1.0
+7.5,"Description: Paired Opening – Access Controlled, Mechanical Room",False,35,1,Gasketing,S88BL Pemko,,,,1.0
+7.5,"Description: Paired Opening – Access Controlled, Mechanical Room",False,35,1,Astragal,303AS Pemko,,,,1.0
+7.5,"Description: Paired Opening – Access Controlled, Mechanical Room",False,35,2,Door Sweeps,315CN Pemko,,,,1.0
+7.5,"Description: Paired Opening – Access Controlled, Mechanical Room",False,35,1,Threshold,151A Pemko,,,,1.0
+7.5,"Description: Paired Opening – Access Controlled, Mechanical Room",False,35,1,Door/Frame Harness,,,,,0.9
+8.0,"Description: Paired Opening – Access Controlled, Fail Safe, FSAE Lobby",False,36,1,Electric Power Transfer,EL-CEPT Securitron,,,,1.0
+8.0,"Description: Paired Opening – Access Controlled, Fail Safe, FSAE Lobby",False,36,1,Constant Latching Flush Bolt,2845/ 2945(as required) Rockwood,,,,1.0
+8.0,"Description: Paired Opening – Access Controlled, Fail Safe, FSAE Lobby",False,36,1,Dust Proof Strike,570 Rockwood,,,,1.0
+8.0,"Description: Paired Opening – Access Controlled, Fail Safe, FSAE Lobby",False,36,1,"Electrified Mortise Lock, Fail Safe",NAC-82270-24v LNMI Sargent,,,,1.0
+8.0,"Description: Paired Opening – Access Controlled, Fail Safe, FSAE Lobby",False,36,1,Coordinator x Filler Bar x Brackets,2600 Series (Cutouts as Required) Rockwood,,,,1.0
+8.0,"Description: Paired Opening – Access Controlled, Fail Safe, FSAE Lobby",False,36,2,Surface Closer,UNI-7500 / R 7500/ PR7500 (as Norton required),,,,1.0
+8.0,"Description: Paired Opening – Access Controlled, Fail Safe, FSAE Lobby",False,36,2,Stop,RM860 / 446 / 9-ADJ Series Per Rockwood Conditions,,,,1.0
+8.0,"Description: Paired Opening – Access Controlled, Fail Safe, FSAE Lobby",False,36,2,Kick Plates,K1050 10” CSK 4BE Rockwood,,,,1.0
+8.0,"Description: Paired Opening – Access Controlled, Fail Safe, FSAE Lobby",False,36,1,Gasketing,S88BL Pemko,,,,1.0
+8.0,"Description: Paired Opening – Access Controlled, Fail Safe, FSAE Lobby",False,36,1,Astragal Set,178SA Pemko,,,,1.0
+8.0,"Description: Paired Opening – Access Controlled, Fail Safe, FSAE Lobby",False,36,1,Door/Frame Harness Key on FSAE Lobby side,,,,,0.9
+9.0,"Description: Single Opening – Access Controlled (Tech Room, Engineering Plan Room, IT Room,",False,37,1,Electric Power Transfer,EL-CEPT Securitron,,,,1.0
+9.0,"Description: Single Opening – Access Controlled (Tech Room, Engineering Plan Room, IT Room,",False,37,1,"Electrified Mortise Lock, Fail Secure",NAC-82271-24v LNMI Sargent,,,,1.0
+9.0,"Description: Single Opening – Access Controlled (Tech Room, Engineering Plan Room, IT Room,",False,37,1,Surface Closer,UNI-7500 / 7500 Per Conditions Norton,,,,1.0
+9.0,"Description: Single Opening – Access Controlled (Tech Room, Engineering Plan Room, IT Room,",False,37,1,Kick Plate,"K1050 x 10"" High x CSK x 4BE Rockwood",,,,1.0
+9.0,"Description: Single Opening – Access Controlled (Tech Room, Engineering Plan Room, IT Room,",False,37,1,Stop,RM860 / 446 / 9-ADJ Series Per Rockwood Conditions,,,,1.0
+9.0,"Description: Single Opening – Access Controlled (Tech Room, Engineering Plan Room, IT Room,",False,37,1,Gasketing,S44BL Pemko,,,,1.0
+9.0,"Description: Single Opening – Access Controlled (Tech Room, Engineering Plan Room, IT Room,",False,37,1,Door/Frame Harness,,,,,0.9
+9.5,Description: Single Opening – Access Controlled (Elevator Control Room,False,38,,"Hinge, Full Mortise",TA2714,McKinney,,,0.89
+9.5,Description: Single Opening – Access Controlled (Elevator Control Room,False,38,1,Electric Power Transfer,EL-CEPT,Securitron,,,0.99
+9.5,Description: Single Opening – Access Controlled (Elevator Control Room,False,38,1,"Electrified Mortise Lock, Fail Secure",NAC-82271 LNMI,Sargent,,,0.99
+9.5,Description: Single Opening – Access Controlled (Elevator Control Room,False,38,1,Surface Closer,UNI-7500 / 7500 Per Conditions,Norton,,,0.99
+9.5,Description: Single Opening – Access Controlled (Elevator Control Room,False,38,1,Kick Plate,"K1050 x 10"" High x CSK x 4BE",Rockwood,,,0.99
+9.5,Description: Single Opening – Access Controlled (Elevator Control Room,False,38,1,Stop,RM860 / 446 / 9-ADJ Series Per Conditions,Rockwood,,,0.99
+9.5,Description: Single Opening – Access Controlled (Elevator Control Room,False,38,1,Gasketing,290 x 2891APK,Pemko,,,0.99
+9.5,Description: Single Opening – Access Controlled (Elevator Control Room,False,38,1,Door Shoe,234AV,Pemko,,,0.99
+9.5,Description: Single Opening – Access Controlled (Elevator Control Room,False,38,1,Threshold,18/1A,Pemko,,,0.99
+9.5,Description: Single Opening – Access Controlled (Elevator Control Room,False,38,1,Door/Frame Harness,,,,,0.9
+10.0,Description: Storeroom function pair,False,39,,"Hinge, Full Mortise",TA2714,McKinney,,,0.89
+10.0,Description: Storeroom function pair,False,39,1,Constant Latching Flush Bolt,2845/ 2945(as required),Rockwood,,,0.99
+10.0,Description: Storeroom function pair,False,39,1,Dust Proof Strike,570,Rockwood,,,0.99
+10.0,Description: Storeroom function pair,False,39,1,Storeroom/Closet Lock,8204 LNMI,Sargent,,,0.99
+10.0,Description: Storeroom function pair,False,39,1,Coordinator x Filler Bar x Brackets,2600 Series (Cutouts as Required),Rockwood,,,0.99
+10.0,Description: Storeroom function pair,False,39,2,Surface Closer,R 7500/ PR7500 (as required),Norton,,,0.99
+10.0,Description: Storeroom function pair,False,39,2,Kick Plate,"K1050 x 10"" High x CSK x 4BE",Rockwood,,,0.99
+10.0,Description: Storeroom function pair,False,39,2,Stop,RM860 / 446 / 9-ADJ Series Per Conditions,Rockwood,,,0.99
+10.0,Description: Storeroom function pair,False,39,1,Gasketing,S88BL,Pemko,,,0.99
+10.0,Description: Storeroom function pair,False,39,1,Gasketing,S44BL,Pemko,,,0.99
+11.0,"Description: Single Opening – Storeroom, Janitor",False,39,,"Hinge, Full Mortise",TA2714,McKinney,,,0.89
+11.0,"Description: Single Opening – Storeroom, Janitor",False,39,1,Storeroom/Closet Lock,8204 LNMI,Sargent,,,0.99
+11.0,"Description: Single Opening – Storeroom, Janitor",False,39,1,Surface Closer,R 7500/ PR7500 (as required),Norton,,,0.99
+11.0,"Description: Single Opening – Storeroom, Janitor",False,39,1,Kick Plate,"K1050 x 10"" High x CSK x 4BE",Rockwood,,,0.99
+11.0,"Description: Single Opening – Storeroom, Janitor",False,39,1,Stop,RM860 / 446 / 9-ADJ Series Per Conditions,Rockwood,,,0.99
+11.0,"Description: Single Opening – Storeroom, Janitor",False,39,1,Gasketing,S44BL,Pemko,,,0.99
+12.0,Description: Passage function with closer - single,False,40,,"Hinge, Full Mortise",TA2714,McKinney,,,0.89
+12.0,Description: Passage function with closer - single,False,40,1,Passage Latch,8215 LNMI,Sargent,,,0.99
+12.0,Description: Passage function with closer - single,False,40,1,Surface Closer,R 7500/ PR7500 (as required),Norton,,,0.99
+12.0,Description: Passage function with closer - single,False,40,1,Kick Plate,"K1050 x 10"" High x CSK x 4BE",Rockwood,,,0.99
+12.0,Description: Passage function with closer - single,False,40,1,Stop,RM860 / 446 / 9-ADJ Series Per Conditions,Rockwood,,,0.99
+12.0,Description: Passage function with closer - single,False,40,1,Gasketing,S44BL,Pemko,,,0.99
+13.0,Description: Single Opening – Multi-Stall Toilet at non-anchor tenant levels,False,40,,"Hinge, Full Mortise",TA2714,McKinney,,,0.89
+13.0,Description: Single Opening – Multi-Stall Toilet at non-anchor tenant levels,False,40,1,Push Plate,70C-RKW,Rockwood,,,0.99
+13.0,Description: Single Opening – Multi-Stall Toilet at non-anchor tenant levels,False,40,1,Door Pull,RM3301-48 Mtg-Type 12XHD,Rockwood,,,0.99
+13.0,Description: Single Opening – Multi-Stall Toilet at non-anchor tenant levels,False,40,1,Surface Closer,R 7500/ PR7500 (as required),Norton,,,0.99
+13.0,Description: Single Opening – Multi-Stall Toilet at non-anchor tenant levels,False,40,1,Kick Plate,"K1050 x 10"" High x CSK x 4BE",Rockwood,,,0.99
+13.0,Description: Single Opening – Multi-Stall Toilet at non-anchor tenant levels,False,40,1,Stop,RM860 / 446 / 9-ADJ Series Per Conditions,Rockwood,,,0.99
+13.0,Description: Single Opening – Multi-Stall Toilet at non-anchor tenant levels,False,40,1,Gasketing,S44BL,Pemko,,,0.99
+14.0,Description: Single Opening – Multi-Stall Toilet with Automatic Operator and touchless actuators at,False,41,,"Hinge, Full Mortise",TA2714,McKinney,,,0.89
+14.0,Description: Single Opening – Multi-Stall Toilet with Automatic Operator and touchless actuators at,False,41,1,Push Plate,70C-RKW,Rockwood,,,0.99
+14.0,Description: Single Opening – Multi-Stall Toilet with Automatic Operator and touchless actuators at,False,41,1,Door Pull,RM3301-48 Mtg-Type 12XHD,Rockwood,,,0.99
+14.0,Description: Single Opening – Multi-Stall Toilet with Automatic Operator and touchless actuators at,False,41,1,Automatic Operator,6400 mounted on pull side,LCN,,,0.99
+14.0,Description: Single Opening – Multi-Stall Toilet with Automatic Operator and touchless actuators at,False,41,2,Wave Plates,8310-813j (hardwired),LCN,,,0.99
+14.0,Description: Single Opening – Multi-Stall Toilet with Automatic Operator and touchless actuators at,False,41,1,Kick Plate,"K1050 x 10"" High x CSK x 4BE",Rockwood,,,0.99
+14.0,Description: Single Opening – Multi-Stall Toilet with Automatic Operator and touchless actuators at,False,41,1,Stop,RM860 / 446 / 9-ADJ Series Per Conditions,Rockwood,,,0.99
+14.0,Description: Single Opening – Multi-Stall Toilet with Automatic Operator and touchless actuators at,False,41,1,Gasketing,S44BL,Pemko,,,0.99
+15.0,Description: Con-Ed Opening,False,41,,,,,,,
+16.0,Description: Single Opening – Temporary Opening,False,41,,"Hinge, Full Mortise",TA2714,McKinney,,,0.89
+16.0,Description: Single Opening – Temporary Opening,False,41,1,Classroom Lock,8237 LNMI,Sargent,,,0.99
+16.0,Description: Single Opening – Temporary Opening,False,41,1,Surface Closer,CPS-1601,Norton,,,0.99
+16.0,Description: Single Opening – Temporary Opening,False,41,3,Silencers,SR64/ SR65,,,,1.0
+16.5,Description: Paired Opening – Temporary Opening,False,42,,"Hinge, Full Mortise",TA2714,McKinney,,,0.89
+16.5,Description: Paired Opening – Temporary Opening,False,42,1,Flush Bolt,555,Rockwood,,,0.99
+16.5,Description: Paired Opening – Temporary Opening,False,42,1,Classroom Lock,8237 LNMI,Sargent,,,0.99
+16.5,Description: Paired Opening – Temporary Opening,False,42,1,Surface Closer,CPS-1601,Norton,,,0.99
+16.5,Description: Paired Opening – Temporary Opening,False,42,3,Silencers,SR64/ SR65,,,,1.0
+17.0,"Description: Paired Opening – BOH Vestibule Paired Opening, FSAE Paired Closet",False,42,,"Hinge, Full Mortise",TA2714,McKinney,,,0.89
+17.0,"Description: Paired Opening – BOH Vestibule Paired Opening, FSAE Paired Closet",False,42,2,Flush Bolts,555,Rockwood,,,0.99
+17.0,"Description: Paired Opening – BOH Vestibule Paired Opening, FSAE Paired Closet",False,42,1,Dust Proof Strike,570,Rockwood,,,0.99
+17.0,"Description: Paired Opening – BOH Vestibule Paired Opening, FSAE Paired Closet",False,42,1,Storeroom Lock,8204 LNMI,Sargent,,,0.99
+17.0,"Description: Paired Opening – BOH Vestibule Paired Opening, FSAE Paired Closet",False,42,1,Surface Closer,R 7500/ PR7500 (as required),Norton,,,0.99
+17.0,"Description: Paired Opening – BOH Vestibule Paired Opening, FSAE Paired Closet",False,42,2,Stop,RM860 / 446 / 9-ADJ Series Per Conditions,Rockwood,,,0.99
+17.0,"Description: Paired Opening – BOH Vestibule Paired Opening, FSAE Paired Closet",False,42,1,Gasketing,S88BL,Pemko,,,0.99
+17.0,"Description: Paired Opening – BOH Vestibule Paired Opening, FSAE Paired Closet",False,42,1,Astragal,178SA,NGP,,,0.99
+18.0,Description: Single Opening – Office,False,42,,Pivot Set,,Rixson,,,0.8
+18.0,Description: Single Opening – Office,False,42,1,Locking Ladder Pull,LP3301 DBU,Rockwood,,,0.99
+18.0,Description: Single Opening – Office,False,42,1,Stop,RM860 / 446 / 9-ADJ Series Per Conditions,Rockwood,,,0.99
+19.0,Description: Single Opening – Office,False,43,,Hanging Device,By Door Manufacturer,,,,0.9
+19.0,Description: Single Opening – Office,False,43,1,Office Lock,By Door Manufacturer,,,,1.0
+19.0,Description: Single Opening – Office,False,43,1,Closer,By Door Manufacturer,,,,1.0
+19.0,Description: Single Opening – Office,False,43,1,Stop,RM860 / 446 / 9-ADJ Series Per Conditions,Rockwood,,,0.99
+20.0,"Description: Single Opening – Stairwell, Passage",False,43,1,"Rim Exit Device, Passage",[12] PE8815 ETMI Sargent,,,,1.0
+20.0,"Description: Single Opening – Stairwell, Passage",False,43,1,Surface Closer (Mounted on stairwell side of door),UNI-7500 Norton,,,,1.0
+20.0,"Description: Single Opening – Stairwell, Passage",False,43,1,Kick Plate,"K1050 x 10"" High x CSK x 4BE Rockwood",,,,1.0
+20.0,"Description: Single Opening – Stairwell, Passage",False,43,1,Gasketing,S44BL Pemko,,,,1.0
+20.0,"Description: Single Opening – Stairwell, Passage",False,43,1,Door Sweep,315CN Pemko,,,,1.0
+20.0,"Description: Single Opening – Stairwell, Passage",False,43,1,Threshold,151A Pemko,,,,1.0
+21.0,Description: Single Opening – Storeroom,False,43,,"Hinge, Full Mortise",TA2714,McKinney,,,0.89
+21.0,Description: Single Opening – Storeroom,False,43,1,Storeroom/Closet Lock,8204 LNMI,Sargent,,,0.99
+21.0,Description: Single Opening – Storeroom,False,43,1,Surface Closer,R 7500/ PR7500 (as required),Norton,,,0.99
+21.0,Description: Single Opening – Storeroom,False,43,1,Kick Plate,"K1050 x 10"" High x CSK x 4BE",Rockwood,,,0.99
+21.0,Description: Single Opening – Storeroom,False,43,1,Stop,RM860 / 446 / 9-ADJ Series Per Conditions,Rockwood,,,0.99
+21.0,Description: Single Opening – Storeroom,False,43,1,Gasketing,S44BL,Pemko,,,0.99
+22.0,Description: Single Opening – ATS Closet,False,44,,"Hinge, Full Mortise",TA2714,McKinney,,,0.89
+22.0,Description: Single Opening – ATS Closet,False,44,1,Storeroom/Closet Lock,8204 LNMI,Sargent,,,0.99
+22.0,Description: Single Opening – ATS Closet,False,44,1,Surface Closer,UNI-7500,Norton,,,0.99
+22.0,Description: Single Opening – ATS Closet,False,44,1,Gasketing,S88BL,Pemko,,,0.99
+23.0,"Description: Single Opening – ATS Room, UPS Room",False,44,,"Hinge, Full Mortise",T4A3786,McKinney,,,0.89
+23.0,"Description: Single Opening – ATS Room, UPS Room",False,44,1,"Mortise Exit Device, Nightlatch",[12] PE8904 ETL,Sargent,,,0.99
+23.0,"Description: Single Opening – ATS Room, UPS Room",False,44,1,Surface Closer,UNI-7500,Norton,,,0.99
+23.0,"Description: Single Opening – ATS Room, UPS Room",False,44,1,Gasketing,S88BL,Pemko,,,0.99
+24.0,Description: Single Opening – Closet,False,44,,"Hinge, Full Mortise",TA2714,McKinney,,,0.89
+24.0,Description: Single Opening – Closet,False,44,1,Classroom Lock,8237 LNMI,Sargent,,,0.99
+24.0,Description: Single Opening – Closet,False,44,1,Kick Plate,"K1050 x 10"" High x CSK x 4BE",Rockwood,,,0.99
+24.0,Description: Single Opening – Closet,False,44,1,Stop,RM860 / 446 / 9-ADJ Series Per Conditions,Rockwood,,,0.99
+24.0,Description: Single Opening – Closet,False,44,,Silencers,608,Rockwood,,,0.89
+25.0,Description: Single Opening – Concierge Support,False,45,,"Hinge, Full Mortise",TA2714,McKinney,,,0.89
+25.0,Description: Single Opening – Concierge Support,False,45,1,Classroom Lock,8237 LNMI,Sargent,,,0.99
+25.0,Description: Single Opening – Concierge Support,False,45,1,Closer,7500,Norton,,,0.99
+25.0,Description: Single Opening – Concierge Support,False,45,1,Kick Plate,"K1050 x 10"" High x CSK x 4BE",Rockwood,,,0.99
+25.0,Description: Single Opening – Concierge Support,False,45,1,Stop,RM860 / 446 / 9-ADJ Series Per Conditions,Rockwood,,,0.99
+25.0,Description: Single Opening – Concierge Support,False,45,,Silencers,608,Rockwood,,,0.89
+26.0,"Description: Single Opening – Single Use Restroom, Ballistic Door",False,45,1,Privacy Set,V01 8265 LNMI,Sargent,,,0.99
+26.0,"Description: Single Opening – Single Use Restroom, Ballistic Door",False,45,1,Kick Plate,"K1050 x 10"" High x CSK x 4BE",Rockwood,,,0.99
+26.0,"Description: Single Opening – Single Use Restroom, Ballistic Door",False,45,1,Stop,RM860 / 446 / 9-ADJ Series Per Conditions,Rockwood,,,0.99
+26.0,"Description: Single Opening – Single Use Restroom, Ballistic Door",False,45,,Silencers Hinges and closer by ballistic door manufacturer,608,Rockwood,,,0.89
+27.0,Description: Single Opening – Single Use Restroom,False,45,,"Hinge, Full Mortise",TA2714,McKinney,,,0.89
+27.0,Description: Single Opening – Single Use Restroom,False,45,1,Privacy Set,V01 8265 LNMI,Sargent,,,0.99
+27.0,Description: Single Opening – Single Use Restroom,False,45,1,Closer,7500,Norton,,,0.99
+27.0,Description: Single Opening – Single Use Restroom,False,45,1,Kick Plate,"K1050 x 10"" High x CSK x 4BE",Rockwood,,,0.99
+27.0,Description: Single Opening – Single Use Restroom,False,45,1,Stop,RM860 / 446 / 9-ADJ Series Per Conditions,Rockwood,,,0.99
+27.0,Description: Single Opening – Single Use Restroom,False,45,,Silencers,608,Rockwood,,,0.89
+28.0,Description: Corridor Pair,False,46,,"Hinge, Full Mortise",TA2714,McKinney,,,0.89
+28.0,Description: Corridor Pair,False,46,1,Constant Latching Flush Bolt,2845/ 2945(as required),Rockwood,,,0.99
+28.0,Description: Corridor Pair,False,46,1,Dust Proof Strike,570,Rockwood,,,0.99
+28.0,Description: Corridor Pair,False,46,1,Passage Set,8215 LNMI,Sargent,,,0.99
+28.0,Description: Corridor Pair,False,46,1,Coordinator x Filler Bar x Brackets,2600 Series (Cutouts as Required),Rockwood,,,0.99
+28.0,Description: Corridor Pair,False,46,2,Surface Closer,R 7500/ PR7500 (as required),Norton,,,0.99
+28.0,Description: Corridor Pair,False,46,2,Kick Plate,"K1050 x 10"" High x CSK x 4BE",Rockwood,,,0.99
+28.0,Description: Corridor Pair,False,46,2,Stop,RM860 / 446 / 9-ADJ Series Per Conditions,Rockwood,,,0.99
+28.0,Description: Corridor Pair,False,46,1,Gasketing,S88BL,Pemko,,,0.99
+28.0,Description: Corridor Pair,False,46,1,Astragal,178SA,Pemko,,,0.99

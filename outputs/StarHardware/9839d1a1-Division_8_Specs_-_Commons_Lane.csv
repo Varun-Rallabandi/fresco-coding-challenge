@@ -1,0 +1,285 @@
+set_number,set_description,not_used,page,qty,description,catalog_number,mfr,finish,notes,confidence
+A1,Entry Unit Doors,False,53,2,Door Viewers,Trimco #975U 625 TR,,,,0.6
+A1,Entry Unit Doors,False,53,1,Seal,TPE Triple Fin seals Seal 5075B (head & jambs) by NGP or,,,,0.6
+A1,Entry Unit Doors,False,53,1,Door Bottom,209D by Pemko,,,,0.6
+B1,Bedroom and Bathrooms,False,54,,"Hinges (residential #5PB1 light duty, no ball - Provide bearings required) pricing x","(size & quantity per Section 08 71 00) 625 IV 5PB1 for pricing, but provide alternate VE for residential grade, less gauge hinge 4” x 4” Ives or approved equal by door/frame",,,,0.54
+B1,Bedroom and Bathrooms,False,54,1,Passage Latchset,Frascio T600 x 270 Metro 625 FR,,,,0.6
+B1,Bedroom and Bathrooms,False,54,1,Alternate Option: Wall Door,4050.260 (3.75”) x Polished Chrome 260 BA,,,,0.6
+C2,,False,55,,"Hinges (residential light duty, no ball bearings required)","#5PB1 (size & quantity per Section 08 71 00) 625 IV - Provide 5PB1 for pricing, but provide alternate VE pricing for residential grade, less gauge hinge 4” x 4” x Ives or approved equal by",,,,0.54
+C2,,False,55,2,Roller Latch,1559A (installed in above frame) 625 TR,,,,0.6
+D1,,False,56,1,Slider Pocket Frame Complete System:,"Furnish and install complete “”: with factory complete kit, aluminum pocket frame (final trim supplied by contractor in wood framing): - See https://www.cavitysliders.com.au/Products/Cavity-",,,,0.6
+D1,,False,56,1,Option #1 – lockable and,CL400 Magnetic,,,,0.42
+D1,,False,56,2,Price option #2 also: 8”,1110-8 in concealed fasteners in 622 finish by Trimco,,,,0.6
+D1,,False,56,1,Price option #2 also: Sliding,Accurate Manufacturing #2001ADAP-5,,,,0.6
+D1,,False,57,1,OFFSET Hung In-Floor,FHC F900 OFFSET series single acting non-hold 622 FH,,,,0.6
+D1,,False,57,3,Structural Side,"Rixson manufacturing #ML19, Intermediate, 622",,,,0.6
+D1,,False,57,1,Bottom of doors to be,Per above specifications and by gate manufacturer (push-,,,,0.6
+01.1,,False,58,1,Hydraulic Closers / Hinges Sets,Locinox manufacturing #Tiger 180 Hydraulic LO Closers / Hinges Set: 180° hydraulic gate closer and hinge for gates up to 165 lbs. x Black Finish.,,,,0.6
+01.1,,False,58,1,I/C Cylinders (Rim or,20-057 or 20-061 (Rim or Mortise type & quantity 622 SC,,,,0.6
+01.1,,False,58,1,Stop,"7281 (installed per 08 71 00.Part 3), verify 622 TR",,,,0.6
+01.1,,False,58,1,Surface Door Position,"#7766 single pole, double",,,,0.6
+01.1,,False,59,1,Coordination task for,By security or electrical as required per Contract Documents:,,,,0.42
+02,,False,60,1,Center Hung In-Floor Closer Device,FHC F900 series single acting non-hold open center 622 FH hung (door to open smoothly past 90-degress to C meet code - with no backcheck until after 90-degrees):,,,,0.6
+02,,False,60,1,Cylinders (Rim or,20-057 or 20-061 x appropriate cam x blocking rings 622 SC,,,,0.6
+02,,False,60,1,Permanent Core,20-030 622 SC,,,,0.6
+02,,False,60,1,Stop,7281 (installed per 08 71 00.Part 3) 622 TR,,,,0.6
+02,,False,60,1,Raised Sill Threshold,Per Interior Design Drawings - final to be selected,,,,0.6
+02,,False,60,1,Power Supply,Furnish and install #1) single gang power drop located above or,,,,0.6
+02,,False,60,1,Door Position Switches,#679-05-HM by Schlage (coordinate with security or electrical,,,,0.6
+02,,False,61,1,Coordination task for,By security or electrical as required per Contract Documents:,,,,0.42
+02.1,,False,62,1,Center Hung In-Floor Closer Device,FHC F900 series single acting non-hold open center 622 FH hung (door to open smoothly past 90-degress to C meet code - with no backcheck until after 90-degrees):,,,,0.6
+02.1,,False,62,1,"L-Shaped, Top Latching",Basis of design: FHC HP100Z x LESS OUTSIDE 622 FH,,,,0.6
+02.1,,False,62,1,Strike,FHC HP1 622 FH,,,,0.6
+02.1,,False,62,1,Center Hung Pivot Floor,NGP manufacturing #4x428BR-DKB (dark oxidized oil rubbed,,,,0.6
+03,,False,63,1,Center Hung In-Floor Closer Device,FHC F900 series single acting non-hold open 622 FH center hung (door to open smoothly past 90-C degress to meet code - with no backcheck until after 90-degrees):,,,,0.6
+03,,False,63,1,Top Pivot Set,Dorma or equal top pivot #HD8062 622 DO,,,,0.6
+03,,False,63,1,Stop,7281 (installed per 08 71 00.Part 3) 622 TR,,,,0.6
+03,,False,63,1,Center Hung Pivot Floor,NGP manufacturing #4x428BR-DKB (dark oxidized oil rubbed,,,,0.6
+03,,False,63,1,REX,Bosch Security manufacturing detector #DS160i,,,,0.6
+03,,False,64,1,Power Supply,Furnish and install #1) single gang power drop located above,,,,0.6
+03,,False,64,1,Coordination task for By,security or electrical as required per Contract Documents:,,,,0.42
+04,,False,65,,Hinges,5BB1 (size & quantity per 08 71 00) 622 IV,,,,0.54
+04,,False,65,1,Power Transfer Hinge,5BB1 x 6-wire (size per 08 71 00) 622 IV,,,,0.6
+04,,False,65,1,ANSI Grade 1 Mortise Body Electrified Lockset,BASE Lever #6210SM x PVD #IXBSB satin black FR finish x M507EU-RX x L/C in PVD #IXBSB satin,,,,0.6
+04,,False,65,1,Permanent Core,20-030 622 SC,,,,0.6
+04,,False,65,1,Closer,4050A x REG (installed pull-side of door) 693 LC,,,,0.6
+04,,False,65,1,Door Bottom,202NDKB by NGP or equal,,,,0.6
+04,,False,65,1,Aluminum Threshold,513DBK flush condition (flat quarter inch) x mastic x by NGP,,,,0.6
+04,,False,65,1,Coordination task for,By security or electrical as required per Contract Documents:,,,,0.42
+04.1,,False,66,,Hinges,5BB1 (size & quantity per 08 71 00) 622 IV,,,,0.54
+04.1,,False,66,1,ANSI Grade 1 Mortise Body Storeroom-Type Lockset with Lever,BASE Lever #6210SM x PVD #IXBSB satin black FR finish x M507 x L/C in PVD #IXBSB satin black finish,,,,0.6
+04.1,,False,66,1,Overhead Rain,Provide #17DKB x FFW (fill frame width) by NGP,,,,0.6
+04.1,,False,66,,Hinges,5BB1 (size & quantity per 08 71 00) 622 IV,,,,0.54
+04.1,,False,66,1,Cylinders (Rim or,20-057 or 20-061 x appropriate cam x blocking 622 SC,,,,0.6
+04.1,,False,66,1,Closer x Stop Arm,4050A x CUSH 693 LC,,,,0.6
+04.1,,False,66,1,Aluminum Threshold,513DBK flush condition (flat quarter inch) x mastic x by NGP,,,,0.6
+04.3,,False,67,,Hinges,5BB1 (size & quantity per 08 71 00) 622 IV,,,,0.54
+04.3,,False,67,1,Cylinders (Rim or Mortise),20-057 or 20-061 x appropriate cam x blocking 622 SC rings as required (rim or mortise type and quantity as required by locking device),,,,0.6
+04.3,,False,67,1,Closer,4050A x REG (installed pull-side of door) 693 LC,,,,0.6
+04.3,,False,67,1,Finger Stop,"1208 (install on door, not on exterior wall) 626 TR",,,,0.6
+04.4,,False,68,,Hinges,5BB1HW (size & quantity per 08 71 00) 622 IV,,,,0.54
+04.4,,False,68,1,Power Transfer Hinge,5BB1HW x 6-wire (size per 08 71 00) 622 IV,,,,0.6
+04.4,,False,68,1,ANSI Grade 1 Mortise Body Electrified Lockset,BASE Lever #6210SM x PVD #IXBSB satin black FR finish x M507EU-RX x L/C in PVD #IXBSB satin,,,,0.6
+04.4,,False,68,1,Permanent Core,20-030 622 SC,,,,0.6
+04.4,,False,68,1,Closer x Stop Arm,4050A x CUSH 693 LC,,,,0.6
+04.4,,False,68,1,Aluminum Threshold,513DBK flush condition (flat quarter inch) x mastic x by NGP,,,,0.6
+04.4,,False,68,1,REX Device (security/,Specified in above locking hardware (coordinate with,,,,0.6
+04.5,,False,69,,Swing Clear Hinge,5BB1HWSC 5 inch or beveled edge 622 IV 5BB1HWBSC 5 inch as required per opening bevel (quantity per 08 7100),,,,0.54
+04.5,,False,69,1,Electrified Power,4612-1-SC (swing Dar AD,,,,0.6
+04.5,,False,69,1,Door Bottom,202NDKB by NGP or equal,,,,0.6
+04.5,,False,69,1,REX Device (security/,Specified in above locking hardware (coordinate with,,,,0.6
+04.5,,False,69,1,Power Supply,Furnish and install #1) single gang power drop located above,,,,0.6
+04.5,,False,69,1,Coordination task for,By security or electrical as required per Contract Documents:,,,,0.42
+05,(see gate details on architectural drawings),False,70,1,Hydraulic Closers / Locinox Hinges Set 180-degree pounds round provide,"#Mammoth 180 Hydraulic Closers/Hinges Set: Heavy duty hydraulic gate closer and hinge for gates up to 330 x Black Finish (note: if post similar to chain-link, additional Locinox",,,,0.6
+05,(see gate details on architectural drawings),False,70,1,Floor Stop 1214,622 TR,,,,0.6
+05,(see gate details on architectural drawings),False,70,1,Bottom of doors 10” Per,"above specifications and by gate manufacturer (push-side,",,,,0.6
+05,(see gate details on architectural drawings),False,70,1,Painted Full Height Per,above specifications and by gate manufacturer and per,,,,0.6
+05,(see gate details on architectural drawings),False,70,1,Surface Door Position #7766,"single pole, double throw x by Schlage",,,,0.6
+05,(see gate details on architectural drawings),False,70,1,Coordination task for,By security or electrical as required per Contract Documents:,,,,0.42
+05.1,(see gate details on architectural drawings),False,71,1,Hydraulic Closers / Locinox Hinges Set 180-degree pounds round provide,"#Mammoth 180 Hydraulic Closers/Hinges Set: Heavy duty hydraulic gate closer and hinge for gates up to 330 x Black Finish (note: if post similar to chain-link, additional Locinox",,,,0.6
+05.1,(see gate details on architectural drawings),False,71,1,Permanent Core 20-030,622 SC,,,,0.6
+05.1,(see gate details on architectural drawings),False,71,1,Bottom of doors 10” Per,"above specifications and by gate manufacturer (push-side,",,,,0.6
+05.1,(see gate details on architectural drawings),False,71,1,Painted Full Height Per,above specifications and by gate manufacturer and per,,,,0.6
+05.2,(see gate details on architectural drawings),False,72,1,Hydraulic Closers / Locinox Hinges Set 180-degree pounds round provide,"#Mammoth 180 Hydraulic Closers/Hinges Set: Heavy duty hydraulic gate closer and hinge for gates up to 330 x Black Finish (note: if post similar to chain-link, additional Locinox",,,,0.6
+06,,False,73,,Hinges,5BB1HW (size & quantity per 08 71 00) – verify all 622 IV rated doors will have steel-based hinges under the 622 finishes,,,,0.54
+06,,False,73,2,Power Transfer Hinge,5BB1HW x 6-wire (size per 08 71 00) 622 IV,,,,0.6
+06,,False,73,2,Surface Closer,4050A parallel arm (installed to swing 180-degrees 693 LC,,,,0.6
+06,,False,73,2,Armor Plate,"KA050 34"" tall x 2"" LDW (less door width) x B4E 630 TR",,,,0.6
+06,,False,73,2,UL Listed Split Astragal,672A by NGP or approved seal manufacturer,,,,0.6
+06,,False,73,1,Overhead Rain Drip,Provide #17DKB x FFW (fill frame width) by NGP,,,,0.6
+06,,False,73,1,REX Device (security/ alarm,Specified in above locking hardware (coordinate with Divisions,,,,0.6
+06,,False,73,2,Door Position Switches,#679-05-HM by Schlage (coordinate with security or electrical,,,,0.6
+06,,False,73,1,Coordination task for,By security or electrical as required per Contract Documents:,,,,0.42
+06.1,,False,74,,Hinges,5BB1HW (size & quantity per 08 71 00) – verify all 622 IV rated doors will have steel-based hinges under the 622 finishes,,,,0.54
+06.1,,False,74,2,Fire Rated Surface Vertical,AX 9927L-F x 996L-R/V x Longitude Lever x LBR x 622 VO,,,,0.6
+06.1,,False,74,2,I/C Cylinders (Rim or,20-057 or 20-061 (Rim or Mortise type & quantity 622 SC,,,,0.6
+06.1,,False,74,2,Stop,1214 (installed per 08 71 00.Part 3) 622 TR,,,,0.6
+06.1,,False,74,1,Seals,5050B seals (head & jambs) by NGP or approved seal,,,,0.6
+06.1,,False,74,1,Aluminum Threshold,427DKB flush condition or 659DKB offset as required per sill,,,,0.6
+06.2,,False,75,,Hinges,5BB1HW (size & quantity per 08 71 00) – verify all 622 IV rated doors will have steel-based hinges under the 622 finishes,,,,0.54
+06.2,,False,75,1,Fire Rated Rim Exit/Panic,AX 99L-F x 996L-R/V x Longitude Lever x BHMA 622 VO,,,,0.6
+06.2,,False,75,1,I/C Cylinders (Rim or,20-057 or 20-061 (Rim or Mortise type & quantity 622 SC,,,,0.6
+06.2,,False,75,1,Stop,1214 (installed per 08 71 00.Part 3) 622 TR,,,,0.6
+06.2,,False,75,1,Seals,5050B seals (head & jambs) by NGP or approved seal,,,,0.6
+06.3,,False,76,,Hinges,5BB1HW (size & quantity per 08 71 00) 622 IV,,,,0.54
+06.3,,False,76,2,Fire Rated Surface Vertical Rod Exit/Panic Device x Lockable Levers,AX 9927L-F x 996L-R/V x Longitude Lever x LBR x 622 VO Fire Bolts x BHMA 08 function. Delete -F where doors are not rated,,,,0.6
+06.3,,False,76,2,Armor Plate,"KA050 34"" tall x 2"" LDW (less door width) x B4E 630 TR",,,,0.6
+06.3,,False,76,1,Seals,5050B seals (head & jambs) by NGP or approved seal,,,,0.6
+06.3,,False,76,2,UL Listed Split Astragal,672A by NGP or approved seal manufacturer,,,,0.6
+06.3,,False,76,1,Threshold,513HD x SIA x mastic x by NGP (meet ANSI 156.21 per below),,,,0.6
+07,blocking rings) as required per specifications,False,76,,,,,,,
+08,_ Ea. Hinge 5BB1 (size & quantity per 08 71 00) 622 IV,False,77,1,Fire Rated Rim Exit/Panic Device with Passage Lever (never lockable),AX 99L-BE-F x 996L-BE x #Longitude Passage Lever 622 VO (never lockable),,,,0.6
+08,_ Ea. Hinge 5BB1 (size & quantity per 08 71 00) 622 IV,False,77,1,Kick Plate,"KO050 10"" tall x 2"" LDW (less door width) x B4E 622 TR",,,,0.6
+08,_ Ea. Hinge 5BB1 (size & quantity per 08 71 00) 622 IV,False,77,1,Door Bottom Sweep,202NDKB by NGP or approved equal,,,,0.6
+08,_ Ea. Hinge 5BB1 (size & quantity per 08 71 00) 622 IV,False,77,,Hinges,5BB1 (size & quantity per 08 71 00) 622 IV,,,,0.54
+08,_ Ea. Hinge 5BB1 (size & quantity per 08 71 00) 622 IV,False,77,1,Permanent Core,20-030 622 SC,,,,0.6
+08,_ Ea. Hinge 5BB1 (size & quantity per 08 71 00) 622 IV,False,77,1,Kick Plate,"KO050 10"" tall x 2"" LDW (less door width) x B4E 622 TR",,,,0.6
+08,_ Ea. Hinge 5BB1 (size & quantity per 08 71 00) 622 IV,False,77,1,Seals,5050B seals (head & jambs) by NGP or approved seal,,,,0.6
+08,_ Ea. Hinge 5BB1 (size & quantity per 08 71 00) 622 IV,False,77,1,Door Bottom,202NDKB by NGP or equal,,,,0.6
+08,_ Ea. Hinge 5BB1 (size & quantity per 08 71 00) 622 IV,False,77,1,Aluminum Threshold,427DKB flush condition or 659DKB offset as required per sill,,,,0.6
+09,,False,78,1,Hydraulic Closers / Hinges Sets,"Locinox manufacturing #Mammoth 180 Hydraulic LO Closers / Hinges Set: Heavy duty 180° hydraulic gate closer and hinge for gates up to 330 lbs. x Black Finish. At gates weighing over 330 pounds, provide Ultra heavy duty 180° hydraulic gate",,,,0.6
+09,,False,78,1,Permanent Core,23-030 622 SC,,,,0.6
+09,,False,78,1,Stop,"7281 (installed per 08 71 00.Part 3), verify 622 TR",,,,0.6
+09,,False,78,1,Bottom Rail (kickplate),"Gates to have greater than 10” clear, unobstructed and",,,,0.6
+09,,False,79,1,Painted Full Height,Per above specifications and by gate manufacturer and per,,,,0.6
+09,,False,80,1,Continuous Hinge Electrified,Select manufacturing SL11-HD device (120 inch or BL SE,,,,0.6
+09,,False,80,1,Surface Closer,4050A parallel arm (installed push-side) 693 LC,,,,0.6
+09,,False,80,1,QEL Power Supply,Furnish and install #1) single gang power drop located above or,,,,0.6
+09,,False,81,1,Rim Exit/Panic Device x Key,AX 33A-L x 360L x Longitude Lever. Note: AX is 622 VO,,,,0.6
+09,,False,81,1,Surface Closer,4050A parallel arm (installed push-side) 693 LC,,,,0.6
+09,,False,81,1,Stop,7281 (installed per 08 71 00.Part 3) 622 TR,,,,0.6
+09,,False,82,2,Continuous Hinge,Select manufacturing SL11-HD device (120 inch or BL SE,,,,0.6
+09,,False,82,1,Concealed Vertical Cable,AX CD 3349EO x LBL 622 VO,,,,0.6
+09,,False,82,3,I/C Cylinders (Rim or,20-057 or 20-061 (Rim or Mortise type & quantity as 622 SC,,,,0.6
+09,,False,82,3,Permanent Core,23-030 622 SC,,,,0.6
+09,,False,82,1,Seal,Seals are to be furnished by aluminum door/frame manufacturer,,,,0.6
+09,,False,82,2,Door Bottom Sweep,202NDKB by NGP or approved equal,,,,0.6
+12,,False,83,2,Continuous Hinge Select length Different affect marked,"manufacturing SL11-HD device (120 inch or BL SE as required for door height) x black anodized. door thicknesses and frame dimensions will hinge type. Per specifications whether or not throughout all, verify for proper hinge type",,,,0.6
+12,,False,83,1,Seal Seals,"by alum. door/frame manufacturer (head, jambs, and",,,,0.6
+12,,False,83,4,Door Bottom (both 202NDKB,by NGP or equal,,,,0.6
+12,,False,83,1,Overlapping Astragal 158VDKB,by NGP or approved seal manufacturer,,,,0.6
+13,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,84,1,ANSI Grade 1 Mortise Body Classroom-Type Lockset with Lever,BASE Lever #6210SM x M505 x FR L/C in PVD #IXBSB satin black finish (picture example of lever,,,,0.6
+13,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,84,1,I/C Cylinders (Rim or,20-057 or 20-061 x appropriate cam x blocking rings 622 SC,,,,0.6
+13,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,84,1,Wall Stop,1270CV 622 TR,,,,0.6
+13,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,84,1,Seals,5050B (head & jambs) by NGP,,,,0.6
+13.1,,False,85,3,Spring Hinges x Stop,K51M-450-B4 x Stops (size & quantity per 08 71 00) x 625 WA Bright Chrome Finish (call Waterson for custom order),,,,0.6
+13.1,,False,85,1,Privacy Latch Body with Lever (privacy x,BASE Lever #6210SM x PVD #IXBSB satin black FR finish x M523 x ADA thumbturn H41 (manufacturer,,,,0.6
+13.1,,False,85,1,I/C Cylinders (Rim or,20-057 or 20-061 x appropriate cam x blocking rings 622 SC,,,,0.6
+13.1,,False,85,1,Permanent Core,20-030 622 SC,,,,0.6
+14,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,86,1,Privacy Latch Body with Lever (privacy x occupancy indicator -,"BASE Lever #6210SM x PVD #IXBSB satin black FR finish x M523 x ADA thumbturn H41 (manufacturer has two #s, but furnish/install the decorative",,,,0.6
+14,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,86,1,Permanent Core,20-030 622 SC,,,,0.6
+14,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,86,1,Seals,5050B (head & jambs) by NGP,,,,0.6
+14,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,86,1,Door Bottom Sweep,202NDKB by NGP or approved equal,,,,0.6
+15,,False,87,,Hinge,5BB1 (size & quantity per 08 71 00) 622 IV,,,,0.54
+15,,False,87,1,ANSI Grade 1 Mortise Body Storeroom-Type Lockset with Lever,BASE Lever #6210SM x PVD #IXBSB satin black FR finish x M507 x L/C in PVD #IXBSB satin black finish (picture example of,,,,0.6
+15,,False,87,1,I/C Cylinders (Rim or,20-057 or 20-061 (Rim or Mortise type & quantity 622 SC,,,,0.6
+15,,False,87,1,Aluminum Threshold,513DBK flush condition (flat quarter inch) x mastic x by NGP,,,,0.6
+15.1,ees Storeroom-Type Lockset finish x M507 x L/C in PVD #IXBSB,False,87,1,I/C Cylinders (Rim or,20-057 or 20-061 (Rim or Mortise type & quantity 622 SC,,,,0.6
+15.1,ees Storeroom-Type Lockset finish x M507 x L/C in PVD #IXBSB,False,87,1,Permanent Core,23-030 622 SC,,,,0.6
+15.1,ees Storeroom-Type Lockset finish x M507 x L/C in PVD #IXBSB,False,87,1,Closer x Stop Arm,4050A x CUSH 693 LC,,,,0.6
+15.1,ees Storeroom-Type Lockset finish x M507 x L/C in PVD #IXBSB,False,87,1,Floor Stop,1214 622 TR,,,,0.6
+15.1,ees Storeroom-Type Lockset finish x M507 x L/C in PVD #IXBSB,False,87,1,Seals,5050B seals (head & jambs) by NGP or approved seal,,,,0.6
+15.1,ees Storeroom-Type Lockset finish x M507 x L/C in PVD #IXBSB,False,87,1,Door Bottom,202NDKB by NGP or equal,,,,0.6
+15.2,,False,88,,Hinge,5BB1HW (size & quantity per 08 71 00) 622 IV,,,,0.54
+15.2,,False,88,1,ANSI Grade 1 Mortise Body Storeroom-Type Lockset with Lever,BASE Lever #6210SM x PVD #IXBSB satin black FR finish x M507 x L/C in PVD #IXBSB satin black finish,,,,0.6
+15.2,,False,88,1,Permanent Core,23-030 622 SC,,,,0.6
+15.2,,False,88,1,Floor Stop,1214 622 TR,,,,0.6
+15.2,,False,88,1,Threshold – update at next,#430 x RCE (wrap frame stops x beveled miter ends) by NGP,,,,0.6
+15.3,,False,89,3,"Fasteners Gate Hinges (note: ABH manufacturer has a duplicate of this hinge that could be welded, fasteners preferred, see",A561WT Hinge (with Spring) – 6”X6”- Up to 130 Degree Swing by ABH manufacturing special factory detail #SP-6449 - Fasteners,,,,0.6
+15.3,,False,89,1,Overhead Stop,10 series (size -336 or as required by door width) 622 RX,,,,0.6
+15.3,,False,89,1,Permanent Core,23-030 622 SC,,,,0.6
+17,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,90,2,Exit Device AX,9949EO-F 622 VO,,,,0.6
+17,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,90,2,Closer 4050A,parallel arm (installed push-side) 693 LC,,,,0.6
+17,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,90,2,Kick Plate KO050,"10” tall x 2"" LDW (less door width) x B4E 630 TR",,,,0.6
+17,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,90,2,Floor Stop 1214,622 TR,,,,0.6
+17,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,90,1,Coordination task for By,security or electrical as required per Contract Documents:,,,,0.42
+17,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,91,,Hinges,5BB1 (size & quantity per 08 71 00) 622 IV,,,,0.54
+17,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,91,1,Fire Rated Rim,AX RX 99L-F x 996L (key override) x #Longitude 622 VO,,,,0.6
+17,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,91,1,I/C Cylinders (Rim or,20-057 or 20-061 x appropriate cam x blocking 622 SC,,,,0.6
+17,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,91,1,Permanent Core,20-030 622 SC,,,,0.6
+19,,False,92,,Continuous Hinge Electrified Wire Transfer,Select manufacturing SL11-HD device (120 inch BL SE or length as required for door height) x black anodized x #ATW accessible through wire transfer. Different door thicknesses and frame dimensions will affect hinge type. Per,,,,0.54
+19,,False,92,1,Threshold,#430 x RCE (wrap frame stops x beveled miter ends) by,,,,0.6
+19,,False,92,1,FLS (Fire/Life Safety),"Throughout project, whether or not specified, Contractor to",,,,0.6
+19,,False,93,1,Coordination task for,By security or electrical as required per Contract Documents:,,,,0.42
+19,,False,93,1,Stops (installed only after,7281. After door is opened as far as possible 622 TR,,,,0.6
+19,,False,93,1,Seals,"If stile and rail door type allows furnish at head, jambs and",,,Set,0.6
+21,,False,94,1,Door Rail Long Throw Lock and Dustproof Keeper Without Mounting Plate,Device #R777SL Frameless 613 FH Hardware x #DPS1BS https://fhc-usa.com/dps1bs x without mounting plate,,,Set,0.6
+21,,False,94,1,Permanent Core,20-030 622 SC,,,,0.6
+21,,False,94,1,Seals,If stile and rail door type allows furnish at head and jambs to,,,Set,0.6
+21.1,,False,95,,Hinges 5BB1HW,(size & quantity per 08 71 00) 622 IV,,,,0.54
+21.1,,False,95,1,Rim Exit/Panic Device AX x Keyn Override with,99L-F x 110NL-MD prepared and coordinated 622 VO Pull – delete -F on non-rated doors,,,,0.42
+21.1,,False,95,1,Anti-Vandal Pulls VR910NL,series (coordinate with 99L-NL-F x 630 IV,,,,0.6
+21.1,,False,95,1,I/C Cylinders (Rim or 20-057,or 20-061 x appropriate cam x blocking rings 622 SC,,,,0.6
+21.1,,False,95,1,Kick Plate KO050,"10"" tall x 2"" LDW (less door width) x B4E 630 TR",,,,0.6
+21.1,,False,95,1,Seals 5050B,seals (head & jambs) by NGP or approved seal,,,,0.6
+21.1,,False,95,1,Door Bottom 202NDKB,by NGP or equal,,,,0.6
+21.1,,False,95,1,I/C Cylinders (Rim or,20-057 or 20-061 x appropriate cam x 622 SC,,,,0.6
+21.1,,False,95,1,Permanent Core,20-030 622 SC,,,,0.6
+24,,False,96,1,Surface Vertical Rod Exit/Panic Device – Exit Only Function (no pull or key – adjacent doors to enter space),"AX 3327A-EO x LBR (as required by Nana 622 VO Door sliding locking device, verify with use Nana-door manufacturer before submittals)",,,,0.6
+25,,False,97,2,Continuous Hinge Select length Different affect marked,"manufacturing SL11-HD device (120 inch or BL SE as required for door height) x black anodized. door thicknesses and frame dimensions will hinge type. Per specifications whether or not throughout all, verify for proper hinge type",,,,0.6
+26,,False,98,2,Continuous Hinge Select length Different affect marked,"manufacturing SL11-HD device (120 inch or BL SE as required for door height) x black anodized. door thicknesses and frame dimensions will hinge type. Per specifications whether or not throughout all, verify for proper hinge type",,,,0.6
+26,,False,98,2,I/C Cylinders (Rim or 20-057,or 20-061 (Rim or Mortise type & quantity as 622 SC,,,,0.6
+26,,False,98,2,Closer x Stop 4050A,x CUSH 693 LC,,,,0.6
+26,,False,98,4,Door Bottom 202NDKB,by NGP or equal (install at both sides),,,,0.6
+26,,False,98,1,Terrace Threshold #430,x RCE (wrap frame stops x beveled miter ends) by NGP,,,,0.6
+27,final to be selected,False,99,1,Complete Kit for Pair Basis Doors – 4 Total Leafs weathersweep working together by (see Richard Wilcox devices,"of design: #No. 434 x weatherstrip No. 216 Astragal x No. 216 is used along the bottom of the doors = complete kit door schedule and plans, provide correct length and sizes of in submittals and shop drawings (means and methods",,,Kit,0.6
+27,final to be selected,False,99,,Hardware | 600 South throughout,by qualified door/hardware Vendor per part 087100 Part,,,,0.54
+27,final to be selected,False,99,2,Canebolt Padlock KS43F320,(2” inch shackle per above to not inhibit free,,,,0.6
+27,final to be selected,False,99,2,Canebolt Permanent 80-037,613 SC,,,,0.6
+27,final to be selected,False,99,1,Complete MS1850S-X5X,double keyed hookbolt (manufacturer AD,,,,0.6
+27,final to be selected,False,99,2,MS1850S-X5X 20-057,or 20-061 (Rim or Mortise type & quantity as 622 SC,,,,0.6
+27,final to be selected,False,100,,Hinge 5BB1HW,(size & quantity per 08 71 00) 622 IV,,,,0.54
+27,final to be selected,False,100,1,Rim Exit/Panic Device AX,"RX 99L-F x 996L (key override) x #Longitude Lever, 622 VO",,,,0.6
+27,final to be selected,False,100,1,I/C Cylinders (Rim or 20-057,or 20-061 (Rim or Mortise type & quantity as 622 SC,,,,0.6
+27,final to be selected,False,100,1,Permanent Core 23-030,622 SC,,,,0.6
+27,final to be selected,False,100,1,Kick Plate – final to be KO050,"10"" tall x 2"" LDW (less door width) x B4E 622 TR",,,,0.6
+27,final to be selected,False,100,1,Seals 5050B,seals (head & jambs) by NGP or approved seal,,,,0.6
+27,final to be selected,False,100,1,Door Bottom 202NDKB,by NGP or equal,,,,0.6
+31,,False,101,,Hinges,5BB1HW (size & quantity per 08 71 00) 622 IV,,,,0.54
+31,,False,101,1,Fire Rated Rim Exit/Panic Device,"AX 99L-F x 996L-R/V (key override) x #Longitude 622 VO Lever, delete -F if not rated",,,,0.6
+31,,False,101,1,I/C Cylinders (Rim or,20-057 or 20-061 x appropriate cam x blocking 622 SC,,,,0.6
+31,,False,101,1,Permanent Core,20-030 622 SC,,,,0.6
+31,,False,101,1,Door Bottom,202NDKB by NGP or equal,,,,0.6
+31,,False,101,1,Terrace Threshold,#430 x RCE (wrap frame stops x beveled miter ends) by,,,,0.6
+31,,False,101,1,Door Position Switches,#679-05-WD or #679-05-HM (as required per door material),,,,0.6
+31,,False,101,1,Power Supply,Furnish and install #1) single gang power drop located above,,,,0.6
+32,,False,102,,Hinges,5BB1 (size & quantity per 08 71 00) 622 IV,,,,0.54
+32,,False,102,1,Fire Rated Rim Exit/Panic Device with Lever,AX 99L-NL-F x 996L-NL-R/V (key override) x 622 VO #Longitude Lever,,,,0.6
+32,,False,102,1,Seal (4-sided frame),5050B seals or S88D seals,,,,0.6
+32,,False,102,1,Alternate Aluminum,427DKB flush condition or 659DKB offset as required per sill,,,,0.6
+32,,False,102,1,Overhead Rain Drip,Provide #17DKB x FFW (fill frame width) by NGP,,,,0.6
+32,,False,103,,Hinges,5BB1HW (size & quantity per 08 71 00) 622 IV,,,,0.54
+32,,False,103,1,Power Transfer Hinge,5BB1HW x 6-wire (size per 08 71 00) 622 IV,,,,0.6
+32,,False,103,1,Permanent Core,20-030 622 SC,,,,0.6
+32,,False,103,1,Surface Closer,4050A x REG (pull-side) 693 LC,,,,0.6
+32,,False,103,1,Floor Stop,7280 (installed per 08 71 00.Part 3) 622 TR,,,,0.6
+32,,False,103,1,Threshold (sound,410DB (flat) by NGP or approved seal manufacturer (per,,,,0.6
+32,,False,103,1,REX Device (security/,Specified in above locking hardware (coordinate with,,,,0.6
+32,,False,103,1,Door Position Switches,#679-05-WD or #679-05-HM (as required per door material),,,,0.6
+32,,False,103,1,Power Supply,Furnish and install #1) single gang power drop located above,,,,0.6
+32,,False,104,,Hinges,5BB1 (size & quantity per 08 71 00) 622 IV,,,,0.54
+32,,False,104,1,Power Transfer Hinge,5BB1 x 6-wire (size per 08 71 00) 622 IV,,,,0.6
+32,,False,104,1,ANSI Grade 1 Mortise,BASE Lever #6210SM x PVD #IXBSB satin black FR,,,,0.6
+32,,False,104,1,Door Position Switches,#679-05-WD or #679-05-HM (as required per door material),,,,0.6
+32,,False,104,1,Coordination task for,By security or electrical as required per Contract Documents:,,,,0.42
+32,,False,105,,Hinges,5BB1HW (size & quantity per 08 71 00) 622 IV,,,,0.54
+32,,False,105,1,Privacy Latch Body with,BASE Lever #6210SM x PVD #IXBSB satin black FR,,,,0.42
+32,,False,105,1,Closer,4050A x REG (required special templated for 689 LC,,,,0.6
+32,,False,106,1,Electrified Hinge 5BB1HW,-8 wire (size per 08 71 00) 622 IV,,,,0.6
+32,,False,106,1,Fire Rated Rim AX,RX 99L-F x E996L FS (key override) x #Longitude 622 VO,,,,0.6
+32,,False,106,1,Surface Closer 4050A,"(whether or not marked throughout all headings, 693 LC",,,,0.6
+32,,False,106,1,Seals 5050B,(head & jambs) by NGP,,,,0.6
+32,,False,106,1,Auto Door Bottom 423N,(or 320N application if required per door material) x DKB end,,,,0.6
+32,,False,106,1,Door Position Switches #679-05-WD,or #679-05-HM (as required per door material) by,,,,0.6
+32,,False,106,1,Power Supply Furnish,and install #1) single gang power drop located above or,,,,0.6
+S 102.1,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,107,1,Electrified Hinge 5BB1HW,-8 wire (size per 08 71 00) 622 IV,,,,0.6
+S 102.1,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,107,1,Fire Rated Rim AX Exit/Panic x Electrified Lever,RX 99L-F x E996L FS (key override) x #Longitude 622 VO (Fail-safe -coordinate with FLS or fire/smoke alarm,,,,0.6
+S 102.1,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,107,1,Surface Closer 4050A,"(whether or not marked throughout all headings, 693 LC",,,,0.6
+S 102.1,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,107,1,Seals 5050B,(head & jambs) by NGP,,,,0.6
+S 102.1,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,107,1,Auto Door Bottom 423N,(or 320N application if required per door material) x DKB end,,,,0.6
+S 102.1,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,107,1,Door Position #679-05-WD,or #679-05-HM (as required per door material) by,,,,0.6
+S 102.1,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,107,1,Power Supply Furnish,and install #1) single gang power drop located above or,,,,0.6
+S 102.1,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,107,1,FLS (Fire/Life Safety) Throughout,"project, whether or not specified, Contractor to provide",,,,0.6
+S 102.1,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,107,1,Coordination task for,By security or electrical as required per Contract Documents:,,,,0.42
+S 102.1,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,108,1,Continuous Hinge Electrified,Select manufacturing SL11-HD device (120 inch or BL SE,,,,0.6
+S 102.1,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,108,1,Surface Closer,4050A parallel arm (installed push-side) 693 LC,,,,0.6
+S 102.1,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,108,1,Coordination task for,By security or electrical as required per Contract Documents:,,,,0.42
+106,verify wide stile for 5” wide lockset,False,109,1,Continuous Hinge Electrified Wire Transfer,Select manufacturing SL11-HD device (120 inch or BL SE length as required for door height) x black anodized x #ATW accessible through wire transfer. Different door thicknesses and frame dimensions will affect hinge type. Per specifications whether or not marked,,,,0.6
+106,verify wide stile for 5” wide lockset,False,109,1,Seal,"Seals are to be furnished by door/frame manufacturer (head,",,,,0.6
+106,verify wide stile for 5” wide lockset,False,109,1,Power Supply,Furnish and install #1) single gang power drop located above or,,,,0.6
+106,verify wide stile for 5” wide lockset,False,109,1,Coordination task for,By security or electrical as required per Contract Documents: The,,,,0.42
+107,,False,110,1,Center Hung In-Floor Closer Device,FHC F900 series single acting non-hold open 622 FH center hung (door to open smoothly past 90-C degress to meet code - with no backcheck until after 90-degrees):,,,,0.6
+107,,False,110,1,Strike,FHC HP1 622 FH,,,,0.6
+107,,False,110,1,Concealed Overhead Stop,1ADJ (size -336 or as required by door width) 622 RX,,,,0.6
+108,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,111,1,ANSI Grade 1 Mortise BASE Body Passage-Type x Latchset with Lever satin,Lever #6210SM x PVD #IXBSB satin black finish FR M501 x L/C in PVD #IXBSB black finish (picture,,,,0.6
+108,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,111,1,Door Bottom 202NDKB,by NGP or approved manufacturer. Note: Install sweep,,,,0.6
+108,_ Ea. Hinge 5BB1HW (size & quantity per 08 71 00) 622 IV,False,111,1,Threshold 513HD-DKB,x mastic x by NGP (meet ANSI 156.21 per below),,,,0.6
+109,,False,112,,Hinge,5BB1 (size & quantity per 08 71 00) 622 IV,,,,0.54
+109,,False,112,1,ANSI Grade 1 Mortise Body Storeroom-Type Lockset with Lever,BASE Lever #6210SM x FR PVD #IXBSB satin black finish x M507 x L/C in PVD,,,,0.6
+109,,False,112,1,Threshold (sound,410DB (flat) by NGP or approved seal manufacturer (per,,,,0.6
+109,,False,112,,Hinges,5BB1HW (size & quantity per 08 71 00) 622 IV,,,,0.54
+109,,False,112,1,I/C Cylinders (Rim or,20-057 or 20-061 (Rim or Mortise type & 622 SC,,,,0.6
+109,,False,112,1,Seals,"If frame is wood or hollow metal, 5050B seals (head &",,,,0.6
+111,"In addition to the devices specified in hardware group/set below,",False,113,,required,by device),,,,0.54
+111,"In addition to the devices specified in hardware group/set below,",False,113,1,Permanent Core 20-030,622 SC,,,,0.6
+111,"In addition to the devices specified in hardware group/set below,",False,113,1,Closer x Stop Arm 4050A,x CUSH 693 LC,,,,0.6

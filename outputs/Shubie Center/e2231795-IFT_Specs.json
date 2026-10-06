@@ -1,0 +1,782 @@
+{
+  "source_file": "e2231795-IFT_Specs.pdf",
+  "hardware_pages": [
+    174,
+    175
+  ],
+  "columns": [
+    {
+      "pages": "174-175",
+      "columns": [
+        {
+          "x": 69,
+          "kind": "qty",
+          "confidence": 1.0,
+          "votes": {},
+          "examples": [
+            "1",
+            "4",
+            "3"
+          ]
+        },
+        {
+          "x": 99,
+          "kind": "unit",
+          "confidence": 1.0,
+          "votes": {},
+          "examples": [
+            "EA",
+            "EA-R"
+          ]
+        },
+        {
+          "x": 135,
+          "kind": "description",
+          "confidence": 1.0,
+          "votes": {},
+          "examples": [
+            "DOOR",
+            "RIM CYLINDER",
+            "OH STOP",
+            "CONT.",
+            "PANIC",
+            "ELECTRIC"
+          ]
+        },
+        {
+          "x": 168,
+          "kind": "description",
+          "confidence": 1.0,
+          "votes": {
+            "mfr": 0.8,
+            "finish": 0.0
+          },
+          "examples": [
+            "HARDWARE",
+            "HINGE",
+            "STRIKE",
+            "DOOR PULL",
+            "SWEEP",
+            "OPERATOR"
+          ]
+        },
+        {
+          "x": 270,
+          "kind": "catalog",
+          "confidence": 1.0,
+          "votes": {},
+          "examples": [
+            "80-329",
+            "112XY",
+            "33A-NL-OP-388",
+            "6300 FSE",
+            "9264 48\" 20\" O",
+            "100S"
+          ]
+        },
+        {
+          "x": 477,
+          "kind": "finish",
+          "confidence": 0.93,
+          "votes": {
+            "mfr": 0.5,
+            "finish": 2.6
+          },
+          "examples": [
+            "BLK",
+            "622",
+            "315",
+            "630",
+            "711",
+            "A"
+          ]
+        },
+        {
+          "x": 519,
+          "kind": "mfr",
+          "confidence": 0.99,
+          "votes": {
+            "mfr": 4.2,
+            "finish": 0.0
+          },
+          "examples": [
+            "IVE",
+            "VON",
+            "ZER",
+            "SCH",
+            "GLY",
+            "LCN"
+          ]
+        }
+      ]
+    }
+  ],
+  "learned_codes": {
+    "mfr": {},
+    "finish": {}
+  },
+  "stats": {
+    "format": "list",
+    "seconds": 0.78,
+    "pages_in_pdf": 201,
+    "hardware_pages": 2,
+    "ocr_pages": [],
+    "sets": 3,
+    "components": 31,
+    "low_confidence_sets": 0,
+    "ungrounded_values_removed": 0,
+    "ai_rereads": 0,
+    "cache": "miss"
+  },
+  "sets": [
+    {
+      "set_number": "01",
+      "description": null,
+      "doors": "D1 D2",
+      "not_used": false,
+      "location": [
+        {
+          "page": 174,
+          "bbox": [
+            66.0,
+            139.4,
+            541.1,
+            639.9
+          ],
+          "lines": [
+            5,
+            29
+          ]
+        },
+        {
+          "page": 175,
+          "bbox": [
+            73.0,
+            44.1,
+            532.1,
+            96.0
+          ],
+          "lines": [
+            0,
+            3
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "description": "CONT. HINGE",
+          "catalog_number": "112XY",
+          "mfr": "IVE",
+          "mfr_name": "Ives",
+          "finish": "711",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 174,
+          "bbox": [
+            70.0,
+            245.3,
+            535.5,
+            255.2
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "PANIC HARDWARE",
+          "catalog_number": "33A-NL-OP-388",
+          "mfr": "VON",
+          "mfr_name": "Von Duprin",
+          "finish": "315",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 174,
+          "bbox": [
+            70.0,
+            264.8,
+            541.1,
+            274.8
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "RIM CYLINDER",
+          "catalog_number": "80-329",
+          "mfr": "SCH",
+          "mfr_name": "Schlage",
+          "finish": "622",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 174,
+          "bbox": [
+            70.0,
+            284.3,
+            540.5,
+            294.2
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "ELECTRIC STRIKE",
+          "catalog_number": "6300 FSE",
+          "mfr": "VON",
+          "mfr_name": "Von Duprin",
+          "finish": "630",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 174,
+          "bbox": [
+            70.0,
+            303.8,
+            541.1,
+            313.8
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "LONG DOOR PULL",
+          "catalog_number": "9264 48\" 20\" O",
+          "mfr": "IVE",
+          "mfr_name": "Ives",
+          "finish": "BLK",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 174,
+          "bbox": [
+            70.0,
+            323.3,
+            535.5,
+            333.2
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "OH STOP",
+          "catalog_number": "100S",
+          "mfr": "GLY",
+          "mfr_name": "Glynn-Johnson",
+          "finish": "BLK",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 174,
+          "bbox": [
+            70.0,
+            342.8,
+            538.7,
+            352.8
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "AUTO OPERATOR",
+          "catalog_number": "9542",
+          "mfr": "LCN",
+          "mfr_name": "LCN",
+          "finish": "ANCL",
+          "notes": "EA-R",
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 174,
+          "bbox": [
+            70.0,
+            362.3,
+            539.4,
+            372.2
+          ]
+        },
+        {
+          "qty": 4,
+          "description": "ACTUATOR, TOUCH",
+          "catalog_number": "8310-818",
+          "mfr": "LCN",
+          "mfr_name": "LCN",
+          "finish": "630",
+          "notes": "EA-R",
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 174,
+          "bbox": [
+            69.9,
+            381.8,
+            539.4,
+            391.8
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "DOOR SWEEP",
+          "catalog_number": "8192A x door width",
+          "mfr": "ZER",
+          "mfr_name": "Zero International",
+          "finish": null,
+          "notes": null,
+          "confidence": 0.99,
+          "source": "rules",
+          "page": 174,
+          "bbox": [
+            69.9,
+            396.4,
+            539.4,
+            406.3
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "THRESHOLD",
+          "catalog_number": "545A x door width",
+          "mfr": "ZER",
+          "mfr_name": "Zero International",
+          "finish": null,
+          "notes": null,
+          "confidence": 0.99,
+          "source": "rules",
+          "page": 174,
+          "bbox": [
+            69.9,
+            410.9,
+            539.4,
+            420.9
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "DOOR SEALANT",
+          "catalog_number": "GASKETING BY DR SUPPLIER",
+          "mfr": "UNK",
+          "mfr_name": null,
+          "finish": null,
+          "notes": null,
+          "confidence": 0.99,
+          "source": "rules",
+          "page": 174,
+          "bbox": [
+            69.9,
+            430.3,
+            540.5,
+            440.3
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "WIRE HARNESS",
+          "catalog_number": "CON. TO SUIT",
+          "mfr": "SCH",
+          "mfr_name": "Schlage",
+          "finish": null,
+          "notes": null,
+          "confidence": 0.99,
+          "source": "rules",
+          "page": 174,
+          "bbox": [
+            69.9,
+            449.9,
+            540.4,
+            459.9
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "CREDENTIAL",
+          "catalog_number": "BY OTHERS",
+          "mfr": "UNK",
+          "mfr_name": null,
+          "finish": null,
+          "notes": null,
+          "confidence": 0.99,
+          "source": "rules",
+          "page": 174,
+          "bbox": [
+            69.9,
+            469.3,
+            540.5,
+            479.3
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "READER/CONTROLL",
+          "catalog_number": "BY OTHERS",
+          "mfr": "UNK",
+          "mfr_name": null,
+          "finish": null,
+          "notes": null,
+          "confidence": 0.99,
+          "source": "rules",
+          "page": 174,
+          "bbox": [
+            69.9,
+            488.8,
+            540.5,
+            498.7
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "DOOR CONTACT",
+          "catalog_number": "679-05 TO SUIT DR MATERIAL",
+          "mfr": "SCE",
+          "mfr_name": "Schlage Electronics",
+          "finish": "WHT",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 174,
+          "bbox": [
+            69.9,
+            508.3,
+            539.9,
+            518.3
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "POWER SUPPLY",
+          "catalog_number": "PS904 900-4RL 120/240 VAC",
+          "mfr": "SCE",
+          "mfr_name": "Schlage Electronics",
+          "finish": "LGR",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 174,
+          "bbox": [
+            69.9,
+            527.8,
+            539.9,
+            537.7
+          ]
+        }
+      ],
+      "notes": "DOORS ARE ALWAYS UNLOCKED DURING HOURS OF OPERATION MODE OF OPERATION A PERSON CAN ENTER PRESSING THE ACTUATOR BUTTON WHICH WILL RETRACT KEEPER ON ELECTRIC STRIKE AND ALLOW THE DOOR TO AUTOMATICALLY OPEN. FREE EGRESS AT ALL TIMES Shubenacadie Wetland Centre Section 08 71 10 Window & Door Replacement DOOR HARDWARE Shubenacadie East, NS Page 7 Dept. Project No. 110014163 2024-07-15",
+      "confidence": 0.93,
+      "warnings": []
+    },
+    {
+      "set_number": "02",
+      "description": null,
+      "doors": "D3 D5",
+      "not_used": false,
+      "location": [
+        {
+          "page": 175,
+          "bbox": [
+            66.0,
+            127.9,
+            540.9,
+            376.2
+          ],
+          "lines": [
+            4,
+            15
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "description": "CONT. HINGE",
+          "catalog_number": "112XY",
+          "mfr": "IVE",
+          "mfr_name": "Ives",
+          "finish": "711",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 175,
+          "bbox": [
+            70.0,
+            223.2,
+            535.4,
+            233.2
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "PANIC HARDWARE",
+          "catalog_number": "33A-NL-OP-388",
+          "mfr": "VON",
+          "mfr_name": "Von Duprin",
+          "finish": "315",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 175,
+          "bbox": [
+            70.0,
+            242.6,
+            540.9,
+            252.6
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "RIM CYLINDER",
+          "catalog_number": "80-329",
+          "mfr": "SCH",
+          "mfr_name": "Schlage",
+          "finish": "622",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 175,
+          "bbox": [
+            70.0,
+            262.2,
+            540.3,
+            272.2
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "LONG DOOR PULL",
+          "catalog_number": "9264 48\" 20\" O",
+          "mfr": "IVE",
+          "mfr_name": "Ives",
+          "finish": "BLK",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 175,
+          "bbox": [
+            70.0,
+            281.6,
+            535.4,
+            291.6
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "OH STOP",
+          "catalog_number": "100S",
+          "mfr": "GLY",
+          "mfr_name": "Glynn-Johnson",
+          "finish": "BLK",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 175,
+          "bbox": [
+            70.0,
+            301.2,
+            538.6,
+            311.2
+          ]
+        }
+      ],
+      "notes": "DOORS ARE ALWAYS LOCKED DURING HOURS OF OPERATION MODE OF OPERATION A PERSON CAN ENTER WITH KEY. FREE EGRESS AT ALL TIMES",
+      "confidence": 0.93,
+      "warnings": []
+    },
+    {
+      "set_number": "03",
+      "description": null,
+      "doors": "D4",
+      "not_used": false,
+      "location": [
+        {
+          "page": 175,
+          "bbox": [
+            66.0,
+            396.5,
+            540.6,
+            737.4
+          ],
+          "lines": [
+            16,
+            32
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4 NRP",
+          "mfr": "IVE",
+          "mfr_name": "Ives",
+          "finish": "622",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 175,
+          "bbox": [
+            70.0,
+            491.8,
+            535.0,
+            501.7
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "98-NL-OP-F 110MD",
+          "mfr": "VON",
+          "mfr_name": "Von Duprin",
+          "finish": "315",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 175,
+          "bbox": [
+            70.0,
+            511.3,
+            540.6,
+            521.3
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "RIM CYLINDER",
+          "catalog_number": "80-329",
+          "mfr": "SCH",
+          "mfr_name": "Schlage",
+          "finish": "622",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 175,
+          "bbox": [
+            70.0,
+            530.8,
+            540.0,
+            540.7
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "ELECTRIC STRIKE",
+          "catalog_number": "6300 FSE",
+          "mfr": "VON",
+          "mfr_name": "Von Duprin",
+          "finish": "630",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 175,
+          "bbox": [
+            70.0,
+            550.3,
+            540.6,
+            560.3
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "DOOR PULL",
+          "catalog_number": "8190HD 10”",
+          "mfr": "IVE",
+          "mfr_name": "Ives",
+          "finish": "BLK",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 175,
+          "bbox": [
+            70.0,
+            569.8,
+            535.0,
+            580.0
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "OH STOP",
+          "catalog_number": "90S",
+          "mfr": "GLY",
+          "mfr_name": "Glynn-Johnson",
+          "finish": "BLK",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 175,
+          "bbox": [
+            69.5,
+            589.9,
+            538.2,
+            599.9
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP LONG",
+          "mfr": "LCN",
+          "mfr_name": "LCN",
+          "finish": "622",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 175,
+          "bbox": [
+            69.5,
+            609.5,
+            538.9,
+            619.4
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING",
+          "catalog_number": "312A-S x door width x (2) door",
+          "mfr": "ZER",
+          "mfr_name": "Zero International",
+          "finish": "A",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 175,
+          "bbox": [
+            69.5,
+            628.9,
+            538.9,
+            638.9
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "DOOR SWEEP",
+          "catalog_number": "8192AA x door width",
+          "mfr": "ZER",
+          "mfr_name": "Zero International",
+          "finish": "AA",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 175,
+          "bbox": [
+            70.0,
+            648.5,
+            538.9,
+            658.4
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "THRESHOLD",
+          "catalog_number": "545A x door width",
+          "mfr": "ZER",
+          "mfr_name": "Zero International",
+          "finish": "A",
+          "notes": null,
+          "confidence": 0.93,
+          "source": "rules",
+          "page": 175,
+          "bbox": [
+            70.0,
+            667.9,
+            538.9,
+            677.9
+          ]
+        }
+      ],
+      "notes": "DOOR IS ALWAYS LOCKED DURING HOURS OF OPERATION MODE OF OPERATION A PERSON CAN ENTER WITH KEY. FREE EGRESS AT ALL TIMES",
+      "confidence": 0.93,
+      "warnings": []
+    }
+  ]
+}

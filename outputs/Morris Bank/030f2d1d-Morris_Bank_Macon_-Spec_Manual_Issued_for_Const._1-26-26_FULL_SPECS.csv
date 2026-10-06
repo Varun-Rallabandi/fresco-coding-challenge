@@ -1,0 +1,361 @@
+set_number,set_description,not_used,page,qty,description,catalog_number,mfr,finish,notes,confidence
+101,,False,233,1,Pair Doors #101 Opening Description:,"Vesitbule 103 to/from or 2 - 3' 0"" x 8' 0"" Type AL-NA-D8 Type AL-NA x N/A",RHRA,Exteri-105°,,0.96
+101,,False,233,2,Continuous Hinge,K10BEFM95HD1,PE,,,0.98
+101,,False,233,1,Deadlock,MS1850S Door Height Straight Bolt,AD,313,,0.96
+101,,False,233,1,Thumbturn Cylinder,4066-01,AD,313,,0.96
+101,,False,233,1,Mortise Cylinder,70 7P 43 13-0512,SA,10BE,,0.96
+101,,False,233,1,Construction Core,7190224,BE,,,0.98
+101,,False,233,2,Pull,"RM3301 35"" 2"" Doors CTC OVERALL",RO,10BE,,0.96
+101,,False,233,2,Pull,"RM3310 30"" 2"" Doors CTC OVERALL",RO,10BE,,0.96
+101,,False,233,1,Closer,SRI 268 OB,SA,10BE,RH,0.96
+101,,False,233,1,Closer,SRI 268 OB,SA,10BE,LH,0.96
+101,,False,233,1,Threshold,"2008-10BE-PK 72"" MSES25SS",PE,,,0.98
+102,,False,234,1,Single Door #102 Opening Description:,"Stair #01 Vesitbule 103 to/from #01 102 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-60-D5 x HMF 60MIN",LHR x,Stair 105° Type HM-60-F1,,0.96
+102,,False,234,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+102,,False,234,1,Exit Device,LC PE8806 F WEMD,SA,10BE,LHR,0.96
+102,,False,234,1,Rim Cylinder,70 7P 34,SA,10BE,,0.96
+102,,False,234,1,Construction Core,7190224,BE,,,0.98
+102,,False,234,1,Electric Strike,9600-LBM 2004M,HS,613E,,0.96
+102,,False,234,1,Closer,351 CPS TB,SA,10BE,,0.96
+102,,False,234,1,Wiring Harness,QC-C1500,MC,,,0.98
+102,,False,234,1,Power Supply,LSP-12-24,SA,,,0.98
+102,,False,234,1,Smoke Seal,S88 BL 21',PE,,,0.98
+103,,False,235,1,Pair Doors #103 Opening Description:,"Vesitbule 103 to/from ing Personal 106 2 - 3' 0"" x 8' 0"" Type AL-NA-D8 Type AL-NA x N/A",RHRA,Bank-105°,,0.96
+103,,False,235,2,Continuous Hinge,K10BEFM95HD1,PE,,,0.98
+103,,False,235,1,Deadlock,MS1850S Door Height Straight Bolt,AD,313,,0.96
+103,,False,235,1,Thumbturn Cylinder,4066-01,AD,313,,0.96
+103,,False,235,1,Mortise Cylinder,70 7P 43 13-0512,SA,10BE,,0.96
+103,,False,235,1,Construction Core,7190224,BE,,,0.98
+103,,False,235,2,Pull,"RM3301 35"" 2"" Doors CTC OVERALL",RO,10BE,,0.96
+103,,False,235,2,Pull,"RM3310 30"" 2"" Doors CTC OVERALL",RO,10BE,,0.96
+103,,False,235,1,Closer,SRI 268 OB,SA,10BE,RH,0.96
+103,,False,235,1,Closer,SRI 268 OB,SA,10BE,LH,0.96
+103,,False,235,2,Dome Stop,441,RO,10BE,,0.96
+104,,False,236,1,Single Door #104 Opening Description:,"Banking Personal 106 Office 104 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D3 x HMF N/A",RH x,to/from 105° Type HM-NA-F1,,0.96
+104,,False,236,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+104,,False,236,1,Lockset,"70 10XG05 LL 2 3/4"" BS",SA,10BE,,0.96
+104,,False,236,1,Construction Core,7190224,BE,,,0.98
+104,,False,236,1,Wall Stop,409,RO,10BE,,0.96
+104,,False,236,3,Door Silencer,608-RKW,RO,BLK,,0.96
+105,,False,237,1,Single Door #105 Opening Description:,"Banking Personal 106 Office 105 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D3 x HMF N/A",RH x,to/from 105° Type HM-NA-F1,,0.96
+105,,False,237,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+105,,False,237,1,Lockset,"70 10XG05 LL 2 3/4"" BS",SA,10BE,,0.96
+105,,False,237,1,Construction Core,7190224,BE,,,0.98
+105,,False,237,1,Wall Stop,409,RO,10BE,,0.96
+105,,False,237,3,Door Silencer,608-RKW,RO,BLK,,0.96
+106,,False,238,1,Single Door #106 Opening Description:,"Banking Personal 106 Exterior 3' 0"" x 8' 0"" Type AL-NA-D9 Type AL-NA x N/A",LHR,to/from 105°,,0.96
+106,,False,238,1,Continuous Hinge,K10BEFM95HD1,PE,,,0.98
+106,,False,238,1,Exit Device,31 PE8804 F LESS TRIM,SA,10BE,LHR,0.96
+106,,False,238,1,Rim Cylinder,70 7P 34,SA,10BE,,0.96
+106,,False,238,1,Construction Core,7190224,BE,,,0.98
+106,,False,238,1,Electric Strike,9600-LBM 2004M,HS,613E,,0.96
+106,,False,238,1,Pull,"RM3310 30"" 2"" Doors CTC OVERALL",RO,10BE,,0.96
+106,,False,238,1,Closer,SRI 268 OB,SA,10BE,RH,0.96
+106,,False,238,1,Dome Stop,441,RO,10BE,,0.96
+106,,False,238,1,Wiring Harness,QC-C1500,MC,,,0.98
+106,,False,238,1,Power Supply,LSP-12-24,SA,,,0.98
+106,,False,238,1,Threshold,"2008-10BE-PK 36"" MSES25SS",PE,,,0.98
+107,,False,239,1,Single Door #107 Opening Description:,"Banking Personal 106 Office 107 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D3 x HMF N/A",LH x,to/from 105° Type HM-NA-F1,,0.96
+107,,False,239,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+107,,False,239,1,Lockset,"70 10XG05 LL 2 3/4"" BS",SA,10BE,,0.96
+107,,False,239,1,Construction Core,7190224,BE,,,0.98
+107,,False,239,1,Wall Stop,409,RO,10BE,,0.96
+107,,False,239,3,Door Silencer,608-RKW,RO,BLK,,0.96
+108,,False,240,1,Single Door #108 Opening Description:,"Banking Personal 106 Office 108 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D3 x HMF N/A",RH x,to/from 105° Type HM-NA-F1,,0.96
+108,,False,240,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+108,,False,240,1,Lockset,"70 10XG05 LL 2 3/4"" BS",SA,10BE,,0.96
+108,,False,240,1,Construction Core,7190224,BE,,,0.98
+108,,False,240,1,Wall Stop,409,RO,10BE,,0.96
+108,,False,240,3,Door Silencer,608-RKW,RO,BLK,,0.96
+109,,False,241,1,Single Door #109 Opening Description:,"Banking Personal 106 Office 109 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D3 x HMF N/A",RH x,to/from 105° Type HM-NA-F1,,0.96
+109,,False,241,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+109,,False,241,1,Lockset,"70 10XG05 LL 2 3/4"" BS",SA,10BE,,0.96
+109,,False,241,1,Construction Core,7190224,BE,,,0.98
+109,,False,241,1,Wall Stop,409,RO,10BE,,0.96
+109,,False,241,3,Door Silencer,608-RKW,RO,BLK,,0.96
+111,,False,242,1,Single Door #111 Opening Description:,"Teller 112 to/from Cash 111 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D4 x HMF N/A",LH x,RM 105° Type HM-NA-F1,,0.96
+111,,False,242,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+111,,False,242,1,Lockset,"70 10XG37 LL 2 3/4"" BS",SA,10BE,,0.96
+111,,False,242,1,Construction Core,7190224,BE,,,0.98
+111,,False,242,1,Electric Strike,5000C-LBM 2004M,HS,630,,0.96
+111,,False,242,1,Closer,1131 HU,SA,EB,,0.96
+111,,False,242,1,Wall Stop,409,RO,10BE,,0.96
+111,,False,242,1,Wiring Harness,QC-C1500,MC,,,0.98
+111,,False,242,1,Power Supply,LSP-12-24,SA,,,0.98
+111,,False,242,3,Door Silencer,608-RKW,RO,BLK,,0.96
+112,,False,243,1,Single Door #112 Opening Description:,"Banking Personal 106 Teller 112 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D2 x HMF N/A",RH x,to/from 105° Type HM-NA-F1,,0.96
+112,,False,243,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+112,,False,243,1,Lockset,"70 10XG04 LL 2 3/4"" BS",SA,10BE,,0.96
+112,,False,243,1,Construction Core,7190224,BE,,,0.98
+112,,False,243,1,Electric Strike,5000C-LBM 2004M,HS,630,,0.96
+112,,False,243,1,Closer,1131 RU,SA,EB,,0.96
+112,,False,243,1,Wall Stop,409,RO,10BE,,0.96
+112,,False,243,1,Wiring Harness,QC-C1500,MC,,,0.98
+112,,False,243,1,Power Supply,LSP-12-24,SA,,,0.98
+112,,False,243,3,Door Silencer,608-RKW,RO,BLK,,0.96
+113,,False,244,1,Single Door #113 Opening Description:,"Corridor 114 to/from 113 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D1 x HMF N/A",RH x,Women 105° Type HM-NA-F1,,0.96
+113,,False,244,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+113,,False,244,1,Deadbolt,468 V21,SA,10BE,,0.96
+113,,False,244,1,Keypad Lock,"70 KP10XG77 LL 2 3/4"" BS",SA,10BE,,0.96
+113,,False,244,1,Construction Core,7190224,BE,,,0.98
+113,,False,244,1,Closer,1131 RU,SA,EB,,0.96
+113,,False,244,1,Wall Stop,409,RO,10BE,,0.96
+113,,False,244,3,Door Silencer,608-RKW,RO,BLK,,0.96
+115,,False,245,1,Single Door #115 Opening Description:,"Corridor 114 to/from 115 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D1 x HMF N/A",LH x,Men 105° Type HM-NA-F1,,0.96
+115,,False,245,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+115,,False,245,1,Deadbolt,468 V21,SA,10BE,,0.96
+115,,False,245,1,Keypad Lock,"70 KP10XG77 LL 2 3/4"" BS",SA,10BE,,0.96
+115,,False,245,1,Construction Core,7190224,BE,,,0.98
+115,,False,245,1,Closer,1131 RU,SA,EB,,0.96
+115,,False,245,1,Wall Stop,409,RO,10BE,,0.96
+115,,False,245,3,Door Silencer,608-RKW,RO,BLK,,0.96
+116,,False,246,1,Single Door #116 Opening Description:,"Elevator Equip 116 to/from Exterior 4' 0"" x 7' 10"" x 1 3/4"" x HMD Type HM-NA-D7 N/A",LHR x,105° x HMF Type HM-NA-F1,,0.96
+116,,False,246,1,Continuous Hinge,10BEFM95HD1,PE,,,0.98
+116,,False,246,1,Lockset,"70 10XG04 LL 2 3/4"" BS",SA,10BE,,0.96
+116,,False,246,1,Construction Core,7190224,BE,,,0.98
+116,,False,246,1,Closer,351 CPS,SA,10BE,,0.96
+116,,False,246,1,Wall Stop,409,RO,10BE,,0.96
+116,,False,246,1,Weatherstrip,"18061-10BE-NB 48""",PE,,,0.98
+116,,False,246,1,Raindrip,"346-10BE 52""",PE,,,0.98
+116,,False,246,1,Weatherstrip,"290-10BE-PK 1 x 48"" 2 x 96""",PE,,,0.98
+116,,False,246,1,Threshold,"2008-10BE-PK 48"" MSES25SS",PE,,,0.98
+116,,False,246,3,Door Silencer,608-RKW,RO,BLK,,0.96
+117,,False,247,1,Single Door #117 Opening Description:,"Corridor 114 to/from cal 117 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-90-D1 x HMF 90Min",LHR x,Electri-105° Type HM-90-F1,,0.96
+117,,False,247,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+117,,False,247,1,Lockset,"70 10XG04 LL 2 3/4"" BS",SA,10BE,,0.96
+117,,False,247,1,Construction Core,7190224,BE,,,0.98
+117,,False,247,1,Electric Strike,5000C-LBM 2004M,HS,630,,0.96
+117,,False,247,1,Closer,1131 RU,SA,EB,,0.96
+117,,False,247,1,Wall Stop,409,RO,10BE,,0.96
+117,,False,247,1,Wiring Harness,QC-C1500,MC,,,0.98
+117,,False,247,1,Power Supply,LSP-12-24,SA,,,0.98
+117,,False,247,1,Smoke Seal,S88 BL 21',PE,,,0.98
+118,,False,248,1,Single Door #118 Opening Description:,"Banking Personal 106 Storage 118 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D1 x HMF N/A",RH x,to/from 105° Type HM-NA-F1,,0.96
+118,,False,248,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+118,,False,248,1,Lockset,"70 10XG37 LL 2 3/4"" BS",SA,10BE,,0.96
+118,,False,248,1,Construction Core,7190224,BE,,,0.98
+118,,False,248,1,Wall Stop,409,RO,10BE,,0.96
+118,,False,248,3,Door Silencer,608-RKW,RO,BLK,,0.96
+119,,False,249,1,Single Door #119 Opening Description:,"Stair #2 119 to/from 3' 0"" x 7' 10"" x 1 3/4"" x HMD Type HM-NA-D7 N/A",LHR x,Exterior 105° x HMF Type HM-NA-F1,,0.96
+119,,False,249,1,Continuous Hinge,10BEFM95HD1,PE,,,0.98
+119,,False,249,1,Exit Device,LC PE8806 F WEMD,SA,10BE,LHR,0.96
+119,,False,249,1,Rim Cylinder,70 7P 34,SA,10BE,,0.96
+119,,False,249,1,Construction Core,7190224,BE,,,0.98
+119,,False,249,1,Electric Strike,9600-LBM 2004M,HS,613E,,0.96
+119,,False,249,1,Closer,351 CPS,SA,10BE,,0.96
+119,,False,249,1,Wiring Harness,QC-C1500,MC,,,0.98
+119,,False,249,1,Power Supply,LSP-12-24,SA,,,0.98
+119,,False,249,1,Weatherstrip,"290-10BE-PK 1 x 36"" 2 x 96""",PE,,,0.98
+119,,False,249,1,Raindrip,"346-10BE 40""",PE,,,0.98
+119,,False,249,1,Weatherstrip,"18061-10BE-NB 36""",PE,,,0.98
+119,,False,249,1,Threshold,"2008-10BE-PK 36"" MSES25SS",PE,,,0.98
+201,,False,250,1,Single Door #201 Opening Description:,"Stair #01 Stair #01 201 to/from bule 202 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-60-D5 x HMF 60MIN",LHR x,Vesti-105° Type HM-60-F1,,0.96
+201,,False,250,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+201,,False,250,1,Passage Set,"10XU15 LMD 2 3/4"" BS",SA,10BE,,0.96
+201,,False,250,1,Closer,351 CPS TB,SA,10BE,,0.96
+201,,False,250,1,Wall Stop,409,RO,10BE,,0.96
+201,,False,250,1,Smoke Seal,S88 BL 21',PE,,,0.98
+203,,False,251,1,Single Door #203 Opening Description:,"Open Space 206 to/from fice 203 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D3 x HMF N/A",LH x,Of-105° Type HM-NA-F1,,0.96
+203,,False,251,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+203,,False,251,1,Lockset,"70 10XG05 LL 2 3/4"" BS",SA,10BE,,0.96
+203,,False,251,1,Construction Core,7190224,BE,,,0.98
+203,,False,251,1,Wall Stop,409,RO,10BE,,0.96
+203,,False,251,3,Door Silencer,608-RKW,RO,BLK,,0.96
+205,,False,252,1,Pair Doors #205 Opening Description:,"Vestibule 204 to/from RM 205 2 - 3' 0"" x 8' 0"" x 1 3/4"" x WD Type PL-NA-D6 x N/A",RHRA x,Board 105° HMF Type HM-NA-F2,,0.96
+205,,False,252,8,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+205,,False,252,2,Straight Pull,"RM3101 30"" 1 3/4"" DOORS CTC OVERALL LENGTH TYPE 12XHD FASTENING",RO,10BE,,0.96
+205,,False,252,2,Cast Plate,"RM5596B 3 1/2 x 15 1 3/4"" DOORS",RO,10BE,,0.96
+205,,False,252,1,Closer,268 HB,SA,10BE,RH,0.96
+205,,False,252,1,Closer,268 HB,SA,10BE,LH,0.96
+205,,False,252,2,Door Silencer,608-RKW,RO,BLK,,0.96
+207,,False,253,1,Single Door #207 Opening Description:,"Open Space 206 to/from fice 207 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D3 x HMF N/A",RH x,Of-105° Type HM-NA-F1,,0.96
+207,,False,253,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+207,,False,253,1,Lockset,"70 10XG05 LL 2 3/4"" BS",SA,10BE,,0.96
+207,,False,253,1,Construction Core,7190224,BE,,,0.98
+207,,False,253,1,Wall Stop,409,RO,10BE,,0.96
+207,,False,253,3,Door Silencer,608-RKW,RO,BLK,,0.96
+208,,False,254,1,Single Door #208 Opening Description:,"Open Space 206 to/from fice 208 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D3 x HMF N/A",RH x,Of-105° Type HM-NA-F1,,0.96
+208,,False,254,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+208,,False,254,1,Lockset,"70 10XG05 LL 2 3/4"" BS",SA,10BE,,0.96
+208,,False,254,1,Construction Core,7190224,BE,,,0.98
+208,,False,254,1,Wall Stop,409,RO,10BE,,0.96
+208,,False,254,3,Door Silencer,608-RKW,RO,BLK,,0.96
+210,,False,255,1,Single Door #210 Opening Description:,"Corridor 213 to/from 210 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D1 x HMF N/A",RHR x,Janitor 105° Type HM-NA-F1,,0.96
+210,,False,255,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+210,,False,255,1,Lockset,"70 10XG04 LL 2 3/4"" BS",SA,10BE,,0.96
+210,,False,255,1,Construction Core,7190224,BE,,,0.98
+210,,False,255,1,Overhead Stop,598S,SA,10BE,,0.96
+210,,False,255,1,Wall Stop,409,RO,10BE,,0.96
+210,,False,255,3,Door Silencer,608-RKW,RO,BLK,,0.96
+211,,False,256,1,Single Door #211 Opening Description:,"Corridor 213 to/from RM 211 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D2 x HMF N/A",LH x,Break 105° Type HM-NA-F1,,0.96
+211,,False,256,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+211,,False,256,1,Passage Set,"10XU15 LMD 2 3/4"" BS",SA,10BE,,0.96
+211,,False,256,1,Closer,1131 HU,SA,EB,,0.96
+211,,False,256,1,Wall Stop,409,RO,10BE,,0.96
+211,,False,256,3,Door Silencer,608-RKW,RO,BLK,,0.96
+212,,False,257,1,Single Door #212 Opening Description:,"Corridor 213 to/from #02 212 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-60-D5 x HMF 60MIN",LHR x,Stair 105° Type HM-60-F1,,0.96
+212,,False,257,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+212,,False,257,1,Passage Set,"10XU15 LMD 2 3/4"" BS",SA,10BE,,0.96
+212,,False,257,1,Closer,351 CPS TB,SA,10BE,,0.96
+212,,False,257,1,Wall Stop,409,RO,10BE,,0.96
+212,,False,257,1,Smoke Seal,S88 BL 21',PE,,,0.98
+214,,False,258,1,Single Door #214 Opening Description:,"Corridor 213 to/from 214 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D1 x HMF N/A",LH x,Men 105° Type HM-NA-F1,,0.96
+214,,False,258,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+214,,False,258,1,Deadbolt,468 V21,SA,10BE,,0.96
+214,,False,258,1,Passage Set,"10XU15 LMD 2 3/4"" BS",SA,10BE,,0.96
+214,,False,258,1,Closer,1131 RU,SA,EB,,0.96
+214,,False,258,1,Wall Stop,409,RO,10BE,,0.96
+214,,False,258,3,Door Silencer,608-RKW,RO,BLK,,0.96
+215,,False,259,1,Single Door #215 Opening Description:,"Corridor 213 to/from 215 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D1 x HMF N/A",RH x,Women 105° Type HM-NA-F1,,0.96
+215,,False,259,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+215,,False,259,1,Deadbolt,468 V21,SA,10BE,,0.96
+215,,False,259,1,Passage Set,"10XU15 LMD 2 3/4"" BS",SA,10BE,,0.96
+215,,False,259,1,Closer,1131 RU,SA,EB,,0.96
+215,,False,259,1,Wall Stop,409,RO,10BE,,0.96
+215,,False,259,3,Door Silencer,608-RKW,RO,BLK,,0.96
+216,,False,260,1,Single Door #216 Opening Description:,"Open Space 206 to/from age 216 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D1 x HMF N/A",RH x,Stor-105° Type HM-NA-F1,,0.96
+216,,False,260,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+216,,False,260,1,Lockset,"70 10XG37 LL 2 3/4"" BS",SA,10BE,,0.96
+216,,False,260,1,Construction Core,7190224,BE,,,0.98
+216,,False,260,1,Wall Stop,409,RO,10BE,,0.96
+216,,False,260,3,Door Silencer,608-RKW,RO,BLK,,0.96
+217,,False,261,1,Single Door #217 Opening Description:,"Open Space 206 to/from fice 217 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D3 x HMF N/A",LH x,Of-105° Type HM-NA-F1,,0.96
+217,,False,261,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+217,,False,261,1,Lockset,"70 10XG05 LL 2 3/4"" BS",SA,10BE,,0.96
+217,,False,261,1,Construction Core,7190224,BE,,,0.98
+217,,False,261,1,Wall Stop,409,RO,10BE,,0.96
+217,,False,261,3,Door Silencer,608-RKW,RO,BLK,,0.96
+218,,False,262,1,Single Door #218 Opening Description:,"Open Space 206 to/from fice 218 3' 0"" x 8' 0"" x 1 3/4"" x WD Type WD-NA-D3 x HMF N/A",LH x,Of-105° Type HM-NA-F1,,0.96
+218,,False,262,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.96
+218,,False,262,1,Lockset,"70 10XG05 LL 2 3/4"" BS",SA,10BE,,0.96
+218,,False,262,1,Construction Core,7190224,BE,,,0.98
+218,,False,262,1,Wall Stop,409,RO,10BE,,0.96
+218,,False,262,3,Door Silencer,608-RKW,RO,BLK,,0.96
+218,,False,263,2,Control Key,7147449,BE,,,0.98
+218,,False,263,10,Operating Key,7148872,BE,,,0.98
+101.68,,False,283,2,Continuous Hinge,K10BEFM95HD1,PE,,,0.98
+101.68,,False,283,1,Deadlock,MS1850S Door Height Straight Bolt,AD,313,,0.97
+101.68,,False,283,1,Thumbturn Cylinder,4066-01,AD,313,,0.97
+101.68,,False,283,1,Mortise Cylinder,70 7P 43 13-0512,SA,10BE,,0.97
+101.68,,False,283,1,Construction Core,7190224,BE,,,0.98
+101.68,,False,283,2,Pull,"RM3301 35"" 2"" Doors CTC OVERALL LENGTH",RO,10BE,,0.97
+101.68,,False,283,2,Pull,"RM3310 30"" 2"" Doors CTC OVERALL LENGTH",RO,10BE,,0.97
+101.68,,False,283,2,Closer,SRI 268 OB,SA,10BE,,0.97
+101.68,,False,283,1,Threshold,"2008-10BE-PK 72"" MSES25SS",PE,,,0.98
+103.68,,False,284,2,Continuous Hinge,K10BEFM95HD1,PE,,,0.98
+103.68,,False,284,1,Deadlock,MS1850S Door Height Straight Bolt,AD,313,,0.97
+103.68,,False,284,1,Thumbturn Cylinder,4066-01,AD,313,,0.97
+103.68,,False,284,1,Mortise Cylinder,70 7P 43 13-0512,SA,10BE,,0.97
+103.68,,False,284,1,Construction Core,7190224,BE,,,0.98
+103.68,,False,284,2,Pull,"RM3301 35"" 2"" Doors CTC OVERALL LENGTH",RO,10BE,,0.97
+103.68,,False,284,2,Pull,"RM3310 30"" 2"" Doors CTC OVERALL LENGTH",RO,10BE,,0.97
+103.68,,False,284,2,Closer,SRI 268 OB,SA,10BE,,0.97
+103.68,,False,284,2,Dome Stop,441,RO,10BE,,0.97
+106.38,,False,285,1,Continuous Hinge,K10BEFM95HD1,PE,,,0.98
+106.38,,False,285,1,Exit Device,31 PE8804 F LESS TRIM,SA,10BE,,0.97
+106.38,,False,285,1,Rim Cylinder,70 7P 34,SA,10BE,,0.97
+106.38,,False,285,1,Construction Core,7190224,BE,,,0.98
+106.38,,False,285,1,Electric Strike,9600-LBM 2004M,HS,613E,,0.97
+106.38,,False,285,1,Pull,"RM3310 30"" 2"" Doors CTC OVERALL LENGTH",RO,10BE,,0.97
+106.38,,False,285,1,Closer,SRI 268 OB,SA,10BE,,0.97
+106.38,,False,285,1,Dome Stop,441,RO,10BE,,0.97
+106.38,,False,285,1,Wiring Harness,QC-C1500,MC,,,0.98
+106.38,,False,285,1,Power Supply,LSP-12-24,SA,,,0.98
+106.38,,False,285,1,Threshold,"2008-10BE-PK 36"" MSES25SS",PE,,,0.98
+119.38,,False,285,1,Continuous Hinge,10BEFM95HD1,PE,,,0.98
+119.38,,False,285,1,Exit Device,LC PE8806 F WEMD,SA,10BE,,0.97
+119.38,,False,285,1,Rim Cylinder,70 7P 34,SA,10BE,,0.97
+119.38,,False,285,1,Construction Core,7190224,BE,,,0.98
+119.38,,False,285,1,Closer,351 CPS,SA,10BE,,0.97
+119.38,,False,285,1,Weatherstrip,"290-10BE-PK 1 x 36"" 2 x 96""",PE,,,0.98
+119.38,,False,285,1,Raindrip,"346-10BE 40""",PE,,,0.98
+119.38,,False,285,1,Weatherstrip,"18061-10BE-NB 36""",PE,,,0.98
+119.38,,False,285,1,Threshold,"2008-10BE-PK 36"" MSES25SS",PE,,,0.98
+205.68,,False,286,8,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.97
+205.68,,False,286,2,Straight Pull,"RM3101 30"" 1 3/4"" DOORS CTC OVERALL LENGTH TYPE 12XHD FASTENING",RO,10BE,,0.97
+205.68,,False,286,2,Cast Plate,"RM5596B 3 1/2 x 15 1 3/4"" DOORS",RO,10BE,,0.97
+205.68,,False,286,2,Closer,268 HB,SA,10BE,,0.97
+205.68,,False,286,2,Door Silencer,608-RKW,RO,BLK,,0.97
+CR38,,False,286,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.97
+CR38,,False,286,1,Lockset,"70 10XG37 LL 2 3/4"" BS",SA,10BE,,0.97
+CR38,,False,286,1,Construction Core,7190224,BE,,,0.98
+CR38,,False,286,1,Wall Stop,409,RO,10BE,,0.97
+CR38,,False,286,3,Door Silencer,608-RKW,RO,BLK,,0.97
+CR38CLHO,,False,286,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.97
+CR38CLHO,,False,286,1,Lockset,"70 10XG37 LL 2 3/4"" BS",SA,10BE,,0.97
+CR38CLHO,,False,286,1,Construction Core,7190224,BE,,,0.98
+CR38CLHO,,False,286,1,Closer,1131 HU,SA,EB,,0.97
+CR38CLHO,,False,286,1,Wall Stop,409,RO,10BE,,0.97
+CR38CLHO,,False,286,3,Door Silencer,608-RKW,RO,BLK,,0.97
+CR38CLHO,,False,287,2,Control Key,7147449,BE,,,0.98
+CR38CLHO,,False,287,10,Operating Key,7148872,BE,,,0.98
+OF38,,False,287,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.97
+OF38,,False,287,1,Lockset,"70 10XG05 LL 2 3/4"" BS",SA,10BE,,0.97
+OF38,,False,287,1,Construction Core,7190224,BE,,,0.98
+OF38,,False,287,1,Wall Stop,409,RO,10BE,,0.97
+OF38,,False,287,3,Door Silencer,608-RKW,RO,BLK,,0.97
+211,3080,False,287,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.97
+211,3080,False,287,1,Passage Set,"10XU15 LMD 2 3/4"" BS",SA,10BE,,0.97
+211,3080,False,287,1,Closer,1131 HU,SA,EB,,0.97
+211,3080,False,287,1,Wall Stop,409,RO,10BE,,0.97
+211,3080,False,287,3,Door Silencer,608-RKW,RO,BLK,,0.97
+PR38ICCL,,False,288,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.97
+PR38ICCL,,False,288,1,Deadbolt,468 V21,SA,10BE,,0.97
+PR38ICCL,,False,288,1,Keypad Lock,"70 KP10XG77 LL 2 3/4"" BS",SA,10BE,,0.97
+PR38ICCL,,False,288,1,Construction Core,7190224,BE,,,0.98
+PR38ICCL,,False,288,1,Closer,1131 RU,SA,EB,,0.97
+PR38ICCL,,False,288,1,Wall Stop,409,RO,10BE,,0.97
+PR38ICCL,,False,288,3,Door Silencer,608-RKW,RO,BLK,,0.97
+PR38INCL,,False,288,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.97
+PR38INCL,,False,288,1,Deadbolt,468 V21,SA,10BE,,0.97
+PR38INCL,,False,288,1,Passage Set,"10XU15 LMD 2 3/4"" BS",SA,10BE,,0.97
+PR38INCL,,False,288,1,Closer,1131 RU,SA,EB,,0.97
+PR38INCL,,False,288,1,Wall Stop,409,RO,10BE,,0.97
+PR38INCL,,False,288,3,Door Silencer,608-RKW,RO,BLK,,0.97
+SR38,,False,288,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.97
+SR38,,False,288,1,Lockset,"70 10XG04 LL 2 3/4"" BS",SA,10BE,,0.97
+SR38,,False,288,1,Construction Core,7190224,BE,,,0.98
+SR38,,False,288,1,Overhead Stop,598S,SA,10BE,,0.97
+SR38,,False,288,1,Wall Stop,409,RO,10BE,,0.97
+SR38,,False,288,3,Door Silencer,608-RKW,RO,BLK,,0.97
+SR38CL,,False,289,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.97
+SR38CL,,False,289,1,Lockset,"70 10XG04 LL 2 3/4"" BS",SA,10BE,,0.97
+SR38CL,,False,289,1,Construction Core,7190224,BE,,,0.98
+SR38CL,,False,289,1,Closer,1131 RU,SA,EB,,0.97
+SR38CL,,False,289,1,Wall Stop,409,RO,10BE,,0.97
+SR38CL,,False,289,3,Door Silencer,608-RKW,RO,BLK,,0.97
+SR38CLCA,,False,289,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.97
+SR38CLCA,,False,289,1,Lockset,"70 10XG04 LL 2 3/4"" BS",SA,10BE,,0.97
+SR38CLCA,,False,289,1,Construction Core,7190224,BE,,,0.98
+SR38CLCA,,False,289,1,Electric Strike,5000C-LBM 2004M,HS,630,,0.97
+SR38CLCA,,False,289,1,Closer,1131 RU,SA,EB,,0.97
+SR38CLCA,,False,289,1,Wall Stop,409,RO,10BE,,0.97
+SR38CLCA,,False,289,1,Wiring Harness,QC-C1500,MC,,,0.98
+SR38CLCA,,False,289,1,Power Supply,LSP-12-24,SA,,,0.98
+SR38CLCA,,False,289,3,Door Silencer,608-RKW,RO,BLK,,0.97
+SW38RPA,,False,289,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.97
+SW38RPA,,False,289,1,Passage Set,"10XU15 LMD 2 3/4"" BS",SA,10BE,,0.97
+SW38RPA,,False,289,1,Closer,351 CPS TB,SA,10BE,,0.97
+SW38RPA,,False,289,1,Wall Stop,409,RO,10BE,,0.97
+SW38RPA,,False,289,1,Smoke Seal,S88 BL 21',PE,,,0.98
+SW38RXCA,,False,290,4,Hinges,MPB79 4 1/2 x 4 1/2 NRP,MC,10BE,,0.97
+SW38RXCA,,False,290,1,Exit Device,LC PE8806 F WEMD,SA,10BE,,0.97
+SW38RXCA,,False,290,1,Rim Cylinder,70 7P 34,SA,10BE,,0.97
+SW38RXCA,,False,290,1,Construction Core,7190224,BE,,,0.98
+SW38RXCA,,False,290,1,Electric Strike,9600-LBM 2004M,HS,613E,,0.97
+SW38RXCA,,False,290,1,Closer,351 CPS TB,SA,10BE,,0.97
+SW38RXCA,,False,290,1,Wiring Harness,QC-C1500,MC,,,0.98
+SW38RXCA,,False,290,1,Power Supply,LSP-12-24,SA,,,0.98
+SW38RXCA,,False,290,1,Smoke Seal,S88 BL 21',PE,,,0.98
+SW38RXCA,,False,290,1,Continuous Hinge,10BEFM95HD1,PE,,,0.98
+SW38RXCA,,False,290,1,Lockset,"70 10XG04 LL 2 3/4"" BS",SA,10BE,,0.97
+SW38RXCA,,False,290,1,Construction Core,7190224,BE,,,0.98
+SW38RXCA,,False,290,1,Closer,351 CPS,SA,10BE,,0.97
+SW38RXCA,,False,290,1,Wall Stop,409,RO,10BE,,0.97
+SW38RXCA,,False,290,1,Weatherstrip,"18061-10BE-NB 48""",PE,,,0.98
+SW38RXCA,,False,290,1,Raindrip,"346-10BE 52""",PE,,,0.98
+SW38RXCA,,False,290,1,Weatherstrip,"290-10BE-PK 1 x 48"" 2 x 96""",PE,,,0.98
+SW38RXCA,,False,290,1,Threshold,"2008-10BE-PK 48"" MSES25SS",PE,,,0.98
+SW38RXCA,,False,290,3,Door Silencer,608-RKW,RO,BLK,,0.97
+46,""" above floor.",False,659,,9. C. Plates: 1. 2. 3. 4.,All receptacles installed in kitchens or outdoors Weather Resistant GFCI type. Plates shall be level and all edges shall be in full Plates shall be furnished for all devices and other drawings. Install plates on outlet boxes and junction boxes above ceilings and on surface mounted outlets. Plates shall not be used to keep devices secure.,and on the,shall be Tamper contact with wall. outlets indicated in unfinished areas,,0.87
+46,""" above floor.",False,659,,5. 6.,"Plates shall be clean and free from dust, plaster Plate shall cover openings around outlets.",,or paint and spots.,,0.62

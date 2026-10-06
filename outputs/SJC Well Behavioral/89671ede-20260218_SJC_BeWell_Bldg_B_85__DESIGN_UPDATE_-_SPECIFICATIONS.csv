@@ -1,0 +1,728 @@
+set_number,set_description,not_used,page,qty,description,catalog_number,mfr,finish,notes,confidence
+01,Interior Single Bedroom - Classroom Lock/Ligature Resistant - No Closer - Rescu e Hdw,False,711,1,Continuous Hinge-Double Acting,A508,ABH,630,Set,1.0
+01,Interior Single Bedroom - Classroom Lock/Ligature Resistant - No Closer - Rescu e Hdw,False,711,1,Ligature Res. Mortise Lock-Classrm,MRX-A-05,TOW,630,,1.0
+01,Interior Single Bedroom - Classroom Lock/Ligature Resistant - No Closer - Rescu e Hdw,False,711,1,Cylinder,Per project,TBD,630,,1.0
+01,Interior Single Bedroom - Classroom Lock/Ligature Resistant - No Closer - Rescu e Hdw,False,711,1,Door Stop,1841,ABH,630,,1.0
+01,Interior Single Bedroom - Classroom Lock/Ligature Resistant - No Closer - Rescu e Hdw,False,711,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+01,Interior Single Bedroom - Classroom Lock/Ligature Resistant - No Closer - Rescu e Hdw,False,711,1,Emergency Rescue Stop,A509,ABH,630,,1.0
+02,Interior Single - Office Lockset/Ligature Resistant - No Closer - Continuous Hinge,False,711,1,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+02,Interior Single - Office Lockset/Ligature Resistant - No Closer - Continuous Hinge,False,711,1,Ligature Res. Cyl. Lock-Office,CRX-A-81,TOW,630,,1.0
+02,Interior Single - Office Lockset/Ligature Resistant - No Closer - Continuous Hinge,False,711,1,Cylinder,Per project,TBD,630,,1.0
+02,Interior Single - Office Lockset/Ligature Resistant - No Closer - Continuous Hinge,False,711,1,Door Stop,1841,ABH,630,,1.0
+02,Interior Single - Office Lockset/Ligature Resistant - No Closer - Continuous Hinge,False,711,1,Gasketing,A NTI-LIG 5050,NGP,BLK,Set,1.0
+02A,Interior Single - Office Lock/Ligature Resistant - Surface Closer/Track-Arm - Con t Hinge,False,711,1,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+02A,Interior Single - Office Lock/Ligature Resistant - Surface Closer/Track-Arm - Con t Hinge,False,711,1,Ligature Res. Cyl. Lock-Office,CRX-A-81,TOW,630,,1.0
+02A,Interior Single - Office Lock/Ligature Resistant - Surface Closer/Track-Arm - Con t Hinge,False,711,1,Cylinder,Per project,TBD,630,,1.0
+02A,Interior Single - Office Lock/Ligature Resistant - Surface Closer/Track-Arm - Con t Hinge,False,711,1,OH Surface Closer - Track Arm,4210T/4510T TRX mount on public side,LCN,689,,1.0
+02A,Interior Single - Office Lock/Ligature Resistant - Surface Closer/Track-Arm - Con t Hinge,False,711,1,Door Stop,1841,ABH,630,,1.0
+02A,Interior Single - Office Lock/Ligature Resistant - Surface Closer/Track-Arm - Con t Hinge,False,711,1,Gasketing,A NTI-LIG 5050,NGP,BLK,Set,1.0
+03,Interior Single - Storeroom Lock/Ligature Resistant - Surface Closer/Track-Arm - Cont Hng,False,711,1,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+03,Interior Single - Storeroom Lock/Ligature Resistant - Surface Closer/Track-Arm - Cont Hng,False,711,1,Ligature Res. Cyl. Lock-Storerm,CRX-A-86,TOW,630,,1.0
+03,Interior Single - Storeroom Lock/Ligature Resistant - Surface Closer/Track-Arm - Cont Hng,False,711,1,Cylinder,Per project,TBD,630,,1.0
+03,Interior Single - Storeroom Lock/Ligature Resistant - Surface Closer/Track-Arm - Cont Hng,False,711,1,OH Surface Closer - Track Arm,4040XPT TROX,LCN,689,,1.0
+03,Interior Single - Storeroom Lock/Ligature Resistant - Surface Closer/Track-Arm - Cont Hng,False,711,1,Door Stop,1841,ABH,630,,1.0
+03,Interior Single - Storeroom Lock/Ligature Resistant - Surface Closer/Track-Arm - Cont Hng,False,711,1,Gasketing,A NTI-LIG 5050,NGP,BLK,Set,1.0
+04,Interior Single - Storeroom Lockset/Ligature Resistant - Surface Closer - Continu ous Hng,False,712,1,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+04,Interior Single - Storeroom Lockset/Ligature Resistant - Surface Closer - Continu ous Hng,False,712,1,Ligature Res. Cyl. Lock-Storerm,CRX-A-86,TOW,630,,1.0
+04,Interior Single - Storeroom Lockset/Ligature Resistant - Surface Closer - Continu ous Hng,False,712,1,Cylinder,Per project,TBD,630,,1.0
+04,Interior Single - Storeroom Lockset/Ligature Resistant - Surface Closer - Continu ous Hng,False,712,1,OH Surface Closer,4210T/4510T TBTRX mount public side,LCN,689,,1.0
+04,Interior Single - Storeroom Lockset/Ligature Resistant - Surface Closer - Continu ous Hng,False,712,1,Door Stop,1841,ABH,630,,1.0
+04,Interior Single - Storeroom Lockset/Ligature Resistant - Surface Closer - Continu ous Hng,False,712,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+04A,Interior Single - Storeroom Lockset/Ligature Resistant - Surface Closer - Continu ous Hng,False,712,1,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+04A,Interior Single - Storeroom Lockset/Ligature Resistant - Surface Closer - Continu ous Hng,False,712,1,Ligature Res. Cyl. Lock-Storerm,CRX-A-86,TOW,630,,1.0
+04A,Interior Single - Storeroom Lockset/Ligature Resistant - Surface Closer - Continu ous Hng,False,712,1,Cylinder,Per project,TBD,630,,1.0
+04A,Interior Single - Storeroom Lockset/Ligature Resistant - Surface Closer - Continu ous Hng,False,712,1,OH Surface Closer,4040XPT BUMP Torx,LCN,689,,1.0
+04A,Interior Single - Storeroom Lockset/Ligature Resistant - Surface Closer - Continu ous Hng,False,712,1,Gasketing,A NTI-LIG 5050,NGP,BLK,Set,1.0
+05,Interior Single - Storeroom Lockset - Surface Closer - Butt Hinges,False,712,,Hinge-HT,CB51 HT,PBB,630,as required,0.9
+05,Interior Single - Storeroom Lockset - Surface Closer - Butt Hinges,False,712,1,Cyl. Lock-Storerm,CDC-86-S,TOW,626,,1.0
+05,Interior Single - Storeroom Lockset - Surface Closer - Butt Hinges,False,712,1,Cylinder,Per project,TBD,626,,1.0
+05,Interior Single - Storeroom Lockset - Surface Closer - Butt Hinges,False,712,1,OH Surface Closer,4040XP/4040XP EDA,LCN,689,,1.0
+05,Interior Single - Storeroom Lockset - Surface Closer - Butt Hinges,False,712,1,Door Stop,Per Specification,,,,1.0
+05,Interior Single - Storeroom Lockset - Surface Closer - Butt Hinges,False,712,1,Gasketing,5 050,NGP,BLK,Set,1.0
+05A,Interior Single - Storeroom Lockset - No Closer - Butt Hinges,False,712,,Hinge-HT,CB51 HT,PBB,630,as required,0.9
+05A,Interior Single - Storeroom Lockset - No Closer - Butt Hinges,False,712,1,Cyl. Lock-Storerm,CDC-86-S,TOW,626,,1.0
+05A,Interior Single - Storeroom Lockset - No Closer - Butt Hinges,False,712,1,Cylinder,Per project,TBD,626,,1.0
+05A,Interior Single - Storeroom Lockset - No Closer - Butt Hinges,False,712,1,Door Stop,Per Specification,,,,1.0
+05A,Interior Single - Storeroom Lockset - No Closer - Butt Hinges,False,712,1,Gasketing,5 050,NGP,BLK,Set,1.0
+06,Interior Single - Card Reader - Elec Fail-Secure Lock - Surface Closer - Butt Hinge s,False,713,,Hinge-HT,CB51 HT,PBB,630,as required,0.9
+06,Interior Single - Card Reader - Elec Fail-Secure Lock - Surface Closer - Butt Hinge s,False,713,1,Hinge-Power Transfer,CB51EL HT,PBB,630,,1.0
+06,Interior Single - Card Reader - Elec Fail-Secure Lock - Surface Closer - Butt Hinge s,False,713,1,Fail Secure Cyl. Lock,XCDC-86-S-RQE Fail Secure 24VDC,TOW,626,,1.0
+06,Interior Single - Card Reader - Elec Fail-Secure Lock - Surface Closer - Butt Hinge s,False,713,1,Cylinder,Per project,TBD,626,,1.0
+06,Interior Single - Card Reader - Elec Fail-Secure Lock - Surface Closer - Butt Hinge s,False,713,1,OH Surface Closer,4040XP/4040XP EDA,LCN,689,,1.0
+06,Interior Single - Card Reader - Elec Fail-Secure Lock - Surface Closer - Butt Hinge s,False,713,1,Door Stop,Per Specification,,,,1.0
+06,Interior Single - Card Reader - Elec Fail-Secure Lock - Surface Closer - Butt Hinge s,False,713,1,Gasketing,5050,NGP,BLK,Set,1.0
+06,Interior Single - Card Reader - Elec Fail-Secure Lock - Surface Closer - Butt Hinge s,False,713,1,Card Reader,By Division 28,,,,1.0
+06,Interior Single - Card Reader - Elec Fail-Secure Lock - Surface Closer - Butt Hinge s,False,713,1,Door Position Switch,By Division 28,,,,1.0
+06,Interior Single - Card Reader - Elec Fail-Secure Lock - Surface Closer - Butt Hinge s,False,713,1,Lock Power Supply,By Division 28,,,,1.0
+07,Interior Single - Institutional Privacy/Occ Ind - Ligature Resistant - Self Closing Cont Hing e,False,713,1,Self Closing Continuous Hinge,A507SC HT,ABH,628,Set,1.0
+07,Interior Single - Institutional Privacy/Occ Ind - Ligature Resistant - Self Closing Cont Hing e,False,713,1,Ligature Res Mort Lock-Ins.Privacy/ID,MRX-A-26-O,TOW,630,,1.0
+07,Interior Single - Institutional Privacy/Occ Ind - Ligature Resistant - Self Closing Cont Hing e,False,713,1,Cylinder,Per project,TBD,630,,1.0
+07,Interior Single - Institutional Privacy/Occ Ind - Ligature Resistant - Self Closing Cont Hing e,False,713,1,OH Concealed Closer,2031 Torx,LCN,689,,1.0
+07,Interior Single - Institutional Privacy/Occ Ind - Ligature Resistant - Self Closing Cont Hing e,False,713,1,Door Stop,1841,ABH,630,,1.0
+07,Interior Single - Institutional Privacy/Occ Ind - Ligature Resistant - Self Closing Cont Hing e,False,713,1,Gasketing,A NTI-LIG 5050,NGP,BLK,Set,1.0
+07A,Interior Single - Storeroom Privacy w/ID&Override - Ligature Resistant - SRCL - Cont Hin ge,False,713,1,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+07A,Interior Single - Storeroom Privacy w/ID&Override - Ligature Resistant - SRCL - Cont Hin ge,False,713,1,Lig Res Mortise Lock-Strm Priv w/ID,MRX-A-15-O (Storerm Prvy W/ID ORD),TOW,630,,1.0
+07A,Interior Single - Storeroom Privacy w/ID&Override - Ligature Resistant - SRCL - Cont Hin ge,False,713,1,Cylinder,Per project,TBD,630,,1.0
+07A,Interior Single - Storeroom Privacy w/ID&Override - Ligature Resistant - SRCL - Cont Hin ge,False,713,1,OH Surface Closer,4210T/4510T TBTRX mount on public side,LCN,689,,1.0
+07A,Interior Single - Storeroom Privacy w/ID&Override - Ligature Resistant - SRCL - Cont Hin ge,False,713,1,OH Concealed Closer,2031 BUMP,LCN,689,,1.0
+07A,Interior Single - Storeroom Privacy w/ID&Override - Ligature Resistant - SRCL - Cont Hin ge,False,713,1,Door Stop,1841,ABH,630,,1.0
+07A,Interior Single - Storeroom Privacy w/ID&Override - Ligature Resistant - SRCL - Cont Hin ge,False,713,1,Gasketing,A NTI-LIG 5050,NGP,BLK,Set,1.0
+07B,Interior Single - Institutional Privacy/Occ Ind - Ligature Resistant - OHCC - Cont Hinge,False,714,1,Self Closing Continuous Hinge,A507SC HT,ABH,628,Set,1.0
+07B,Interior Single - Institutional Privacy/Occ Ind - Ligature Resistant - OHCC - Cont Hinge,False,714,1,Lig Res Mortise Lock-Strm Priv w/ID,MRX-A-15-O (Storerm Prvy W/ID ORD),TOW,630,,1.0
+07B,Interior Single - Institutional Privacy/Occ Ind - Ligature Resistant - OHCC - Cont Hinge,False,714,1,Cylinder,Per project,TBD,630,,1.0
+07B,Interior Single - Institutional Privacy/Occ Ind - Ligature Resistant - OHCC - Cont Hinge,False,714,1,OH Concealed Closer,2031 BUMP,LCN,689,,1.0
+07B,Interior Single - Institutional Privacy/Occ Ind - Ligature Resistant - OHCC - Cont Hinge,False,714,1,Door Stop,1841,ABH,630,,1.0
+07B,Interior Single - Institutional Privacy/Occ Ind - Ligature Resistant - OHCC - Cont Hinge,False,714,1,Gasketing,A NTI-LIG 5050,NGP,BLK,Set,1.0
+08,Interior Single - Hotel Lockset - Surface Closer - Butt Hinges,False,714,,Hinge-HT,CB51 HT,PBB,630,as required,0.9
+08,Interior Single - Hotel Lockset - Surface Closer - Butt Hinges,False,714,1,Cyl. Lock-Hotel,CDC-93-S,TOW,626,,1.0
+08,Interior Single - Hotel Lockset - Surface Closer - Butt Hinges,False,714,1,Cylinder,Per project,TBD,626,,1.0
+08,Interior Single - Hotel Lockset - Surface Closer - Butt Hinges,False,714,1,OH Surface Closer,4040XP/4040XP EDA,LCN,689,,1.0
+08,Interior Single - Hotel Lockset - Surface Closer - Butt Hinges,False,714,1,Door Stop,Per Specification,,,,1.0
+08,Interior Single - Hotel Lockset - Surface Closer - Butt Hinges,False,714,1,Gasketing,5 050,NGP,BLK,Set,1.0
+09,Interior Single - Classroom Lockset/Ligature Resistant - No Closer - Continuous Hinge,False,714,1,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+09,Interior Single - Classroom Lockset/Ligature Resistant - No Closer - Continuous Hinge,False,714,1,Ligature Res. Cyl. Lock-Classrm,CRX-A-84,TOW,630,,1.0
+09,Interior Single - Classroom Lockset/Ligature Resistant - No Closer - Continuous Hinge,False,714,1,Cylinder,Per project,TBD,630,,1.0
+09,Interior Single - Classroom Lockset/Ligature Resistant - No Closer - Continuous Hinge,False,714,1,Door Stop,1841,ABH,630,,1.0
+09,Interior Single - Classroom Lockset/Ligature Resistant - No Closer - Continuous Hinge,False,714,1,Gasketing,A NTI-LIG 5050,NGP,BLK,Set,1.0
+09A,Interior Single - Classroom Lockset - No Closer - Butt Hinges,False,714,,Hinge-HT,CB51 HT,PBB,630,as required,0.9
+09A,Interior Single - Classroom Lockset - No Closer - Butt Hinges,False,714,1,Cyl. Lock-Classrm,CDC-84-S,TOW,626,,1.0
+09A,Interior Single - Classroom Lockset - No Closer - Butt Hinges,False,714,1,Cylinder,Per project,TBD,626,,1.0
+09A,Interior Single - Classroom Lockset - No Closer - Butt Hinges,False,714,1,Door Stop,Per Specification,,,,1.0
+09A,Interior Single - Classroom Lockset - No Closer - Butt Hinges,False,714,1,Gasketing,5 050,NGP,BLK,Set,1.0
+09B,Interior Single - Classroom Lockset/Ligature Resistant - No Closer - Continuous Hinge,False,715,1,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+09B,Interior Single - Classroom Lockset/Ligature Resistant - No Closer - Continuous Hinge,False,715,1,Ligature Res. Mortise Lock-Classrm,MRX-A-05,TOW,630,,1.0
+09B,Interior Single - Classroom Lockset/Ligature Resistant - No Closer - Continuous Hinge,False,715,1,Cylinder,Per project,TBD,630,,1.0
+09B,Interior Single - Classroom Lockset/Ligature Resistant - No Closer - Continuous Hinge,False,715,1,Door Stop,1841,ABH,630,,1.0
+09B,Interior Single - Classroom Lockset/Ligature Resistant - No Closer - Continuous Hinge,False,715,1,Gasketing,A NTI-LIG 5050,NGP,BLK,Set,1.0
+10,Interior Single - Card Reader - Elec Fail Secure/Fail-Safe Lock/Lig Res - Surface Closer,False,715,1,Continuous Hinge,AC500 HT SEC TW8,ABH,630,Set,1.0
+10,Interior Single - Card Reader - Elec Fail Secure/Fail-Safe Lock/Lig Res - Surface Closer,False,715,1,Lig Res. Mortise Lock-Fail Safe/Secure,X-MRX-A-241/242C-RQE Fail Saf/Secure,TOW,630,,1.0
+10,Interior Single - Card Reader - Elec Fail Secure/Fail-Safe Lock/Lig Res - Surface Closer,False,715,2,Cylinder,Per project,TBD,630,,1.0
+10,Interior Single - Card Reader - Elec Fail Secure/Fail-Safe Lock/Lig Res - Surface Closer,False,715,1,OH Surface Closer,4210T/4510T TBTRX mount on public side,LCN,689,,1.0
+10,Interior Single - Card Reader - Elec Fail Secure/Fail-Safe Lock/Lig Res - Surface Closer,False,715,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+10,Interior Single - Card Reader - Elec Fail Secure/Fail-Safe Lock/Lig Res - Surface Closer,False,715,1,Card Reader,By Division 28,,,,1.0
+10,Interior Single - Card Reader - Elec Fail Secure/Fail-Safe Lock/Lig Res - Surface Closer,False,715,1,Door Position Switch,By Division 28,,,,1.0
+10,Interior Single - Card Reader - Elec Fail Secure/Fail-Safe Lock/Lig Res - Surface Closer,False,715,1,Lock Power Supply,By Division 28,,,,1.0
+10C,Exterior doors only moved to Exterior Set HW E13; Door S100B is interior,False,715,1,Continuous Hinge,AC500 HT SEC,ABH,630,,1.0
+10C,Exterior doors only moved to Exterior Set HW E13; Door S100B is interior,False,715,1,Ligature Res. Push/Pull Set,MRX-A-72,TOW,630,Set,1.0
+10C,Exterior doors only moved to Exterior Set HW E13; Door S100B is interior,False,715,1,Overhead Surface Auto Operator,SW200i 115VAC,BSM,628,,1.0
+10C,Exterior doors only moved to Exterior Set HW E13; Door S100B is interior,False,715,,Wave Sense Actuator,MS31 / MS41,BEA,,as required,0.9
+10C,Exterior doors only moved to Exterior Set HW E13; Door S100B is interior,False,715,1,Door Stop,Per Specification,,,,1.0
+10C,Exterior doors only moved to Exterior Set HW E13; Door S100B is interior,False,715,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+10C,Exterior doors only moved to Exterior Set HW E13; Door S100B is interior,False,715,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+11,Moved to Exterior Set HW E14,False,715,,,,,,,
+12,Interior Single - Passage Latchset/Ligature Resistant - OHC Closer - Cont Hng - Re scue,False,716,1,Continuous Hinge-Double Acting,A507,ABH,628,Set,1.0
+12,Interior Single - Passage Latchset/Ligature Resistant - OHC Closer - Cont Hng - Re scue,False,716,1,Ligature Res. Mortise Lock-Classroom,MRX-A-05,TOW,630,,1.0
+12,Interior Single - Passage Latchset/Ligature Resistant - OHC Closer - Cont Hng - Re scue,False,716,1,Cylinder,Per project,TBD,630,,1.0
+12,Interior Single - Passage Latchset/Ligature Resistant - OHC Closer - Cont Hng - Re scue,False,716,1,Double Acting OH Concealed Closer,KG35,KSG,630,,1.0
+12,Interior Single - Passage Latchset/Ligature Resistant - OHC Closer - Cont Hng - Re scue,False,716,1,Door Stop,1841,ABH,630,,1.0
+12,Interior Single - Passage Latchset/Ligature Resistant - OHC Closer - Cont Hng - Re scue,False,716,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+12,Interior Single - Passage Latchset/Ligature Resistant - OHC Closer - Cont Hng - Re scue,False,716,1,Emergency Rescue Stop,A509 L,ABH,630,,1.0
+12,Interior Single - Passage Latchset/Ligature Resistant - OHC Closer - Cont Hng - Re scue,False,716,1,Cylinder (For Rescue Stop),Per project,TBD,630,,1.0
+12A,Interior Single - Passage Latchset/Ligature Resistant - No Closer - Continuous Hin ge,False,716,1,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+12A,Interior Single - Passage Latchset/Ligature Resistant - No Closer - Continuous Hin ge,False,716,1,Ligature Res. Mortise Lock-Classroom,MRX-A-05,TOW,630,,1.0
+12A,Interior Single - Passage Latchset/Ligature Resistant - No Closer - Continuous Hin ge,False,716,1,Cylinder,Per project,TBD,630,,1.0
+12A,Interior Single - Passage Latchset/Ligature Resistant - No Closer - Continuous Hin ge,False,716,1,Door Stop,1841,ABH,630,,1.0
+12A,Interior Single - Passage Latchset/Ligature Resistant - No Closer - Continuous Hin ge,False,716,1,Gasketing,A NTI-LIG 5050,NGP,BLK,Set,1.0
+12B,Interior Single - Passage Latchset/Ligature Resistant - No Closer - Continuous Hin ge,False,716,1,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+12B,Interior Single - Passage Latchset/Ligature Resistant - No Closer - Continuous Hin ge,False,716,1,Ligature Res. Mortise Lock-Classrm,MRX-A-05,TOW,630,,1.0
+12B,Interior Single - Passage Latchset/Ligature Resistant - No Closer - Continuous Hin ge,False,716,1,Cylinder,Per project,TBD,630,,1.0
+12B,Interior Single - Passage Latchset/Ligature Resistant - No Closer - Continuous Hin ge,False,716,1,Door Stop,1841,ABH,630,,1.0
+12B,Interior Single - Passage Latchset/Ligature Resistant - No Closer - Continuous Hin ge,False,716,1,Gasketing,A NTI-LIG 5050,NGP,BLK,Set,1.0
+12C,Interior Single - Passage Latchset/Ligature Resistant - Surface Closer - Continuou s Hinge,False,716,1,Self-Closing Continuous Hinge,A507 HT SEC,ABH,630,Set,1.0
+12C,Interior Single - Passage Latchset/Ligature Resistant - Surface Closer - Continuou s Hinge,False,716,1,Ligature Res. Mortise Lock-Classrm,CRX-A-84,TOW,630,,1.0
+12C,Interior Single - Passage Latchset/Ligature Resistant - Surface Closer - Continuou s Hinge,False,716,1,Cylinder,Per project,TBD,630,,1.0
+12C,Interior Single - Passage Latchset/Ligature Resistant - Surface Closer - Continuou s Hinge,False,716,1,OH Surface Closer,4210T/4510T TBTRX mnt public side,LCN,689,,1.0
+12C,Interior Single - Passage Latchset/Ligature Resistant - Surface Closer - Continuou s Hinge,False,716,1,Wall Stop*,1841*,ABH,630,,1.0
+12C,Interior Single - Passage Latchset/Ligature Resistant - Surface Closer - Continuou s Hinge,False,716,1,Floor Stop**,AB-446-RKW**,ABH,BLK,,1.0
+12C,Interior Single - Passage Latchset/Ligature Resistant - Surface Closer - Continuou s Hinge,False,716,1,Gasketing,A NTI-LIG 5050,NGP,BLK,Set,1.0
+14B,,False,717,2,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+14B,,False,717,2,Ligature Res. Push/Pull Set,MRX-A-72,TOW,630,Set,1.0
+14B,,False,717,2,Overhead Surface Auto Operator,SW200i 115VAC,BSM,628,,1.0
+14B,,False,717,,Wave Sense Actuator,MS31 / MS41,BEA,,as required,0.9
+14B,,False,717,2,Door Stop,Per Specification,,,,1.0
+14B,,False,717,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+14B,,False,717,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+14B,Interior Pair - Ligature Resistant Push/Pulls - Automatic Operator- Continuous Hinge,False,717,2,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+14B,Interior Pair - Ligature Resistant Push/Pulls - Automatic Operator- Continuous Hinge,False,717,2,Ligature Res. Push/Pull Set,MRX-A-72,TOW,630,Set,1.0
+14B,Interior Pair - Ligature Resistant Push/Pulls - Automatic Operator- Continuous Hinge,False,717,2,Overhead Surface Auto Operator,SW200i 115VAC,BSM,628,,1.0
+14B,Interior Pair - Ligature Resistant Push/Pulls - Automatic Operator- Continuous Hinge,False,717,,Wave Sense Actuator,MS31 / MS41,BEA,,as required,0.9
+14B,Interior Pair - Ligature Resistant Push/Pulls - Automatic Operator- Continuous Hinge,False,717,2,Door Stop,Per Specification,,,,1.0
+14B,Interior Pair - Ligature Resistant Push/Pulls - Automatic Operator- Continuous Hinge,False,717,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+14B,Interior Pair - Ligature Resistant Push/Pulls - Automatic Operator- Continuous Hinge,False,717,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+15,,False,718,1,Swing Clear Continuous Hinge,A511 HT SEC (Not NYS OMH approved),ABH,630,Set,1.0
+15,,False,718,1,Ligature Res. Push/Pull Set,MRX-A-72,TOW,630,Set,1.0
+15,,False,718,1,Mag Lock,1511-V-D-B-A 24VDC,SDC,628,,1.0
+15,,False,718,1,Push to Lock/Unlock Button,CB402-AU (One Per Two Drs.),SDC,,,1.0
+15,,False,718,1,Emergency Release Button,CB402-B,SDC,,,1.0
+15,,False,718,1,Overhead Surface Auto Operator,SW200i 115VAC,BSM,628,,1.0
+15,,False,718,,Wave Sense Actuator,MS31 / MS41,BEA,,as required,0.9
+15,,False,718,1,Door Stop,Per Specification,,,,1.0
+15,,False,718,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+15,,False,718,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+15,,False,718,1,Card Reader,By Division 28,,,,1.0
+15,,False,718,1,Door Position Switch,By Division 28,,,,1.0
+15,,False,718,1,REX Motion Sensor,By Division 28,,,,1.0
+15,,False,718,1,Lock Power Supply,By Division 28,,,,1.0
+15,,False,718,1,Push to Exit Button,By Division 28,,,,1.0
+15,Interior Single - Ligature Restant Push/Pulls - Magnetic Lock - Automatic Operator,False,718,,,,,,,
+15A,Interior Single - Ligature Restant Push/Pulls - Magnetic Lock - Automatic Operat or,False,718,1,Swing Clear Continuous Hinge,A511 HT SEC (Not NYS OMH approved),ABH,630,Set,1.0
+15A,Interior Single - Ligature Restant Push/Pulls - Magnetic Lock - Automatic Operat or,False,718,1,Ligature Res. Push/Pull Set,MRX-A-72,TOW,630,Set,1.0
+15A,Interior Single - Ligature Restant Push/Pulls - Magnetic Lock - Automatic Operat or,False,718,1,Mag Lock,1511,SDC,628,,1.0
+15A,Interior Single - Ligature Restant Push/Pulls - Magnetic Lock - Automatic Operat or,False,718,1,Push to Lock/Unlock Button,CB402-AU (One Per Two Drs.),SDC,,,1.0
+15A,Interior Single - Ligature Restant Push/Pulls - Magnetic Lock - Automatic Operat or,False,718,1,Emergency Release Button,CB402-B,SDC,,,1.0
+15A,Interior Single - Ligature Restant Push/Pulls - Magnetic Lock - Automatic Operat or,False,718,1,Overhead Surface Auto Operator,SW200i 115VAC,BSM,628,,1.0
+15A,Interior Single - Ligature Restant Push/Pulls - Magnetic Lock - Automatic Operat or,False,718,,Wave Sense Actuator,MS31 / MS41,BEA,,as required,0.9
+15A,Interior Single - Ligature Restant Push/Pulls - Magnetic Lock - Automatic Operat or,False,718,1,Door Stop,Per Specification,,,,1.0
+15A,Interior Single - Ligature Restant Push/Pulls - Magnetic Lock - Automatic Operat or,False,718,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+15A,Interior Single - Ligature Restant Push/Pulls - Magnetic Lock - Automatic Operat or,False,718,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+16,Moved to Exterior Set HW E19,False,719,,,,,,,
+17,Moved to Exterior Set HW E20,False,719,,,,,,,
+18,Interior Single - Card Reader - Elec Fail-Secure Lock - Self-Closing Hinges,False,719,,Spring Hinge-HT,CP51 HT,PBB,630,as required,0.9
+18,Interior Single - Card Reader - Elec Fail-Secure Lock - Self-Closing Hinges,False,719,1,Hinge-Power Transfer,CB51EL HT,PBB,630,,1.0
+18,Interior Single - Card Reader - Elec Fail-Secure Lock - Self-Closing Hinges,False,719,1,Fail Secure Cyl. Lock,XCDC-86-S-RQE 24VDC,TOW,626,,1.0
+18,Interior Single - Card Reader - Elec Fail-Secure Lock - Self-Closing Hinges,False,719,1,Cylinder,Per project,TBD,626,,1.0
+18,Interior Single - Card Reader - Elec Fail-Secure Lock - Self-Closing Hinges,False,719,1,Door Stop,Per Specification,,,,1.0
+18,Interior Single - Card Reader - Elec Fail-Secure Lock - Self-Closing Hinges,False,719,1,Gasketing,5050,NGP,BLK,Set,1.0
+18,Interior Single - Card Reader - Elec Fail-Secure Lock - Self-Closing Hinges,False,719,1,Card Reader,By Division 28,,,,1.0
+18,Interior Single - Card Reader - Elec Fail-Secure Lock - Self-Closing Hinges,False,719,1,Door Position Switch,By Division 28,,,,1.0
+18,Interior Single - Card Reader - Elec Fail-Secure Lock - Self-Closing Hinges,False,719,1,Lock Power Supply,By Division 28,,,,1.0
+19,Interior Double Egress - Card Readers - Exit Devices/Exit Only - Automatic Opera tors,False,720,2,Continuous Hinge,AC500 HT TW8 SEC,ABH,630,Set,1.0
+19,Interior Double Egress - Card Readers - Exit Devices/Exit Only - Automatic Opera tors,False,720,2,CVR-LBR Device-EO/Rite Doors/REX,MLR-D3676/D8576-LBR-EO M2 SEC,ADR,630,Set,1.0
+19,Interior Double Egress - Card Readers - Exit Devices/Exit Only - Automatic Opera tors,False,720,1,Fire Bolt,As Req @ Fire Door,ADR,630,,1.0
+19,Interior Double Egress - Card Readers - Exit Devices/Exit Only - Automatic Opera tors,False,720,1,Exit Device Power Supply,PS-EXIT 120VDC,ADR,,,1.0
+19,Interior Double Egress - Card Readers - Exit Devices/Exit Only - Automatic Opera tors,False,720,2,Mag Lock/Delayed Egress,1511S-NC-K-V-D-B-A-VI SEC,SDC,628,,1.0
+19,Interior Double Egress - Card Readers - Exit Devices/Exit Only - Automatic Opera tors,False,720,2,Overhead Surface Auto Operator,SW200i 115VAC SEC,BSM,628,,1.0
+19,Interior Double Egress - Card Readers - Exit Devices/Exit Only - Automatic Opera tors,False,720,1,Wave Sense Actuator,MS31 / MS41 SEC,BEA,,,1.0
+19,Interior Double Egress - Card Readers - Exit Devices/Exit Only - Automatic Opera tors,False,720,2,Door Stop,Per Specification,,,,1.0
+19,Interior Double Egress - Card Readers - Exit Devices/Exit Only - Automatic Opera tors,False,720,1,Gasketing,5050,NGP,BLK,Set,1.0
+19,Interior Double Egress - Card Readers - Exit Devices/Exit Only - Automatic Opera tors,False,720,2,Card Reader,By Division 28,,,,1.0
+19,Interior Double Egress - Card Readers - Exit Devices/Exit Only - Automatic Opera tors,False,720,2,Door Position Switch,By Division 28,,,,1.0
+19,Interior Double Egress - Card Readers - Exit Devices/Exit Only - Automatic Opera tors,False,720,1,Lock Power Supply,By Division 28,,,,1.0
+20,Interior Automated Sliding Door,False,720,,,,,,,
+21,Exterior Automated Sliding Door - Card Reader,False,720,,,,,,,
+22,Interior Single - Institutional Privacy Lock/Occupancy Indicator - OHC Closer - Re scue,False,721,1,Continuous Hinge-Double Acting,A507,ABH,628,Set,1.0
+22,Interior Single - Institutional Privacy Lock/Occupancy Indicator - OHC Closer - Re scue,False,721,1,Ligature Res. Cyl. Lock-Ins.Privay/I.D.,MRX-A-26-O,TOW,630,,1.0
+22,Interior Single - Institutional Privacy Lock/Occupancy Indicator - OHC Closer - Re scue,False,721,1,Cylinder,Per project,TBD,630,,1.0
+22,Interior Single - Institutional Privacy Lock/Occupancy Indicator - OHC Closer - Re scue,False,721,1,Double Acting OH Concealed Closer,KG35,KSG,630,,1.0
+22,Interior Single - Institutional Privacy Lock/Occupancy Indicator - OHC Closer - Re scue,False,721,1,Door Stop,1841,ABH,630,,1.0
+22,Interior Single - Institutional Privacy Lock/Occupancy Indicator - OHC Closer - Re scue,False,721,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+22,Interior Single - Institutional Privacy Lock/Occupancy Indicator - OHC Closer - Re scue,False,721,1,Emergency Rescue Stop,A509 L,ABH,630,,1.0
+22,Interior Single - Institutional Privacy Lock/Occupancy Indicator - OHC Closer - Re scue,False,721,1,Cylinder (For Rescue Stop),Per project,TBD,630,,1.0
+23,Interior Single - Classroom Lockset - Surface Closer - Butt Hinges,False,721,,Hinge-HT,CB51 HT,PBB,630,as required,0.9
+23,Interior Single - Classroom Lockset - Surface Closer - Butt Hinges,False,721,1,Cyl. Lock-Classrm,CDC-84-S,TOW,626,,1.0
+23,Interior Single - Classroom Lockset - Surface Closer - Butt Hinges,False,721,1,Cylinder,Per project,TBD,626,,1.0
+23,Interior Single - Classroom Lockset - Surface Closer - Butt Hinges,False,721,1,OH Surface Closer,4040XP/4040XP EDA,LCN,689,,1.0
+23,Interior Single - Classroom Lockset - Surface Closer - Butt Hinges,False,721,1,Door Stop,Per Specification,,,,1.0
+23,Interior Single - Classroom Lockset - Surface Closer - Butt Hinges,False,721,1,Gasketing,5 050,NGP,BLK,Set,1.0
+24,Interior Single - Office Lockset - No Closer - Butt Hinges,False,721,,Hinge-HT,CB51 HT,PBB,630,as required,0.9
+24,Interior Single - Office Lockset - No Closer - Butt Hinges,False,721,1,Cyl. Lock-Office,CDC-81-S,TOW,626,,1.0
+24,Interior Single - Office Lockset - No Closer - Butt Hinges,False,721,1,Cylinder,Per project,TBD,626,,1.0
+24,Interior Single - Office Lockset - No Closer - Butt Hinges,False,721,1,Door Stop,Per Specification,,,,1.0
+24,Interior Single - Office Lockset - No Closer - Butt Hinges,False,721,1,Gasketing,5 050,NGP,BLK,Set,1.0
+24A,Interior Single - Office Lockset - Surface Closer - Butt Hinges,False,721,,Hinge-HT,CB51 HT,PBB,630,as required,0.9
+24A,Interior Single - Office Lockset - Surface Closer - Butt Hinges,False,721,1,Cyl. Lock-Office,CDC-81-S,TOW,626,,1.0
+24A,Interior Single - Office Lockset - Surface Closer - Butt Hinges,False,721,1,Cylinder,Per project,TBD,626,,1.0
+24A,Interior Single - Office Lockset - Surface Closer - Butt Hinges,False,721,1,OH Surface Closer,4040XP/4040XP EDA,LCN,689,,1.0
+24A,Interior Single - Office Lockset - Surface Closer - Butt Hinges,False,721,1,Door Stop,Per Specification,,,,1.0
+24A,Interior Single - Office Lockset - Surface Closer - Butt Hinges,False,721,1,Gasketing,5 050,NGP,BLK,Set,1.0
+25,Interior Single - Passage Latchset - Surface Closer - Butt Hinges,False,722,,Hinge-HT,CB51 HT,PBB,630,as required,0.9
+25,Interior Single - Passage Latchset - Surface Closer - Butt Hinges,False,722,1,Cyl. Lock-Passage,CDC-75-S,TOW,626,,1.0
+25,Interior Single - Passage Latchset - Surface Closer - Butt Hinges,False,722,1,OH Surface Closer,4040XP/4040XP EDA,LCN,689,,1.0
+25,Interior Single - Passage Latchset - Surface Closer - Butt Hinges,False,722,1,Door Stop,Per Specification,,,,1.0
+25,Interior Single - Passage Latchset - Surface Closer - Butt Hinges,False,722,1,Gasketing,5 050,NGP,BLK,Set,1.0
+25A,Interior Single - Passage Latchset - No Closer - Butt Hinges,False,722,,Hinge-HT,CB51 HT,PBB,630,as required,0.9
+25A,Interior Single - Passage Latchset - No Closer - Butt Hinges,False,722,1,Cyl. Lock-Passage,CDC-75-S,TOW,626,,1.0
+25A,Interior Single - Passage Latchset - No Closer - Butt Hinges,False,722,1,Door Stop,Per Specification,,,,1.0
+25A,Interior Single - Passage Latchset - No Closer - Butt Hinges,False,722,1,Gasketing,5 050,NGP,BLK,Set,1.0
+26,Interior Single - Institutional Lockset/Ligature Resistant - No Closer - Continuou s Hinge,False,722,1,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+26,Interior Single - Institutional Lockset/Ligature Resistant - No Closer - Continuou s Hinge,False,722,1,Ligature Res. Mortise Lock-Institution,MRX-A-30,TOW,630,,1.0
+26,Interior Single - Institutional Lockset/Ligature Resistant - No Closer - Continuou s Hinge,False,722,2,Cylinder,Per project,TBD,630,,1.0
+26,Interior Single - Institutional Lockset/Ligature Resistant - No Closer - Continuou s Hinge,False,722,1,Door Stop,1841,ABH,630,,1.0
+26,Interior Single - Institutional Lockset/Ligature Resistant - No Closer - Continuou s Hinge,False,722,1,Gasketing,A NTI-LIG 5050,NGP,BLK,Set,1.0
+26A,Interior Single - Institutional Lockset/Ligature Resistant - No Closer - Continuou s Hinge,False,722,1,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+26A,Interior Single - Institutional Lockset/Ligature Resistant - No Closer - Continuou s Hinge,False,722,1,Ligature Res. Cyl. Lock-Institution,CRX-A-87,TOW,630,,1.0
+26A,Interior Single - Institutional Lockset/Ligature Resistant - No Closer - Continuou s Hinge,False,722,2,Cylinder,Per project,TBD,630,,1.0
+26A,Interior Single - Institutional Lockset/Ligature Resistant - No Closer - Continuou s Hinge,False,722,1,Door Stop,1841,ABH,630,,1.0
+26A,Interior Single - Institutional Lockset/Ligature Resistant - No Closer - Continuou s Hinge,False,722,1,Gasketing,A NTI-LIG 5050,NGP,BLK,Set,1.0
+27,Interior Single - Card Reader - Electrifie d Fail-Secure Lock/Ligature Resistant - No Closer,False,723,1,Continuous Hinge,AC500 HT SEC TW8,ABH,630,Set,1.0
+27,Interior Single - Card Reader - Electrifie d Fail-Secure Lock/Ligature Resistant - No Closer,False,723,1,Ligature Res. Mortise Lock-Fail Secure,X-MRX-A-242C RQE,TOW,630,,1.0
+27,Interior Single - Card Reader - Electrifie d Fail-Secure Lock/Ligature Resistant - No Closer,False,723,2,Cylinder,Per project,TBD,630,,1.0
+27,Interior Single - Card Reader - Electrifie d Fail-Secure Lock/Ligature Resistant - No Closer,False,723,1,Door Stop,1841,ABH,630,,1.0
+27,Interior Single - Card Reader - Electrifie d Fail-Secure Lock/Ligature Resistant - No Closer,False,723,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+27,Interior Single - Card Reader - Electrifie d Fail-Secure Lock/Ligature Resistant - No Closer,False,723,1,Card Reader,By Division 28,,,,1.0
+27,Interior Single - Card Reader - Electrifie d Fail-Secure Lock/Ligature Resistant - No Closer,False,723,1,Door Position Switch,By Division 28,,,,1.0
+27,Interior Single - Card Reader - Electrifie d Fail-Secure Lock/Ligature Resistant - No Closer,False,723,1,Lock Power Supply,By Division 28,,,,1.0
+28,Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing Hing e,False,723,1,Self Closing Continuous Hinge,A507SC HT TW8 SEC,ABH,628,Set,1.0
+28,Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing Hing e,False,723,1,Ligature Res. Mortise Lock-Fail Secure,X-MRX-A-242C RQE,TOW,630,,1.0
+28,Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing Hing e,False,723,2,Cylinder,Per project,TBD,630,,1.0
+28,Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing Hing e,False,723,1,Door Stop,1841,ABH,630,,1.0
+28,Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing Hing e,False,723,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+28,Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing Hing e,False,723,1,Power Supply,631RFUR-1 (One Per Two Drs.),SDC,,,1.0
+28,Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing Hing e,False,723,1,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+28,Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing Hing e,False,723,1,Card Reader,By Division 28,,,,1.0
+28,Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing Hing e,False,723,1,Door Position Switch,By Division 28,,,,1.0
+28,Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing Hing e,False,723,1,Lock Power Supply,By Division 28,,,,1.0
+29,Interior Single - Classroom Lockset - Surface Closer - Butt Hinges,False,724,,Hinge-HT,CB51 HT,PBB,630,as required,0.9
+29,Interior Single - Classroom Lockset - Surface Closer - Butt Hinges,False,724,1,Cyl. Lock-Classrm,CDC-84-S,TOW,626,,1.0
+29,Interior Single - Classroom Lockset - Surface Closer - Butt Hinges,False,724,1,Cylinder,Per project,TBD,626,,1.0
+29,Interior Single - Classroom Lockset - Surface Closer - Butt Hinges,False,724,1,OH Surface Closer,4040XP/4040XP EDA,LCN,689,,1.0
+29,Interior Single - Classroom Lockset - Surface Closer - Butt Hinges,False,724,1,Door Stop,Per Specification,,,,1.0
+29,Interior Single - Classroom Lockset - Surface Closer - Butt Hinges,False,724,1,Gasketing,5 050,NGP,BLK,Set,1.0
+30,Interior Single - Classroom Lockset - No Closer - Butt Hinges,False,724,,Hinge-HT,CB51 HT,PBB,630,as required,0.9
+30,Interior Single - Classroom Lockset - No Closer - Butt Hinges,False,724,1,Hinge-HT-Electrified,CB51ELHT,PBB,630,,1.0
+30,Interior Single - Classroom Lockset - No Closer - Butt Hinges,False,724,1,Mortise Lock-Fail Secure @Both Sides,MSS-242C-S RQE,TOW,626,,1.0
+30,Interior Single - Classroom Lockset - No Closer - Butt Hinges,False,724,2,Cylinder,Per project,TBD,630,,1.0
+30,Interior Single - Classroom Lockset - No Closer - Butt Hinges,False,724,1,OH Surface Closer,4040XP/4040XP EDA,LCN,689,,1.0
+30,Interior Single - Classroom Lockset - No Closer - Butt Hinges,False,724,1,OH Surface Closer,4210T/4510T TBTRX mnt public side,LCN,689,,1.0
+30,Interior Single - Classroom Lockset - No Closer - Butt Hinges,False,724,1,Door Stop,Per Specification,,,,1.0
+30,Interior Single - Classroom Lockset - No Closer - Butt Hinges,False,724,1,Gasketing,5050 or Silencers@Non-rated Dr.,NGP,BLK,Set,1.0
+30,Interior Single - Classroom Lockset - No Closer - Butt Hinges,False,724,2,Card Reader,By Division 28,,,,1.0
+30,Interior Single - Classroom Lockset - No Closer - Butt Hinges,False,724,1,Door Position Switch,By Division 28,,,,1.0
+30,Interior Single - Classroom Lockset - No Closer - Butt Hinges,False,724,1,Lock Power Supply,By Division 28,,,,1.0
+31A,Interior Single - Privacy Lockset/Occup ancy Indicator - Surface Closer,False,724,,Hinge-HT,CB51 HT,PBB,630,as required,0.9
+31A,Interior Single - Privacy Lockset/Occup ancy Indicator - Surface Closer,False,724,1,Cyl. Lock-Privacy w/ID,SLM-76-S,TOW,630,,1.0
+31A,Interior Single - Privacy Lockset/Occup ancy Indicator - Surface Closer,False,724,1,OH Surface Closer,4040XP/4040XP EDA,LCN,689,,1.0
+31A,Interior Single - Privacy Lockset/Occup ancy Indicator - Surface Closer,False,724,1,Door Stop,Per Specification,,,,1.0
+31A,Interior Single - Privacy Lockset/Occup ancy Indicator - Surface Closer,False,724,1,Gasketing,5 050,NGP,BLK,Set,1.0
+32,,False,725,1,Continuous Hinge,AC500 HT SEC TW8,ABH,630,Set,1.0
+32,,False,725,1,Mortise Lock-Fail Secure,X-MRX-A-242-RQE,TOW,630,,1.0
+32,,False,725,1,Cylinder,Per project,TBD,626,,1.0
+32,,False,725,1,OH Surface Closer,4210T/4510T TBTRX mount public side,LCN,689,,1.0
+32,,False,725,1,Door Stop,1841,ABH,630,,1.0
+32,,False,725,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+32,,False,725,1,Card Reader,By Division 28,,,,1.0
+32,,False,725,1,Door Position Switch,By Division 28,,,,1.0
+32,,False,725,1,Lock Power Supply,By Division 28,,,,1.0
+33,Interior Single - Exit Device/Storeroom Lever - Surface Closer - Butt Hinges,False,725,,Hinge-HT,CB51 HT,PBB,630,as required,0.9
+33,Interior Single - Exit Device/Storeroom Lever - Surface Closer - Butt Hinges,False,725,1,Rim Device-LNL,EF1100 x ED309R-D,TOW,626,,1.0
+33,Interior Single - Exit Device/Storeroom Lever - Surface Closer - Butt Hinges,False,725,1,Cylinder,Per project,TBD,626,,1.0
+33,Interior Single - Exit Device/Storeroom Lever - Surface Closer - Butt Hinges,False,725,1,OH Surface Closer,4040XP/4040XP EDA,LCN,689,,1.0
+33,Interior Single - Exit Device/Storeroom Lever - Surface Closer - Butt Hinges,False,725,1,Door Stop,Per Specification,,,,1.0
+33,Interior Single - Exit Device/Storeroom Lever - Surface Closer - Butt Hinges,False,725,1,Gasketing,5 050,NGP,BLK,Set,1.0
+34,Interior Single Dutch Door - Card Reader - Elec Fail-Secure Lock - No Closer,False,726,,Hinge-HT,CB51 HT,PBB,630,as required,0.9
+34,Interior Single Dutch Door - Card Reader - Elec Fail-Secure Lock - No Closer,False,726,1,Hinge-Power Transfer,CB51EL HT,PBB,630,,1.0
+34,Interior Single Dutch Door - Card Reader - Elec Fail-Secure Lock - No Closer,False,726,1,Continuous Hinge,AC500 HT SEC TW8,ABH,630,,1.0
+34,Interior Single Dutch Door - Card Reader - Elec Fail-Secure Lock - No Closer,False,726,1,Dutch Door Bolt,054,IVE,626,,1.0
+34,Interior Single Dutch Door - Card Reader - Elec Fail-Secure Lock - No Closer,False,726,1,Fail Secure Cyl. Lock,XCDC-86-S-RQE 24VDC,TOW,626,,1.0
+34,Interior Single Dutch Door - Card Reader - Elec Fail-Secure Lock - No Closer,False,726,1,Ligature Res. Mortise Lock-FSecure,X-MRX-A-242ADB-RQE,TOW,630,,1.0
+34,Interior Single Dutch Door - Card Reader - Elec Fail-Secure Lock - No Closer,False,726,1,Cylinder,Per project,TBD,626,,1.0
+34,Interior Single Dutch Door - Card Reader - Elec Fail-Secure Lock - No Closer,False,726,2,Door Stop,Per Specification,,,,1.0
+34,Interior Single Dutch Door - Card Reader - Elec Fail-Secure Lock - No Closer,False,726,1,Dutch Door Astragal,By Door MFG,,,,1.0
+34,Interior Single Dutch Door - Card Reader - Elec Fail-Secure Lock - No Closer,False,726,1,Gasketing,5050,NGP,BLK,Set,1.0
+34,Interior Single Dutch Door - Card Reader - Elec Fail-Secure Lock - No Closer,False,726,1,Card Reader,By Division 28,,,,1.0
+34,Interior Single Dutch Door - Card Reader - Elec Fail-Secure Lock - No Closer,False,726,1,Door Position Switch,By Division 28,,,,1.0
+34,Interior Single Dutch Door - Card Reader - Elec Fail-Secure Lock - No Closer,False,726,1,Lock Power Supply,By Division 28,,,,1.0
+35,Interior Single - Card Reader - Elec Fail Secure/Fail-Safe Lock/Lig Res - Surf Close r,False,726,1,Continuous Hinge,AC500 HT SEC TW8,ABH,630,Set,1.0
+35,Interior Single - Card Reader - Elec Fail Secure/Fail-Safe Lock/Lig Res - Surf Close r,False,726,1,Ligature Res. Lock-Fail Safe/Secure,X-MRX-A-241/242C-RQE Fail Saf/Sec,TOW,630,,1.0
+35,Interior Single - Card Reader - Elec Fail Secure/Fail-Safe Lock/Lig Res - Surf Close r,False,726,2,Cylinder,Per project,TBD,630,,1.0
+35,Interior Single - Card Reader - Elec Fail Secure/Fail-Safe Lock/Lig Res - Surf Close r,False,726,1,OH Surface Closer,4210T/4510T TBTRX mount public side,LCN,689,,1.0
+35,Interior Single - Card Reader - Elec Fail Secure/Fail-Safe Lock/Lig Res - Surf Close r,False,726,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+35,Interior Single - Card Reader - Elec Fail Secure/Fail-Safe Lock/Lig Res - Surf Close r,False,726,2,Card Reader,By Division 28,,,,1.0
+35,Interior Single - Card Reader - Elec Fail Secure/Fail-Safe Lock/Lig Res - Surf Close r,False,726,1,Door Position Switch,By Division 28,,,,1.0
+35,Interior Single - Card Reader - Elec Fail Secure/Fail-Safe Lock/Lig Res - Surf Close r,False,726,1,Lock Power Supply,By Division 28,,,,1.0
+36,Interior Single - Storeroom Lockset/Ligature Resistant - No Closer,False,727,1,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+36,Interior Single - Storeroom Lockset/Ligature Resistant - No Closer,False,727,1,Ligature Res. Mortise Lock-Storerm,MRX-A-07,TOW,630,,1.0
+36,Interior Single - Storeroom Lockset/Ligature Resistant - No Closer,False,727,1,Cylinder,Per project,TBD,630,,1.0
+36,Interior Single - Storeroom Lockset/Ligature Resistant - No Closer,False,727,1,Door Stop,1841,ABH,630,,1.0
+36,Interior Single - Storeroom Lockset/Ligature Resistant - No Closer,False,727,1,Gasketing,A NTI-LIG 5050,NGP,BLK,Set,1.0
+37,Interior Single - Lig Res BTB Pulls - Continuous Self-Closing Hinge,False,727,1,Self Closing Continuous Hinge,A507SC HT SEC,ABH,628,Set,1.0
+37,Interior Single - Lig Res BTB Pulls - Continuous Self-Closing Hinge,False,727,1,Ligature Res. BTB Push/Pull Set,MRX-A-F72,TOW,630,Set,1.0
+37,Interior Single - Lig Res BTB Pulls - Continuous Self-Closing Hinge,False,727,1,Door Stop,1841,ABH,630,,1.0
+37,Interior Single - Lig Res BTB Pulls - Continuous Self-Closing Hinge,False,727,1,Magnetic Roller Latch,9525MRL x Torx,ABH,630,,1.0
+37,Interior Single - Lig Res BTB Pulls - Continuous Self-Closing Hinge,False,727,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+38,Interior Single - Classroom Lockset/Ligature Resistant - Surface Closer,False,727,1,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+38,Interior Single - Classroom Lockset/Ligature Resistant - Surface Closer,False,727,1,Ligature Res. Cyl. Lock-Classrm,CRX-A-84,TOW,630,,1.0
+38,Interior Single - Classroom Lockset/Ligature Resistant - Surface Closer,False,727,1,Cylinder,Per project,TBD,630,,1.0
+38,Interior Single - Classroom Lockset/Ligature Resistant - Surface Closer,False,727,1,OH Surface Closer-Hold Open @180°,4210T/4510T TBTRX mount public side,LCN,689,,1.0
+38,Interior Single - Classroom Lockset/Ligature Resistant - Surface Closer,False,727,1,Door Stop,1841,ABH,630,,1.0
+38,Interior Single - Classroom Lockset/Ligature Resistant - Surface Closer,False,727,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+39,Interior Single - Classroom Lockset/Ligature Resistant - Surface Closer,False,727,1,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+39,Interior Single - Classroom Lockset/Ligature Resistant - Surface Closer,False,727,1,Ligature Res. Cyl. Lock-Classrm,CRX-A-84,TOW,630,,1.0
+39,Interior Single - Classroom Lockset/Ligature Resistant - Surface Closer,False,727,1,Cylinder,Per project,TBD,630,,1.0
+39,Interior Single - Classroom Lockset/Ligature Resistant - Surface Closer,False,727,1,OH Surface Closer,4210T/4510T TBTRX mount public side,LCN,689,,1.0
+39,Interior Single - Classroom Lockset/Ligature Resistant - Surface Closer,False,727,1,Door Stop,1841,ABH,630,,1.0
+39,Interior Single - Classroom Lockset/Ligature Resistant - Surface Closer,False,727,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+40,Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,728,1,Self Closing Continuous Hinge,A507SC HT TW8 SEC,ABH,628,Set,1.0
+40,Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,728,1,Ligature Res. Mortise Lock-Fail Secure,X-MRX-A-241 RQE,TOW,630,,1.0
+40,Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,728,1,Cylinder,Per project,TBD,630,,1.0
+40,Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,728,1,Door Stop,1841,ABH,630,,1.0
+40,Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,728,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+40,Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,728,1,Card Reader,By Division 28,,,,1.0
+40,Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,728,1,Door Position Switch,By Division 28,,,,1.0
+40,Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,728,1,Lock Power Supply,By Division 28,,,,1.0
+41,Interior Single - Card Readers - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,728,1,Self Closing Continuous Hinge,A507SC HT TW8 SEC,ABH,628,Set,1.0
+41,Interior Single - Card Readers - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,728,1,Ligature Res. Mortise Lock-Fail Secure,X-MRX-A-242C RQE,TOW,630,,1.0
+41,Interior Single - Card Readers - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,728,2,Cylinder,Per project,TBD,630,,1.0
+41,Interior Single - Card Readers - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,728,1,Door Stop,1841,ABH,630,,1.0
+41,Interior Single - Card Readers - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,728,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+41,Interior Single - Card Readers - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,728,2,Card Reader,By Division 28,,,,1.0
+41,Interior Single - Card Readers - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,728,1,Door Position Switch,By Division 28,,,,1.0
+41,Interior Single - Card Readers - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,728,1,Lock Power Supply,By Division 28,,,,1.0
+42,Interior Single - Card Readers - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,729,1,Continuous Hinge,AC500 HT TW8 SEC,ABH,630,Set,1.0
+42,Interior Single - Card Readers - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,729,1,Ligature Res. Mortise Lock-Fail Secure,X-MRX-A-241C RQE,TOW,630,,1.0
+42,Interior Single - Card Readers - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,729,2,Cylinder,Per project,TBD,630,,1.0
+42,Interior Single - Card Readers - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,729,1,OH Surface Closer,4210T/4510T TBTRX mount public side,LCN,689,,1.0
+42,Interior Single - Card Readers - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,729,1,Door Stop,1841,ABH,630,,1.0
+42,Interior Single - Card Readers - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,729,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+42,Interior Single - Card Readers - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,729,2,Card Reader,By Division 28,,,,1.0
+42,Interior Single - Card Readers - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,729,1,Door Position Switch,By Division 28,,,,1.0
+42,Interior Single - Card Readers - Elec Fail-Secure Lock/Ligature Resistant - Self Clo sing,False,729,1,Lock Power Supply,By Division 28,,,,1.0
+43,Interior Single - Card Reader - Electrified Exit Device/Dummy Trim - Surface Clos er,False,729,1,Continuous Hinge,AC500 HT TW8 SEC,ABH,630,Set,1.0
+43,Interior Single - Card Reader - Electrified Exit Device/Dummy Trim - Surface Clos er,False,729,1,ELR Mortise Device-EO/Rite Door,MLR-D8375/D3375-EO REX,ADR,630,Set,1.0
+43,Interior Single - Card Reader - Electrified Exit Device/Dummy Trim - Surface Clos er,False,729,1,Exit Device Power Supply,PS-EXIT 120VDC,ADR,,,1.0
+43,Interior Single - Card Reader - Electrified Exit Device/Dummy Trim - Surface Clos er,False,729,1,Ligature Res. Dummy Trim,ED-MRX-A-41,TOW,630,,1.0
+43,Interior Single - Card Reader - Electrified Exit Device/Dummy Trim - Surface Clos er,False,729,1,OH Surface Closer,4210T/4510T TBTRX mount public side,LCN,689,,1.0
+43,Interior Single - Card Reader - Electrified Exit Device/Dummy Trim - Surface Clos er,False,729,1,Door Stop,1841,ABH,630,,1.0
+43,Interior Single - Card Reader - Electrified Exit Device/Dummy Trim - Surface Clos er,False,729,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+43,Interior Single - Card Reader - Electrified Exit Device/Dummy Trim - Surface Clos er,False,729,1,Card Reader,By Division 28,,,,1.0
+43,Interior Single - Card Reader - Electrified Exit Device/Dummy Trim - Surface Clos er,False,729,1,Door Position Switch,By Division 28,,,,1.0
+43,Interior Single - Card Reader - Electrified Exit Device/Dummy Trim - Surface Clos er,False,729,1,Lock Power Supply,By Division 28,,,,1.0
+44,Interior Single - Card Reader - Exit Device/Elec Fail-Secure Lever - Surface Closer,False,730,,Hinge-HT,CB51 HT,PBB,630,as required,0.9
+44,Interior Single - Card Reader - Exit Device/Elec Fail-Secure Lever - Surface Closer,False,730,1,Hinge-Power Transfer,CB51EL HT,PBB,630,,1.0
+44,Interior Single - Card Reader - Exit Device/Elec Fail-Secure Lever - Surface Closer,False,730,1,Rim Device W/Fail Secure Passage Lvr,ED1100/EF1100 x 909ER2-S KES914R,TOW,626,,1.0
+44,Interior Single - Card Reader - Exit Device/Elec Fail-Secure Lever - Surface Closer,False,730,1,Cylinder,Per project,TBD,626,,1.0
+44,Interior Single - Card Reader - Exit Device/Elec Fail-Secure Lever - Surface Closer,False,730,1,OH Surface Closer,4040XP/4040XP EDA,LCN,689,,1.0
+44,Interior Single - Card Reader - Exit Device/Elec Fail-Secure Lever - Surface Closer,False,730,1,Door Stop,Per Specification,,,,1.0
+44,Interior Single - Card Reader - Exit Device/Elec Fail-Secure Lever - Surface Closer,False,730,1,Gasketing,5050,NGP,BLK,Set,1.0
+44,Interior Single - Card Reader - Exit Device/Elec Fail-Secure Lever - Surface Closer,False,730,1,Door Sweep,C627,NGP,628,,1.0
+44,Interior Single - Card Reader - Exit Device/Elec Fail-Secure Lever - Surface Closer,False,730,1,Card Reader,By Division 28,,,,1.0
+44,Interior Single - Card Reader - Exit Device/Elec Fail-Secure Lever - Surface Closer,False,730,1,Door Position Switch,By Division 28,,,,1.0
+44,Interior Single - Card Reader - Exit Device/Elec Fail-Secure Lever - Surface Closer,False,730,1,Lock Power Supply,By Division 28,,,,1.0
+45,Interior Single - Classroom Lockset - Surface Closer/Hold-Open,False,730,1,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+45,Interior Single - Classroom Lockset - Surface Closer/Hold-Open,False,730,1,Ligature Res. Cyl. Lock-Classrm Security,TRXL-80,TOW,630,,1.0
+45,Interior Single - Classroom Lockset - Surface Closer/Hold-Open,False,730,2,Cylinder,Per project,TBD,630,,1.0
+45,Interior Single - Classroom Lockset - Surface Closer/Hold-Open,False,730,1,OH Surface Closer-Hold Open @180°,4210T/4510T TBTRX mount public side,LCN,689,,1.0
+45,Interior Single - Classroom Lockset - Surface Closer/Hold-Open,False,730,1,Door Stop,1841,ABH,630,,1.0
+45,Interior Single - Classroom Lockset - Surface Closer/Hold-Open,False,730,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+46,Interior Single - Card Readers - Inst Lock/Lig Rest - No Closer - Continuous Hinge,False,731,1,Continuous Hinge,AC500 HT SEC TW8,ABH,630,Set,1.0
+46,Interior Single - Card Readers - Inst Lock/Lig Rest - No Closer - Continuous Hinge,False,731,1,Ligature Res. Mort Lock-Fail Secure,X-MRX-A-242C,TOW,630,,1.0
+46,Interior Single - Card Readers - Inst Lock/Lig Rest - No Closer - Continuous Hinge,False,731,2,Cylinder,Per project,TBD,630,,1.0
+46,Interior Single - Card Readers - Inst Lock/Lig Rest - No Closer - Continuous Hinge,False,731,1,Door Stop,1841,ABH,630,,1.0
+46,Interior Single - Card Readers - Inst Lock/Lig Rest - No Closer - Continuous Hinge,False,731,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+46,Interior Single - Card Readers - Inst Lock/Lig Rest - No Closer - Continuous Hinge,False,731,2,Card Reader,By Division 28,,,,1.0
+46,Interior Single - Card Readers - Inst Lock/Lig Rest - No Closer - Continuous Hinge,False,731,1,Door Position Switch,By Division 28,,,,1.0
+46,Interior Single - Card Readers - Inst Lock/Lig Rest - No Closer - Continuous Hinge,False,731,1,Lock Power Supply,By Division 28,,,,1.0
+47,Interior Single Shower/Toliet Stall - Ligature Resistant Swinging Door System,False,731,1,Ligature Rest Swinging Door System,Accurate LR-SW.xx.WGP,ACC,,Set,1.0
+47,Interior Single Shower/Toliet Stall - Ligature Resistant Swinging Door System,False,731,2,Door Panels ALUMINUM STOREFRONT DOORS,Wood Grain Finish selected by Arch,ACC,,,1.0
+A01,Exterior Single Storefront - Push/Pull-Ligature Resistant - Surface Closer,False,732,1,Continuous Hinge,A110HD HT SEC,ABH,628,Set,1.0
+A01,Exterior Single Storefront - Push/Pull-Ligature Resistant - Surface Closer,False,732,1,Ligature Res. Push/Pull Set,MRX-A-72,TOW,630,Set,1.0
+A01,Exterior Single Storefront - Push/Pull-Ligature Resistant - Surface Closer,False,732,1,Overhead Surface Closer-Track Arm,4040XPT,LCN,689,,1.0
+A01,Exterior Single Storefront - Push/Pull-Ligature Resistant - Surface Closer,False,732,1,Door Stop,1 841,ABH,630,,1.0
+A02,,False,732,1,Continuous Hinge,A110HD HT SEC EA12,ABH,628,Set,1.0
+A02,,False,732,1,Ligature Res. Mortise Lock-Fail Secure,X-MRX-A-242RQE,TOW,630,,1.0
+A02,,False,732,1,Cylinder,Per project,TBD,630,,1.0
+A02,,False,732,1,OH Surface Closer - Track Arm,4040XPT Torx,LCN,689,,1.0
+A02,,False,732,1,Door Stop,1 841,ABH,630,,1.0
+A03,Exterior Pair Storefront - Card Reader - Elec Exit Devices/Pulls - Surf Clrs/Stop-A rm,False,733,2,Electrified Continuous Hinge,A110HD EZ-12,ABH,628,Set,1.0
+A03,Exterior Pair Storefront - Card Reader - Elec Exit Devices/Pulls - Surf Clrs/Stop-A rm,False,733,1,ELR CVR Device-EO,ED1300/EF1300-ELR-RX,TOW,630,,1.0
+A03,Exterior Pair Storefront - Card Reader - Elec Exit Devices/Pulls - Surf Clrs/Stop-A rm,False,733,1,ELR CVR Device-NLOP,ED1300/EF1300-ELR-RX x Cyl. Only,TOW,630,,1.0
+A03,Exterior Pair Storefront - Card Reader - Elec Exit Devices/Pulls - Surf Clrs/Stop-A rm,False,733,1,Power Supply,PS220B 120VAC,CAT,,,1.0
+A03,Exterior Pair Storefront - Card Reader - Elec Exit Devices/Pulls - Surf Clrs/Stop-A rm,False,733,2,Single Pull,Per Design,,630,,1.0
+A03,Exterior Pair Storefront - Card Reader - Elec Exit Devices/Pulls - Surf Clrs/Stop-A rm,False,733,1,Cylinder,Per project,TBD,626,,1.0
+A03,Exterior Pair Storefront - Card Reader - Elec Exit Devices/Pulls - Surf Clrs/Stop-A rm,False,733,2,OH Surface Closer,4040XP SCUSH,LCN,689,,1.0
+A03,Exterior Pair Storefront - Card Reader - Elec Exit Devices/Pulls - Surf Clrs/Stop-A rm,False,733,1,Bollard for card reader,SQ40 B-6SQ-RT-DB-SM-NP,WIK,710,,1.0
+A03,Exterior Pair Storefront - Card Reader - Elec Exit Devices/Pulls - Surf Clrs/Stop-A rm,False,733,2,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+A03,Exterior Pair Storefront - Card Reader - Elec Exit Devices/Pulls - Surf Clrs/Stop-A rm,False,733,1,Door Position Switch,By Division 28,,,,1.0
+A03,Exterior Pair Storefront - Card Reader - Elec Exit Devices/Pulls - Surf Clrs/Stop-A rm,False,733,1,Card Reader,By Division 28,,,,1.0
+A03,Exterior Pair Storefront - Card Reader - Elec Exit Devices/Pulls - Surf Clrs/Stop-A rm,False,733,1,Lock Power Supply,By Division 28,,,,1.0
+A04,Exterior Single Storefront - Card Reader - Elec Exit Device/Pull - Surf Clrs/Stop-A rm,False,733,1,Electrified Continuous Hinge,A110HD EZ-12,ABH,628,,1.0
+A04,Exterior Single Storefront - Card Reader - Elec Exit Device/Pull - Surf Clrs/Stop-A rm,False,733,1,ELR CVR Device-NLOP,ED1300/EF1300-ELR-RX x Cyl. Only,TOW,630,,1.0
+A04,Exterior Single Storefront - Card Reader - Elec Exit Device/Pull - Surf Clrs/Stop-A rm,False,733,1,Power Supply,PS220B 120VAC,CAT,,,1.0
+A04,Exterior Single Storefront - Card Reader - Elec Exit Device/Pull - Surf Clrs/Stop-A rm,False,733,1,Single Pull,Per Design,,630,,1.0
+A04,Exterior Single Storefront - Card Reader - Elec Exit Device/Pull - Surf Clrs/Stop-A rm,False,733,1,Cylinder,Per project,TBD,626,,1.0
+A04,Exterior Single Storefront - Card Reader - Elec Exit Device/Pull - Surf Clrs/Stop-A rm,False,733,1,OH Surface Closer,4040XP SCUSH,LCN,689,,1.0
+A04,Exterior Single Storefront - Card Reader - Elec Exit Device/Pull - Surf Clrs/Stop-A rm,False,733,1,Bollard for card reader,SQ40 B-6SQ-RT-DB-SM-NP,WIK,710,,1.0
+A04,Exterior Single Storefront - Card Reader - Elec Exit Device/Pull - Surf Clrs/Stop-A rm,False,733,1,Door Position Switch,By Division 28,,,,1.0
+A04,Exterior Single Storefront - Card Reader - Elec Exit Device/Pull - Surf Clrs/Stop-A rm,False,733,1,Card Reader,By Division 28,,,,1.0
+A04,Exterior Single Storefront - Card Reader - Elec Exit Device/Pull - Surf Clrs/Stop-A rm,False,733,1,Lock Power Supply,By Division 28,,,,1.0
+E01,,False,734,,Hinge,4C51 NRP,PBB,630,as required,0.9
+E01,,False,734,1,Hinge-Power Transfer,4C51EL,PBB,630,,1.0
+E01,,False,734,1,Rim Device-LNL QEL,RX-ELR-ED1100/EF1100 x ED309R-D,TOW,630,,1.0
+E01,,False,734,1,Cylinder,Per project,TBD,626,,1.0
+E01,,False,734,1,OH Surface Closer-SCUSH,4040XP SCUSH,LCN,689,,1.0
+E01,,False,734,1,Overhead Rain Drip,16A (As Req),NGP,628,,1.0
+E01,,False,734,1,Door Sweep,C627,NGP,628,,1.0
+E01,,False,734,1,Weatherstrip,700Nx700EN,NGP,719,Set,1.0
+E01,,False,734,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E01,,False,734,1,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E01,,False,735,,Hinge,4C51 NRP,PBB,630,as required,0.9
+E01,,False,735,1,Hinge-Power Transfer,4C51EL,PBB,630,,1.0
+E01,,False,735,1,Delayed Egress Rim Device/Fail Secure,ED1100/EF110-DE x KES909ER2-S,TOW,630,,1.0
+E01,,False,735,1,Power Supply,PS220B 120VAC,CAT,,,1.0
+E01,,False,735,1,Cylinder,Per project,TBD,626,,1.0
+E01,,False,735,1,OH Surface Closer-SCUSH,4040XP SCUSH,LCN,689,,1.0
+E01,,False,735,1,Overhead Rain Drip,16A (As Req),NGP,628,,1.0
+E01,,False,735,1,Door Sweep,C627,NGP,628,,1.0
+E01,,False,735,1,Weatherstrip,700Nx700EN,NGP,719,Set,1.0
+E01,,False,735,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E01,,False,735,1,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E01,,False,735,2,Card Reader,By Division 28,,,,1.0
+E01,,False,735,1,Door Position Switch,By Division 28,,,,1.0
+E01,,False,735,1,Lock Power Supply,By Division 28,,,,1.0
+E02,Exterior Pair Storefront - Exit Devices/E xit Only - Surface Closers/Stop-Arm,False,735,,Hinge,4C51 NRP,PBB,630,as required,0.9
+E02,Exterior Pair Storefront - Exit Devices/E xit Only - Surface Closers/Stop-Arm,False,735,1,Removable Mullion,MUL,TOW,628,,1.0
+E02,Exterior Pair Storefront - Exit Devices/E xit Only - Surface Closers/Stop-Arm,False,735,2,Rim Device-EO,ED1100/EF1100-EO,TOW,630,,1.0
+E02,Exterior Pair Storefront - Exit Devices/E xit Only - Surface Closers/Stop-Arm,False,735,1,Cylinder for Mullion,Per project,TBD,626,,1.0
+E02,Exterior Pair Storefront - Exit Devices/E xit Only - Surface Closers/Stop-Arm,False,735,2,OH Surface Closer-SCUSH,4040XP SCUSH,LCN,689,,1.0
+E02,Exterior Pair Storefront - Exit Devices/E xit Only - Surface Closers/Stop-Arm,False,735,1,Overhead Rain Drip,16A (As Req),NGP,628,,1.0
+E02,Exterior Pair Storefront - Exit Devices/E xit Only - Surface Closers/Stop-Arm,False,735,1,Mullion Seal,5100,NGP,BLK,,1.0
+E02,Exterior Pair Storefront - Exit Devices/E xit Only - Surface Closers/Stop-Arm,False,735,2,Door Sweep,C627,NGP,628,,1.0
+E02,Exterior Pair Storefront - Exit Devices/E xit Only - Surface Closers/Stop-Arm,False,735,1,Weatherstrip,700Nx700EN,NGP,719,Set,1.0
+E02,Exterior Pair Storefront - Exit Devices/E xit Only - Surface Closers/Stop-Arm,False,735,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E02,Exterior Pair Storefront - Exit Devices/E xit Only - Surface Closers/Stop-Arm,False,735,2,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E03,Moved to Gate Set HW G03,False,736,,Hinge,4C51 NRP,PBB,630,as required,0.9
+E03,Moved to Gate Set HW G03,False,736,1,Removable Mullion,MUL,TOW,628,,1.0
+E03,Moved to Gate Set HW G03,False,736,1,Rim Device-EO,ED1100/EF1100-EO,TOW,630,,1.0
+E03,Moved to Gate Set HW G03,False,736,1,Rim Device-LNL QEL,RX-ELR-ED1100/EF1100 x ED309R-D,TOW,630,,1.0
+E03,Moved to Gate Set HW G03,False,736,2,Cylinder,Per project,TBD,626,,1.0
+E03,Moved to Gate Set HW G03,False,736,2,OH Surface Closer-SCUSH,4040XP SCUSH,LCN,689,,1.0
+E03,Moved to Gate Set HW G03,False,736,1,Overhead Rain Drip,16A (As Req),NGP,628,,1.0
+E03,Moved to Gate Set HW G03,False,736,1,Mullion Seal,5100,NGP,BLK,,1.0
+E03,Moved to Gate Set HW G03,False,736,2,Door Sweep,C627,NGP,628,,1.0
+E03,Moved to Gate Set HW G03,False,736,1,Weatherstrip,700Nx700EN,NGP,719,Set,1.0
+E03,Moved to Gate Set HW G03,False,736,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E03,Moved to Gate Set HW G03,False,736,1,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E04,Exterior Single - Institution Lockset/Ligature Resistant - Surface Closer,False,736,1,Continuous Hinge,AC500 HT SEC,ABH,630,Set,1.0
+E04,Exterior Single - Institution Lockset/Ligature Resistant - Surface Closer,False,736,1,Ligature Res. Mortise Lock-Institution,MRX-A-30,TOW,630,,1.0
+E04,Exterior Single - Institution Lockset/Ligature Resistant - Surface Closer,False,736,2,Cylinder,Per project,TBD,630,,1.0
+E04,Exterior Single - Institution Lockset/Ligature Resistant - Surface Closer,False,736,1,OH Surface Closer-Hold Open @180°,4210T/4510T TBTRX mount public side,LCN,689,,1.0
+E04,Exterior Single - Institution Lockset/Ligature Resistant - Surface Closer,False,736,1,Door Stop,Per Specification,,,,1.0
+E04,Exterior Single - Institution Lockset/Ligature Resistant - Surface Closer,False,736,1,Overhead Rain Drip,16A (As Req) SEC,NGP,628,,1.0
+E04,Exterior Single - Institution Lockset/Ligature Resistant - Surface Closer,False,736,2,Door Sweep,C627 SEC,NGP,628,,1.0
+E04,Exterior Single - Institution Lockset/Ligature Resistant - Surface Closer,False,736,1,Weatherstrip,700Nx700EN SEC,NGP,719,Set,1.0
+E04,Exterior Single - Institution Lockset/Ligature Resistant - Surface Closer,False,736,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E04,Exterior Single - Institution Lockset/Ligature Resistant - Surface Closer,False,736,1,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E04,Exterior Single - Institution Lockset/Ligature Resistant - Surface Closer,False,736,1,Door Position Switch,By Division 28,,,,1.0
+E05,Exterior Pair - Exit Device/Storeroom Lever - Surface Closer/Stop-Arm,False,737,,Hinge,4C51 NRP,PBB,630,as required,0.9
+E05,Exterior Pair - Exit Device/Storeroom Lever - Surface Closer/Stop-Arm,False,737,1,Removable Mullion,MUL,TOW,628,,1.0
+E05,Exterior Pair - Exit Device/Storeroom Lever - Surface Closer/Stop-Arm,False,737,1,Rim Device-EO,ED1100/EF1100-EO,TOW,630,,1.0
+E05,Exterior Pair - Exit Device/Storeroom Lever - Surface Closer/Stop-Arm,False,737,1,Rim Device-LNL,ED1100/EF1100 x ED309R-D,TOW,630,,1.0
+E05,Exterior Pair - Exit Device/Storeroom Lever - Surface Closer/Stop-Arm,False,737,2,Cylinder,Per project,TBD,626,,1.0
+E05,Exterior Pair - Exit Device/Storeroom Lever - Surface Closer/Stop-Arm,False,737,2,OH Surface Closer-SCUSH,4040XP SCUSH,LCN,689,,1.0
+E05,Exterior Pair - Exit Device/Storeroom Lever - Surface Closer/Stop-Arm,False,737,1,Overhead Rain Drip,16A (As Req),NGP,628,,1.0
+E05,Exterior Pair - Exit Device/Storeroom Lever - Surface Closer/Stop-Arm,False,737,1,Mullion Seal,5100,NGP,BLK,,1.0
+E05,Exterior Pair - Exit Device/Storeroom Lever - Surface Closer/Stop-Arm,False,737,2,Door Sweep,C627,NGP,628,,1.0
+E05,Exterior Pair - Exit Device/Storeroom Lever - Surface Closer/Stop-Arm,False,737,1,Weatherstrip,700Nx700EN,NGP,719,Set,1.0
+E05,Exterior Pair - Exit Device/Storeroom Lever - Surface Closer/Stop-Arm,False,737,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E05,Exterior Pair - Exit Device/Storeroom Lever - Surface Closer/Stop-Arm,False,737,2,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E05,Exterior Pair - Exit Device/Storeroom Lever - Surface Closer/Stop-Arm,False,737,2,Door Position Switch,By Division 28,,,,1.0
+E06,,False,737,,Hinge,4C51 NRP,PBB,630,as required,0.9
+E06,,False,737,1,Rim Device-Passage Trim,ED1100/EF1100 x ED314R-D,TOW,630,,1.0
+E06,,False,737,1,OH Surface Closer-SCUSH,4040XP SCUSH,LCN,689,,1.0
+E06,,False,737,1,Overhead Rain Drip,16A (As Req),NGP,628,,1.0
+E06,,False,737,1,Door Sweep,C627,NGP,628,,1.0
+E06,,False,737,1,Weatherstrip,700Nx700EN,NGP,719,Set,1.0
+E06,,False,737,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E06,,False,737,1,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E07,,False,738,,Hinge,4C51 NRP,PBB,630,as required,0.9
+E07,,False,738,1,Hinge-Power Transfer,4C51EL,PBB,630,,1.0
+E07,,False,738,1,Delayed Egress Rim Device-EO,ED1100/EF1100-DE-30Second,TOW,630,,1.0
+E07,,False,738,1,OH Surface Closer-SCUSH,4040XP SCUSH,LCN,689,,1.0
+E07,,False,738,1,Overhead Rain Drip,16A (As Req),NGP,628,,1.0
+E07,,False,738,1,Door Sweep,C627,NGP,628,,1.0
+E07,,False,738,1,Weatherstrip,700Nx700EN,NGP,719,Set,1.0
+E07,,False,738,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E07,,False,738,1,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E07,,False,738,1,Card Reader,By Division 28,,,,1.0
+E07,,False,738,1,Door Position Switch,By Division 28,,,,1.0
+E07,,False,738,1,Lock Power Supply,By Division 28,,,,1.0
+E08,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Surface Close r,False,738,1,Continuous Hinge,AC500 HT TW8 SEC,ABH,630,Set,1.0
+E08,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Surface Close r,False,738,1,Ligature Res. Mortise Lock-Fail Secure,X-MRX-A-241C RQE,TOW,630,,1.0
+E08,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Surface Close r,False,738,2,Cylinder,Per project,TBD,630,,1.0
+E08,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Surface Close r,False,738,1,OH Surface Closer,4210T/4510T TBTRX mount public side,LCN,689,,1.0
+E08,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Surface Close r,False,738,1,Door Stop,1841,ABH,630,,1.0
+E08,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Surface Close r,False,738,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+E08,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Surface Close r,False,738,2,Door Sweep,C627 SEC,NGP,628,,1.0
+E08,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Surface Close r,False,738,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E08,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Surface Close r,False,738,1,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E08,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Surface Close r,False,738,2,Card Reader,By Division 28,,,,1.0
+E08,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Surface Close r,False,738,1,Door Position Switch,By Division 28,,,,1.0
+E08,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Surface Close r,False,738,1,Lock Power Supply,By Division 28,,,,1.0
+E09,Exterior Single - Delayed Egress Exit De vice/Exit Only - Surface Closer,False,739,,Hinge,4C51 NRP,PBB,630,as required,0.9
+E09,Exterior Single - Delayed Egress Exit De vice/Exit Only - Surface Closer,False,739,1,Hinge-Power Transfer,4C51EL,PBB,630,,1.0
+E09,Exterior Single - Delayed Egress Exit De vice/Exit Only - Surface Closer,False,739,1,Delayed Egress Rim Device-EO,ED1100/EF1100-DE,TOW,630,,1.0
+E09,Exterior Single - Delayed Egress Exit De vice/Exit Only - Surface Closer,False,739,1,Power Supply,PS220B 120VAC,CAT,,,1.0
+E09,Exterior Single - Delayed Egress Exit De vice/Exit Only - Surface Closer,False,739,1,OH Surface Closer-SCUSH,4040XP SCUSH,LCN,689,,1.0
+E09,Exterior Single - Delayed Egress Exit De vice/Exit Only - Surface Closer,False,739,1,Overhead Rain Drip,16A (As Req),NGP,628,,1.0
+E09,Exterior Single - Delayed Egress Exit De vice/Exit Only - Surface Closer,False,739,1,Door Sweep,C627,NGP,628,,1.0
+E09,Exterior Single - Delayed Egress Exit De vice/Exit Only - Surface Closer,False,739,1,Weatherstrip,700Nx700EN,NGP,719,Set,1.0
+E09,Exterior Single - Delayed Egress Exit De vice/Exit Only - Surface Closer,False,739,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E09,Exterior Single - Delayed Egress Exit De vice/Exit Only - Surface Closer,False,739,1,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E09,Exterior Single - Delayed Egress Exit De vice/Exit Only - Surface Closer,False,739,1,Door Position Switch,By Division 28,,,,1.0
+E09,Exterior Single - Delayed Egress Exit De vice/Exit Only - Surface Closer,False,739,1,Lock Power Supply,By Division 28,,,,1.0
+E10,Exterior Pair - Storeroom Lockset - Surf ace Closer/Stop-Arm,False,739,,Hinge,4C51 NRP,PBB,630,as required,0.9
+E10,Exterior Pair - Storeroom Lockset - Surf ace Closer/Stop-Arm,False,739,1,Auto Flush Bolts,1860P/1861P/1862P,ABH,630,Set,1.0
+E10,Exterior Pair - Storeroom Lockset - Surf ace Closer/Stop-Arm,False,739,1,Dust Proof Strike,1870/1872,ABH,630,,1.0
+E10,Exterior Pair - Storeroom Lockset - Surf ace Closer/Stop-Arm,False,739,1,Cyl. Lock -Storerm,CDC-86-S,SCH,626,,1.0
+E10,Exterior Pair - Storeroom Lockset - Surf ace Closer/Stop-Arm,False,739,1,Cylinder,Per project,TBD,626,,1.0
+E10,Exterior Pair - Storeroom Lockset - Surf ace Closer/Stop-Arm,False,739,1,Coordinator,3700 Series,ABH,600,,1.0
+E10,Exterior Pair - Storeroom Lockset - Surf ace Closer/Stop-Arm,False,739,2,Mounting Bracket,3751/3752 (as required),ABH,600,,1.0
+E10,Exterior Pair - Storeroom Lockset - Surf ace Closer/Stop-Arm,False,739,2,OH Surface Closer-SCUSH,4040XP SCUSH,LCN,689,,1.0
+E10,Exterior Pair - Storeroom Lockset - Surf ace Closer/Stop-Arm,False,739,1,Overlapping Astragal,355CS,PEM,628,,1.0
+E10,Exterior Pair - Storeroom Lockset - Surf ace Closer/Stop-Arm,False,739,2,Door Sweep,C627,NGP,628,,1.0
+E10,Exterior Pair - Storeroom Lockset - Surf ace Closer/Stop-Arm,False,739,1,Weatherstrip,700Nx700EN,NGP,719,Set,1.0
+E10,Exterior Pair - Storeroom Lockset - Surf ace Closer/Stop-Arm,False,739,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E10,Exterior Pair - Storeroom Lockset - Surf ace Closer/Stop-Arm,False,739,2,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+06A,Exterior Single - Card Reader - Electrified Fail-Secure Lock - Surface Closer - Butt Hinges,False,740,,,,,,,
+E11,Exterior Single - Card Reader - Electrified Fail-Secure Lock - Surface Closer - Butt Hinges,False,740,,Hinge-HT,4C51 HT NRP,PBB,630,as required,0.9
+E11,Exterior Single - Card Reader - Electrified Fail-Secure Lock - Surface Closer - Butt Hinges,False,740,1,Hinge-Power Transfer,4C51EL HT,PBB,630,,1.0
+E11,Exterior Single - Card Reader - Electrified Fail-Secure Lock - Surface Closer - Butt Hinges,False,740,1,Fail Secure Cyl. Lock,XCDC-86-S-RQE 24VDC,TOW,626,,1.0
+E11,Exterior Single - Card Reader - Electrified Fail-Secure Lock - Surface Closer - Butt Hinges,False,740,1,Cylinder,Per project,TBD,626,,1.0
+E11,Exterior Single - Card Reader - Electrified Fail-Secure Lock - Surface Closer - Butt Hinges,False,740,1,OH Surface Closer,4040XP/4040XP EDA,LCN,689,,1.0
+E11,Exterior Single - Card Reader - Electrified Fail-Secure Lock - Surface Closer - Butt Hinges,False,740,1,Door Stop,Per Specification,,,,1.0
+E11,Exterior Single - Card Reader - Electrified Fail-Secure Lock - Surface Closer - Butt Hinges,False,740,1,Overhead Rain Drip,16A (As Req),NGP,628,,1.0
+E11,Exterior Single - Card Reader - Electrified Fail-Secure Lock - Surface Closer - Butt Hinges,False,740,1,Door Sweep,600A,NGP,628,,1.0
+E11,Exterior Single - Card Reader - Electrified Fail-Secure Lock - Surface Closer - Butt Hinges,False,740,1,Weatherstrip,700Nx700EN,NGP,719,Set,1.0
+E11,Exterior Single - Card Reader - Electrified Fail-Secure Lock - Surface Closer - Butt Hinges,False,740,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E11,Exterior Single - Card Reader - Electrified Fail-Secure Lock - Surface Closer - Butt Hinges,False,740,1,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E11,Exterior Single - Card Reader - Electrified Fail-Secure Lock - Surface Closer - Butt Hinges,False,740,1,Card Reader,By Division 28,,,,1.0
+E11,Exterior Single - Card Reader - Electrified Fail-Secure Lock - Surface Closer - Butt Hinges,False,740,1,Door Position Switch,By Division 28,,,,1.0
+E11,Exterior Single - Card Reader - Electrified Fail-Secure Lock - Surface Closer - Butt Hinges,False,740,1,Lock Power Supply,By Division 28,,,,1.0
+10A,Interior Exterior Single - Card Reader - Elec Fail Secure Lock/Ligature Resistant - Surf Closer,False,741,,,,,,,
+E12,,False,741,1,Continuous Hinge,AC500 HT SEC TW8,ABH,630,,1.0
+E12,,False,741,1,Ligature Res. Mortise Lock-Fail Secure,X-MRX-A-242-RQE,TOW,630,,1.0
+E12,,False,741,1,Cylinder,Per project,TBD,630,,1.0
+E12,,False,741,1,OH Surface Closer,4210T/4510T TBTRX mount public side,LCN,689,,1.0
+E12,,False,741,1,Overhead Rain Drip,16A (As Req),NGP,628,,1.0
+E12,,False,741,1,Door Sweep,600A,NGP,628,,1.0
+E12,,False,741,1,Weatherstrip,700Nx700EN,NGP,719,Set,1.0
+E12,,False,741,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E12,,False,741,1,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E12,,False,741,1,Card Reader,By Division 28,,,,1.0
+E12,,False,741,1,Door Position Switch,By Division 28,,,,1.0
+E12,,False,741,1,Lock Power Supply,By Division 28,,,,1.0
+10B,Exterior Single - Card Reader - Storeroom Lock/Ligature Resistant - Surface Closer,False,742,,,,,,,
+E13,Exterior Single - Card Reader - Inst Lock/Lig Res - Elec Strike - Automatic Operat or,False,742,1,Continuous Hinge,AC500 HT TW8 SEC,ABH,630,,1.0
+E13,Exterior Single - Card Reader - Inst Lock/Lig Res - Elec Strike - Automatic Operat or,False,742,1,Ligature Res. Mortise Lock-Storeroom,MRX-A-07,TOW,630,,1.0
+E13,Exterior Single - Card Reader - Inst Lock/Lig Res - Elec Strike - Automatic Operat or,False,742,1,Ligature Res. Mort Institutional Lock,MRX-A-30,TOW,630,,1.0
+E13,Exterior Single - Card Reader - Inst Lock/Lig Res - Elec Strike - Automatic Operat or,False,742,2,Cylinder,Per project,TBD,630,,1.0
+E13,Exterior Single - Card Reader - Inst Lock/Lig Res - Elec Strike - Automatic Operat or,False,742,1,Elec. Strike,55 Series,SDC,630,,1.0
+E13,Exterior Single - Card Reader - Inst Lock/Lig Res - Elec Strike - Automatic Operat or,False,742,1,Overhead Surface Auto Operator,SW200i 115VAC,BSM,628,,1.0
+E13,Exterior Single - Card Reader - Inst Lock/Lig Res - Elec Strike - Automatic Operat or,False,742,1,Wave Sense Actuator,MS31 / MS41 SEC,BEA,,,1.0
+E13,Exterior Single - Card Reader - Inst Lock/Lig Res - Elec Strike - Automatic Operat or,False,742,1,Overhead Rain Drip,16A (As Req),NGP,628,,1.0
+E13,Exterior Single - Card Reader - Inst Lock/Lig Res - Elec Strike - Automatic Operat or,False,742,1,Door Sweep,600A SEC,NGP,628,,1.0
+E13,Exterior Single - Card Reader - Inst Lock/Lig Res - Elec Strike - Automatic Operat or,False,742,1,Weatherstrip,700Nx700EN SEC,NGP,719,Set,1.0
+E13,Exterior Single - Card Reader - Inst Lock/Lig Res - Elec Strike - Automatic Operat or,False,742,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E13,Exterior Single - Card Reader - Inst Lock/Lig Res - Elec Strike - Automatic Operat or,False,742,1,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E13,Exterior Single - Card Reader - Inst Lock/Lig Res - Elec Strike - Automatic Operat or,False,742,2,Card Reader,By Division 28,,,,1.0
+E13,Exterior Single - Card Reader - Inst Lock/Lig Res - Elec Strike - Automatic Operat or,False,742,1,Door Position Switch,By Division 28,,,,1.0
+E13,Exterior Single - Card Reader - Inst Lock/Lig Res - Elec Strike - Automatic Operat or,False,742,1,REX Motion Sensor,By Division 28,,,,1.0
+E13,Exterior Single - Card Reader - Inst Lock/Lig Res - Elec Strike - Automatic Operat or,False,742,1,Lock Power Supply,By Division 28,,,,1.0
+11,Exterior Single - Card Reader - Elec Exit Devices/Ligature Resistant Lever - Surfa ce Closer s,False,743,,,,,,,
+E14,Exterior Single - Card Reader - ELR Device/Lig Resistant Lever - Mag lock - Surf Clsr,False,743,1,Continuous Hinge,AC500 HT TW8 SEC,ABH,630,,1.0
+E14,Exterior Single - Card Reader - ELR Device/Lig Resistant Lever - Mag lock - Surf Clsr,False,743,1,ELR Mortise Device-EO,ELR-D3375/D8375-EO REX,ADR,630,,1.0
+E14,Exterior Single - Card Reader - ELR Device/Lig Resistant Lever - Mag lock - Surf Clsr,False,743,1,Ligature Res. Dummy Trim for Device,ED-MRXA-41,TOW,630,,1.0
+E14,Exterior Single - Card Reader - ELR Device/Lig Resistant Lever - Mag lock - Surf Clsr,False,743,1,Cylinder for Key Switch,Per project,TBD,626,,1.0
+E14,Exterior Single - Card Reader - ELR Device/Lig Resistant Lever - Mag lock - Surf Clsr,False,743,1,OH Surface Closer,4210T/4510T TBTRX mount public side,LCN,689,,1.0
+E14,Exterior Single - Card Reader - ELR Device/Lig Resistant Lever - Mag lock - Surf Clsr,False,743,1,Delayed Egress Mag Lock,1511S-NC-K-V-D-B-A-VI SEC,SDC,628,,1.0
+E14,Exterior Single - Card Reader - ELR Device/Lig Resistant Lever - Mag lock - Surf Clsr,False,743,1,Emergency Release Button,CB402-B SEC,SDC,,,1.0
+E14,Exterior Single - Card Reader - ELR Device/Lig Resistant Lever - Mag lock - Surf Clsr,False,743,1,Alarm Kit w/Key Switch,101-1AK SEC,SDC,630,,1.0
+E14,Exterior Single - Card Reader - ELR Device/Lig Resistant Lever - Mag lock - Surf Clsr,False,743,1,Overhead Rain Drip,16A (As Req) SEC,NGP,628,,1.0
+E14,Exterior Single - Card Reader - ELR Device/Lig Resistant Lever - Mag lock - Surf Clsr,False,743,1,Door Sweep,C627 x SEC,NGP,628,,1.0
+E14,Exterior Single - Card Reader - ELR Device/Lig Resistant Lever - Mag lock - Surf Clsr,False,743,1,Weatherstrip,700Nx700EN x SEC,NGP,719,Set,1.0
+E14,Exterior Single - Card Reader - ELR Device/Lig Resistant Lever - Mag lock - Surf Clsr,False,743,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E14,Exterior Single - Card Reader - ELR Device/Lig Resistant Lever - Mag lock - Surf Clsr,False,743,1,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E14,Exterior Single - Card Reader - ELR Device/Lig Resistant Lever - Mag lock - Surf Clsr,False,743,2,Card Reader,By Division 28,,,,1.0
+E14,Exterior Single - Card Reader - ELR Device/Lig Resistant Lever - Mag lock - Surf Clsr,False,743,1,Door Position Switch,By Division 28,,,,1.0
+E14,Exterior Single - Card Reader - ELR Device/Lig Resistant Lever - Mag lock - Surf Clsr,False,743,1,Lock Power Supply,By Division 28,,,,1.0
+14,Exterior Single - Push/Pulls - Magnetic Lock - Automatic Operator,False,744,,,,,,,
+E15,,False,744,1,Swing Clear Continuous Hinge,A511 HT SEC,ABH,630,,1.0
+E15,,False,744,1,Ligature Res. Push/Pull Set,MRX-A-72,TOW,630,Set,1.0
+E15,,False,744,1,Mag Lock,1511-V-D-B-A 24VDC,SDC,628,,1.0
+E15,,False,744,1,Push to Lock/Unlock Button,CB402-AU (One Per Two Drs.),SDC,,,1.0
+E15,,False,744,1,Emergency Release Button,CB402-B,SDC,,,1.0
+E15,,False,744,1,Overhead Concealed Auto Operator,SW200i 115VAC,BSM,628,,1.0
+E15,,False,744,,Wave Sense Actuator,MS31 / MS41,BEA,,as required,0.9
+E15,,False,744,1,Overhead Rain Drip,16A (As Req),NGP,628,,1.0
+E15,,False,744,1,Door Sweep,600A x SEC,NGP,628,,1.0
+E15,,False,744,1,Weatherstrip,700Nx700EN x SEC,NGP,719,Set,1.0
+E15,,False,744,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E15,,False,744,1,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E15,,False,744,1,Card Reader,By Division 28,,,,1.0
+E15,,False,744,1,Door Position Switch,By Division 28,,,,1.0
+E15,,False,744,1,REX Motion Sensor,By Division 28,,,,1.0
+E15,,False,744,1,Lock Power Supply,By Division 28,,,,1.0
+E15,,False,744,1,Push to Exit Button,By Division 28,,,,1.0
+10C,Interior Single - Push/Pull-Ligature Resistant - Automatic Operator,False,744,,,,,,,
+E16,Interior Single - Push/Pull-Ligature Resistant - Automatic Operator,False,744,1,Continuous Hinge,AC500 HT SEC,ABH,630,,1.0
+E16,Interior Single - Push/Pull-Ligature Resistant - Automatic Operator,False,744,1,Ligature Res. Push/Pull Set,MRX-A-72,TOW,630,Set,1.0
+E16,Interior Single - Push/Pull-Ligature Resistant - Automatic Operator,False,744,1,Overhead Surface Auto Operator,SW200i 115VAC,BSM,628,,1.0
+E16,Interior Single - Push/Pull-Ligature Resistant - Automatic Operator,False,744,,Wave Sense Actuator,MS31 / MS41,BEA,,as required,0.9
+E16,Interior Single - Push/Pull-Ligature Resistant - Automatic Operator,False,744,1,Door Stop,Per Specification,,,,1.0
+E16,Interior Single - Push/Pull-Ligature Resistant - Automatic Operator,False,744,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+E16,Interior Single - Push/Pull-Ligature Resistant - Automatic Operator,False,744,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+14A,,True,745,,,,,,,
+E17,,False,745,2,Continuous Hinge,AC500 HT SEC,ABH,630,,1.0
+E17,,False,745,2,Ligature Res. Push/Pull Set,MRX-A-72,TOW,630,Set,1.0
+E17,,False,745,2,Mag Lock,1511-V-D-B-A 24VDC,SDC,628,,1.0
+E17,,False,745,2,Overhead Surface Auto Operator,SW200i Custom Hood 120VAC,BSM,630,,1.0
+E17,,False,745,,Wave Sense Actuator,MS31 / MS41,BEA,,as required,0.9
+E17,,False,745,2,Door Stop,Per Specification,,,,1.0
+E17,,False,745,1,Overhead Rain Drip,16A (As Req),NGP,628,,1.0
+E17,,False,745,1,Door Sweep,600A,NGP,628,,1.0
+E17,,False,745,1,Weatherstrip,700Nx700EN,NGP,719,Set,1.0
+E17,,False,745,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E17,,False,745,1,Motion Sensor,MD31,SDC,DB,,1.0
+E17,,False,745,1,Push-To-Exti Button,By Security,,,,1.0
+E17,,False,745,2,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E17,,False,745,2,Card Reader,By Division 28,,,,1.0
+E17,,False,745,2,Door Position Switch,By Division 28,,,,1.0
+E17,,False,745,1,REX Motion Sensor,By Division 28,,,,1.0
+E17,,False,745,1,Lock Power Supply,By Division 28,,,,1.0
+E17,,False,745,1,Push to Exit Button,By Division 28,,,,1.0
+13,Exterior Automated Sliding Gate,False,745,,,,,,,
+E18,Exterior Automated Sliding Gate,False,745,,,,,,,
+16,Exterior Single - Classroom Lockset - Surface Closer,False,746,,,,,,,
+E19,,False,746,1,Continuous Hinge,AC500 HT,ABH,630,,1.0
+E19,,False,746,1,Cyl. Lock-Classrm,CDC-84-S,TOW,626,,1.0
+E19,,False,746,1,Cylinder,Per project,TBD,630,,1.0
+E19,,False,746,1,OH Surface Closer,4040XP/4040XP EDA,LCN,689,,1.0
+E19,,False,746,1,Door Stop,Per Specification,,,,1.0
+E19,,False,746,1,Overhead Rain Drip,16A (As Req),NGP,628,,1.0
+E19,,False,746,1,Door Sweep,600A,NGP,628,,1.0
+E19,,False,746,1,Weatherstrip,700Nx700EN,NGP,719,Set,1.0
+E19,,False,746,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E19,,False,746,1,Push-To-Exti Button,By Security,,,,1.0
+E19,,False,746,1,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E19,,False,746,1,Door Position Switch,By Division 28,,,,1.0
+17,Exterior Single - Storeroom Lockset - Surface Closer,False,746,,,,,,,
+E20,,False,746,1,Continuous Hinge,AC500 HT,ABH,630,,1.0
+E20,,False,746,1,Cyl. Lock-Storerm,CDC-86-S,TOW,626,,1.0
+E20,,False,746,1,Cylinder,Per project,TBD,630,,1.0
+E20,,False,746,1,OH Surface Closer,4040XP/4040XP EDA,LCN,689,,1.0
+E20,,False,746,1,Door Stop,Per Specification,,,,1.0
+E20,,False,746,1,Overhead Rain Drip,16A (As Req),NGP,628,,1.0
+E20,,False,746,1,Door Sweep,600A,NGP,628,,1.0
+E20,,False,746,1,Weatherstrip,700Nx700EN,NGP,719,Set,1.0
+E20,,False,746,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E20,,False,746,1,Push-To-Exti Button,By Security,,,,1.0
+E20,,False,746,1,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E20,,False,746,1,Door Position Switch,By Division 28,,,,1.0
+E21,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Automatic Operator,False,747,1,Continuous Hinge,AC500 HT TW8 SEC,ABH,630,Set,1.0
+E21,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Automatic Operator,False,747,1,Ligature Res. Mort Lock-Fail Secure,X-MRX-A-241C,TOW,630,,1.0
+E21,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Automatic Operator,False,747,2,Cylinder,Per project,TBD,630,,1.0
+E21,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Automatic Operator,False,747,1,Overhead Surface Auto Operator,SW200i 120VAC,BSM,628,,1.0
+E21,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Automatic Operator,False,747,1,Door Stop,1841,ABH,630,,1.0
+E21,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Automatic Operator,False,747,1,Gasketing,ANTI-LIG 5050,NGP,BLK,Set,1.0
+E21,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Automatic Operator,False,747,2,Door Sweep,C627 SEC,NGP,628,,1.0
+E21,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Automatic Operator,False,747,1,Threshold,To Suit Sill Condition,PEM,719,,1.0
+E21,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Automatic Operator,False,747,1,Door Position Switch,MC-4 (Or as Req),SDC,,,1.0
+E21,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Automatic Operator,False,747,2,Card Reader,By Division 28,,,,1.0
+E21,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Automatic Operator,False,747,1,Door Position Switch,By Division 28,,,,1.0
+E21,Exterior Single - Card Readers - Elec Fail-Secure Institutional Lock - Automatic Operator,False,747,1,Lock Power Supply,By Division 28,,,,1.0
+G01,Exterior Pair Gates - Exit Devices/Store room Lever - Center Mullion - Gate Pivots /Closers,False,748,2,Spring Hinge/Closer,Mammoth-HD,LOC,TBD,Set,1.0
+G01,Exterior Pair Gates - Exit Devices/Store room Lever - Center Mullion - Gate Pivots /Closers,False,748,1,Center Mullion,By Gate Mfg.,,TBD,,1.0
+G01,Exterior Pair Gates - Exit Devices/Store room Lever - Center Mullion - Gate Pivots /Closers,False,748,1,Exit Device-EO,40W-01CN,DET,TBD,,1.0
+G01,Exterior Pair Gates - Exit Devices/Store room Lever - Center Mullion - Gate Pivots /Closers,False,748,1,Exit Device-LNL,40W-09DN,DET,TBD,,1.0
+G01,Exterior Pair Gates - Exit Devices/Store room Lever - Center Mullion - Gate Pivots /Closers,False,748,1,Cylinder to Suit Device,Per Specification,,,,1.0
+G02,Exterior Pair Gates - Exit Device/Storer oom Lever - Cane Bolt - Gate Pivots/Close rs,False,748,2,Spring Hinge/Closer,Mammoth-HD,LOC,TBD,Set,1.0
+G02,Exterior Pair Gates - Exit Device/Storer oom Lever - Cane Bolt - Gate Pivots/Close rs,False,748,1,Exit Device-LNL,40W-09DN,DET,TBD,,1.0
+G02,Exterior Pair Gates - Exit Device/Storer oom Lever - Cane Bolt - Gate Pivots/Close rs,False,748,1,Cylinder to Suit Device,Per Specification,,,,1.0
+G02,Exterior Pair Gates - Exit Device/Storer oom Lever - Cane Bolt - Gate Pivots/Close rs,False,748,1,Cane Bolt,53-2528,STA,TBD,,1.0
+G02,Exterior Pair Gates - Exit Device/Storer oom Lever - Cane Bolt - Gate Pivots/Close rs,False,748,1,Padlock for cane bolt,Per Specification,,,,1.0
+E03,Exterior Pair Gates - Exit Device/Storeroom Lever - Cane Bolt - Gate Pivots/Closers,False,748,,,,,,,
+G03,Exterior Pair Gates - Exit Device/Storer oom Lever - Cane Bolt - Gate Pivots/Close rs,False,748,2,Spring Hinge/Closer,Mammoth-HD,LOC,TBD,Set,1.0
+G03,Exterior Pair Gates - Exit Device/Storer oom Lever - Cane Bolt - Gate Pivots/Close rs,False,748,1,Exit Device-LNL,40W-09DN,DET,TBD,,1.0
+G03,Exterior Pair Gates - Exit Device/Storer oom Lever - Cane Bolt - Gate Pivots/Close rs,False,748,1,Cylinder to Suit Device,Per Specification,,,,1.0
+G03,Exterior Pair Gates - Exit Device/Storer oom Lever - Cane Bolt - Gate Pivots/Close rs,False,748,1,Cane Bolt,53-2528,STA,TBD,,1.0
+G03,Exterior Pair Gates - Exit Device/Storer oom Lever - Cane Bolt - Gate Pivots/Close rs,False,748,1,Padlock for cane bolt,Per Specification,,,,1.0

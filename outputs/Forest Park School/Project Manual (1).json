@@ -1,0 +1,281 @@
+{
+  "source_file": "Project Manual (1).pdf",
+  "hardware_pages": [
+    192,
+    193,
+    262,
+    263
+  ],
+  "columns": [
+    {
+      "pages": "262-263",
+      "columns": [
+        {
+          "x": 72,
+          "kind": "qty",
+          "confidence": 1.0,
+          "votes": {},
+          "examples": [
+            "1.0",
+            "3.0",
+            "2.4",
+            "2.5",
+            "B.",
+            "2.6"
+          ]
+        },
+        {
+          "x": 93,
+          "kind": "description",
+          "confidence": 1.0,
+          "votes": {},
+          "examples": [
+            "Mortise",
+            "Hinge",
+            "Surface",
+            "Silencers"
+          ]
+        },
+        {
+          "x": 114,
+          "kind": "description",
+          "confidence": 1.0,
+          "votes": {
+            "mfr": 0.0,
+            "finish": 0.0
+          },
+          "examples": [
+            "MISCELLANEOUS",
+            "FABRICATION,",
+            "Cut,"
+          ]
+        },
+        {
+          "x": 129,
+          "kind": "description",
+          "confidence": 1.0,
+          "votes": {
+            "mfr": 0.0,
+            "finish": 0.0
+          },
+          "examples": [
+            "GENERAL",
+            "drill, and punch",
+            "Lock-Storeroom",
+            "Cylinder",
+            "Overhead Stop"
+          ]
+        },
+        {
+          "x": 213,
+          "kind": "description",
+          "confidence": 1.0,
+          "votes": {
+            "mfr": 0.0,
+            "finish": 0.0
+          },
+          "examples": [
+            "MATERIALS",
+            "metals",
+            "FRAMING"
+          ]
+        },
+        {
+          "x": 234,
+          "kind": "catalog",
+          "confidence": 1.0,
+          "votes": {},
+          "examples": [
+            "cleanly and accurately. Remove burrs and",
+            "AND SUPPORTS",
+            "FBB179 NRP 4.5X4.5",
+            "45H-0D-15H LESS CYLINDER",
+            "CR1000-XXX-CAM-7 59D1 (TIE TO SYSTEM)",
+            "4420 SERIES"
+          ]
+        },
+        {
+          "x": 453,
+          "kind": "finish",
+          "confidence": 0.97,
+          "votes": {
+            "mfr": 0.0,
+            "finish": 2.7
+          },
+          "examples": [
+            "626",
+            "ease edges",
+            "26D",
+            "US32D",
+            "Gray"
+          ]
+        },
+        {
+          "x": 501,
+          "kind": "mfr",
+          "confidence": 0.98,
+          "votes": {
+            "mfr": 3.3,
+            "finish": 0.0
+          },
+          "examples": [
+            "BES",
+            "to a",
+            "C-R",
+            "ABH",
+            "BRN"
+          ]
+        }
+      ]
+    }
+  ],
+  "learned_codes": {
+    "mfr": {
+      "BES": "BEST",
+      "C-R": "Corbin Russwin",
+      "DKA": "dormakaba Architectural",
+      "DKC": "dormakaba Commercial",
+      "NGP": "National Guard Products",
+      "PRE": "BEST (Precision)",
+      "BEST": "(Precision)"
+    },
+    "finish": {
+      "AWS": "D1.2/D1.2M, \"Structural Welding Code - Aluminum.\"",
+      "626": "Satin Chromium Plated Over Nickel",
+      "630": "Satin Stainless Steel",
+      "689": "Aluminum (Painted)",
+      "26D": "Satin Chromium Plated Over Nickel",
+      "32D": "Satin Stainless Steel",
+      "A": "Anodized Aluminum",
+      "AL": "Aluminum Clear Coated",
+      "B": "Brown",
+      "500": "Gray"
+    }
+  },
+  "stats": {
+    "format": "list",
+    "seconds": 1.25,
+    "pages_in_pdf": 344,
+    "hardware_pages": 4,
+    "ocr_pages": [],
+    "sets": 1,
+    "components": 4,
+    "low_confidence_sets": 0,
+    "ungrounded_values_removed": 0,
+    "ai_rereads": 0,
+    "cache": "miss"
+  },
+  "sets": [
+    {
+      "set_number": "1",
+      "description": null,
+      "doors": "256a, 2p57a",
+      "not_used": false,
+      "location": [
+        {
+          "page": 262,
+          "bbox": [
+            72.0,
+            649.7,
+            535.7,
+            754.1
+          ],
+          "lines": [
+            35,
+            40
+          ]
+        },
+        {
+          "page": 263,
+          "bbox": [
+            72.0,
+            37.6,
+            520.5,
+            109.9
+          ],
+          "lines": [
+            0,
+            3
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 3,
+          "description": "Hinge",
+          "catalog_number": "FBB179 NRP 4.5X4.5",
+          "mfr": "BES",
+          "mfr_name": "BEST",
+          "finish": "26D",
+          "notes": null,
+          "confidence": 0.95,
+          "source": "rules",
+          "page": 262,
+          "bbox": [
+            72.0,
+            688.5,
+            519.5,
+            698.5
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "Mortise Lock-Storeroom",
+          "catalog_number": "45H-0D-15H LESS CYLINDER",
+          "mfr": "BES",
+          "mfr_name": "BEST",
+          "finish": "626",
+          "notes": null,
+          "confidence": 0.95,
+          "source": "rules",
+          "page": 262,
+          "bbox": [
+            72.0,
+            701.8,
+            519.5,
+            711.8
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "Mortise Cylinder",
+          "catalog_number": "CR1000-XXX-CAM-7 59D1 (TIE TO SYSTEM)",
+          "mfr": "C-R",
+          "mfr_name": "Corbin Russwin",
+          "finish": "626",
+          "notes": null,
+          "confidence": 0.95,
+          "source": "rules",
+          "page": 263,
+          "bbox": [
+            72.0,
+            73.5,
+            517.3,
+            83.5
+          ]
+        },
+        {
+          "qty": 1,
+          "description": "Surface Overhead Stop",
+          "catalog_number": "4420 SERIES",
+          "mfr": "ABH",
+          "mfr_name": "ABH",
+          "finish": "US32D",
+          "notes": null,
+          "confidence": 0.95,
+          "source": "rules",
+          "page": 263,
+          "bbox": [
+            72.0,
+            86.7,
+            519.9,
+            96.7
+          ]
+        }
+      ],
+      "notes": "Door Hardware 087100 - 16 February 3, 2026 000053277 CHSD218 Phase 3 3.0 Silencers 500 Gray BRN",
+      "confidence": 0.95,
+      "warnings": []
+    }
+  ]
+}

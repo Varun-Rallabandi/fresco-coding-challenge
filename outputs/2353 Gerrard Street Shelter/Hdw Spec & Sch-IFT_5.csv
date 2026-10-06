@@ -1,0 +1,467 @@
+set_number,set_description,not_used,page,qty,description,catalog_number,mfr,finish,notes,confidence
+AL 01,,False,19,1,Continuous Hinge(s),780-112HD x LAR EPT Prep,HA,CLR,,0.96
+AL 01,,False,19,1,Power Transfer(s),2-679-0623,HA,ALM,,0.96
+AL 01,,False,19,1,Exit Device,40-CBK ER EX EC2,DE,630,,0.96
+AL 01,,False,19,1,Mortise Cylinder(s),3902 x LAR,HA,US26D,,0.96
+AL 01,,False,19,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+AL 01,,False,19,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+AL 01,,False,19,1,Offset Door Pull(s),910P 36,HA,US10B,,0.96
+AL 01,,False,19,1,Overhead Stop(s),7016 SRF,HA,US32D,,0.96
+AL 01,,False,19,1,Single Operator,8318 Push,HA,ALM,,0.96
+AL 01,,False,19,1,Thermally Broken Threshold,420S x LAR,HA,MIL,,0.96
+AL 01,,False,19,1,Weatherstrip,By Frame Mfr./Supplier,,,,1.0
+AL 01,,False,19,1,Sweep(s),750S Nx LAR,HA,CLR,,0.96
+AL 01,,False,19,1,Rain Drip,810S x LAR,HA,MIL,,0.96
+AL 01,,False,19,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+AL 01,,False,19,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+AL 01,,False,19,1,Reader/Keypad,By Security Provider,,,,1.0
+AL 01,,False,19,1,Intercom,By Security Provider,,,,1.0
+AL 01,,False,19,1,Remote Exit Button,By Security Provider,,,,1.0
+AL 01,,False,19,1,Power Supply,By Security Provider,,,,1.0
+AL 01,,False,19,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+01,,False,19,1,Hardware,by Door Mfr./Supplier,,,,1.0
+02,,False,20,1,Continuous Hinge(s),780-111HD x LAR,HA,CLR,,0.96
+02,,False,20,1,Continuous Hinge(s),780-111HD x LAR EPT Prep,HA,CLR,,0.96
+02,,False,20,1,Power Transfer(s),2-679-0623,HA,ALM,,0.96
+02,,False,20,1,Automatic Flush Bolt Set,292D,HA,US32D,,0.96
+02,,False,20,1,Dust Proof Strike,280X,HA,US26D,,0.96
+02,,False,20,1,Exit Device(s),4501 M MLRX FEC,HA,US32D,,0.96
+02,,False,20,1,Rim Cylinder(s),3901 SFIC,HA,US26D,,0.96
+02,,False,20,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+02,,False,20,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+02,,False,20,1,Door Pull(s),H 12J,HA,US32D,,0.96
+02,,False,20,1,Coordinator,297D x LAR,HA,BLACK,,0.96
+02,,False,20,2,Mounting Bracket(s),297B,HA,BLACK,,0.96
+02,,False,20,1,Overhead Stop(s) Active Leaf,7016 SRF,HA,US32D,,0.96
+02,,False,20,1,Closer(s) Top Jamb Mount,5200,HA,ALM,,0.96
+02,,False,20,1,Single Operator,8318 Push,HA,ALM,,0.96
+02,,False,20,2,Kick Plate(s),"190S 10"" x 1"" LDW",HA,US32D,,0.96
+02,,False,20,1,Floor Stop(s),267F,HA,US26D,,0.96
+02,,False,20,1,Thermally Broken Threshold,421S x LAR,HA,MIL,,0.96
+02,,False,20,1,Seal,726 x LAR,HA,S,,0.96
+02,,False,20,1,Astragal(s),835S x LAR,HA,USP,,0.96
+02,,False,20,1,Astragal Seal(s),726 x LAR,HA,S,,0.96
+02,,False,20,2,Sweep(s),750S Nx LAR,HA,CLR,,0.96
+02,,False,20,1,Rain Drip,810S x LAR,HA,MIL,,0.96
+02,,False,20,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+02,,False,20,2,Door Position Switch(es),2-679-0626,HA,,,0.99
+02,,False,20,1,Reader/Keypad,By Security Provider,,,,1.0
+02,,False,20,1,Intercom,By Security Provider,,,,1.0
+02,,False,20,1,Remote Exit Button,By Security Provider,,,,1.0
+02,,False,20,1,Power Supply,By Security Provider,,,,1.0
+02,,False,20,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+03,,False,21,1,Continuous Hinge,"780-111HD 95"" EPT/PREP",HA,CLR,,0.96
+03,,False,21,1,Power Transfer(s),2-679-0623,HA,ALM,,0.96
+03,,False,21,1,Exit Device(s),4501 RIM MLRX FEC,HA,US32D,,0.96
+03,,False,21,1,Night Latch Trim(s),45NL WTN,HA,US26D,,0.96
+03,,False,21,1,Rim Cylinder(s),3901 SFIC,HA,US26D,,0.96
+03,,False,21,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+03,,False,21,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+03,,False,21,1,Overhead Stop(s),7016 SRF,HA,US32D,,0.96
+03,,False,21,1,Single Operator,8318 Push,HA,ALM,,0.96
+03,,False,21,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+03,,False,21,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+03,,False,21,1,Thermally Broken Threshold,413S x LAR,HA,MIL,,0.96
+03,,False,21,1,Kerf Seal,By Frame Supplier,,,,1.0
+03,,False,21,1,Sweep(s),750S Nx LAR,HA,CLR,,0.96
+03,,False,21,1,Rain Drip,810S x LAR,HA,MIL,,0.96
+03,,False,21,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+03,,False,21,1,Reader/Keypad,By Security Provider,,,,1.0
+03,,False,21,1,Intercom,By Security Provider,,,,1.0
+03,,False,21,1,Remote Exit Button,By Security Provider,,,,1.0
+03,,False,21,1,Power Supply,By Security Provider,,,,1.0
+03,,False,21,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+04,,False,22,1,Continuous Hinge(s),780-111HD x LAR EPT Prep,HA,CLR,,0.96
+04,,False,22,1,Power Transfer(s),2-679-0623,HA,ALM,,0.96
+04,,False,22,1,Electrified Lockset,3480ELEURX WTN,HA,US26D,,0.96
+04,,False,22,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+04,,False,22,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+04,,False,22,1,Closer(s),5100 HDCS,HA,ALM,,0.96
+04,,False,22,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+04,,False,22,1,Thermally Broken Threshold,421S x LAR,HA,MIL,,0.96
+04,,False,22,1,Kerf Seal,By Frame Supplier,,,,1.0
+04,,False,22,1,Sweep(s),750S Nx LAR,HA,CLR,,0.96
+04,,False,22,1,Rain Drip,810S x LAR,HA,MIL,,0.96
+04,,False,22,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+04,,False,22,1,Reader/Keypad,By Security Provider,,,,1.0
+04,,False,22,1,Power Supply,By Security Provider,,,,1.0
+04,,False,22,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+05,,False,22,8,Hinge(s),"BB1168 4 1/2"" x 4 1/2""",HA,US32D,,0.96
+05,,False,22,1,Power Transfer(s),2-679-0623,HA,ALM,,0.96
+05,,False,22,1,Exit Device(s),4501 LBR F FEC w/Fire Bolt,HA,US32D,,0.96
+05,,False,22,1,Exit Device(s),4501 LBR F MLR FEC,HA,US32D,,0.96
+05,,False,22,1,Passage Trim(s),45BE WTN,HA,US26D,,0.96
+05,,False,22,1,Automatic Operator,8318,HA,ALM,,0.96
+05,,False,22,4,Protection Plate(s),"190S 10"" x 1"" LDW",HA,US32D,,0.96
+05,,False,22,2,Magnetic Holder(s),380 Series as Req'd,HA,LS,,0.96
+05,,False,22,1,Seal,726 x LAR,HA,S,,0.96
+05,,False,22,2,Astragal(s),835S x LAR,HA,USP,,0.96
+05,,False,22,2,Astragal Seal(s),726 x LAR,HA,S,,0.96
+05,,False,22,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+05,,False,22,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+06,,False,23,4,Hinge(s),"BB1199 5"" x 4"" NRP",HA,US32D,,0.96
+06,,False,23,1,Power Transfer(s),2-679-0623,HA,ALM,,0.96
+06,,False,23,1,Exit Device(s),4501 RIM MLRX FEC,HA,US32D,,0.96
+06,,False,23,1,Rim Cylinder(s),3901 SFIC,HA,US26D,,0.96
+06,,False,23,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+06,,False,23,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+06,,False,23,1,Offset Door Pull(s),910P 36,HA,US10B,,0.96
+06,,False,23,1,Single Operator,8318 Pull,HA,ALM,,0.96
+06,,False,23,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+06,,False,23,1,Convex Wall Stop(s),232W,HA,US32D,,0.96
+06,,False,23,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+06,,False,23,3,Silencers,307D,HA,GREY,,0.96
+06,,False,23,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+06,,False,23,1,Reader/Keypad,By Security Provider,,,,1.0
+06,,False,23,1,Remote Exit Button,By Security Provider,,,,1.0
+06,,False,23,1,Power Supply,By Security Provider,,,,1.0
+06,,False,23,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+07,,False,23,3,Hinge(s),"BB1199 5"" x 4""",HA,US32D,,0.96
+07,,False,23,1,Door Pull,910B 36,HA,US32D,,0.96
+07,,False,23,1,Single Operator,8318 Pull,HA,ALM,,0.96
+07,,False,23,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+07,,False,23,1,Convex Wall Stop(s),232W,HA,US32D,,0.96
+07,,False,23,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+07,,False,23,3,Silencers,307D,HA,GREY,,0.96
+07,,False,23,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+08,,False,24,2,Hinge(s),"BB1279 4 1/2"" x 4"" NRP",HA,US32D,,0.96
+08,,False,24,1,Electrified Hinge(s),"BB1191 4 1/2"" x 4"" ETW",HA,US32D,,0.96
+08,,False,24,1,MLR Lockset,LPC190-HD L6 EU SFIC REX,CMND,AL,,0.96
+08,,False,24,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+08,,False,24,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+08,,False,24,1,Single Operator,8318 Pull,HA,ALM,,0.96
+08,,False,24,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+08,,False,24,1,Convex Wall Stop(s),232W,HA,US32D,,0.96
+08,,False,24,3,Silencers,307D,HA,GREY,,0.96
+08,,False,24,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+08,,False,24,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+08,,False,24,1,Reader/Keypad,By Security Provider,,,,1.0
+08,,False,24,1,Power Supply,By Security Provider,,,,1.0
+08,,False,24,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+09,,False,24,2,Hinge(s),"BB1279 4 1/2"" x 4"" NRP",HA,US32D,,0.96
+09,,False,24,1,Electrified Hinge(s),"BB1191 4 1/2"" x 4"" ETW",HA,US32D,,0.96
+09,,False,24,1,MLR Lockset,LPC190-HD L6 EU SFIC REX,CMND,AL,,0.96
+09,,False,24,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+09,,False,24,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+09,,False,24,1,Overhead Stop(s),7016 SRF,HA,US32D,,0.96
+09,,False,24,1,Single Operator,8318 Pull,HA,ALM,,0.96
+09,,False,24,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+09,,False,24,3,Silencers,307D,HA,GREY,,0.96
+09,,False,24,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+09,,False,24,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+09,,False,24,1,Reader/Keypad,By Security Provider,,,,1.0
+09,,False,24,1,Power Supply,By Security Provider,,,,1.0
+09,,False,24,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+10,,False,25,3,Hinge(s),"BB1279 4 1/2"" x 4"" NRP",HA,US32D,,0.96
+10,,False,25,1,Electrified Hinge(s),"BB1191 4 1/2"" x 4"" ETW",HA,US32D,,0.96
+10,,False,25,1,MLR Lockset,LPC190-HD L6 EU SFIC REX,CMND,AL,,0.96
+10,,False,25,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+10,,False,25,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+10,,False,25,1,Single Operator,8318 Pull,HA,ALM,,0.96
+10,,False,25,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+10,,False,25,1,Convex Wall Stop(s),232W,HA,US32D,,0.96
+10,,False,25,1,Seal,726 x LAR,HA,S,,0.96
+10,,False,25,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+10,,False,25,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+10,,False,25,1,Reader/Keypad,By Security Provider,,,,1.0
+10,,False,25,1,Power Supply,By Security Provider,,,,1.0
+10,,False,25,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+11,,False,25,2,Hinge(s),"BB1191 5"" x 4"" NRP",HA,US32D,,0.96
+11,,False,25,1,Electrified Hinge(s),"BB1191 5"" x 4"" ETW",HA,US32D,,0.96
+11,,False,25,1,MLR Lockset,LPC190-HD L6 EU SFIC REX,CMND,AL,,0.96
+11,,False,25,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+11,,False,25,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+11,,False,25,1,Overhead Stop(s),7016 SRF,HA,US32D,,0.96
+11,,False,25,1,Single Operator,8318 Pull,HA,ALM,,0.96
+11,,False,25,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+11,,False,25,3,Silencers,307D,HA,GREY,,0.96
+11,,False,25,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+11,,False,25,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+11,,False,25,1,Reader/Keypad,By Security Provider,,,,1.0
+11,,False,25,1,Remote Exit Button,By Security Provider,,,,1.0
+11,,False,25,1,Power Supply,By Security Provider,,,,1.0
+11,,False,25,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+12,,False,26,2,Hinge(s),"BB1279 4 1/2"" x 4"" NRP",HA,US32D,,0.96
+12,,False,26,1,Electrified Hinge(s),"BB1191 4 1/2"" x 4"" ETW",HA,US32D,,0.96
+12,,False,26,1,Electrified Lockset,3480ELEURX WTN,HA,US26D,,0.96
+12,,False,26,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+12,,False,26,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+12,,False,26,1,Closer(s),5200,HA,ALM,,0.96
+12,,False,26,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+12,,False,26,1,Convex Wall Stop(s),232W,HA,US32D,,0.96
+12,,False,26,3,Silencers,307D,HA,GREY,,0.96
+12,,False,26,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+12,,False,26,1,Reader/Keypad,By Security Provider,,,,1.0
+12,,False,26,1,Power Supply,By Security Provider,,,,1.0
+12,,False,26,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+13,,False,26,2,Hinge(s),"BB1279 4 1/2"" x 4"" NRP",HA,US32D,,0.96
+13,,False,26,1,Electrified Hinge(s),"BB1191 4 1/2"" x 4"" ETW",HA,US32D,,0.96
+13,,False,26,1,Electrified Lockset,3480ELEURX WTN,HA,US26D,,0.96
+13,,False,26,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+13,,False,26,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+13,,False,26,1,Closer(s),5200 TRK NHOTA,HA,ALM,,0.96
+13,,False,26,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+13,,False,26,3,Silencers,307D,HA,GREY,,0.96
+13,,False,26,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+13,,False,26,1,Reader/Keypad,By Security Provider,,,,1.0
+13,,False,26,1,Power Supply,By Security Provider,,,,1.0
+13,,False,26,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+14,,False,27,2,Hinge(s),"BB1279 4 1/2"" x 4"" NRP",HA,US32D,,0.96
+14,,False,27,1,Electrified Hinge(s),"BB1191 4 1/2"" x 4"" ETW",HA,US32D,,0.96
+14,,False,27,1,Electrified Lockset,3480ELEURX WTN,HA,US26D,,0.96
+14,,False,27,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+14,,False,27,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+14,,False,27,1,Closer(s),5200,HA,ALM,,0.96
+14,,False,27,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+14,,False,27,1,Convex Wall Stop(s),232W,HA,US32D,,0.96
+14,,False,27,3,Silencers,307D,HA,GREY,,0.96
+14,,False,27,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+14,,False,27,1,Reader/Keypad,By Security Provider,,,,1.0
+14,,False,27,1,Remote Exit Button,By Security Provider,,,,1.0
+14,,False,27,1,Power Supply,By Security Provider,,,,1.0
+14,,False,27,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+16,,False,27,2,Hinge(s),"BB1191 5"" x 4"" NRP",HA,US32D,,0.96
+16,,False,27,1,Electrified Hinge(s),"BB1191 5"" x 4"" ETW",HA,US32D,,0.96
+16,,False,27,1,Electrified Lockset,3480ELEURX WTN,HA,US26D,,0.96
+16,,False,27,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+16,,False,27,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+16,,False,27,1,Closer(s),5200 TRK NHOTA DLY,HA,ALM,,0.96
+16,,False,27,1,Armor Plate(s),"190S 34"" x 2"" LDW",HA,US32D,,0.96
+16,,False,27,1,Seal,726 x LAR,HA,S,,0.96
+16,,False,27,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+16,,False,27,1,Reader/Keypad,By Security Provider,,,,1.0
+16,,False,27,1,Power Supply,By Security Provider,,,,1.0
+16,,False,27,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+17,,False,28,2,Hinge(s),"BB1279 4 1/2"" x 4"" NRP",HA,US32D,,0.96
+17,,False,28,1,Electrified Hinge(s),"BB1191 4 1/2"" x 4"" ETW",HA,US32D,,0.96
+17,,False,28,1,Electrified Lockset,3480ELEURX WTN,HA,US26D,,0.96
+17,,False,28,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+17,,False,28,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+17,,False,28,1,Closer(s),5200,HA,ALM,,0.96
+17,,False,28,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+17,,False,28,1,Convex Wall Stop(s),232W,HA,US32D,,0.96
+17,,False,28,1,Seal,726 x LAR,HA,S,,0.96
+17,,False,28,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+17,,False,28,1,Reader/Keypad,By Security Provider,,,,1.0
+17,,False,28,1,Power Supply,By Security Provider,,,,1.0
+17,,False,28,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+18,,False,28,2,Hinge(s),"BB1279 4 1/2"" x 4"" NRP",HA,US32D,,0.96
+18,,False,28,1,Electrified Hinge(s),"BB1191 4 1/2"" x 4"" ETW",HA,US32D,,0.96
+18,,False,28,1,Electrified Lockset,3480ELEURX WTN,HA,US26D,,0.96
+18,,False,28,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+18,,False,28,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+18,,False,28,1,Closer(s),5200 TRK NHOTA,HA,ALM,,0.96
+18,,False,28,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+18,,False,28,1,Seal,726 x LAR,HA,S,,0.96
+18,,False,28,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+18,,False,28,1,Reader/Keypad,By Security Provider,,,,1.0
+18,,False,28,1,Power Supply,By Security Provider,,,,1.0
+18,,False,28,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+19,,False,29,2,Hinge(s),"BB1191 5"" x 4"" NRP",HA,US32D,,0.96
+19,,False,29,1,Electrified Hinge(s),"BB1191 5"" x 4"" ETW",HA,US32D,,0.96
+19,,False,29,1,Electrified Lockset,3480ELEURX WTN,HA,US26D,,0.96
+19,,False,29,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+19,,False,29,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+19,,False,29,1,Closer(s),5200,HA,ALM,,0.96
+19,,False,29,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+19,,False,29,1,Convex Wall Stop(s),232W,HA,US32D,,0.96
+19,,False,29,1,Seal,726 x LAR,HA,S,,0.96
+19,,False,29,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+19,,False,29,1,Reader/Keypad,By Security Provider,,,,1.0
+19,,False,29,1,Power Supply,By Security Provider,,,,1.0
+19,,False,29,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+20,,False,29,3,Hinge(s),"BB1279 4 1/2"" x 4""",HA,US32D,,0.96
+20,,False,29,1,Storeroom Lockset,3480 WTN SFIC,HA,US26D,,0.96
+20,,False,29,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+20,,False,29,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+20,,False,29,1,Closer(s),5200,HA,ALM,,0.96
+20,,False,29,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+20,,False,29,1,Convex Wall Stop(s),232W,HA,US32D,,0.96
+20,,False,29,3,Silencers,307D,HA,GREY,,0.96
+21,,False,29,3,Hinge(s),"BB1279 4 1/2"" x 4""",HA,US32D,,0.96
+21,,False,29,1,Storeroom Lockset,3480 WTN SFIC,HA,US26D,,0.96
+21,,False,29,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+21,,False,29,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+21,,False,29,1,Closer(s),5200 TRK NHOTA,HA,ALM,,0.96
+21,,False,29,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+21,,False,29,3,Silencers,307D,HA,GREY,,0.96
+22,,False,29,3,Hinge(s),"BB1279 4 1/2"" x 4""",HA,US32D,,0.96
+22,,False,29,1,Storeroom Lockset,3480 WTN SFIC,HA,US26D,,0.96
+22,,False,29,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+22,,False,29,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+22,,False,29,1,Closer(s),5200,HA,ALM,,0.96
+22,,False,29,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+22,,False,29,1,Convex Wall Stop(s),232W,HA,US32D,,0.96
+22,,False,29,1,Seal,726 x LAR,HA,S,,0.96
+23,,False,30,6,Hinge(s),"BB1279 4 1/2"" x 4"" NRP",HA,US32D,,0.96
+23,,False,30,1,Automatic Flush Bolt Set,292D,HA,US32D,,0.96
+23,,False,30,1,Dust Proof Strike,280X,HA,US26D,,0.96
+23,,False,30,1,Storeroom Lockset,3480 WTN SFIC,HA,US26D,,0.96
+23,,False,30,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+23,,False,30,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+23,,False,30,2,Closer(s),5200 HDCS,HA,ALM,,0.96
+23,,False,30,2,Kick Plate(s),"190S 10"" x 1"" LDW",HA,US32D,,0.96
+23,,False,30,1,Seal,726 x LAR,HA,S,,0.96
+23,,False,30,1,Astragal(s),835S x LAR,HA,USP,,0.96
+23,,False,30,1,Astragal Seal(s),726 x LAR,HA,S,,0.96
+24,,False,30,3,Hinge(s),"BB1279 4 1/2"" x 4""",HA,US32D,,0.96
+24,,False,30,1,Electric Strike,2930 CYL,HA,US32D,,0.96
+24,,False,30,1,Storeroom Lockset,3480 WTN SFIC,HA,US26D,,0.96
+24,,False,30,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+24,,False,30,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+24,,False,30,1,Single Operator,8318 Pull,HA,ALM,,0.96
+24,,False,30,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+24,,False,30,1,Mop Plate(s),"190S 4"" x 1"" LDW",HA,US32D,,0.96
+24,,False,30,1,Convex Wall Stop(s),232W,HA,US32D,,0.96
+24,,False,30,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+24,,False,30,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+24,,False,30,1,Push to Lock Button,2-659-0370,HA,,,0.99
+24,,False,30,1,Occupancy Indicator(s),2-659-0371,HA,,,0.99
+24,,False,30,3,Silencers,307D,HA,GREY,,0.96
+24,,False,30,1,Sequencer,2-659-0240,HA,,,0.99
+24,,False,30,2,Battery Backup,2-679-0661,HA,No Finish,,0.96
+24,,False,30,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+25,,False,31,3,Hinge(s),"BB1279 4 1/2"" x 4""",HA,US32D,,0.96
+25,,False,31,1,Electric Strike,2930 CYL,HA,US32D,,0.96
+25,,False,31,1,Storeroom Lockset,3480 WTN SFIC,HA,US26D,,0.96
+25,,False,31,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+25,,False,31,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+25,,False,31,1,Overhead Stop(s),7016 SRF,HA,US32D,,0.96
+25,,False,31,1,Single Operator,8318 Pull,HA,ALM,,0.96
+25,,False,31,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+25,,False,31,1,Mop Plate(s),"190S 4"" x 1"" LDW",HA,US32D,,0.96
+25,,False,31,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+25,,False,31,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+25,,False,31,1,Push to Lock Button,2-659-0370,HA,,,0.99
+25,,False,31,1,Occupancy Indicator(s),2-659-0371,HA,,,0.99
+25,,False,31,3,Silencers,307D,HA,GREY,,0.96
+25,,False,31,1,Sequencer,2-659-0240,HA,,,0.99
+25,,False,31,2,Battery Backup,2-679-0661,HA,No Finish,,0.96
+25,,False,31,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+26,,False,32,3,Hinge(s),"BB1279 4 1/2"" x 4""",HA,US32D,,0.96
+26,,False,32,1,Electric Strike,2930 CYL,HA,US32D,,0.96
+26,,False,32,1,Storeroom Lockset,3480 WTN SFIC,HA,US26D,,0.96
+26,,False,32,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+26,,False,32,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+26,,False,32,1,Single Operator,8318 Pull,HA,ALM,,0.96
+26,,False,32,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+26,,False,32,1,Mop Plate(s),"190S 4"" x 1"" LDW",HA,US32D,,0.96
+26,,False,32,1,Convex Wall Stop(s),232W,HA,US32D,,0.96
+26,,False,32,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+26,,False,32,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+26,,False,32,1,Push to Lock Button,2-659-0370,HA,,,0.99
+26,,False,32,1,Occupancy Indicator(s),2-659-0371,HA,,,0.99
+26,,False,32,3,Silencers,307D,HA,GREY,,0.96
+26,,False,32,1,Sequencer,2-659-0240,HA,,,0.99
+26,,False,32,2,Battery Backup,2-679-0661,HA,No Finish,,0.96
+26,,False,32,1,Emergency Kit,2-659-0372,HA,,,0.99
+26,,False,32,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+27,,False,33,3,Hinge(s),"BB1279 4 1/2"" x 4""",HA,US32D,,0.96
+27,,False,33,1,Electric Strike,2930 CYL,HA,US32D,,0.96
+27,,False,33,1,Storeroom Lockset,3480 WTN SFIC,HA,US26D,,0.96
+27,,False,33,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+27,,False,33,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+27,,False,33,1,Overhead Stop(s),7016 SRF,HA,US32D,,0.96
+27,,False,33,1,Single Operator,8318 Pull,HA,ALM,,0.96
+27,,False,33,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+27,,False,33,1,Mop Plate(s),"190S 4"" x 1"" LDW",HA,US32D,,0.96
+27,,False,33,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+27,,False,33,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+27,,False,33,1,Push to Lock Button,2-659-0370,HA,,,0.99
+27,,False,33,1,Occupancy Indicator(s),2-659-0371,HA,,,0.99
+27,,False,33,3,Silencers,307D,HA,GREY,,0.96
+27,,False,33,1,Sequencer,2-659-0240,HA,,,0.99
+27,,False,33,2,Battery Backup,2-679-0661,HA,No Finish,,0.96
+27,,False,33,1,Emergency Kit,2-659-0372,HA,,,0.99
+27,,False,33,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+28,,False,33,3,Hinge(s),"BB1279 4 1/2"" x 4""",HA,US32D,,0.96
+28,,False,33,1,Privacy Set w/ Indicator,3896 SECT WTN ADA Turn,HA,US26D,,0.96
+28,,False,33,1,Closer(s),5200,HA,ALM,,0.96
+28,,False,33,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+28,,False,33,1,Mop Plate(s),"190S 4"" x 1"" LDW",HA,US32D,,0.96
+28,,False,33,1,Convex Wall Stop(s),232W,HA,US32D,,0.96
+28,,False,33,3,Silencers,307D,HA,GREY,,0.96
+29,,False,33,3,Hinge(s),"BB1279 4 1/2"" x 4""",HA,US32D,,0.96
+29,,False,33,1,Privacy Set w/ Indicator,3896 SECT WTN ADA Turn,HA,US26D,,0.96
+29,,False,33,1,Closer(s),5200 TRK NHOTA,HA,ALM,,0.96
+29,,False,33,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+29,,False,33,1,Mop Plate(s),"190S 4"" x 1"" LDW",HA,US32D,,0.96
+29,,False,33,3,Silencers,307D,HA,GREY,,0.96
+30,,False,34,3,Hinge(s),"BB1199 5"" x 4""",HA,US32D,,0.96
+30,,False,34,1,Push Plate(s),"30S 8"" x 16""",HA,US32D,,0.96
+30,,False,34,1,Door Pull(s),975P 36,HA,US32D,,0.96
+30,,False,34,1,Single Operator,8318 Pull,HA,ALM,,0.96
+30,,False,34,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+30,,False,34,1,Mop Plate(s),"190S 4"" x 1"" LDW",HA,US32D,,0.96
+30,,False,34,1,Convex Wall Stop(s),232W,HA,US32D,,0.96
+30,,False,34,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+30,,False,34,3,Silencers,307D,HA,GREY,,0.96
+30,,False,34,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+31,,False,34,3,Hinge(s),"BB1279 4 1/2"" x 4""",HA,US32D,,0.96
+31,,False,34,1,Electric Strike,2930 CYL,HA,US32D,,0.96
+31,,False,34,1,Storeroom Lockset,3480 WTN SFIC,HA,US26D,,0.96
+31,,False,34,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+31,,False,34,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+31,,False,34,1,Single Operator,8318 Pull,HA,ALM,,0.96
+31,,False,34,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+31,,False,34,1,Mop Plate(s),"190S 4"" x 1"" LDW",HA,US32D,,0.96
+31,,False,34,1,Convex Wall Stop(s),232W,HA,US32D,,0.96
+31,,False,34,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+31,,False,34,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+31,,False,34,1,Push to Lock Button Shared with D147A,2-659-0370,HA,,,0.99
+31,,False,34,1,Occupancy Indicator(s),2-659-0371,HA,,,0.99
+31,,False,34,3,Silencers,307D,HA,GREY,,0.96
+31,,False,34,1,Sequencer,2-659-0240,HA,,,0.99
+31,,False,34,1,Wiring Diagrams Interlock with D147A.,Wiring Diagrams,,,,1.0
+32,,False,35,3,Hinge(s),"BB1279 4 1/2"" x 4""",HA,US32D,,0.96
+32,,False,35,1,Electric Strike,2930 CYL,HA,US32D,,0.96
+32,,False,35,1,Storeroom Lockset,3480 WTN SFIC,HA,US26D,,0.96
+32,,False,35,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+32,,False,35,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+32,,False,35,1,Overhead Stop(s),7016 SRF,HA,US32D,,0.96
+32,,False,35,1,Single Operator,8318 Pull,HA,ALM,,0.96
+32,,False,35,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+32,,False,35,1,Mop Plate(s),"190S 4"" x 1"" LDW",HA,US32D,,0.96
+32,,False,35,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+32,,False,35,1,Door Position Switch(es),2-679-0626,HA,,,0.99
+32,,False,35,1,Push to Lock Button Shared with D14B,2-659-0370,HA,,,0.99
+32,,False,35,1,Occupancy Indicator(s),2-659-0371,HA,,,0.99
+32,,False,35,3,Silencers,307D,HA,GREY,,0.96
+32,,False,35,1,Sequencer,2-659-0240,HA,,,0.99
+32,,False,35,1,Wiring Diagrams Interlock with D147B.,Wiring Diagrams,,,,1.0
+U-01,,False,35,3,Hinge(s),"BB1279 4 1/2"" x 4"" NRP",HA,US32D,,0.96
+U-01,,False,35,1,Access/Security Lock,By Security Provider,,,,1.0
+U-01,,False,35,1,Closer(s),5200 TRK NHOTA,HA,ALM,,0.96
+U-01,,False,35,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+U-01,,False,35,1,Door Viewer,1759,HA,US32D,,0.96
+U-01,,False,35,1,Seal,726 x LAR,HA,S,,0.96
+U-02,,False,36,3,Hinge(s),"BB1279 4 1/2"" x 4"" NRP",HA,US32D,,0.96
+U-02,,False,36,1,Electric Strike,2930 CYL,HA,US32D,,0.96
+U-02,,False,36,1,Storeroom Lockset,3480 WTN SFIC,HA,US26D,,0.96
+U-02,,False,36,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+U-02,,False,36,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+U-02,,False,36,1,Single Operator,8318 Pull,HA,ALM,,0.96
+U-02,,False,36,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+U-02,,False,36,1,Convex Wall Stop(s),232W,HA,US32D,,0.96
+U-02,,False,36,2,Door Viewers,1759,HA,US32D,,0.96
+U-02,,False,36,1,Seal,726 x LAR,HA,S,,0.96
+U-02,,False,36,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+U-02,,False,36,1,Reader/Keypad,By Security Provider,,,,1.0
+U-02,,False,36,1,Access/Security Lock,By Security Provider,,,,1.0
+U-02,,False,36,1,Power Supply,By Security Provider,,,,1.0
+U-02,,False,36,1,Wiring Diagrams,Wiring Diagrams,,,,1.0
+U-03,,False,36,3,Hinge(s),"BB1279 4 1/2"" x 4"" NRP",HA,US32D,,0.96
+U-03,,False,36,1,Electric Strike,2930 CYL,HA,US32D,,0.96
+U-03,,False,36,1,Storeroom Lockset,3480 WTN SFIC,HA,US26D,,0.96
+U-03,,False,36,1,Construction Core(s),3982-BLU,HA,BLU,,0.96
+U-03,,False,36,1,SFIC Core(s),3969-C,HA,US26D,,0.96
+U-03,,False,36,1,Overhead Stop(s),7016 SRF,HA,US32D,,0.96
+U-03,,False,36,1,Single Operator,8318 Pull,HA,ALM,,0.96
+U-03,,False,36,1,Kick Plate(s),"190S 10"" x 2"" LDW",HA,US32D,,0.96
+U-03,,False,36,2,Door Viewers,1759,HA,US32D,,0.96
+U-03,,False,36,1,Seal,726 x LAR,HA,S,,0.96
+U-03,,False,36,2,Actuator(s),8228-02H/00,HA,US32D,,0.96
+U-03,,False,36,1,Reader/Keypad,By Security Provider,,,,1.0
+U-03,,False,36,1,Access/Security Lock,By Security Provider,,,,1.0
+U-03,,False,36,1,Power Supply,By Security Provider,,,,1.0
+U-03,,False,36,1,Wiring Diagrams,Wiring Diagrams,,,,1.0

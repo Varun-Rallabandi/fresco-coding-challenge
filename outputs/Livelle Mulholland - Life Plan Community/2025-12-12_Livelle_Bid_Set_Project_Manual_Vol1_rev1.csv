@@ -1,0 +1,1300 @@
+set_number,set_description,not_used,page,qty,description,catalog_number,mfr,finish,notes,confidence
+1.0,Description: Unit Entry Door (WDL),False,643,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+1.0,Description: Unit Entry Door (WDL),False,643,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+1.0,Description: Unit Entry Door (WDL),False,643,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+1.0,Description: Unit Entry Door (WDL),False,643,1,Surface Closer Cush Stop,CA1601 P,NO,689,,0.96
+1.0,Description: Unit Entry Door (WDL),False,643,1,Wall Stop,430-RKW,RO,US15,,0.96
+1.0,Description: Unit Entry Door (WDL),False,643,1,Viewer,626,RO,DCRM,,0.96
+1.0,Description: Unit Entry Door (WDL),False,643,1,Sound Gasketing,S773BL,PE,,,0.98
+1.0,Description: Unit Entry Door (WDL),False,643,1,Door Bottom,2113AV,PE,,,0.98
+1.0,Description: Unit Entry Door (WDL),False,643,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+2.0,Description: Unit Entry Fire Glazed Storefront Door (WDL),False,644,4,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+2.0,Description: Unit Entry Fire Glazed Storefront Door (WDL),False,644,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+2.0,Description: Unit Entry Fire Glazed Storefront Door (WDL),False,644,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+2.0,Description: Unit Entry Fire Glazed Storefront Door (WDL),False,644,1,Surface Closer Cush Stop,CA1601 P,NO,689,,0.96
+2.0,Description: Unit Entry Fire Glazed Storefront Door (WDL),False,644,1,Viewer,626,RO,DCRM,,0.96
+2.0,Description: Unit Entry Fire Glazed Storefront Door (WDL),False,644,1,Sound Gasketing,S773BL,PE,,,0.98
+2.0,Description: Unit Entry Fire Glazed Storefront Door (WDL),False,644,1,Door Bottom,2113AV,PE,,,0.98
+2.0,Description: Unit Entry Fire Glazed Storefront Door (WDL),False,644,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+3.0,Description: Villa Custom Door (WDL),False,644,1,Pivot Set,195,RF,622,,0.96
+3.0,Description: Villa Custom Door (WDL),False,644,2,Intermediate Pivot,M19,RF,622,,0.96
+3.0,Description: Villa Custom Door (WDL),False,644,1,Access Control Mort Lock,IN100-82277-BIPS LNMW LC,SA,BSP,,0.96
+3.0,Description: Villa Custom Door (WDL),False,644,1,Mortise Cylinder,72 43 verify cam,SA,BSP,,0.96
+3.0,Description: Villa Custom Door (WDL),False,644,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+3.0,Description: Villa Custom Door (WDL),False,644,1,Door Stop,RM850,RO,BSP,,0.96
+3.0,Description: Villa Custom Door (WDL),False,644,1,Sweep,18062BSPNB,PE,,,0.98
+3.0,Description: Villa Custom Door (WDL),False,644,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+3.0,Description: Villa Custom Door (WDL),False,644,1,Viewer,627,RO,BLK,,0.96
+4.0,Description: Unit Garage Door U1F,False,644,4,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+4.0,Description: Unit Garage Door U1F,False,644,1,Turn Bolt,V04 468,SA,US26D,,0.96
+4.0,Description: Unit Garage Door U1F,False,644,1,Passage Latch,12 28 DLU15 COMB,SA,US15,,0.96
+4.0,Description: Unit Garage Door U1F,False,644,1,Surface Closer,1601 P (mount inside room),NO,689,,0.96
+4.0,Description: Unit Garage Door U1F,False,644,1,Wall Stop,430-RKW,RO,US15,,0.96
+4.0,Description: Unit Garage Door U1F,False,645,1,Gasketing,S88BL,PE,,,0.98
+4.0,Description: Unit Garage Door U1F,False,645,1,Door Bottom,2113AV,PE,,,0.98
+4.0,Description: Unit Garage Door U1F,False,645,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+5.0,"Description: Unit Bath, Bedroom Door U1C",False,645,4,"Hinge, Full Mortise","RC TA2714 4"" x 4""",MK,US15,,0.96
+5.0,"Description: Unit Bath, Bedroom Door U1C",False,645,1,Privacy Lock,14 DLU65 COMB,SA,US15,,0.96
+5.0,"Description: Unit Bath, Bedroom Door U1C",False,645,1,Door Stop,519,RO,US15,,0.96
+5.0,"Description: Unit Bath, Bedroom Door U1C",False,645,1,Hinge Pin Door Stop,76306,MK,US26D,,0.96
+6.0,"Description: Unit Bedroom, Powder Room Door U1",False,645,3,"Hinge, Full Mortise","RC TA2714 4"" x 4""",MK,US15,,0.96
+6.0,"Description: Unit Bedroom, Powder Room Door U1",False,645,1,Privacy Lock,14 DLU65 COMB,SA,US15,,0.96
+6.0,"Description: Unit Bedroom, Powder Room Door U1",False,645,1,Wall Stop,409,RO,US32D,,0.96
+6.0,"Description: Unit Bedroom, Powder Room Door U1",False,645,1,Door Stop,519,RO,US15,,0.96
+7.0,Description: Unit Den Doors U5,False,645,3,"Hinge, Full Mortise","RC TA2714 4"" x 4""",MK,US15,,0.96
+7.0,Description: Unit Den Doors U5,False,645,1,Passage Latch,14 DLU15 COMB,SA,US15,,0.96
+7.0,Description: Unit Den Doors U5,False,645,1,Wall Stop,409,RO,US32D,,0.96
+7.0,Description: Unit Den Doors U5,False,645,1,Door Stop,519,RO,US15,,0.96
+8.0,Description: Unit Closet Door U8,False,645,2,"Hinge, Full Mortise","RC T2714 3-1/2"" x 3-1/2""",MK,US15,,0.96
+8.0,Description: Unit Closet Door U8,False,645,1,Passage Latch,13 14 DLU15 COMB,SA,US15,,0.96
+8.0,Description: Unit Closet Door U8,False,645,1,Hinge Pin Door Stop,76306,MK,US26D,,0.96
+9.0,"Description: Unit Closet Door U1A, U1B, UIE",False,646,3,"Hinge, Full Mortise","RC T2714 4"" x 4""",MK,US15,,0.96
+9.0,"Description: Unit Closet Door U1A, U1B, UIE",False,646,1,Passage Latch,14 DLU15 COMB,SA,US15,,0.96
+9.0,"Description: Unit Closet Door U1A, U1B, UIE",False,646,1,Hinge Pin Door Stop,76306,MK,US26D,,0.96
+10.0,"Description: Unit HVAC Closet Doors U4A, U4B",False,646,4,"Hinge, Full Mortise","RC T2714 4"" x 4""",MK,US15,,0.96
+10.0,"Description: Unit HVAC Closet Doors U4A, U4B",False,646,1,Passage Latch,14 DLU15 COMB,SA,US15,,0.96
+10.0,"Description: Unit HVAC Closet Doors U4A, U4B",False,646,1,Hinge Pin Door Stop,76306,MK,US26D,,0.96
+11.0,Description: Unit HVAC Closet DoorU4C,False,646,4,"Hinge, Full Mortise","RC TA2714 4"" x 4""",MK,US15,,0.96
+11.0,Description: Unit HVAC Closet DoorU4C,False,646,1,Passage Latch,14 DLU15 COMB,SA,US15,,0.96
+11.0,Description: Unit HVAC Closet DoorU4C,False,646,1,Hinge Pin Door Stop,76306,MK,US26D,,0.96
+12.0,"Description: Unit HVAC Closet Doors U9, U9A, U9B",False,646,3,"Hinge, Full Mortise","RC T2714 3-1/2"" x 3-1/2""",MK,US15,,0.96
+12.0,"Description: Unit HVAC Closet Doors U9, U9A, U9B",False,646,1,Passage Latch,13 14 DLU15 COMB,SA,US15,,0.96
+12.0,"Description: Unit HVAC Closet Doors U9, U9A, U9B",False,646,1,Hinge Pin Door Stop,76306,MK,US26D,,0.96
+13.0,"Description: Unit Laundry Closet Doors U3, U3A",False,646,3,"Hinge, Full Mortise","RC T2714 4"" x 4""",MK,US15,,0.96
+13.0,"Description: Unit Laundry Closet Doors U3, U3A",False,646,1,Roller Latch,911RC,RO,US26D,,0.96
+13.0,"Description: Unit Laundry Closet Doors U3, U3A",False,646,1,Half Dummy Trim,DLU93 COMB,SA,US15,,0.96
+13.0,"Description: Unit Laundry Closet Doors U3, U3A",False,646,1,Hinge Pin Door Stop,76306,MK,US26D,,0.96
+14.0,Description: Unit Laundry Closet Doors U3B,False,646,4,"Hinge, Full Mortise","RC TA2714 4"" x 4""",MK,US15,,0.96
+14.0,Description: Unit Laundry Closet Doors U3B,False,646,1,Roller Latch,911RC,RO,US26D,,0.96
+14.0,Description: Unit Laundry Closet Doors U3B,False,646,1,Half Dummy Trim,DLU93 COMB,SA,US15,,0.96
+14.0,Description: Unit Laundry Closet Doors U3B,False,646,1,Hinge Pin Door Stop,76306,MK,US26D,,0.96
+15.0,"Description: Unit Closet Door Pairs U21, U21A, U21B, U21C, U21D, U21E, U21F, U21G, U21H,",False,647,6,"Hinge, Full Mortise","RC T2714 4"" x 4""",MK,US15,,0.96
+15.0,"Description: Unit Closet Door Pairs U21, U21A, U21B, U21C, U21D, U21E, U21F, U21G, U21H,",False,647,2,Roller Latch,911RC,RO,US26D,,0.96
+15.0,"Description: Unit Closet Door Pairs U21, U21A, U21B, U21C, U21D, U21E, U21F, U21G, U21H,",False,647,2,Half Dummy Trim,DLU93 COMB,SA,US15,,0.96
+15.0,"Description: Unit Closet Door Pairs U21, U21A, U21B, U21C, U21D, U21E, U21F, U21G, U21H,",False,647,2,Hinge Pin Door Stop,76306,MK,US26D,,0.96
+16.0,"Description: Unit Closet Door Pairs U27A, U27B, U27C, U27D, U27E",False,647,4,"Hinge, Full Mortise","RC T2714 3-1/2"" x 3-1/2""",MK,US15,,0.96
+16.0,"Description: Unit Closet Door Pairs U27A, U27B, U27C, U27D, U27E",False,647,2,Roller Latch,911RC,RO,US26D,,0.96
+16.0,"Description: Unit Closet Door Pairs U27A, U27B, U27C, U27D, U27E",False,647,2,Half Dummy Trim,DLU93 COMB,SA,US15,,0.96
+16.0,"Description: Unit Closet Door Pairs U27A, U27B, U27C, U27D, U27E",False,647,2,Door Stop,519,RO,US15,,0.96
+17.0,"Description: Unit Sliding Pocket Doors U2, U2A, U10",False,647,1,Hardware Set,LP200A 6',PE,,,0.98
+17.0,"Description: Unit Sliding Pocket Doors U2, U2A, U10",False,647,1,Pocket Door Latch,1074-1 Stockholm,TC,630,,0.96
+18.0,Description: Sliding Pocket Door,False,647,1,Hardware Set,LP200A 6',PE,,,0.98
+18.0,Description: Sliding Pocket Door,False,647,1,Pocket Door Latch @ Privacy,1074-1 Stockholm,TC,630,,0.96
+18.0,Description: Sliding Pocket Door,False,647,2,Pull,RM5270-12 Mtg-Type 5HD,RO,US32D,,0.96
+19.0,Description: Unit Bi-Pass Doors U26,False,647,1,Sliding Door Hdwe,HBP200A length as required,PE,,,0.98
+19.0,Description: Unit Bi-Pass Doors U26,False,647,2,Flush Pull,860,RO,US32D,,0.96
+20.0,Description: Staff (Passage),False,648,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+20.0,Description: Staff (Passage),False,648,1,Passage Latch,10XU15 LMW,SA,US15,,0.96
+20.0,Description: Staff (Passage),False,648,1,Surface Closer,351 H,SA,EN,,0.96
+20.0,Description: Staff (Passage),False,648,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+20.0,Description: Staff (Passage),False,648,1,Wall Stop,430-RKW,RO,US15,,0.96
+20.0,Description: Staff (Passage),False,648,1,Gasketing,S88BL,PE,,,0.98
+21.0,Description: Staff (Passage),False,648,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+21.0,Description: Staff (Passage),False,648,1,Passage Latch,10XU15 LP,SA,US26D,,0.96
+21.0,Description: Staff (Passage),False,648,1,Surface Closer,351 P9,SA,EN,,0.96
+21.0,Description: Staff (Passage),False,648,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+21.0,Description: Staff (Passage),False,648,1,Wall Stop,430-RKW,RO,US15,,0.96
+21.0,Description: Staff (Passage),False,648,1,Gasketing,S88BL,PE,,,0.98
+22.0,Description: MC Unit Entry (Passage),False,648,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+22.0,Description: MC Unit Entry (Passage),False,648,1,Passage Latch,10XU15 LMW,SA,US15,,0.96
+22.0,Description: MC Unit Entry (Passage),False,648,1,Wall Stop,430-RKW,RO,US15,,0.96
+22.0,Description: MC Unit Entry (Passage),False,648,1,Gasketing,S88BL,PE,,,0.98
+22.0,Description: MC Unit Entry (Passage),False,648,1,Door Bottom,2113AV,PE,,,0.98
+22.0,Description: MC Unit Entry (Passage),False,648,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+23.0,Description: Auditorium (Passage),False,648,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+23.0,Description: Auditorium (Passage),False,648,1,Passage Latch,10XU15 LMW,SA,US15,,0.96
+23.0,Description: Auditorium (Passage),False,648,1,Surface Closer,351 O,SA,EN,,0.96
+23.0,Description: Auditorium (Passage),False,648,1,Door Stop,406,RO,US32D,,0.96
+23.0,Description: Auditorium (Passage),False,648,1,Sound Gasketing,S773BL,PE,,,0.98
+23.0,Description: Auditorium (Passage),False,649,1,Door Bottom,420APKL @ HM / 434APKL@ WD,PE,,,0.98
+23.0,Description: Auditorium (Passage),False,649,1,Threshold,151A MSES25,PE,,,0.98
+24.0,Description: Passage,False,649,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+24.0,Description: Passage,False,649,1,Passage Latch,10XU15 LMW,SA,US15,,0.96
+24.0,Description: Passage,False,649,1,Wall Stop,430-RKW,RO,US15,,0.96
+24.0,Description: Passage,False,649,1,Gasketing,S88BL,PE,,,0.98
+25.0,"Description: Exam, Intake, Speech",False,649,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+25.0,"Description: Exam, Intake, Speech",False,649,1,Passage Latch,10XU15 LMW,SA,US15,,0.96
+25.0,"Description: Exam, Intake, Speech",False,649,1,Wall Stop,430-RKW,RO,US15,,0.96
+25.0,"Description: Exam, Intake, Speech",False,649,1,Gasketing,S88BL,PE,,,0.98
+26.0,Description: Lockers,False,649,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+26.0,Description: Lockers,False,649,1,Passage Latch,10XU15 LP,SA,US26D,,0.96
+26.0,Description: Lockers,False,649,1,Conc Overhead Stop,2-336,RF,652,,0.96
+26.0,Description: Lockers,False,649,1,Surface Closer,DA 351 O,SA,EN,,0.96
+26.0,Description: Lockers,False,649,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+26.0,Description: Lockers,False,649,1,Gasketing,S88BL,PE,,,0.98
+26.0,Description: Lockers,False,649,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+27.0,Description: Res Lockers (WDL),False,649,3,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+27.0,Description: Res Lockers (WDL),False,649,1,Passage Latch,10XU15 LP,SA,US26D,,0.96
+27.0,Description: Res Lockers (WDL),False,649,1,Surface Closer,DA 351 UO,SA,EN,,0.96
+27.0,Description: Res Lockers (WDL),False,649,1,Door Stop,406,RO,US32D,,0.96
+27.0,Description: Res Lockers (WDL),False,649,1,Gasketing,S88BL,PE,,,0.98
+27.0,Description: Res Lockers (WDL),False,649,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+28.0,Description: Trash,False,650,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+28.0,Description: Trash,False,650,1,Passage Latch,10XU15 LMW,SA,US15,,0.96
+28.0,Description: Trash,False,650,1,Surface Closer,DA 351 O,SA,EN,,0.96
+28.0,Description: Trash,False,650,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+28.0,Description: Trash,False,650,1,Wall Stop,430-RKW,RO,US15,,0.96
+28.0,Description: Trash,False,650,1,Gasketing,S88BL,PE,,,0.98
+28.0,Description: Trash,False,650,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+29.0,Description: Trash,False,650,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+29.0,Description: Trash,False,650,1,Passage Latch,10XU15 LMW,SA,US15,,0.96
+29.0,Description: Trash,False,650,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+29.0,Description: Trash,False,650,1,Wall Stop,430-RKW,RO,US15,,0.96
+29.0,Description: Trash,False,650,1,Gasketing,S88BL,PE,,,0.98
+29.0,Description: Trash,False,650,1,Sweep,18062CNB,PE,,,0.98
+29.0,Description: Trash,False,650,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+30.0,Description: Pantry (WDL),False,650,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+30.0,Description: Pantry (WDL),False,650,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LP,SA,US15,,0.96
+30.0,Description: Pantry (WDL),False,650,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+30.0,Description: Pantry (WDL),False,650,1,Surface Closer,DA 351 O,SA,EN,,0.96
+30.0,Description: Pantry (WDL),False,650,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+30.0,Description: Pantry (WDL),False,650,1,Mop Plate (@ in-swing door),"K1050 4"" high BEV CSK",RO,US32D,,0.96
+30.0,Description: Pantry (WDL),False,650,1,Door Stop,406,RO,US32D,,0.96
+31.0,Description: Employee Restroom,False,650,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+31.0,Description: Employee Restroom,False,650,1,Pull Plate,111x70C,RO,US32D,,0.96
+31.0,Description: Employee Restroom,False,650,1,Push Plate,70C-RKW,RO,US32D,,0.96
+31.0,Description: Employee Restroom,False,650,1,Surface Closer,DA 351 O,SA,EN,,0.96
+31.0,Description: Employee Restroom,False,651,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+31.0,Description: Employee Restroom,False,651,1,Mop Plate (@ in-swing door),"K1050 4"" high BEV CSK",RO,US32D,,0.96
+31.0,Description: Employee Restroom,False,651,1,Door Stop,406,RO,US32D,,0.96
+31.0,Description: Employee Restroom,False,651,1,Gasketing,S88BL,PE,,,0.98
+31.0,Description: Employee Restroom,False,651,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+32.0,Description: Mother's Room,False,651,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+32.0,Description: Mother's Room,False,651,1,Indicator Privacy,10X G65 VSLL V33,SA,US26D,,0.96
+32.0,Description: Mother's Room,False,651,1,Surface Closer,DA 351 O,SA,EN,,0.96
+32.0,Description: Mother's Room,False,651,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+32.0,Description: Mother's Room,False,651,1,Mop Plate (@ in-swing door),"K1050 4"" high BEV CSK",RO,US32D,,0.96
+32.0,Description: Mother's Room,False,651,1,Wall Stop,409,RO,US32D,,0.96
+32.0,Description: Mother's Room,False,651,1,Gasketing,S88BL,PE,,,0.98
+32.0,Description: Mother's Room,False,651,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+33.0,Description: Changing,False,651,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+33.0,Description: Changing,False,651,1,Indicator Bolt,D292 V21,YA,626,,0.96
+33.0,Description: Changing,False,651,2,Pull,RM5270-12 Mtg-Type 5HD,RO,US32D,,0.96
+33.0,Description: Changing,False,651,1,Wall Stop,430-RKW,RO,US15,,0.96
+33.0,Description: Changing,False,651,2,Coat Hook,RM801,RO,US26D,,0.96
+34.0,Description: Sng Occupant Staff Restroom,False,651,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+34.0,Description: Sng Occupant Staff Restroom,False,651,1,Indicator Privacy,10X G65 VSLL V33,SA,US26D,,0.96
+34.0,Description: Sng Occupant Staff Restroom,False,651,1,Surface Closer,DA 351 O,SA,EN,,0.96
+34.0,Description: Sng Occupant Staff Restroom,False,651,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+34.0,Description: Sng Occupant Staff Restroom,False,651,1,Mop Plate (@ in-swing door),"K1050 4"" high BEV CSK",RO,US32D,,0.96
+34.0,Description: Sng Occupant Staff Restroom,False,651,1,Wall Stop,409,RO,US32D,,0.96
+34.0,Description: Sng Occupant Staff Restroom,False,651,1,Gasketing,S88BL,PE,,,0.98
+34.0,Description: Sng Occupant Staff Restroom,False,651,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+34.0,Description: Sng Occupant Staff Restroom,False,651,2,Coat Hook,RM801,RO,US26D,,0.96
+35.0,Description: Sng Occupant Bath,False,652,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+35.0,Description: Sng Occupant Bath,False,652,1,Privacy Lock,LB V21 8265 LNMW,SA,US15,,0.96
+35.0,Description: Sng Occupant Bath,False,652,1,Wall Stop,430-RKW,RO,US15,,0.96
+35.0,Description: Sng Occupant Bath,False,652,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+35.0,Description: Sng Occupant Bath,False,652,2,Coat Hook,RM801,RO,US26D,,0.96
+36.0,Description: Sng Occupant Restroom (ADO-PP Pulls),False,652,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+36.0,Description: Sng Occupant Restroom (ADO-PP Pulls),False,652,1,Indicator Bolt,D292 V21,YA,626,,0.96
+36.0,Description: Sng Occupant Restroom (ADO-PP Pulls),False,652,2,Pull,RM5270-12 Mtg-Type 5HD,RO,US32D,,0.96
+36.0,Description: Sng Occupant Restroom (ADO-PP Pulls),False,652,1,Automatic Opener,6211 120V,NO,689,,0.96
+36.0,Description: Sng Occupant Restroom (ADO-PP Pulls),False,652,1,ADO Bathroom Accessory Kit,776,NO,,,0.98
+36.0,Description: Sng Occupant Restroom (ADO-PP Pulls),False,652,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+36.0,Description: Sng Occupant Restroom (ADO-PP Pulls),False,652,1,Wall Stop,430-RKW,RO,US15,,0.96
+36.0,Description: Sng Occupant Restroom (ADO-PP Pulls),False,652,1,Gasketing,S88BL,PE,,,0.98
+36.0,Description: Sng Occupant Restroom (ADO-PP Pulls),False,652,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+36.0,Description: Sng Occupant Restroom (ADO-PP Pulls),False,652,2,Coat Hook,RM801,RO,US26D,,0.96
+37.0,Description: Sng Occupant Restroom (ADO-PP ES),False,652,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+37.0,Description: Sng Occupant Restroom (ADO-PP ES),False,652,1,Privacy Lock,LB V21 8265 LNMW,SA,US15,,0.96
+37.0,Description: Sng Occupant Restroom (ADO-PP ES),False,652,1,Electric Strike,1500C-LMS,HS,630,,0.96
+37.0,Description: Sng Occupant Restroom (ADO-PP ES),False,652,1,SMART Pac Bridge Rectifier,2005M3,HS,,,0.98
+37.0,Description: Sng Occupant Restroom (ADO-PP ES),False,652,1,Automatic Opener,6211 120V,NO,689,,0.96
+37.0,Description: Sng Occupant Restroom (ADO-PP ES),False,652,1,ADO Bathroom Accessory Kit,776,NO,,,0.98
+37.0,Description: Sng Occupant Restroom (ADO-PP ES),False,652,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+37.0,Description: Sng Occupant Restroom (ADO-PP ES),False,652,1,Mop Plate (@ in-swing door),"K1050 4"" high BEV CSK",RO,US32D,,0.96
+37.0,Description: Sng Occupant Restroom (ADO-PP ES),False,652,1,Wall Stop,430-RKW,RO,US15,,0.96
+37.0,Description: Sng Occupant Restroom (ADO-PP ES),False,652,1,Gasketing,S88BL,PE,,,0.98
+37.0,Description: Sng Occupant Restroom (ADO-PP ES),False,652,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+37.0,Description: Sng Occupant Restroom (ADO-PP ES),False,652,2,Coat Hook,RM801,RO,US26D,,0.96
+38.0,Description: Restroom (ADO-PP),False,652,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+38.0,Description: Restroom (ADO-PP),False,652,2,Pull,RM5270-12 Mtg-Type 5HD,RO,US32D,,0.96
+38.0,Description: Restroom (ADO-PP),False,653,1,Automatic Opener,6211 / 6231 @ rev-bevel door 120V,NO,689,,0.96
+38.0,Description: Restroom (ADO-PP),False,653,1,ADO Bathroom Accessory Kit,776,NO,,,0.98
+38.0,Description: Restroom (ADO-PP),False,653,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+38.0,Description: Restroom (ADO-PP),False,653,1,Mop Plate (@ in-swing door),"K1050 4"" high BEV CSK",RO,US32D,,0.96
+38.0,Description: Restroom (ADO-PP),False,653,1,Wall Stop,430-RKW,RO,US15,,0.96
+38.0,Description: Restroom (ADO-PP),False,653,1,Gasketing,S88BL,PE,,,0.98
+38.0,Description: Restroom (ADO-PP),False,653,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+39.0,Description: Exterior Restroom (ADO),False,653,3,"Hinge, Full Mortise",TA2314,MK,BSP,,0.96
+39.0,Description: Exterior Restroom (ADO),False,653,1,Privacy Lock,LB V21 8265 LNMW,SA,BSP,,0.96
+39.0,Description: Exterior Restroom (ADO),False,653,1,Electric Strike,1500C-LMS,HS,BSP,,0.96
+39.0,Description: Exterior Restroom (ADO),False,653,1,SMART Pac Bridge Rectifier,2005M3,HS,,,0.98
+39.0,Description: Exterior Restroom (ADO),False,653,1,Conc Overhead Stop,6-336,RF,BSP,,0.96
+39.0,Description: Exterior Restroom (ADO),False,653,1,Automatic Opener,6231 120V,NO,BSP,,0.96
+39.0,Description: Exterior Restroom (ADO),False,653,1,ADO Bathroom Accessory Kit,776,NO,,,0.98
+39.0,Description: Exterior Restroom (ADO),False,653,1,Gasketing,S88BL,PE,,,0.98
+39.0,Description: Exterior Restroom (ADO),False,653,1,Sweep,18062BSPNB,PE,,,0.98
+39.0,Description: Exterior Restroom (ADO),False,653,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+39.0,Description: Exterior Restroom (ADO),False,653,2,Coat Hook,RM801,RO,BSP,,0.96
+40.0,"Description: Locker, Fitness, Vestibule",False,653,3,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+40.0,"Description: Locker, Fitness, Vestibule",False,653,1,Pull,RM5270-12 Mtg-Type 8HD no clear coat,RO,US32D,,0.96
+40.0,"Description: Locker, Fitness, Vestibule",False,653,1,Push Plate,RM1010H,RO,US32D,,0.96
+40.0,"Description: Locker, Fitness, Vestibule",False,653,1,Surface Closer,351 UO,SA,EN,,0.96
+40.0,"Description: Locker, Fitness, Vestibule",False,653,1,Wall Stop,430-RKW,RO,US15,,0.96
+40.0,"Description: Locker, Fitness, Vestibule",False,653,1,Gasketing,S88BL,PE,,,0.98
+40.0,"Description: Locker, Fitness, Vestibule",False,653,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+41.0,Description: Private Dining (CR ES),False,653,3,"Hinge, Full Mortise",TA2314,MK,BSP,,0.96
+41.0,Description: Private Dining (CR ES),False,653,1,Exit Lock,8213 LNP,SA,US32D,,0.96
+41.0,Description: Private Dining (CR ES),False,653,1,Electric Strike,1500C-LMS,HS,630,,0.96
+41.0,Description: Private Dining (CR ES),False,653,1,SMART Pac Bridge Rectifier,2005M3,HS,,,0.98
+41.0,Description: Private Dining (CR ES),False,654,1,Pull,RM4010-48 Mtg-Type 12XHD,RO,BSP,,0.96
+41.0,Description: Private Dining (CR ES),False,654,1,Surface Closer,351 P10,SA,EN,,0.96
+41.0,Description: Private Dining (CR ES),False,654,1,Wall Stop,430-RKW,RO,US15,,0.96
+41.0,Description: Private Dining (CR ES),False,654,1,Gasketing,S88BL,PE,,,0.98
+41.0,Description: Private Dining (CR ES),False,654,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+41.0,Description: Private Dining (CR ES),False,654,1,Position Switch,DPS-W-GY,SU,,,0.98
+41.0,Description: Private Dining (CR ES),False,654,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+41.0,Description: Private Dining (CR ES),False,654,1,PIR Detector,Furnished by Security Contractor,AK,,,0.98
+41.0,Description: Private Dining (CR ES),False,654,1,Power Supply,Furnished by Security Contractor,SU,,,0.98
+42.0,Description: Massage,False,654,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+42.0,Description: Massage,False,654,1,Indicator,D292 V21 Less: bolt latch,YA,619,,0.96
+42.0,Description: Massage,False,654,1,Push Plate,RM5598B,RO,US15,,0.96
+42.0,Description: Massage,False,654,1,Pull,RM5270-12 Mtg-Type 8HD no clear coat,RO,US32D,,0.96
+42.0,Description: Massage,False,654,1,Surface Closer,351 UO,SA,EN,,0.96
+42.0,Description: Massage,False,654,1,Wall Stop,430-RKW,RO,US15,,0.96
+42.0,Description: Massage,False,654,1,Sound Gasketing,S773BL,PE,,,0.98
+42.0,Description: Massage,False,654,1,Door Bottom,STC411APK,PE,,,0.98
+42.0,Description: Massage,False,654,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+43.0,Description: BOH Dry Storage,False,654,3,"Hinge, Full Mortise",TA2714 NRP,MK,US15,,0.96
+43.0,Description: BOH Dry Storage,False,654,1,Passage Latch,10XU15 LP,SA,US26D,,0.96
+43.0,Description: BOH Dry Storage,False,654,1,Surface Closer,351 H / PH9 @ rev-bevel,SA,EN,,0.96
+43.0,Description: BOH Dry Storage,False,654,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+43.0,Description: BOH Dry Storage,False,654,1,Wall Stop,430-RKW,RO,US15,,0.96
+43.0,Description: BOH Dry Storage,False,654,1,Gasketing,S88BL,PE,,,0.98
+43.0,Description: BOH Dry Storage,False,654,1,Sweep,18062CNB,PE,,,0.98
+44.0,Description: BOH Storage (WDL),False,655,3,"Hinge, Full Mortise",TA2714 NRP,MK,US15,,0.96
+44.0,Description: BOH Storage (WDL),False,655,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LP,SA,US15,,0.96
+44.0,Description: BOH Storage (WDL),False,655,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+44.0,Description: BOH Storage (WDL),False,655,1,Surface Closer,351 UO,SA,EN,,0.96
+44.0,Description: BOH Storage (WDL),False,655,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+44.0,Description: BOH Storage (WDL),False,655,1,Wall Stop,430-RKW,RO,US15,,0.96
+44.0,Description: BOH Storage (WDL),False,655,1,Gasketing,S88BL,PE,,,0.98
+45.0,"Description: BOH Janitor, Maint Storage (WDL)",False,655,3,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+45.0,"Description: BOH Janitor, Maint Storage (WDL)",False,655,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LP,SA,US15,,0.96
+45.0,"Description: BOH Janitor, Maint Storage (WDL)",False,655,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+45.0,"Description: BOH Janitor, Maint Storage (WDL)",False,655,1,Surface Closer,DA 351 O,SA,EN,,0.96
+45.0,"Description: BOH Janitor, Maint Storage (WDL)",False,655,1,Armor Plate,"K1050 F =34"" high BEV CSK (F @ rated)",RO,US32D,,0.96
+45.0,"Description: BOH Janitor, Maint Storage (WDL)",False,655,1,Door Stop,406,RO,US32D,,0.96
+45.0,"Description: BOH Janitor, Maint Storage (WDL)",False,655,1,Gasketing,S88BL,PE,,,0.98
+46.0,"Description: Locker Exercise, HVAC, Storage (WDL)",False,655,3,"Hinge, Full Mortise",TA2714 NRP,MK,US15,,0.96
+46.0,"Description: Locker Exercise, HVAC, Storage (WDL)",False,655,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+46.0,"Description: Locker Exercise, HVAC, Storage (WDL)",False,655,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+46.0,"Description: Locker Exercise, HVAC, Storage (WDL)",False,655,1,Conc Overhead Stop,2-336,RF,652,,0.96
+47.0,Description: Storage,False,656,3,"Hinge, Full Mortise",TA2714 NRP,MK,US15,,0.96
+47.0,Description: Storage,False,656,1,Passage Latch,10XU15 LMW,SA,US15,,0.96
+47.0,Description: Storage,False,656,1,Surface Closer,351 UO,SA,EN,,0.96
+47.0,Description: Storage,False,656,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+47.0,Description: Storage,False,656,1,Wall Stop,430-RKW,RO,US15,,0.96
+47.0,Description: Storage,False,656,1,Gasketing,S88BL,PE,,,0.98
+47.1,Description: BOH Laundry,False,656,3,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+47.1,Description: BOH Laundry,False,656,1,Storeroom/Closet Lock,72 10XG04 LP,SA,US26D,,0.96
+47.1,Description: BOH Laundry,False,656,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+47.1,Description: BOH Laundry,False,656,1,Surface Closer,DA 351 O,SA,EN,,0.96
+47.1,Description: BOH Laundry,False,656,1,Armor Plate,"K1050 F =34"" high BEV CSK (F @ rated)",RO,US32D,,0.96
+47.1,Description: BOH Laundry,False,656,1,Door Stop,406,RO,US32D,,0.96
+47.1,Description: BOH Laundry,False,656,1,Gasketing,S88BL,PE,,,0.98
+47.1,Description: BOH Laundry,False,656,1,Sweep,18062CNB,PE,,,0.98
+47.1,Description: BOH Laundry,False,656,1,Protector Bar,R111LPB,RO,10BE,,0.96
+48.0,"Description: Closet, Records Storage (WDL)",False,656,4,"Hinge, Full Mortise",TA2714 NRP,MK,US15,,0.96
+48.0,"Description: Closet, Records Storage (WDL)",False,656,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+48.0,"Description: Closet, Records Storage (WDL)",False,656,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+48.0,"Description: Closet, Records Storage (WDL)",False,656,1,Surface Closer,351 UO,SA,EN,,0.96
+48.0,"Description: Closet, Records Storage (WDL)",False,656,1,Wall Stop,430-RKW,RO,US15,,0.96
+48.1,Description: Corridor Closet (WDL),False,656,3,"Hinge, Full Mortise",TA2714 NRP,MK,US15,,0.96
+48.1,Description: Corridor Closet (WDL),False,656,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+48.1,Description: Corridor Closet (WDL),False,656,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+48.1,Description: Corridor Closet (WDL),False,656,1,Surface Closer,1601 P (mount inside room),NO,689,,0.96
+48.1,Description: Corridor Closet (WDL),False,657,1,Wall Stop,430-RKW,RO,US15,,0.96
+48.1,Description: Corridor Closet (WDL),False,657,1,Gasketing,S88BL,PE,,,0.98
+49.0,Description: HR Closet,False,657,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+49.0,Description: HR Closet,False,657,1,Passage Latch,10XU15 LMW,SA,US15,,0.96
+49.0,Description: HR Closet,False,657,1,Wall Stop,430-RKW,RO,US15,,0.96
+50.0,"Description: Records, Recept (WDL)",False,657,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+50.0,"Description: Records, Recept (WDL)",False,657,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+50.0,"Description: Records, Recept (WDL)",False,657,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+50.0,"Description: Records, Recept (WDL)",False,657,1,Surface Closer,DA 351 UO,SA,EN,,0.96
+50.0,"Description: Records, Recept (WDL)",False,657,1,Wall Stop,430-RKW,RO,US15,,0.96
+50.0,"Description: Records, Recept (WDL)",False,657,1,Gasketing,S88BL,PE,,,0.98
+51.0,Description: Storage (WDL),False,657,4,"Hinge, Full Mortise",TA2714 NRP,MK,US15,,0.96
+51.0,Description: Storage (WDL),False,657,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+51.0,Description: Storage (WDL),False,657,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+51.0,Description: Storage (WDL),False,657,1,Surface Closer,351 UO,SA,EN,,0.96
+51.0,Description: Storage (WDL),False,657,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+51.0,Description: Storage (WDL),False,657,1,Wall Stop,430-RKW,RO,US15,,0.96
+51.0,Description: Storage (WDL),False,657,1,Gasketing,S88BL,PE,,,0.98
+51.0,Description: Storage (WDL),False,657,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+52.0,Description: Wine Bar Kitchen (WDL),False,658,3,"Hinge, Full Mortise, Hvy Wt",T4A3786 NRP,MK,US15,,0.96
+52.0,Description: Wine Bar Kitchen (WDL),False,658,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+52.0,Description: Wine Bar Kitchen (WDL),False,658,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+52.0,Description: Wine Bar Kitchen (WDL),False,658,1,Surface Closer,DA 351 O,SA,EN,,0.96
+52.0,Description: Wine Bar Kitchen (WDL),False,658,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+52.0,Description: Wine Bar Kitchen (WDL),False,658,1,Wall Stop,430-RKW,RO,US15,,0.96
+53.0,"Description: BOH Staff, Storage (WDL)",False,658,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+53.0,"Description: BOH Staff, Storage (WDL)",False,658,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LP,SA,US15,,0.96
+53.0,"Description: BOH Staff, Storage (WDL)",False,658,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+53.0,"Description: BOH Staff, Storage (WDL)",False,658,1,Surface Closer,351 UO,SA,EN,,0.96
+53.0,"Description: BOH Staff, Storage (WDL)",False,658,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+53.0,"Description: BOH Staff, Storage (WDL)",False,658,1,Door Stop,406,RO,US32D,,0.96
+53.0,"Description: BOH Staff, Storage (WDL)",False,658,1,Door Stop,441H,RO,US26D,,0.96
+53.0,"Description: BOH Staff, Storage (WDL)",False,658,1,Gasketing,S88BL,PE,,,0.98
+54.0,Description: BOH Maint Storage (WDL),False,658,3,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+54.0,Description: BOH Maint Storage (WDL),False,658,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LP,SA,US15,,0.96
+54.0,Description: BOH Maint Storage (WDL),False,658,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+54.0,Description: BOH Maint Storage (WDL),False,658,1,Surface Closer,DA 351 O,SA,EN,,0.96
+54.0,Description: BOH Maint Storage (WDL),False,658,1,Armor Plate,"K1050 F =34"" high BEV CSK (F @ rated)",RO,US32D,,0.96
+54.0,Description: BOH Maint Storage (WDL),False,658,1,Door Stop,406,RO,US32D,,0.96
+55.0,Description: Janitor (WDL),False,658,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+55.0,Description: Janitor (WDL),False,659,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+55.0,Description: Janitor (WDL),False,659,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+55.0,Description: Janitor (WDL),False,659,1,Surface Closer,DA 351 UO,SA,EN,,0.96
+55.0,Description: Janitor (WDL),False,659,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+55.0,Description: Janitor (WDL),False,659,1,Wall Stop,430-RKW,RO,US15,,0.96
+55.0,Description: Janitor (WDL),False,659,1,Gasketing,S88BL,PE,,,0.98
+55.0,Description: Janitor (WDL),False,659,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+56.0,Description: Janitor,False,659,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+56.0,Description: Janitor,False,659,1,Passage Latch,10XU15 LMW,SA,US15,,0.96
+56.0,Description: Janitor,False,659,1,Surface Closer,DA 351 UO,SA,EN,,0.96
+56.0,Description: Janitor,False,659,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+56.0,Description: Janitor,False,659,1,Wall Stop,430-RKW,RO,US15,,0.96
+56.0,Description: Janitor,False,659,1,Gasketing,S88BL,PE,,,0.98
+57.0,Description: BOH Hallway (CR EL),False,659,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+57.0,Description: BOH Hallway (CR EL),False,659,1,Fail Secure Elec Lock,RX 70 10XG71 LP,SA,US26D,,0.96
+57.0,Description: BOH Hallway (CR EL),False,659,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+57.0,Description: BOH Hallway (CR EL),False,659,1,Surface Closer,DA 351 UO,SA,EN,,0.96
+57.0,Description: BOH Hallway (CR EL),False,659,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+57.0,Description: BOH Hallway (CR EL),False,659,1,Wall Stop,430-RKW,RO,US15,,0.96
+57.0,Description: BOH Hallway (CR EL),False,659,1,Gasketing,S88BL,PE,,,0.98
+57.0,Description: BOH Hallway (CR EL),False,659,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+57.0,Description: BOH Hallway (CR EL),False,659,1,Electric Power Transfer,EL-CEPT,SU,630,,0.96
+57.0,Description: BOH Hallway (CR EL),False,659,1,ElectroLynx Door Harness,QC-C300,MK,,,0.98
+57.0,Description: BOH Hallway (CR EL),False,659,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+57.0,Description: BOH Hallway (CR EL),False,659,1,Position Switch,DPS-W-GY,SU,,,0.98
+57.0,Description: BOH Hallway (CR EL),False,659,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+57.0,Description: BOH Hallway (CR EL),False,659,1,Power Supply,Furnished by Security Contractor,SU,,,0.98
+58.0,"Description: Office, Director, (WDL)",False,660,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+58.0,"Description: Office, Director, (WDL)",False,660,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+58.0,"Description: Office, Director, (WDL)",False,660,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+58.0,"Description: Office, Director, (WDL)",False,660,1,Surface Closer,351 H,SA,EN,,0.96
+58.0,"Description: Office, Director, (WDL)",False,660,1,Wall Stop,430-RKW,RO,US15,,0.96
+58.0,"Description: Office, Director, (WDL)",False,660,1,Sound Gasketing,S773BL,PE,,,0.98
+58.0,"Description: Office, Director, (WDL)",False,660,1,Door Bottom,"STC411APK 36""",PE,,,0.98
+59.0,Description: TV Room (WDL),False,660,3,"Hinge, Full Mortise @ 180 degrees","TA2714 5"" x 5""",MK,US26D,,0.96
+59.0,Description: TV Room (WDL),False,660,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+59.0,Description: TV Room (WDL),False,660,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+59.0,Description: TV Room (WDL),False,660,1,Surface Closer,351 O,SA,EN,,0.96
+59.0,Description: TV Room (WDL),False,660,1,Wall Stop,430-RKW,RO,US15,,0.96
+59.0,Description: TV Room (WDL),False,660,1,Gasketing,S88BL,PE,,,0.98
+60.0,Description: AV Room (WDL),False,660,4,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+60.0,Description: AV Room (WDL),False,660,4,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+60.0,Description: AV Room (WDL),False,660,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+60.0,Description: AV Room (WDL),False,660,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+60.0,Description: AV Room (WDL),False,660,1,Surface Closer,351 O,SA,EN,,0.96
+60.0,Description: AV Room (WDL),False,660,1,Wall Stop,430-RKW,RO,US15,,0.96
+60.0,Description: AV Room (WDL),False,660,1,Sound Gasketing,S773BL,PE,,,0.98
+60.0,Description: AV Room (WDL),False,660,1,Door Bottom,420APKL @ HM / 434APKL@ WD,PE,,,0.98
+60.0,Description: AV Room (WDL),False,661,1,Threshold,175A MSES25,PE,,,0.98
+61.0,Description: BOH Laundry Maint (WDL),False,661,3,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+61.0,Description: BOH Laundry Maint (WDL),False,661,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LP,SA,US15,,0.96
+61.0,Description: BOH Laundry Maint (WDL),False,661,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+61.0,Description: BOH Laundry Maint (WDL),False,661,1,Surface Closer,DA 351 O,SA,EN,,0.96
+61.0,Description: BOH Laundry Maint (WDL),False,661,1,Armor Plate,"K1050 F =34"" high BEV CSK (F @ rated)",RO,US32D,,0.96
+61.0,Description: BOH Laundry Maint (WDL),False,661,1,Door Stop,406,RO,US32D,,0.96
+61.0,Description: BOH Laundry Maint (WDL),False,661,1,Gasketing,S88BL,PE,,,0.98
+61.0,Description: BOH Laundry Maint (WDL),False,661,1,Protector Bar,R111LPB,RO,10BE,,0.96
+62.0,Description: Mech Room (WDL),False,661,3,"Hinge, Full Mortise, Hvy Wt",T4A3786 NRP,MK,US15,,0.96
+62.0,Description: Mech Room (WDL),False,661,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+62.0,Description: Mech Room (WDL),False,661,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+62.0,Description: Mech Room (WDL),False,661,1,Surface Closer,351 P9,SA,EN,,0.96
+62.0,Description: Mech Room (WDL),False,661,1,Door Stop,406,RO,US32D,,0.96
+62.0,Description: Mech Room (WDL),False,661,1,Gasketing,S44BL,PE,,,0.98
+62.0,Description: Mech Room (WDL),False,661,1,Sound Gasketing,312CR,PE,,,0.98
+62.0,Description: Mech Room (WDL),False,661,1,Bottom Gasketing,ACP112BL/2,PE,,,0.98
+62.0,Description: Mech Room (WDL),False,661,1,Door Bottom,420APKL @ HM / 434APKL@ WD,PE,,,0.98
+62.0,Description: Mech Room (WDL),False,661,1,Threshold,175A MSES25,PE,,,0.98
+63.0,"Description: BOH Elev Mach, Mech Room (WDL)",False,661,3,"Hinge, Full Mortise, Hvy Wt",T4A3786 NRP,MK,US15,,0.96
+63.0,"Description: BOH Elev Mach, Mech Room (WDL)",False,661,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LP,SA,US15,,0.96
+63.0,"Description: BOH Elev Mach, Mech Room (WDL)",False,661,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+63.0,"Description: BOH Elev Mach, Mech Room (WDL)",False,662,1,Surface Closer,351 P9,SA,EN,,0.96
+63.0,"Description: BOH Elev Mach, Mech Room (WDL)",False,662,1,Door Stop,406,RO,US32D,,0.96
+63.0,"Description: BOH Elev Mach, Mech Room (WDL)",False,662,1,Gasketing,S44BL,PE,,,0.98
+63.0,"Description: BOH Elev Mach, Mech Room (WDL)",False,662,1,Sound Gasketing,312CR,PE,,,0.98
+63.0,"Description: BOH Elev Mach, Mech Room (WDL)",False,662,1,Threshold,175A MSES25,PE,,,0.98
+64.0,"Description: BOH Elev Mach, Mech Room (WDL)",False,662,3,"Hinge, Full Mortise, Hvy Wt",T4A3786 NRP,MK,US15,,0.96
+64.0,"Description: BOH Elev Mach, Mech Room (WDL)",False,662,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LP,SA,US15,,0.96
+64.0,"Description: BOH Elev Mach, Mech Room (WDL)",False,662,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+64.0,"Description: BOH Elev Mach, Mech Room (WDL)",False,662,1,Surface Closer,351 CPS,SA,EN,,0.96
+64.0,"Description: BOH Elev Mach, Mech Room (WDL)",False,662,1,Gasketing,S44BL,PE,,,0.98
+64.0,"Description: BOH Elev Mach, Mech Room (WDL)",False,662,1,Sound Gasketing,312CR,PE,,,0.98
+64.0,"Description: BOH Elev Mach, Mech Room (WDL)",False,662,1,Bottom Gasketing,ACP112BL/2,PE,,,0.98
+64.0,"Description: BOH Elev Mach, Mech Room (WDL)",False,662,1,Door Bottom,420APKL @ HM / 434APKL@ WD,PE,,,0.98
+64.0,"Description: BOH Elev Mach, Mech Room (WDL)",False,662,1,Threshold,175A MSES25,PE,,,0.98
+65.0,Description: IT / Elec Room (WDL),False,662,3,"Hinge, Full Mortise",TA2714 NRP,MK,US15,,0.96
+65.0,Description: IT / Elec Room (WDL),False,662,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+65.0,Description: IT / Elec Room (WDL),False,662,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+65.0,Description: IT / Elec Room (WDL),False,662,1,Surface Closer,351 P9,SA,EN,,0.96
+65.0,Description: IT / Elec Room (WDL),False,662,1,Wall Stop,430-RKW,RO,US15,,0.96
+65.0,Description: IT / Elec Room (WDL),False,662,1,Gasketing,S88BL,PE,,,0.98
+65.0,Description: IT / Elec Room (WDL),False,662,1,Door Bottom,420APKL @ HM / 434APKL@ WD,PE,,,0.98
+65.0,Description: IT / Elec Room (WDL),False,662,1,Threshold,270A MSES25 or Per Detail,PE,,,0.98
+66.0,Description: IT Room (WDL),False,662,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+66.0,Description: IT Room (WDL),False,663,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+66.0,Description: IT Room (WDL),False,663,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+66.0,Description: IT Room (WDL),False,663,1,Conc Overhead Stop,2-336,RF,652,,0.96
+66.0,Description: IT Room (WDL),False,663,1,Surface Closer,351 O,SA,EN,,0.96
+66.0,Description: IT Room (WDL),False,663,1,Gasketing,S88BL,PE,,,0.98
+67.0,Description: BOH IT Room (WDL),False,663,3,"Hinge, Full Mortise",TA2714 NRP,MK,US15,,0.96
+67.0,Description: BOH IT Room (WDL),False,663,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+67.0,Description: BOH IT Room (WDL),False,663,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+67.0,Description: BOH IT Room (WDL),False,663,1,Surface Closer,351 P9,SA,EN,,0.96
+67.0,Description: BOH IT Room (WDL),False,663,1,Door Stop,406,RO,US32D,,0.96
+67.0,Description: BOH IT Room (WDL),False,663,1,Gasketing,S88BL,PE,,,0.98
+67.0,Description: BOH IT Room (WDL),False,663,1,Threshold,151A MSES25,PE,,,0.98
+68.0,Description: Electrical Room (WDL),False,663,4,"Hinge, Full Mortise",TA2714 NRP,MK,US15,,0.96
+68.0,Description: Electrical Room (WDL),False,663,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+68.0,Description: Electrical Room (WDL),False,663,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+68.0,Description: Electrical Room (WDL),False,663,1,Surface Closer,351 P9,SA,EN,,0.96
+68.0,Description: Electrical Room (WDL),False,663,1,Wall Stop,430-RKW,RO,US15,,0.96
+68.0,Description: Electrical Room (WDL),False,663,1,Gasketing,S88BL,PE,,,0.98
+68.0,Description: Electrical Room (WDL),False,663,1,Threshold,270A MSES25 or Per Detail,PE,,,0.98
+69.0,Description: Electrical Room (PH),False,663,3,"Hinge, Full Mortise",TA2714 NRP,MK,US15,,0.96
+69.0,Description: Electrical Room (PH),False,663,1,Rim Exit Device,12 5CH 72 PE8806 NEMW,SA,US32D,,0.96
+69.0,Description: Electrical Room (PH),False,663,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+69.0,Description: Electrical Room (PH),False,663,1,Surface Closer,351 P9,SA,EN,,0.96
+69.0,Description: Electrical Room (PH),False,663,1,Wall Stop,430-RKW,RO,US15,,0.96
+69.0,Description: Electrical Room (PH),False,663,1,Gasketing,S88BL,PE,,,0.98
+69.0,Description: Electrical Room (PH),False,663,1,Door Bottom,420APKL @ HM / 434APKL@ WD,PE,,,0.98
+69.0,Description: Electrical Room (PH),False,663,1,Threshold,270A MSES25 or Per Detail,PE,,,0.98
+70.0,Description: BOH Electrical Room (WDL PH),False,664,3,"Hinge, Full Mortise, Hvy Wt",T4A3786 NRP,MK,US15,,0.96
+70.0,Description: BOH Electrical Room (WDL PH),False,664,1,Access Control Rim Exit Device,12 70 IN100-PE8877-BIPS B NEP,SA,US32D,,0.96
+70.0,Description: BOH Electrical Room (WDL PH),False,664,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+70.0,Description: BOH Electrical Room (WDL PH),False,664,1,Surface Closer,351 P9,SA,EN,,0.96
+70.0,Description: BOH Electrical Room (WDL PH),False,664,1,Wall Stop,430-RKW,RO,US15,,0.96
+70.0,Description: BOH Electrical Room (WDL PH),False,664,1,Gasketing,S88BL,PE,,,0.98
+70.0,Description: BOH Electrical Room (WDL PH),False,664,1,Door Bottom,420APKL @ HM / 434APKL@ WD,PE,,,0.98
+70.0,Description: BOH Electrical Room (WDL PH),False,664,1,Threshold,270A MSES25 or Per Detail,PE,,,0.98
+71.0,Description: BOH Electrical Room (PH-EO),False,664,3,"Hinge, Full Mortise, Hvy Wt",T4A3786 NRP,MK,US15,,0.96
+71.0,Description: BOH Electrical Room (PH-EO),False,664,1,"Rim Exit Device, Exit Only",12 PE8810 EO,SA,US32D,,0.96
+71.0,Description: BOH Electrical Room (PH-EO),False,664,1,Surface Closer,351 CPS,SA,EN,,0.96
+71.0,Description: BOH Electrical Room (PH-EO),False,664,1,Gasketing,S88BL,PE,,,0.98
+71.0,Description: BOH Electrical Room (PH-EO),False,664,1,Door Bottom,420APKL @ HM / 434APKL@ WD,PE,,,0.98
+71.0,Description: BOH Electrical Room (PH-EO),False,664,1,Threshold,175A MSES25,PE,,,0.98
+72.0,Description: BOH Electrical Room (PH),False,664,3,"Hinge, Full Mortise, Hvy Wt",T4A3786 NRP,MK,US15,,0.96
+72.0,Description: BOH Electrical Room (PH),False,664,1,"Rim Exit Device, Exit Only",12 PE8810 EO,SA,US32D,,0.96
+72.0,Description: BOH Electrical Room (PH),False,664,1,Surface Closer,351 P9,SA,EN,,0.96
+72.0,Description: BOH Electrical Room (PH),False,664,1,Wall Stop,430-RKW,RO,US15,,0.96
+72.0,Description: BOH Electrical Room (PH),False,664,1,Gasketing,S88BL,PE,,,0.98
+72.0,Description: BOH Electrical Room (PH),False,664,1,Door Bottom,420APKL @ HM / 434APKL@ WD,PE,,,0.98
+72.0,Description: BOH Electrical Room (PH),False,664,1,Threshold,270A MSES25 or Per Detail,PE,,,0.98
+73.0,Description: BOH Pool Chem Storage (WDL),False,664,3,"Hinge, Full Mortise",TA2314 NRP,MK,US32D,,0.96
+73.0,Description: BOH Pool Chem Storage (WDL),False,665,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LP,SA,US15,,0.96
+73.0,Description: BOH Pool Chem Storage (WDL),False,665,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+73.0,Description: BOH Pool Chem Storage (WDL),False,665,1,Surface Closer,351 P9,SA,EN,,0.96
+73.0,Description: BOH Pool Chem Storage (WDL),False,665,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+73.0,Description: BOH Pool Chem Storage (WDL),False,665,1,Door Stop,406,RO,US32D,,0.96
+73.0,Description: BOH Pool Chem Storage (WDL),False,665,1,Gasketing,S88BL,PE,,,0.98
+73.0,Description: BOH Pool Chem Storage (WDL),False,665,1,Sweep,18062CNB,PE,,,0.98
+73.0,Description: BOH Pool Chem Storage (WDL),False,665,1,Threshold,270A MSES25 or Per Detail,PE,,,0.98
+74.0,Description: BOH Battery Storage (WDL PH),False,665,3,"Hinge, Full Mortise",TA2714 NRP,MK,US15,,0.96
+74.0,Description: BOH Battery Storage (WDL PH),False,665,1,Access Control Rim Exit Device,12 70 IN100-PE8877-BIPS B NEP,SA,US32D,,0.96
+74.0,Description: BOH Battery Storage (WDL PH),False,665,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+74.0,Description: BOH Battery Storage (WDL PH),False,665,1,Surface Closer,351 CPS,SA,EN,,0.96
+74.0,Description: BOH Battery Storage (WDL PH),False,665,1,Gasketing,S88BL,PE,,,0.98
+74.0,Description: BOH Battery Storage (WDL PH),False,665,1,Sweep,18062CNB,PE,,,0.98
+74.0,Description: BOH Battery Storage (WDL PH),False,665,1,Threshold,270A MSES25 or Per Detail,PE,,,0.98
+75.0,Description: Office,False,665,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+75.0,Description: Office,False,665,1,Passage Latch,10XU15 LMW,SA,US15,,0.96
+75.0,Description: Office,False,665,1,Wall Stop,430-RKW,RO,US15,,0.96
+75.0,Description: Office,False,665,1,Gasketing,S88BL,PE,,,0.98
+76.0,Description: BOH Plant (WDL),False,665,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+76.0,Description: BOH Plant (WDL),False,665,3,"Hinge, Full Mortise @ 180 degrees","TA2714 5"" x 5""",MK,US26D,,0.96
+76.0,Description: BOH Plant (WDL),False,665,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LP,SA,US15,,0.96
+76.0,Description: BOH Plant (WDL),False,665,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+76.0,Description: BOH Plant (WDL),False,665,1,Surface Closer,351 O,SA,EN,,0.96
+76.0,Description: BOH Plant (WDL),False,666,1,Wall Stop,430-RKW,RO,US15,,0.96
+76.0,Description: BOH Plant (WDL),False,666,1,Gasketing,S88BL,PE,,,0.98
+77.0,Description: Conference Room,False,666,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+77.0,Description: Conference Room,False,666,1,Passage Latch,10XU15 LMW,SA,US15,,0.96
+77.0,Description: Conference Room,False,666,1,Surface Closer,351 UO,SA,EN,,0.96
+77.0,Description: Conference Room,False,666,1,Surface Closer,351 CPS,SA,EN,,0.96
+77.0,Description: Conference Room,False,666,1,Wall Stop,430-RKW,RO,US15,,0.96
+77.0,Description: Conference Room,False,666,1,Sound Gasketing,S773BL,PE,,,0.98
+77.0,Description: Conference Room,False,666,1,Door Bottom,"STC411APK 36""",PE,,,0.98
+77.0,Description: Conference Room,False,666,1,Threshold,151A MSES25,PE,,,0.98
+78.0,Description: Corridor Hallway (WDL),False,666,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+78.0,Description: Corridor Hallway (WDL),False,666,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+78.0,Description: Corridor Hallway (WDL),False,666,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+78.0,Description: Corridor Hallway (WDL),False,666,1,Surface Closer,351 UO,SA,EN,,0.96
+78.0,Description: Corridor Hallway (WDL),False,666,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+78.0,Description: Corridor Hallway (WDL),False,666,1,Wall Stop,430-RKW,RO,US15,,0.96
+78.0,Description: Corridor Hallway (WDL),False,666,1,Gasketing,S88BL,PE,,,0.98
+78.1,"Description: Laundry, Package (WDL)",False,666,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+78.1,"Description: Laundry, Package (WDL)",False,666,1,Access Control Cyl Lock,70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+78.1,"Description: Laundry, Package (WDL)",False,666,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+78.1,"Description: Laundry, Package (WDL)",False,666,1,Conc Overhead Stop,2-336,RF,652,,0.96
+78.1,"Description: Laundry, Package (WDL)",False,666,1,Surface Closer,351 O,SA,EN,,0.96
+78.1,"Description: Laundry, Package (WDL)",False,666,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+78.1,"Description: Laundry, Package (WDL)",False,666,1,Gasketing,S88BL,PE,,,0.98
+79.0,Description: Kitchen / BOH (CR/CR ES),False,667,3,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+79.0,Description: Kitchen / BOH (CR/CR ES),False,667,1,Utility/Asylum/Institutional Lock,70 10XG17 LMW,SA,US15,,0.96
+79.0,Description: Kitchen / BOH (CR/CR ES),False,667,2,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+79.0,Description: Kitchen / BOH (CR/CR ES),False,667,1,Electric Strike,1500C-LMS,HS,630,,0.96
+79.0,Description: Kitchen / BOH (CR/CR ES),False,667,1,SMART Pac Bridge Rectifier,2005M3,HS,,,0.98
+79.0,Description: Kitchen / BOH (CR/CR ES),False,667,1,Conc Overhead Stop,2-336,RF,652,,0.96
+79.0,Description: Kitchen / BOH (CR/CR ES),False,667,1,Surface Closer,DA 351 O,SA,EN,,0.96
+79.0,Description: Kitchen / BOH (CR/CR ES),False,667,1,Armor Plate,"K1050 F =34"" high BEV CSK (F @ rated)",RO,US32D,,0.96
+79.0,Description: Kitchen / BOH (CR/CR ES),False,667,1,Gasketing,S88BL,PE,,,0.98
+79.0,Description: Kitchen / BOH (CR/CR ES),False,667,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+79.0,Description: Kitchen / BOH (CR/CR ES),False,667,1,Position Switch,DPS-M-GY,SU,,,0.98
+79.0,Description: Kitchen / BOH (CR/CR ES),False,667,2,Card Reader,Furnished by Security Contractor,HD,,,0.98
+79.1,Description: BOH / Waiting (CR/CR ES),False,667,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+79.1,Description: BOH / Waiting (CR/CR ES),False,667,1,Utility/Asylum/Institutional Lock,70 10XG17 LMW,SA,US15,,0.96
+79.1,Description: BOH / Waiting (CR/CR ES),False,667,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+79.1,Description: BOH / Waiting (CR/CR ES),False,667,1,Electric Strike,1500C-LMS,HS,630,,0.96
+79.1,Description: BOH / Waiting (CR/CR ES),False,667,1,SMART Pac Bridge Rectifier,2005M3,HS,,,0.98
+79.1,Description: BOH / Waiting (CR/CR ES),False,667,1,Surface Closer,DA 351 O,SA,EN,,0.96
+79.1,Description: BOH / Waiting (CR/CR ES),False,667,1,Wall Stop,430-RKW,RO,US15,,0.96
+79.1,Description: BOH / Waiting (CR/CR ES),False,667,1,Gasketing,S88BL,PE,,,0.98
+79.1,Description: BOH / Waiting (CR/CR ES),False,667,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+79.1,Description: BOH / Waiting (CR/CR ES),False,667,1,Position Switch,DPS-W-GY,SU,,,0.98
+79.1,Description: BOH / Waiting (CR/CR ES),False,667,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+80.0,"Description: Kitchen, Laundry, Utility Service (CR EL)",False,668,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+80.0,"Description: Kitchen, Laundry, Utility Service (CR EL)",False,668,1,Fail Secure Elec Lock,RX 70 10XG71 LMW,SA,US15,,0.96
+80.0,"Description: Kitchen, Laundry, Utility Service (CR EL)",False,668,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+80.0,"Description: Kitchen, Laundry, Utility Service (CR EL)",False,668,1,Surface Closer,DA 351 O,SA,EN,,0.96
+80.0,"Description: Kitchen, Laundry, Utility Service (CR EL)",False,668,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+80.0,"Description: Kitchen, Laundry, Utility Service (CR EL)",False,668,1,Wall Stop,430-RKW,RO,US15,,0.96
+80.0,"Description: Kitchen, Laundry, Utility Service (CR EL)",False,668,1,Gasketing,S88BL,PE,,,0.98
+80.0,"Description: Kitchen, Laundry, Utility Service (CR EL)",False,668,1,Door Bottom,420APKL @ HM / 434APKL@ WD,PE,,,0.98
+80.0,"Description: Kitchen, Laundry, Utility Service (CR EL)",False,668,1,Electric Power Transfer,EL-CEPT,SU,630,,0.96
+80.0,"Description: Kitchen, Laundry, Utility Service (CR EL)",False,668,1,ElectroLynx Door Harness,QC-C300,MK,,,0.98
+80.0,"Description: Kitchen, Laundry, Utility Service (CR EL)",False,668,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+80.0,"Description: Kitchen, Laundry, Utility Service (CR EL)",False,668,1,Position Switch,DPS-W-GY,SU,,,0.98
+80.0,"Description: Kitchen, Laundry, Utility Service (CR EL)",False,668,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+81.0,Description: Lobby Corridor (HO),False,668,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+81.0,Description: Lobby Corridor (HO),False,668,1,Passage Latch,10XU15 LMW,SA,US15,,0.96
+81.0,Description: Lobby Corridor (HO),False,668,1,Surface Closer,351 O,SA,EN,,0.96
+81.0,Description: Lobby Corridor (HO),False,668,1,Electromagnetic Holder,998M,RF,689,,0.96
+81.0,Description: Lobby Corridor (HO),False,668,1,Gasketing,S88BL,PE,,,0.98
+82.0,Description: Lobby Entry (CR EPH),False,669,3,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+82.0,Description: Lobby Entry (CR EPH),False,669,1,Rim ELR Exit Device,5CH 55 56 72 PE8806 NEP 24v,SA,US32D,,0.96
+82.0,Description: Lobby Entry (CR EPH),False,669,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+82.0,Description: Lobby Entry (CR EPH),False,669,1,Surface Closer,351 UO,SA,EN,,0.96
+82.0,Description: Lobby Entry (CR EPH),False,669,1,Wall Stop,430-RKW,RO,US15,,0.96
+82.0,Description: Lobby Entry (CR EPH),False,669,1,Gasketing,S88BL,PE,,,0.98
+82.0,Description: Lobby Entry (CR EPH),False,669,1,Electric Power Transfer,EL-CEPT,SU,630,,0.96
+82.0,Description: Lobby Entry (CR EPH),False,669,1,ElectroLynx Door Harness,QC-C300,MK,,,0.98
+82.0,Description: Lobby Entry (CR EPH),False,669,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+82.0,Description: Lobby Entry (CR EPH),False,669,1,Position Switch,DPS-W-GY,SU,,,0.98
+82.0,Description: Lobby Entry (CR EPH),False,669,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+83.0,Description: Staff (CR EL),False,669,4,"Hinge, Full Mortise",TA2714 NRP,MK,US15,,0.96
+83.0,Description: Staff (CR EL),False,669,1,Fail Secure Elec Lock,RX 70 10XG71 LMW,SA,US15,,0.96
+83.0,Description: Staff (CR EL),False,669,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+83.0,Description: Staff (CR EL),False,669,1,Surface Closer,351 P9,SA,EN,,0.96
+83.0,Description: Staff (CR EL),False,669,1,Wall Stop,430-RKW,RO,US15,,0.96
+83.0,Description: Staff (CR EL),False,669,1,Gasketing,S88BL,PE,,,0.98
+83.0,Description: Staff (CR EL),False,669,1,Electric Power Transfer,EL-CEPT,SU,630,,0.96
+83.0,Description: Staff (CR EL),False,669,1,ElectroLynx Door Harness,QC-C300,MK,,,0.98
+83.0,Description: Staff (CR EL),False,669,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+83.0,Description: Staff (CR EL),False,669,1,Position Switch,DPS-W-GY,SU,,,0.98
+83.0,Description: Staff (CR EL),False,669,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+84.0,Description: Interior Stair (PH),False,670,3,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+84.0,Description: Interior Stair (PH),False,670,1,"Rim Exit Device, Passage",12 5CH PE8815 NEMW,SA,US32D,,0.96
+84.0,Description: Interior Stair (PH),False,670,1,Surface Closer,351 P10,SA,EN,,0.96
+84.0,Description: Interior Stair (PH),False,670,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+84.0,Description: Interior Stair (PH),False,670,1,Wall Stop,430-RKW,RO,US15,,0.96
+84.0,Description: Interior Stair (PH),False,670,1,Gasketing,S88BL,PE,,,0.98
+84.0,Description: Interior Stair (PH),False,670,1,Sweep,18062CNB,PE,,,0.98
+84.0,Description: Interior Stair (PH),False,670,1,Threshold,272A MSES25,PE,,,0.98
+85.0,Description: Corridor Salon (ADO-PP ES),False,670,4,"Hinge, Full Mortise",TA2714,MK,US15,,0.96
+85.0,Description: Corridor Salon (ADO-PP ES),False,670,1,Passage Latch,10XU15 LMW,SA,US15,,0.96
+85.0,Description: Corridor Salon (ADO-PP ES),False,670,1,Electric Strike,1500C-LMS,HS,630,,0.96
+85.0,Description: Corridor Salon (ADO-PP ES),False,670,1,SMART Pac Bridge Rectifier,2005M3,HS,,,0.98
+85.0,Description: Corridor Salon (ADO-PP ES),False,670,1,Automatic Opener,6211 / 6231 @ rev-bevel door 120V,NO,689,,0.96
+85.0,Description: Corridor Salon (ADO-PP ES),False,670,2,ADO Push Plate,639,NO,,,0.98
+85.0,Description: Corridor Salon (ADO-PP ES),False,670,1,Wall Stop,430-RKW,RO,US15,,0.96
+85.0,Description: Corridor Salon (ADO-PP ES),False,670,1,Gasketing,S88BL,PE,,,0.98
+86.0,Description: Corridor Exit (CR EPH),False,670,3,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+86.0,Description: Corridor Exit (CR EPH),False,670,1,Rim ELR Exit Device,5CH 55 56 72 PE8806 NEP 24v,SA,US32D,,0.96
+86.0,Description: Corridor Exit (CR EPH),False,670,1,Mortise Cylinder,72 43 verify cam,SA,US32D,,0.96
+86.0,Description: Corridor Exit (CR EPH),False,670,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+86.0,Description: Corridor Exit (CR EPH),False,670,1,Surface Closer,351 P10,SA,EN,,0.96
+86.0,Description: Corridor Exit (CR EPH),False,670,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+86.0,Description: Corridor Exit (CR EPH),False,670,1,Wall Stop,430-RKW,RO,US15,,0.96
+86.0,Description: Corridor Exit (CR EPH),False,671,1,Gasketing,S88BL,PE,,,0.98
+86.0,Description: Corridor Exit (CR EPH),False,671,1,Electric Power Transfer,EL-CEPT,SU,630,,0.96
+86.0,Description: Corridor Exit (CR EPH),False,671,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+86.0,Description: Corridor Exit (CR EPH),False,671,1,Position Switch,DPS-W-GY,SU,,,0.98
+86.0,Description: Corridor Exit (CR EPH),False,671,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+87.0,Description: BOH Corridor Exit (CR DE PH),False,671,3,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+87.0,Description: BOH Corridor Exit (CR DE PH),False,671,1,Delayed Egress Magnetic Lock,DEM680E-CA15S,SU,630,,0.96
+87.0,Description: BOH Corridor Exit (CR DE PH),False,671,1,"Rim Exit Device, Passage",12 5CH PE8815 NEMW,SA,US32D,,0.96
+87.0,Description: BOH Corridor Exit (CR DE PH),False,671,1,Mortise Cylinder,72 43 verify cam,SA,US32D,,0.96
+87.0,Description: BOH Corridor Exit (CR DE PH),False,671,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+87.0,Description: BOH Corridor Exit (CR DE PH),False,671,1,Surface Closer,351 UO,SA,EN,,0.96
+87.0,Description: BOH Corridor Exit (CR DE PH),False,671,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+87.0,Description: BOH Corridor Exit (CR DE PH),False,671,1,Wall Stop,430-RKW,RO,US15,,0.96
+87.0,Description: BOH Corridor Exit (CR DE PH),False,671,1,Gasketing,S88BL,PE,,,0.98
+87.0,Description: BOH Corridor Exit (CR DE PH),False,671,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+87.0,Description: BOH Corridor Exit (CR DE PH),False,671,1,Position Switch,DPS-W-GY,SU,,,0.98
+87.0,Description: BOH Corridor Exit (CR DE PH),False,671,2,Card Reader,Furnished by Security Contractor,HD,,,0.98
+87.1,Description: Controlled Corridor Exit (AO CR/CR DE PH),False,672,4,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+87.1,Description: Controlled Corridor Exit (AO CR/CR DE PH),False,672,1,Delayed Egress Magnetic Lock,DEM680E-CA15S,SU,630,,0.96
+87.1,Description: Controlled Corridor Exit (AO CR/CR DE PH),False,672,1,Rim Exit Device,12 5CH 72 PE8806 NEMW,SA,US32D,,0.96
+87.1,Description: Controlled Corridor Exit (AO CR/CR DE PH),False,672,1,Mortise Cylinder,72 43 verify cam,SA,US32D,,0.96
+87.1,Description: Controlled Corridor Exit (AO CR/CR DE PH),False,672,2,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+87.1,Description: Controlled Corridor Exit (AO CR/CR DE PH),False,672,1,Electric Strike,9500-LBM,HS,630,,0.96
+87.1,Description: Controlled Corridor Exit (AO CR/CR DE PH),False,672,1,Automatic Opener,6211 / 6231 @ rev-bevel door 120V,NO,689,,0.96
+87.1,Description: Controlled Corridor Exit (AO CR/CR DE PH),False,672,2,ADO Push Plate,639,NO,,,0.98
+87.1,Description: Controlled Corridor Exit (AO CR/CR DE PH),False,672,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+87.1,Description: Controlled Corridor Exit (AO CR/CR DE PH),False,672,1,Wall Stop,430-RKW,RO,US15,,0.96
+87.1,Description: Controlled Corridor Exit (AO CR/CR DE PH),False,672,1,Gasketing,S88BL,PE,,,0.98
+87.1,Description: Controlled Corridor Exit (AO CR/CR DE PH),False,672,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+87.1,Description: Controlled Corridor Exit (AO CR/CR DE PH),False,672,1,Position Switch,DPS-W-GY,SU,,,0.98
+87.1,Description: Controlled Corridor Exit (AO CR/CR DE PH),False,672,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+88.0,Description: Stair Passage,False,672,3,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+88.0,Description: Stair Passage,False,672,1,Passage Latch,10XU15 LMW,SA,US15,,0.96
+88.0,Description: Stair Passage,False,672,1,Surface Closer,351 O,SA,EN,,0.96
+88.0,Description: Stair Passage,False,672,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+88.0,Description: Stair Passage,False,672,1,Wall Stop,430-RKW,RO,US15,,0.96
+88.0,Description: Stair Passage,False,672,1,Gasketing,S88BL,PE,,,0.98
+88.0,Description: Stair Passage,False,672,1,Sweep,18062CNB,PE,,,0.98
+88.0,Description: Stair Passage,False,672,1,Threshold,272A MSES25,PE,,,0.98
+89.0,"Description: BOH, Parking Exit Stair (PH)",False,673,3,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+89.0,"Description: BOH, Parking Exit Stair (PH)",False,673,1,"Rim Exit Device, Passage",12 PE8815 NEP,SA,US32D,,0.96
+89.0,"Description: BOH, Parking Exit Stair (PH)",False,673,1,Surface Closer,351 O,SA,EN,,0.96
+89.0,"Description: BOH, Parking Exit Stair (PH)",False,673,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+89.0,"Description: BOH, Parking Exit Stair (PH)",False,673,1,Wall Stop,430-RKW,RO,US15,,0.96
+89.0,"Description: BOH, Parking Exit Stair (PH)",False,673,1,Gasketing,S88BL,PE,,,0.98
+89.0,"Description: BOH, Parking Exit Stair (PH)",False,673,1,Sweep,18062CNB,PE,,,0.98
+89.0,"Description: BOH, Parking Exit Stair (PH)",False,673,1,Threshold,272A MSES25,PE,,,0.98
+90.0,Description: Exit Stair (PH),False,673,3,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+90.0,Description: Exit Stair (PH),False,673,1,"Rim Exit Device, Passage",12 5CH PE8815 NEMW,SA,US32D,,0.96
+90.0,Description: Exit Stair (PH),False,673,1,Surface Closer,351 O,SA,EN,,0.96
+90.0,Description: Exit Stair (PH),False,673,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+90.0,Description: Exit Stair (PH),False,673,1,Wall Stop,430-RKW,RO,US15,,0.96
+90.0,Description: Exit Stair (PH),False,673,1,Gasketing,S88BL,PE,,,0.98
+90.0,Description: Exit Stair (PH),False,673,1,Sweep,18062CNB,PE,,,0.98
+90.0,Description: Exit Stair (PH),False,673,1,Threshold,272A MSES25,PE,,,0.98
+91.0,Description: Exit Stair (PH),False,673,3,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+91.0,Description: Exit Stair (PH),False,673,1,"Rim Exit Device, Passage",12 5CH PE8815 NEMW,SA,US32D,,0.96
+91.0,Description: Exit Stair (PH),False,673,1,Surface Closer,351 CPS,SA,EN,,0.96
+91.0,Description: Exit Stair (PH),False,673,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+91.0,Description: Exit Stair (PH),False,673,1,Gasketing,S88BL,PE,,,0.98
+91.0,Description: Exit Stair (PH),False,673,1,Sweep,18062CNB,PE,,,0.98
+91.0,Description: Exit Stair (PH),False,673,1,Threshold,272A MSES25,PE,,,0.98
+92.0,Description: Spa Coed Pools Exit (PH WDL),False,673,3,"Hinge, Full Mortise",TA2314 NRP,MK,US32D,,0.96
+92.0,Description: Spa Coed Pools Exit (PH WDL),False,673,1,Rim Exit Device,70 IN100-PE8877-BIPS B NEMW,SA,US32D,,0.96
+92.0,Description: Spa Coed Pools Exit (PH WDL),False,674,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+92.0,Description: Spa Coed Pools Exit (PH WDL),False,674,1,Surface Closer,351 P10,SA,EN,,0.96
+92.0,Description: Spa Coed Pools Exit (PH WDL),False,674,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+92.0,Description: Spa Coed Pools Exit (PH WDL),False,674,1,Wall Stop,430-RKW,RO,US15,,0.96
+92.0,Description: Spa Coed Pools Exit (PH WDL),False,674,1,Gasketing,S88BL,PE,,,0.98
+92.0,Description: Spa Coed Pools Exit (PH WDL),False,674,1,Sweep,18062CNB,PE,,,0.98
+92.0,Description: Spa Coed Pools Exit (PH WDL),False,674,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+93.0,Description: Restricted Corridor Exit (ALK CR/CR EPH),False,674,3,"Hinge, Full Mortise, Hvy Wt",T4A3786 NRP,MK,US15,,0.96
+93.0,Description: Restricted Corridor Exit (ALK CR/CR EPH),False,674,1,Alarmed Fail Secure Elec Exit Device,AL 5CH 70 PE8876-24v NEMW,SA,US32D,,0.96
+93.0,Description: Restricted Corridor Exit (ALK CR/CR EPH),False,674,2,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+93.0,Description: Restricted Corridor Exit (ALK CR/CR EPH),False,674,1,Surface Closer,351 P10,SA,EN,,0.96
+93.0,Description: Restricted Corridor Exit (ALK CR/CR EPH),False,674,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+93.0,Description: Restricted Corridor Exit (ALK CR/CR EPH),False,674,1,Wall Stop,430-RKW,RO,US15,,0.96
+93.0,Description: Restricted Corridor Exit (ALK CR/CR EPH),False,674,1,Gasketing,S88BL,PE,,,0.98
+93.0,Description: Restricted Corridor Exit (ALK CR/CR EPH),False,674,1,Electric Power Transfer,EL-CEPT,SU,630,,0.96
+93.0,Description: Restricted Corridor Exit (ALK CR/CR EPH),False,674,1,Wiring Harness,546-F,SA,,,0.98
+93.0,Description: Restricted Corridor Exit (ALK CR/CR EPH),False,674,1,ElectroLynx Door Harness,QC-C003,MK,,,0.98
+93.0,Description: Restricted Corridor Exit (ALK CR/CR EPH),False,674,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+93.0,Description: Restricted Corridor Exit (ALK CR/CR EPH),False,674,1,Position Switch,DPS-W-GY,SU,,,0.98
+93.0,Description: Restricted Corridor Exit (ALK CR/CR EPH),False,674,2,Card Reader,Furnished by Security Contractor,HD,,,0.98
+93.0,Description: Restricted Corridor Exit (ALK CR/CR EPH),False,674,1,Power Supply w/Fire Trigger,Furnished by Security Contractor,SU,,,0.98
+94.0,Description: Theater Exit Only (In-swing),False,674,4,"Hinge, Full Mortise, Hvy Wt",T4A3386 NRP,MK,BSP,,0.96
+94.0,Description: Theater Exit Only (In-swing),False,674,1,Exit Latch,8213 LNMW,SA,BSP,,0.96
+94.0,Description: Theater Exit Only (In-swing),False,674,1,Concealed Closer,PH91NDCP 105 Stop Block,RF,BSP,,0.96
+94.0,Description: Theater Exit Only (In-swing),False,675,1,Sound Gasketing,S773BL,PE,,,0.98
+94.0,Description: Theater Exit Only (In-swing),False,675,1,Door Bottom,420APKL @ HM / 434APKL@ WD,PE,,,0.98
+94.0,Description: Theater Exit Only (In-swing),False,675,1,Sweep,368BSPN,PE,,,0.98
+94.0,Description: Theater Exit Only (In-swing),False,675,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+95.0,Description: BOH Exit (CR EPH),False,675,3,"Hinge, Full Mortise, Hvy Wt",T4A3386 NRP,MK,US32D,,0.96
+95.0,Description: BOH Exit (CR EPH),False,675,1,Fail Secure Elec Exit Device,5CH 55 70 PE8876-24v NEMW,SA,US32D,,0.96
+95.0,Description: BOH Exit (CR EPH),False,675,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+95.0,Description: BOH Exit (CR EPH),False,675,1,Surface Closer,351 P10,SA,EN,,0.96
+95.0,Description: BOH Exit (CR EPH),False,675,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+95.0,Description: BOH Exit (CR EPH),False,675,1,Wall Stop,430-RKW,RO,US15,,0.96
+95.0,Description: BOH Exit (CR EPH),False,675,1,Gasketing,S88BL,PE,,,0.98
+95.0,Description: BOH Exit (CR EPH),False,675,1,Sweep,18062CNB,PE,,,0.98
+95.0,Description: BOH Exit (CR EPH),False,675,1,Threshold,176A MSES25SS-2,PE,,,0.98
+95.0,Description: BOH Exit (CR EPH),False,675,1,Electric Power Transfer,EL-CEPT,SU,630,,0.96
+95.0,Description: BOH Exit (CR EPH),False,675,1,ElectroLynx Door Harness,QC-C003,MK,,,0.98
+95.0,Description: BOH Exit (CR EPH),False,675,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+95.0,Description: BOH Exit (CR EPH),False,675,1,Position Switch,DPS-M-GY,SU,,,0.98
+95.0,Description: BOH Exit (CR EPH),False,675,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+95.0,Description: BOH Exit (CR EPH),False,675,1,Power Supply,Furnished by Security Contractor,SU,,,0.98
+96.0,Description: Exterior Stair Exit CR EPH),False,675,4,"Hinge, Full Mortise, Hvy Wt",T4A3386 NRP,MK,BSP,,0.96
+96.0,Description: Exterior Stair Exit CR EPH),False,675,1,Fail Secure Elec Exit Device,5CH 55 70 PE8876-24v NEMW,SA,BSP,,0.96
+96.0,Description: Exterior Stair Exit CR EPH),False,675,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+96.0,Description: Exterior Stair Exit CR EPH),False,675,1,Surface Closer,351 CPS,SA,BSP,,0.96
+96.0,Description: Exterior Stair Exit CR EPH),False,675,1,Kick Plate,"K1050 =10"" high CSK BEV",RO,BSP,,0.96
+96.0,Description: Exterior Stair Exit CR EPH),False,675,1,Gasketing,S88BL,PE,,,0.98
+96.0,Description: Exterior Stair Exit CR EPH),False,675,1,Sweep,18062BSPNB,PE,,,0.98
+96.0,Description: Exterior Stair Exit CR EPH),False,676,1,Threshold,2727D MSES25 or Per Detail,PE,,,0.98
+96.0,Description: Exterior Stair Exit CR EPH),False,676,1,Threshold (verify per detail),176BSP / 2727BSP MSES25,PE,,,0.98
+96.0,Description: Exterior Stair Exit CR EPH),False,676,1,Electric Power Transfer,EL-CEPT,SU,BSP,,0.96
+96.0,Description: Exterior Stair Exit CR EPH),False,676,1,ElectroLynx Door Harness,QC-C003,MK,,,0.98
+96.0,Description: Exterior Stair Exit CR EPH),False,676,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+96.0,Description: Exterior Stair Exit CR EPH),False,676,1,Position Switch,DPS-M-BK,SU,,,0.98
+96.0,Description: Exterior Stair Exit CR EPH),False,676,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+96.0,Description: Exterior Stair Exit CR EPH),False,676,1,Power Supply,Furnished by Security Contractor,SU,,,0.98
+97.0,Description: Corridor Stair Exit (ALK CR/CR EPH FAR),False,676,3,"Hinge, Full Mortise, Hvy Wt",T4A3786 NRP,MK,US15,,0.96
+97.0,Description: Corridor Stair Exit (ALK CR/CR EPH FAR),False,676,1,Alarm Fail Safe Elec Exit Device,AL 12 5CH PE8875-24v NEMW,SA,US32D,,0.96
+97.0,Description: Corridor Stair Exit (ALK CR/CR EPH FAR),False,676,2,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+97.0,Description: Corridor Stair Exit (ALK CR/CR EPH FAR),False,676,1,Surface Closer,351 O,SA,EN,,0.96
+97.0,Description: Corridor Stair Exit (ALK CR/CR EPH FAR),False,676,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+97.0,Description: Corridor Stair Exit (ALK CR/CR EPH FAR),False,676,1,Wall Stop,430-RKW,RO,US15,,0.96
+97.0,Description: Corridor Stair Exit (ALK CR/CR EPH FAR),False,676,1,Gasketing,S88BL,PE,,,0.98
+97.0,Description: Corridor Stair Exit (ALK CR/CR EPH FAR),False,676,1,Sweep,18062CNB,PE,,,0.98
+97.0,Description: Corridor Stair Exit (ALK CR/CR EPH FAR),False,676,1,Threshold (verify per detail),276A MSES25,PE,,,0.98
+97.0,Description: Corridor Stair Exit (ALK CR/CR EPH FAR),False,676,1,Electric Power Transfer,EL-CEPT,SU,630,,0.96
+97.0,Description: Corridor Stair Exit (ALK CR/CR EPH FAR),False,676,1,Wiring Harness,546-F,SA,,,0.98
+97.0,Description: Corridor Stair Exit (ALK CR/CR EPH FAR),False,676,1,ElectroLynx Door Harness,QC-C003,MK,,,0.98
+97.0,Description: Corridor Stair Exit (ALK CR/CR EPH FAR),False,676,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+97.0,Description: Corridor Stair Exit (ALK CR/CR EPH FAR),False,676,1,Position Switch,DPS-W-GY,SU,,,0.98
+97.0,Description: Corridor Stair Exit (ALK CR/CR EPH FAR),False,676,2,Card Reader,Furnished by Security Contractor,HD,,,0.98
+97.0,Description: Corridor Stair Exit (ALK CR/CR EPH FAR),False,676,1,Power Supply w/Fire Trigger,Furnished by Security Contractor,SU,,,0.98
+98.0,Description: Exterior Mech Deck,False,677,4,"Hinge, Full Mortise, Hvy Wt",T4A3386,MK,US32D,,0.96
+98.0,Description: Exterior Mech Deck,False,677,1,Storeroom/Closet Lock,70 10XG04 LMW,SA,US15,,0.96
+98.0,Description: Exterior Mech Deck,False,677,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+98.0,Description: Exterior Mech Deck,False,677,1,Surface Closer,351 CPS,SA,EN,,0.96
+98.0,Description: Exterior Mech Deck,False,677,1,Gasketing,S88BL,PE,,,0.98
+98.0,Description: Exterior Mech Deck,False,677,1,Door Bottom,2221APK,PE,,,0.98
+98.0,Description: Exterior Mech Deck,False,677,1,Threshold,2727A MSES25SS or Per Detail,PE,,,0.98
+99.0,Description: Exterior Room (WDL),False,677,3,"Hinge, Full Mortise",TA2314 NRP,MK,US32D,,0.96
+99.0,Description: Exterior Room (WDL),False,677,1,Access Control Cyl Lock,41 70 IN100-10XG77-BIPS B LP,SA,US15,,0.96
+99.0,Description: Exterior Room (WDL),False,677,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+99.0,Description: Exterior Room (WDL),False,677,1,Surface Closer,351 CPS,SA,EN,,0.96
+99.0,Description: Exterior Room (WDL),False,677,1,Gasketing,S88BL,PE,,,0.98
+99.0,Description: Exterior Room (WDL),False,677,1,Door Bottom,2221APK,PE,,,0.98
+99.0,Description: Exterior Room (WDL),False,677,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+99.0,Description: Exterior Room (WDL),False,677,1,Latch Protector,325,RO,US26D,,0.96
+100.0,Description: Exterior Deck Storefront Door (WDL),False,677,1,Pivot Set,195,RF,622,,0.96
+100.0,Description: Exterior Deck Storefront Door (WDL),False,677,2,Intermediate Pivot,M19,RF,622,,0.96
+100.0,Description: Exterior Deck Storefront Door (WDL),False,677,1,Access Control Mort Lock,IN100-82277-BIPS LNMW LC,SA,BSP,,0.96
+100.0,Description: Exterior Deck Storefront Door (WDL),False,677,1,Mortise Cylinder,72 43 verify cam,SA,BSP,,0.96
+100.0,Description: Exterior Deck Storefront Door (WDL),False,677,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+100.0,Description: Exterior Deck Storefront Door (WDL),False,677,1,Concealed Closer,PH91NDCP 105 Stop Block,RF,BSP,,0.96
+100.0,Description: Exterior Deck Storefront Door (WDL),False,677,1,Sweep,18062BSPNB,PE,,,0.98
+100.0,Description: Exterior Deck Storefront Door (WDL),False,677,1,Threshold,2727A MSES25SS or Per Detail,PE,,,0.98
+101.0,Description: Exterior Kitchen (CR EL),False,678,3,"Hinge, Full Mortise, Hvy Wt",T4A3386 NRP,MK,US32D,,0.96
+101.0,Description: Exterior Kitchen (CR EL),False,678,1,Fail Secure Elec Lock,RX 72 8271-24V LNP,SA,US32D,,0.96
+101.0,Description: Exterior Kitchen (CR EL),False,678,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+101.0,Description: Exterior Kitchen (CR EL),False,678,1,Surface Closer,DA 351 P10,SA,EN,,0.96
+101.0,Description: Exterior Kitchen (CR EL),False,678,1,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+101.0,Description: Exterior Kitchen (CR EL),False,678,1,Door Stop,471 EXP,RO,US26D,,0.96
+101.0,Description: Exterior Kitchen (CR EL),False,678,1,Gasketing,S88BL,PE,,,0.98
+101.0,Description: Exterior Kitchen (CR EL),False,678,1,Sweep,18062CNB,PE,,,0.98
+101.0,Description: Exterior Kitchen (CR EL),False,678,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+101.0,Description: Exterior Kitchen (CR EL),False,678,1,Electric Power Transfer,EL-CEPT,SU,630,,0.96
+101.0,Description: Exterior Kitchen (CR EL),False,678,1,ElectroLynx Door Harness,QC-C300,MK,,,0.98
+101.0,Description: Exterior Kitchen (CR EL),False,678,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+101.0,Description: Exterior Kitchen (CR EL),False,678,1,Position Switch,DPS-M-GY,SU,,,0.98
+101.0,Description: Exterior Kitchen (CR EL),False,678,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+101.0,Description: Exterior Kitchen (CR EL),False,678,1,Latch Protector,325,RO,US26D,,0.96
+102.0,Description: Exterior Staff Entry Storefront (CR EL),False,678,1,Continuous Hinge,BSPFM95HD1 PT Cut to net,PE,,,0.98
+102.0,Description: Exterior Staff Entry Storefront (CR EL),False,678,1,Fail Secure Elec Lock,RX 72 8271-24V LNP,SA,BSP,,0.96
+102.0,Description: Exterior Staff Entry Storefront (CR EL),False,678,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+102.0,Description: Exterior Staff Entry Storefront (CR EL),False,678,1,Surface Closer,351 P9,SA,BSP,,0.96
+102.0,Description: Exterior Staff Entry Storefront (CR EL),False,678,1,Drop Plate (if required),351D,SA,BSP,,0.96
+102.0,Description: Exterior Staff Entry Storefront (CR EL),False,678,1,Door Stop,471,RO,BSP,,0.96
+102.0,Description: Exterior Staff Entry Storefront (CR EL),False,678,1,Sweep,18062BSPNB,PE,,,0.98
+102.0,Description: Exterior Staff Entry Storefront (CR EL),False,678,1,Threshold (verify per detail),176BSP / 2727BSP MSES25,PE,,,0.98
+102.0,Description: Exterior Staff Entry Storefront (CR EL),False,678,1,Electric Power Transfer,EL-CEPT,SU,BSP,,0.96
+102.0,Description: Exterior Staff Entry Storefront (CR EL),False,678,1,ElectroLynx Door Harness,QC-C300,MK,,,0.98
+102.0,Description: Exterior Staff Entry Storefront (CR EL),False,679,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+102.0,Description: Exterior Staff Entry Storefront (CR EL),False,679,1,Position Switch,DPS-M-BK,SU,,,0.98
+102.0,Description: Exterior Staff Entry Storefront (CR EL),False,679,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+102.0,Description: Exterior Staff Entry Storefront (CR EL),False,679,1,Latch Protector,325,RO,BSP,,0.96
+103.0,Description: Exterior Staff Entry (CR EL),False,679,4,"Hinge, Full Mortise",TA2314 NRP,MK,BSP,,0.96
+103.0,Description: Exterior Staff Entry (CR EL),False,679,1,Fail Secure Elec Lock,RX 72 8271-24V LNP,SA,BSP,,0.96
+103.0,Description: Exterior Staff Entry (CR EL),False,679,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+103.0,Description: Exterior Staff Entry (CR EL),False,679,1,Surface Closer,351 CPS,SA,BSP,,0.96
+103.0,Description: Exterior Staff Entry (CR EL),False,679,1,Kick Plate,"K1050 =10"" high CSK BEV",RO,BSP,,0.96
+103.0,Description: Exterior Staff Entry (CR EL),False,679,1,Gasketing,S88BL,PE,,,0.98
+103.0,Description: Exterior Staff Entry (CR EL),False,679,1,Sweep,18062BSPNB,PE,,,0.98
+103.0,Description: Exterior Staff Entry (CR EL),False,679,1,Threshold (verify per detail),176BSP / 2727BSP MSES25,PE,,,0.98
+103.0,Description: Exterior Staff Entry (CR EL),False,679,1,Electric Power Transfer,EL-CEPT,SU,BSP,,0.96
+103.0,Description: Exterior Staff Entry (CR EL),False,679,1,ElectroLynx Door Harness,QC-C300,MK,,,0.98
+103.0,Description: Exterior Staff Entry (CR EL),False,679,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+103.0,Description: Exterior Staff Entry (CR EL),False,679,1,Position Switch,DPS-M-BK,SU,,,0.98
+103.0,Description: Exterior Staff Entry (CR EL),False,679,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+103.0,Description: Exterior Staff Entry (CR EL),False,679,1,Latch Protector,325,RO,BSP,,0.96
+104.0,"Description: Dinning, Wine Bar Door Pair (HO)",False,680,6,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+104.0,"Description: Dinning, Wine Bar Door Pair (HO)",False,680,1,Flush Bolt,2842 @ HM / 2942 @ WD,RO,US32D,,0.96
+104.0,"Description: Dinning, Wine Bar Door Pair (HO)",False,680,1,Dust Proof Strike,570,RO,US26D,,0.96
+104.0,"Description: Dinning, Wine Bar Door Pair (HO)",False,680,1,Passage Latch,10XU15 LMW,SA,US15,,0.96
+104.0,"Description: Dinning, Wine Bar Door Pair (HO)",False,680,1,Coordinator,2600 Series (size to opening),RO,US28,,0.96
+104.0,"Description: Dinning, Wine Bar Door Pair (HO)",False,680,2,Mounting Bracket,2601D,RO,Gray,,0.96
+104.0,"Description: Dinning, Wine Bar Door Pair (HO)",False,680,2,Surface Closer,351 P9,SA,BSP,,0.96
+104.0,"Description: Dinning, Wine Bar Door Pair (HO)",False,680,2,Electromagnetic Holder,998M,RF,689,,0.96
+104.0,"Description: Dinning, Wine Bar Door Pair (HO)",False,680,1,Astragal,355CS,PE,,,0.98
+104.0,"Description: Dinning, Wine Bar Door Pair (HO)",False,680,1,Gasketing,S88BL,PE,,,0.98
+104.1,Description: Corridor Door Pair (MHO PH),False,680,6,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+104.1,Description: Corridor Door Pair (MHO PH),False,680,1,"Concealed Vert Rod Exit, Passage",12 NB WDPE8615 NEMW,SA,US32D,,0.96
+104.1,Description: Corridor Door Pair (MHO PH),False,680,1,"Concealed Vert Rod Exit, Exit Only",12 NB 5CH MDPE8610 EO,SA,US32D,,0.96
+104.1,Description: Corridor Door Pair (MHO PH),False,680,2,Surface Closer,D-DC-351PKT,RI,EN,,0.96
+104.1,Description: Corridor Door Pair (MHO PH),False,680,2,Electromagnetic Holder,998M,RF,689,,0.96
+104.1,Description: Corridor Door Pair (MHO PH),False,680,1,Gasketing,S88BL,PE,,,0.98
+104.1,Description: Corridor Door Pair (MHO PH),False,680,1,Astragal Edge Seal,S772C,PE,,,0.98
+104.1,Description: Corridor Door Pair (MHO PH),False,680,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+105.0,Description: Cross-Corridor Door Pair (MHO PH),False,680,6,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+105.0,Description: Cross-Corridor Door Pair (MHO PH),False,680,2,"Concealed Vert Rod Exit, Exit Only",12 NB 5CH MDPE8610 EO,SA,US32D,,0.96
+105.0,Description: Cross-Corridor Door Pair (MHO PH),False,680,2,Surface Closer,D-DC-351PKT,RI,EN,,0.96
+105.0,Description: Cross-Corridor Door Pair (MHO PH),False,680,2,Electromagnetic Holder,998M,RF,689,,0.96
+105.0,Description: Cross-Corridor Door Pair (MHO PH),False,680,1,Astragal,357SP x S88,PE,,,0.98
+105.0,Description: Cross-Corridor Door Pair (MHO PH),False,680,1,Gasketing,S88BL,PE,,,0.98
+105.0,Description: Cross-Corridor Door Pair (MHO PH),False,680,2,Sweep,90100CNB,PE,,,0.98
+105.0,Description: Cross-Corridor Door Pair (MHO PH),False,680,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+106.0,Description: Cross-Corridor RITE Door Pair (MHO PH),False,681,2,Continuous Hinge,D200 Cut to Net Length,RI,603,,0.96
+106.0,Description: Cross-Corridor RITE Door Pair (MHO PH),False,681,2,Recessed Exit,D3676,RI,US32D,,0.96
+106.0,Description: Cross-Corridor RITE Door Pair (MHO PH),False,681,2,Surface Closer,D-DC-351PKT,RI,EN,,0.96
+106.0,Description: Cross-Corridor RITE Door Pair (MHO PH),False,681,2,Electromagnetic Holder,D-MDH-310,RI,689,,0.96
+106.0,Description: Cross-Corridor RITE Door Pair (MHO PH),False,681,1,Edge Seal,D-SS-STK-CLR,RI,Clear,,0.96
+106.0,Description: Cross-Corridor RITE Door Pair (MHO PH),False,681,1,Seal Kit,D-SS44-STK-DBZ,RI,Dark Bronze,,0.96
+106.0,Description: Cross-Corridor RITE Door Pair (MHO PH),False,681,2,Sweep,90100CNB,PE,,,0.98
+107.0,Description: Dining Room Door Pair (HO),False,681,8,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+107.0,Description: Dining Room Door Pair (HO),False,681,2,Push Bar,"RM4012 Mtg-Type 12XHD 33""",RO,US32D,,0.96
+107.0,Description: Dining Room Door Pair (HO),False,681,2,Pull,RM4010MP-72 Mtg-Type 12XHD,RO,US32D,,0.96
+107.0,Description: Dining Room Door Pair (HO),False,681,2,Surface Closer,351 H,SA,EN,,0.96
+107.0,Description: Dining Room Door Pair (HO),False,681,2,Wall Stop,430-RKW,RO,US15,,0.96
+107.0,Description: Dining Room Door Pair (HO),False,681,1,Gasketing,S88BL,PE,,,0.98
+107.0,Description: Dining Room Door Pair (HO),False,681,1,Astragal Edge Seal,S772C,PE,,,0.98
+108.0,Description: Auditorium Door Pair (WDL PH),False,681,6,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+108.0,Description: Auditorium Door Pair (WDL PH),False,681,1,"Concealed Vert Rod Exit, Exit Only",NB 18 WDPE8610 EO,SA,US32D,,0.96
+108.0,Description: Auditorium Door Pair (WDL PH),False,681,1,Access Control Concealed Vert Rod Exit,NB 18 IN100-WDPE8678-BIPS NEMW (EAC option),SA,US32D,,0.96
+108.0,Description: Auditorium Door Pair (WDL PH),False,681,2,Surface Closer,351 P10,SA,EN,,0.96
+108.0,Description: Auditorium Door Pair (WDL PH),False,681,2,Wall Stop,430-RKW,RO,US15,,0.96
+108.0,Description: Auditorium Door Pair (WDL PH),False,681,1,Astragal Edge Sound Seal,S771x6BL,PE,,,0.98
+108.0,Description: Auditorium Door Pair (WDL PH),False,681,1,Gasketing,S44BL,PE,,,0.98
+108.0,Description: Auditorium Door Pair (WDL PH),False,681,1,Sound Gasketing,312CR,PE,,,0.98
+108.0,Description: Auditorium Door Pair (WDL PH),False,681,2,Bottom Gasketing,ACP112BL/2,PE,,,0.98
+108.0,Description: Auditorium Door Pair (WDL PH),False,681,2,Door Bottom,"STC411APK 36""",PE,,,0.98
+108.0,Description: Auditorium Door Pair (WDL PH),False,682,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+109.0,"Description: Elec, Storage Door Pair (WDL)",False,682,8,"Hinge, Full Mortise",TA2714 NRP,MK,US15,,0.96
+109.0,"Description: Elec, Storage Door Pair (WDL)",False,682,1,Flush Bolt,2842 @ HM / 2942 @ WD,RO,US32D,,0.96
+109.0,"Description: Elec, Storage Door Pair (WDL)",False,682,1,Dust Proof Strike,570,RO,US26D,,0.96
+109.0,"Description: Elec, Storage Door Pair (WDL)",False,682,1,Access Control Cyl Lock,41 70 IN100-10XG77-BIPS B LP,SA,US15,,0.96
+109.0,"Description: Elec, Storage Door Pair (WDL)",False,682,1,Mortise Cylinder,72 43 verify cam,SA,US32D,,0.96
+109.0,"Description: Elec, Storage Door Pair (WDL)",False,682,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+109.0,"Description: Elec, Storage Door Pair (WDL)",False,682,1,Coordinator,2600 Series (size to opening),RO,US28,,0.96
+109.0,"Description: Elec, Storage Door Pair (WDL)",False,682,2,Mounting Bracket,2601D,RO,Gray,,0.96
+109.0,"Description: Elec, Storage Door Pair (WDL)",False,682,2,Surface Closer,351 CPS,SA,EN,,0.96
+109.0,"Description: Elec, Storage Door Pair (WDL)",False,682,1,Astragal,355CS,PE,,,0.98
+109.0,"Description: Elec, Storage Door Pair (WDL)",False,682,1,Gasketing,S88BL,PE,,,0.98
+110.0,Description: Staging Door Pair (WDL),False,682,6,"Hinge, Full Mortise, Hvy Wt",T4A3786 NRP,MK,US15,,0.96
+110.0,Description: Staging Door Pair (WDL),False,682,1,Flush Bolt,2842 @ HM / 2942 @ WD,RO,US32D,,0.96
+110.0,Description: Staging Door Pair (WDL),False,682,1,Dust Proof Strike,570,RO,US26D,,0.96
+110.0,Description: Staging Door Pair (WDL),False,682,1,Access Control Cyl Lock,41 70 IN100-10XG77-BIPS B LP,SA,US15,,0.96
+110.0,Description: Staging Door Pair (WDL),False,682,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+110.0,Description: Staging Door Pair (WDL),False,682,1,Coordinator,2600 Series (size to opening),RO,US28,,0.96
+110.0,Description: Staging Door Pair (WDL),False,682,2,Mounting Bracket,2601D,RO,Gray,,0.96
+110.0,Description: Staging Door Pair (WDL),False,682,2,Surface Closer,351 PH10,SA,EN,,0.96
+110.0,Description: Staging Door Pair (WDL),False,682,2,Armor Plate,"K1050 F =34"" high BEV CSK (F @ rated)",RO,US32D,,0.96
+110.0,Description: Staging Door Pair (WDL),False,682,1,Astragal,357SP x S88,PE,,,0.98
+110.0,Description: Staging Door Pair (WDL),False,682,1,Gasketing,S88BL,PE,,,0.98
+110.0,Description: Staging Door Pair (WDL),False,682,1,Protector Bar,R111LPB,RO,10BE,,0.96
+111.0,Description: Stage Storage Door Pair (WDL),False,683,6,"Hinge, Concealed",MK80A,MK,Satin Chrome,,0.96
+111.0,Description: Stage Storage Door Pair (WDL),False,683,1,Flush Bolt,2842 @ HM / 2942 @ WD,RO,US32D,,0.96
+111.0,Description: Stage Storage Door Pair (WDL),False,683,1,Dust Proof Strike,570,RO,US26D,,0.96
+111.0,Description: Stage Storage Door Pair (WDL),False,683,1,Access Control Cyl Lock,41 70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+111.0,Description: Stage Storage Door Pair (WDL),False,683,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+111.0,Description: Stage Storage Door Pair (WDL),False,683,1,Coordinator,2600 Series (size to opening),RO,US28,,0.96
+111.0,Description: Stage Storage Door Pair (WDL),False,683,2,Mounting Bracket,2601D,RO,Gray,,0.96
+111.0,Description: Stage Storage Door Pair (WDL),False,683,2,Surface Closer,351 H / PH9 @ rev-bevel,SA,EN,,0.96
+111.0,Description: Stage Storage Door Pair (WDL),False,683,2,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+111.0,Description: Stage Storage Door Pair (WDL),False,683,1,Astragal,357SP x S88,PE,,,0.98
+111.0,Description: Stage Storage Door Pair (WDL),False,683,1,Gasketing,S88BL,PE,,,0.98
+112.0,Description: Linen Room Door Pair (WDL),False,683,6,"Hinge, Full Mortise",TA2714 NRP,MK,US15,,0.96
+112.0,Description: Linen Room Door Pair (WDL),False,683,1,Flush Bolt w/Fire Bolt,2849 @ HM / 2949 @ WD,RO,US32D,,0.96
+112.0,Description: Linen Room Door Pair (WDL),False,683,1,Access Control Cyl Lock,41 70 IN100-10XG77-BIPS B LMW,SA,US15,,0.96
+112.0,Description: Linen Room Door Pair (WDL),False,683,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+112.0,Description: Linen Room Door Pair (WDL),False,683,1,Coordinator,2600 Series (size to opening),RO,US28,,0.96
+112.0,Description: Linen Room Door Pair (WDL),False,683,1,Mounting Bracket,2601D,RO,Gray,,0.96
+112.0,Description: Linen Room Door Pair (WDL),False,683,2,Surface Closer,351 CPS,SA,EN,,0.96
+112.0,Description: Linen Room Door Pair (WDL),False,683,2,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+112.0,Description: Linen Room Door Pair (WDL),False,683,1,Astragal,355CS,PE,,,0.98
+112.0,Description: Linen Room Door Pair (WDL),False,683,1,Gasketing,S88BL,PE,,,0.98
+113.0,Description: BOH Corridor Door Pair (WDL PH),False,683,6,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+113.0,Description: BOH Corridor Door Pair (WDL PH),False,683,1,"Concealed Vert Rod Exit, Exit Only",NB 5CH MDPE8610 EO,SA,US32D,,0.96
+113.0,Description: BOH Corridor Door Pair (WDL PH),False,683,1,Access Control Concealed Vert Rod Exit,NB IN100-MDPE8678-BIPS B NEP (EAC option),SA,US32D,,0.96
+113.0,Description: BOH Corridor Door Pair (WDL PH),False,683,2,Conc Overhead Stop,2-336,RF,652,,0.96
+113.0,Description: BOH Corridor Door Pair (WDL PH),False,684,2,Surface Closer,DA 351 P10,SA,EN,,0.96
+113.0,Description: BOH Corridor Door Pair (WDL PH),False,684,2,Armor Plate,"K1050 F =34"" high BEV CSK (F @ rated)",RO,US32D,,0.96
+113.0,Description: BOH Corridor Door Pair (WDL PH),False,684,2,Protector Bar,R116EDPL,RO,US32D,,0.96
+114.0,Description: BOH Housekeeping Room Door Pair (WDL),False,684,6,"Hinge, Full Mortise, Hvy Wt",T4A3786,MK,US15,,0.96
+114.0,Description: BOH Housekeeping Room Door Pair (WDL),False,684,1,Flush Bolt,2842 @ HM / 2942 @ WD,RO,US32D,,0.96
+114.0,Description: BOH Housekeeping Room Door Pair (WDL),False,684,1,Dust Proof Strike,570,RO,US26D,,0.96
+114.0,Description: BOH Housekeeping Room Door Pair (WDL),False,684,1,Access Control Cyl Lock,41 70 IN100-10XG77-BIPS B LP,SA,US15,,0.96
+114.0,Description: BOH Housekeeping Room Door Pair (WDL),False,684,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+114.0,Description: BOH Housekeeping Room Door Pair (WDL),False,684,1,Coordinator,2600 Series (size to opening),RO,US28,,0.96
+114.0,Description: BOH Housekeeping Room Door Pair (WDL),False,684,2,Surface Closer,DA 351 O,SA,EN,,0.96
+114.0,Description: BOH Housekeeping Room Door Pair (WDL),False,684,2,Armor Plate,"K1050 F =34"" high BEV CSK (F @ rated)",RO,US32D,,0.96
+114.0,Description: BOH Housekeeping Room Door Pair (WDL),False,684,2,Door Stop,406,RO,US32D,,0.96
+114.0,Description: BOH Housekeeping Room Door Pair (WDL),False,684,1,Astragal,357SP x S88,PE,,,0.98
+114.0,Description: BOH Housekeeping Room Door Pair (WDL),False,684,1,Gasketing,S88BL,PE,,,0.98
+115.0,Description: BOH Fire Pump Room Door Pair (WDL),False,684,6,"Hinge, Full Mortise",TA2714 NRP,MK,US15,,0.96
+115.0,Description: BOH Fire Pump Room Door Pair (WDL),False,684,1,Flush Bolt,2842 @ HM / 2942 @ WD,RO,US32D,,0.96
+115.0,Description: BOH Fire Pump Room Door Pair (WDL),False,684,1,Dust Proof Strike,570,RO,US26D,,0.96
+115.0,Description: BOH Fire Pump Room Door Pair (WDL),False,684,1,Access Control Cyl Lock,41 70 IN100-10XG77-BIPS B LP,SA,US15,,0.96
+115.0,Description: BOH Fire Pump Room Door Pair (WDL),False,684,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+115.0,Description: BOH Fire Pump Room Door Pair (WDL),False,684,1,Coordinator,2600 Series (size to opening),RO,US28,,0.96
+115.0,Description: BOH Fire Pump Room Door Pair (WDL),False,684,2,Mounting Bracket,2601D,RO,Gray,,0.96
+115.0,Description: BOH Fire Pump Room Door Pair (WDL),False,684,2,Surface Closer,351 CPS,SA,EN,,0.96
+115.0,Description: BOH Fire Pump Room Door Pair (WDL),False,684,1,Astragal,357SP x S88,PE,,,0.98
+115.0,Description: BOH Fire Pump Room Door Pair (WDL),False,684,1,Gasketing,S88BL,PE,,,0.98
+115.0,Description: BOH Fire Pump Room Door Pair (WDL),False,684,2,Sweep,18062CNB,PE,,,0.98
+115.0,Description: BOH Fire Pump Room Door Pair (WDL),False,684,1,Threshold,270A MSES25 or Per Detail,PE,,,0.98
+116.0,Description: BOH Storage Door Pair (WDL),False,685,6,"Hinge, Full Mortise",TA2714 NRP,MK,US15,,0.96
+116.0,Description: BOH Storage Door Pair (WDL),False,685,1,Flush Bolt,2842 @ HM / 2942 @ WD,RO,US32D,,0.96
+116.0,Description: BOH Storage Door Pair (WDL),False,685,1,Dust Proof Strike,570,RO,US26D,,0.96
+116.0,Description: BOH Storage Door Pair (WDL),False,685,1,Access Control Cyl Lock,41 70 IN100-10XG77-BIPS B LP,SA,US15,,0.96
+116.0,Description: BOH Storage Door Pair (WDL),False,685,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+116.0,Description: BOH Storage Door Pair (WDL),False,685,1,Coordinator,2600 Series (size to opening),RO,US28,,0.96
+116.0,Description: BOH Storage Door Pair (WDL),False,685,2,Mounting Bracket,2601D,RO,Gray,,0.96
+116.0,Description: BOH Storage Door Pair (WDL),False,685,2,Surface Closer,351 UO,SA,EN,,0.96
+116.0,Description: BOH Storage Door Pair (WDL),False,685,2,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+116.0,Description: BOH Storage Door Pair (WDL),False,685,1,Astragal,357SP x S88,PE,,,0.98
+116.0,Description: BOH Storage Door Pair (WDL),False,685,1,Gasketing,S88BL,PE,,,0.98
+117.0,Description: Exercise Storage Closet Door Pair,False,685,6,"Hinge, Full Mortise",TA2314,MK,US32D,,0.96
+117.0,Description: Exercise Storage Closet Door Pair,False,685,1,Flush Bolt,555,RO,US26D,,0.96
+117.0,Description: Exercise Storage Closet Door Pair,False,685,1,Dust Proof Strike,570,RO,US26D,,0.96
+117.0,Description: Exercise Storage Closet Door Pair,False,685,1,Half Dummy Trim,10XU93 LMW,SA,US15,,0.96
+117.0,Description: Exercise Storage Closet Door Pair,False,685,1,Passage Latch,10XU15 LMW,SA,US15,,0.96
+117.0,Description: Exercise Storage Closet Door Pair,False,685,2,Conc Overhead Stop,2-336,RF,652,,0.96
+117.0,Description: Exercise Storage Closet Door Pair,False,685,2,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+118.0,Description: BOH Trash Door Pair (WDL),False,685,2,Continuous Hinge,CFMxxHD1,PE,,,0.98
+118.0,Description: BOH Trash Door Pair (WDL),False,685,1,Flush Bolt,2842 @ HM / 2942 @ WD,RO,US32D,,0.96
+118.0,Description: BOH Trash Door Pair (WDL),False,685,1,Dust Proof Strike,570,RO,US26D,,0.96
+118.0,Description: BOH Trash Door Pair (WDL),False,685,1,Access Control Cyl Lock,41 70 IN100-10XG77-BIPS B LP,SA,US15,,0.96
+118.0,Description: BOH Trash Door Pair (WDL),False,685,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+118.0,Description: BOH Trash Door Pair (WDL),False,685,1,Coordinator,2600 Series (size to opening),RO,US28,,0.96
+118.0,Description: BOH Trash Door Pair (WDL),False,685,2,Mounting Bracket,2601D,RO,Gray,,0.96
+118.0,Description: BOH Trash Door Pair (WDL),False,685,2,Surface Closer,351 CPS,SA,EN,,0.96
+118.0,Description: BOH Trash Door Pair (WDL),False,685,2,Armor Plate,"K1050 F =34"" high BEV CSK (F @ rated)",RO,US32D,,0.96
+118.0,Description: BOH Trash Door Pair (WDL),False,686,1,Astragal,357SP x S88,PE,,,0.98
+118.0,Description: BOH Trash Door Pair (WDL),False,686,1,Gasketing,S88BL,PE,,,0.98
+118.0,Description: BOH Trash Door Pair (WDL),False,686,2,Sweep,18062CNB,PE,,,0.98
+118.0,Description: BOH Trash Door Pair (WDL),False,686,1,HD Threshold,2716A Pemkote MSES25SS,PE,,,0.98
+118.0,Description: BOH Trash Door Pair (WDL),False,686,1,Protector Bar,R111LPB,RO,10BE,,0.96
+119.0,Description: BOH Pool Mech Door Pair (WDL),False,686,6,"Hinge, Full Mortise",TA2714 NRP,MK,US15,,0.96
+119.0,Description: BOH Pool Mech Door Pair (WDL),False,686,1,Flush Bolt w/Fire Bolt,2849 @ HM / 2949 @ WD,RO,US32D,,0.96
+119.0,Description: BOH Pool Mech Door Pair (WDL),False,686,1,Access Control Cyl Lock,41 70 IN100-10XG77-BIPS B LP,SA,US15,,0.96
+119.0,Description: BOH Pool Mech Door Pair (WDL),False,686,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+119.0,Description: BOH Pool Mech Door Pair (WDL),False,686,1,Coordinator,2600 Series (size to opening),RO,US28,,0.96
+119.0,Description: BOH Pool Mech Door Pair (WDL),False,686,2,Mounting Bracket,2601D,RO,Gray,,0.96
+119.0,Description: BOH Pool Mech Door Pair (WDL),False,686,2,Surface Closer,351 CPS,SA,EN,,0.96
+119.0,Description: BOH Pool Mech Door Pair (WDL),False,686,2,Kick Plate,"K1050=10"" high CSK BEV",RO,US32D,,0.96
+119.0,Description: BOH Pool Mech Door Pair (WDL),False,686,1,Astragal,357SP x S88,PE,,,0.98
+119.0,Description: BOH Pool Mech Door Pair (WDL),False,686,1,Gasketing,S44BL,PE,,,0.98
+119.0,Description: BOH Pool Mech Door Pair (WDL),False,686,1,Sound Gasketing,312CR,PE,,,0.98
+119.0,Description: BOH Pool Mech Door Pair (WDL),False,686,2,Door Bottom,420APKL @ HM / 434APKL@ WD,PE,,,0.98
+119.0,Description: BOH Pool Mech Door Pair (WDL),False,686,1,Threshold,175A MSES25,PE,,,0.98
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,686,8,"Hinge, Full Mortise, Hvy Wt",T4A3386 NRP,MK,BSP,,0.96
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,686,1,Flush Bolt,2842,RO,BSP,,0.96
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,686,1,Dust Proof Strike,570,RO,BSP,,0.96
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,686,1,Fail Secure Elec Lock,"RX 7/8"" Lip Length 70 8271-24V LNMW",SA,BSP,,0.96
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,686,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,686,1,Coordinator,2600 Series (size to opening),RO,US28,,0.96
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,686,2,Mounting Bracket,2601D,RO,Gray,,0.96
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,686,2,Surface Closer,351 CPSH,SA,EN,,0.96
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,686,2,Armor Plate,"K1050 F =34"" high BEV CSK (F @ rated)",RO,US32D,,0.96
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,686,1,Astragal,357SP x S88,PE,,,0.98
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,686,2,Sweep,18062BSPNB,PE,,,0.98
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,687,1,Threshold,2716BSP FHSL14,PE,,,0.98
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,687,1,Electric Power Transfer,EL-CEPT,SU,BSP,,0.96
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,687,1,ElectroLynx Door Harness,QC-C300,MK,,,0.98
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,687,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,687,2,Position Switch,DPS-M-BK,SU,,,0.98
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,687,1,Intercom,Furnished by Security Contractor,OT,,,0.98
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,687,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+120.0,Description: Exterior Receiving Door Pair (CR EL IC),False,687,1,Power Supply,Furnished by Security Contractor,SU,,,0.98
+121.0,Description: Exterior Emg Gen Enclosure Door Pair (PH),False,687,6,"Hinge, Full Mortise, Hvy Wt",T4A3386 NRP,MK,BSP,,0.96
+121.0,Description: Exterior Emg Gen Enclosure Door Pair (PH),False,687,1,"Concealed Vert Rod Exit, Exit Only",MDPE8610 EO,SA,BSP,,0.96
+121.0,Description: Exterior Emg Gen Enclosure Door Pair (PH),False,687,1,Concealed Vert Rod Exit,11727P MDPE8606 NEMW,SA,BSP,,0.96
+121.0,Description: Exterior Emg Gen Enclosure Door Pair (PH),False,687,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+121.0,Description: Exterior Emg Gen Enclosure Door Pair (PH),False,687,2,Surface Closer,351 CPS,SA,BSP,,0.96
+121.0,Description: Exterior Emg Gen Enclosure Door Pair (PH),False,687,2,Astragal,29310BSPS,PE,,,0.98
+121.0,Description: Exterior Emg Gen Enclosure Door Pair (PH),False,687,2,Sweep,18062BSPNB,PE,,,0.98
+121.0,Description: Exterior Emg Gen Enclosure Door Pair (PH),False,687,1,Threshold (verify per detail),176BSP / 2727BSP MSES25,PE,,,0.98
+122.0,Description: Exterior Stair F Roof (CR EL FAR KS),False,687,3,"Hinge, Full Mortise",TA2314,MK,US32D,,0.96
+122.0,Description: Exterior Stair F Roof (CR EL FAR KS),False,687,1,Fail Safe Elec Lock,RX 70 10XG70 LMW,SA,US15,,0.96
+122.0,Description: Exterior Stair F Roof (CR EL FAR KS),False,687,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+122.0,Description: Exterior Stair F Roof (CR EL FAR KS),False,687,1,Surface Closer,351 UO,SA,EN,,0.96
+122.0,Description: Exterior Stair F Roof (CR EL FAR KS),False,687,1,Wall Stop,430-RKW,RO,US15,,0.96
+122.0,Description: Exterior Stair F Roof (CR EL FAR KS),False,687,1,Gasketing,332CS,PE,,,0.98
+122.0,Description: Exterior Stair F Roof (CR EL FAR KS),False,687,1,Door Bottom,222APK,PE,,,0.98
+122.0,Description: Exterior Stair F Roof (CR EL FAR KS),False,687,1,Threshold,176A MSES25SS-2,PE,,,0.98
+122.0,Description: Exterior Stair F Roof (CR EL FAR KS),False,688,1,Electric Power Transfer,EL-CEPT,SU,630,,0.96
+122.0,Description: Exterior Stair F Roof (CR EL FAR KS),False,688,1,ElectroLynx Door Harness,QC-C300,MK,,,0.98
+122.0,Description: Exterior Stair F Roof (CR EL FAR KS),False,688,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+122.0,Description: Exterior Stair F Roof (CR EL FAR KS),False,688,1,Position Switch,DPS-W-GY,SU,,,0.98
+122.0,Description: Exterior Stair F Roof (CR EL FAR KS),False,688,1,Alarm Release w/ Key Switch Reset,DE-1RED Key reset ( no delay),AK,,,0.98
+122.0,Description: Exterior Stair F Roof (CR EL FAR KS),False,688,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+122.0,Description: Exterior Stair F Roof (CR EL FAR KS),False,688,1,Power Supply w/Fire Trigger,Furnished by Security Contractor,SU,,,0.98
+123.0,Description: Exterior Stair T Roof (ALK EL FAR KS),False,688,3,"Hinge, Full Mortise",TA2314,MK,US32D,,0.96
+123.0,Description: Exterior Stair T Roof (ALK EL FAR KS),False,688,1,Fail Safe Elec Lock,RX 72 8270-24V LNP,SA,US26D,,0.96
+123.0,Description: Exterior Stair T Roof (ALK EL FAR KS),False,688,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+123.0,Description: Exterior Stair T Roof (ALK EL FAR KS),False,688,1,Surface Closer,351 CPS,SA,EN,,0.96
+123.0,Description: Exterior Stair T Roof (ALK EL FAR KS),False,688,1,Gasketing,332CS,PE,,,0.98
+123.0,Description: Exterior Stair T Roof (ALK EL FAR KS),False,688,1,Door Bottom,2221APK,PE,,,0.98
+123.0,Description: Exterior Stair T Roof (ALK EL FAR KS),False,688,1,Threshold,176A MSES25SS-2,PE,,,0.98
+123.0,Description: Exterior Stair T Roof (ALK EL FAR KS),False,688,1,Electric Power Transfer,EL-CEPT,SU,630,,0.96
+123.0,Description: Exterior Stair T Roof (ALK EL FAR KS),False,688,1,ElectroLynx Door Harness,QC-C300,MK,,,0.98
+123.0,Description: Exterior Stair T Roof (ALK EL FAR KS),False,688,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+123.0,Description: Exterior Stair T Roof (ALK EL FAR KS),False,688,1,Alarm Release w/ Key Switch Reset,DE-1RED Key reset ( no delay),AK,,,0.98
+123.0,Description: Exterior Stair T Roof (ALK EL FAR KS),False,688,1,Power Supply w/Fire Trigger,Furnished by Security Contractor,SU,,,0.98
+124.0,Description: Electrical Service Exit (PH),False,689,3,"Hinge, Full Mortise",TA2314 NRP,MK,US32D,,0.96
+124.0,Description: Electrical Service Exit (PH),False,689,1,Rim Exit Device,5CH 72 PE8806 NEP,SA,US32D,,0.96
+124.0,Description: Electrical Service Exit (PH),False,689,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+124.0,Description: Electrical Service Exit (PH),False,689,1,Surface Closer,351 P9,SA,EN,,0.96
+124.0,Description: Electrical Service Exit (PH),False,689,1,Door Stop,467-RKW,RO,Black,,0.96
+124.0,Description: Electrical Service Exit (PH),False,689,1,Gasketing,S88BL,PE,,,0.98
+124.0,Description: Electrical Service Exit (PH),False,689,1,Sweep,18062CNB,PE,,,0.98
+124.0,Description: Electrical Service Exit (PH),False,689,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+125.0,Description: Electrical Service Exit (PH),False,689,3,"Hinge, Full Mortise",TA2314 NRP,MK,US32D,,0.96
+125.0,Description: Electrical Service Exit (PH),False,689,1,Rim Exit Device,12 5CH 72 PE8806 NEP,SA,US32D,,0.96
+125.0,Description: Electrical Service Exit (PH),False,689,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+125.0,Description: Electrical Service Exit (PH),False,689,1,Surface Closer,351 P9,SA,EN,,0.96
+125.0,Description: Electrical Service Exit (PH),False,689,1,Door Stop,467-RKW,RO,Black,,0.96
+125.0,Description: Electrical Service Exit (PH),False,689,1,Gasketing,S88BL,PE,,,0.98
+125.0,Description: Electrical Service Exit (PH),False,689,1,Sweep,18062CNB,PE,,,0.98
+125.0,Description: Electrical Service Exit (PH),False,689,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+126.0,Description: Sauna Glass Door,False,689,1,Door Top Rail,DRT-275BD-T DR-OtherAAPrep_FinSet1,GS,US32D,,0.96
+126.0,Description: Sauna Glass Door,False,689,1,Door Bottom Rail,DRT-275BD-B DR-OtherAAPrep_FinSet1,GS,US32D,,0.96
+126.0,Description: Sauna Glass Door,False,689,1,Bottom Pivot,PV-ENDLOAD,GS,AL,,0.96
+126.0,Description: Sauna Glass Door,False,689,2,Pull,RM5270-12 Mtg-Type 15HD,RO,US32D,,0.96
+126.0,Description: Sauna Glass Door,False,689,1,Concealed Closer,OHC-609-90 / 105NHO,GS,,,0.98
+127.0,Description: Exterior Exit Storefront Door (CR ES PH),False,690,1,Pivot Set,195,RF,622,,0.96
+127.0,Description: Exterior Exit Storefront Door (CR ES PH),False,690,2,Intermediate Pivot,M19,RF,622,,0.96
+127.0,Description: Exterior Exit Storefront Door (CR ES PH),False,690,1,Storefront Panic Device,PDU8500-3 02 CA Bldg Code,RO,BSP,,0.96
+127.0,Description: Exterior Exit Storefront Door (CR ES PH),False,690,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+127.0,Description: Exterior Exit Storefront Door (CR ES PH),False,690,1,Electric Strike,9100L-LMS,HS,BSP,,0.96
+127.0,Description: Exterior Exit Storefront Door (CR ES PH),False,690,1,SMART Pac Bridge Rectifier,2005M3,HS,,,0.98
+127.0,Description: Exterior Exit Storefront Door (CR ES PH),False,690,1,Concealed Closer,PH91NDCP 105 Stop Block,RF,BSP,,0.96
+127.0,Description: Exterior Exit Storefront Door (CR ES PH),False,690,1,Sweep,18062BSPNB,PE,,,0.98
+127.0,Description: Exterior Exit Storefront Door (CR ES PH),False,690,1,Threshold (verify per detail),2727BSP MSES25,PE,,,0.98
+127.0,Description: Exterior Exit Storefront Door (CR ES PH),False,690,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+127.0,Description: Exterior Exit Storefront Door (CR ES PH),False,690,1,Position Switch,DPS-M-BK,SU,,,0.98
+127.0,Description: Exterior Exit Storefront Door (CR ES PH),False,690,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+127.0,Description: Exterior Exit Storefront Door (CR ES PH),False,690,1,PIR Detector,Furnished by Security Contractor,AK,,,0.98
+128.0,Description: Exterior Entry Storefront Door (WDL),False,690,1,Pivot Set,195,RF,622,,0.96
+128.0,Description: Exterior Entry Storefront Door (WDL),False,690,2,Intermediate Pivot,M19,RF,622,,0.96
+128.0,Description: Exterior Entry Storefront Door (WDL),False,690,1,Access Control Mort Lock,IN100-82277-BIPS LNMW LC,SA,BSP,,0.96
+128.0,Description: Exterior Entry Storefront Door (WDL),False,690,1,Mortise Cylinder,72 43 verify cam,SA,BSP,,0.96
+128.0,Description: Exterior Entry Storefront Door (WDL),False,690,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+128.0,Description: Exterior Entry Storefront Door (WDL),False,690,1,Concealed Closer,PH91NDCP 105 Stop Block,RF,BSP,,0.96
+128.0,Description: Exterior Entry Storefront Door (WDL),False,690,1,Sweep,18062BSPNB,PE,,,0.98
+128.0,Description: Exterior Entry Storefront Door (WDL),False,690,1,Threshold (verify per detail),2727BSP MSES25,PE,,,0.98
+129.0,Description: Exterior Entry Storefront Door (ADO CR ES),False,690,1,Pivot Set,195,RF,622,,0.96
+129.0,Description: Exterior Entry Storefront Door (ADO CR ES),False,690,1,Intermediate Pivot,M19,RF,622,,0.96
+129.0,Description: Exterior Entry Storefront Door (ADO CR ES),False,691,1,Electrified Inter Pivot,EM19 QC-8,RF,622,,0.96
+129.0,Description: Exterior Entry Storefront Door (ADO CR ES),False,691,1,Exit Lock,RX 8213 LNMW,SA,BSP,,0.96
+129.0,Description: Exterior Entry Storefront Door (ADO CR ES),False,691,1,Electric Strike,1500C-LMS,HS,BSP,,0.96
+129.0,Description: Exterior Entry Storefront Door (ADO CR ES),False,691,1,Pull,RM4010-48 Mtg-Type 12XHD,RO,BSP,,0.96
+129.0,Description: Exterior Entry Storefront Door (ADO CR ES),False,691,1,Conc Overhead Stop,6-336,RF,BSP,,0.96
+129.0,Description: Exterior Entry Storefront Door (ADO CR ES),False,691,1,Automatic Opener,6231,NO,BSP,,0.96
+129.0,Description: Exterior Entry Storefront Door (ADO CR ES),False,691,2,ADO Ext Length Actuator,S-I42-3-PCBLACK,WK,BLK,,0.96
+129.0,Description: Exterior Entry Storefront Door (ADO CR ES),False,691,1,Sweep,18062BSPNB,PE,,,0.98
+129.0,Description: Exterior Entry Storefront Door (ADO CR ES),False,691,1,Threshold (verify per detail),2727BSP MSES25,PE,,,0.98
+129.0,Description: Exterior Entry Storefront Door (ADO CR ES),False,691,1,ElectroLynx Door Harness,QC-C1500,MK,,,0.98
+129.0,Description: Exterior Entry Storefront Door (ADO CR ES),False,691,2,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+129.0,Description: Exterior Entry Storefront Door (ADO CR ES),False,691,1,Position Switch,DPS-M-BK,SU,,,0.98
+129.0,Description: Exterior Entry Storefront Door (ADO CR ES),False,691,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+129.0,Description: Exterior Entry Storefront Door (ADO CR ES),False,691,1,Power Supply,Furnished by Security Contractor,SU,,,0.98
+130.0,Description: Exterior Entry Storefront Door (ADO),False,691,1,Pivot Set,195,RF,622,,0.96
+130.0,Description: Exterior Entry Storefront Door (ADO),False,691,1,Intermediate Pivot,M19,RF,622,,0.96
+130.0,Description: Exterior Entry Storefront Door (ADO),False,691,1,Mortise Cylinder,72 43 verify cam,SA,BSP,,0.96
+130.0,Description: Exterior Entry Storefront Door (ADO),False,691,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+130.0,Description: Exterior Entry Storefront Door (ADO),False,691,1,Pull,RM4010-48 Mtg-Type 12XHD,RO,BSP,,0.96
+130.0,Description: Exterior Entry Storefront Door (ADO),False,691,1,Push Bar,"RM4012 Mtg-Type 12HD 33""",RO,BSP,,0.96
+130.0,Description: Exterior Entry Storefront Door (ADO),False,691,1,Conc Overhead Stop,6-336,RF,BSP,,0.96
+130.0,Description: Exterior Entry Storefront Door (ADO),False,691,1,Automatic Opener,6231,NO,BSP,,0.96
+130.0,Description: Exterior Entry Storefront Door (ADO),False,691,2,ADO Ext Length Actuator,S-I42-3-PCBLACK,WK,BLK,,0.96
+130.0,Description: Exterior Entry Storefront Door (ADO),False,691,1,Sweep,18062BSPNB,PE,,,0.98
+130.0,Description: Exterior Entry Storefront Door (ADO),False,691,1,Threshold (verify per detail),2727BSP MSES25,PE,,,0.98
+130.0,Description: Exterior Entry Storefront Door (ADO),False,691,1,Key Switch (Operator On-Off),MCK-2 Custom finish,AK,,,0.98
+131.0,Description: Exterior Storefront Door (CR EPH),False,692,1,Continuous Hinge,BSPFM95HD1 PT Cut to net,PE,,,0.98
+131.0,Description: Exterior Storefront Door (CR EPH),False,692,1,"Rim Elec Exit Device, Key Trim",LD WR 5CH 55 56 72 PE8504 Less Pull,SA,BSP,,0.96
+131.0,Description: Exterior Storefront Door (CR EPH),False,692,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+131.0,Description: Exterior Storefront Door (CR EPH),False,692,1,Door Pull,RM3311-72 Mtg-Type 12XHD,RO,BSP,,0.96
+131.0,Description: Exterior Storefront Door (CR EPH),False,692,1,Concealed Closer,PH91NDCP 105 Stop Block,RF,BSP,,0.96
+131.0,Description: Exterior Storefront Door (CR EPH),False,692,1,Sweep,18062BSPNB,PE,,,0.98
+131.0,Description: Exterior Storefront Door (CR EPH),False,692,1,Threshold (verify per detail),176BSP / 2727BSP MSES25,PE,,,0.98
+131.0,Description: Exterior Storefront Door (CR EPH),False,692,1,ElectroLynx Door Harness,QC-C003,MK,,,0.98
+131.0,Description: Exterior Storefront Door (CR EPH),False,692,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+131.0,Description: Exterior Storefront Door (CR EPH),False,692,1,Position Switch,DPS-M-BK,SU,,,0.98
+131.0,Description: Exterior Storefront Door (CR EPH),False,692,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+131.0,Description: Exterior Storefront Door (CR EPH),False,692,1,Power Supply,Furnished by Security Contractor,SU,,,0.98
+132.0,Description: Exterior Fire Glazed Storefront Door (WL),False,692,4,"Hinge, Full Mortise, Hvy Wt",T4A3386 NRP,MK,BSP,,0.96
+132.0,Description: Exterior Fire Glazed Storefront Door (WL),False,692,1,Access Control Mort Lock,70 IN100-82278-BIPS LNMW,SA,BSP,,0.96
+132.0,Description: Exterior Fire Glazed Storefront Door (WL),False,692,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+132.0,Description: Exterior Fire Glazed Storefront Door (WL),False,692,1,Surface Track Closer,7540ST,NO,BSP,,0.96
+132.0,Description: Exterior Fire Glazed Storefront Door (WL),False,692,1,Door Stop,471,RO,BSP,,0.96
+132.0,Description: Exterior Fire Glazed Storefront Door (WL),False,692,1,Sweep,18062BSPNB,PE,,,0.98
+132.0,Description: Exterior Fire Glazed Storefront Door (WL),False,692,1,Threshold (verify per detail),176BSP / 2727BSP MSES25,PE,,,0.98
+133.0,Description: Lobby Storefront Door Pair,False,693,2,Pivot Set,195,RF,622,,0.96
+133.0,Description: Lobby Storefront Door Pair,False,693,2,Intermediate Pivot,M19,RF,622,,0.96
+133.0,Description: Lobby Storefront Door Pair,False,693,2,Push Bar & Pull,"TBF15847 33"" PUSH",RO,BSP,,0.96
+133.0,Description: Lobby Storefront Door Pair,False,693,2,Concealed Closer,PH91NDCP 105 Stop Block,RF,BSP,,0.96
+133.0,Description: Lobby Storefront Door Pair,False,693,2,Sweep,18062BSPNB,PE,,,0.98
+133.0,Description: Lobby Storefront Door Pair,False,693,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+133.1,Description: Lobby Storefront Door Pair (CR ES PH),False,693,2,Pivot Set,195,RF,622,,0.96
+133.1,Description: Lobby Storefront Door Pair (CR ES PH),False,693,4,Intermediate Pivot,M19,RF,622,,0.96
+133.1,Description: Lobby Storefront Door Pair (CR ES PH),False,693,1,Storefront Panic Device,PDU8500-3 CA Bldg Code,RO,BSP,,0.96
+133.1,Description: Lobby Storefront Door Pair (CR ES PH),False,693,1,Storefront Panic Device,PDU8500-3 02 CA Bldg Code,RO,BSP,,0.96
+133.1,Description: Lobby Storefront Door Pair (CR ES PH),False,693,1,Mortise Cylinder,72 43 verify cam,SA,BSP,,0.96
+133.1,Description: Lobby Storefront Door Pair (CR ES PH),False,693,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+133.1,Description: Lobby Storefront Door Pair (CR ES PH),False,693,1,Electric Strike,9200W-LMS,HS,BSP,,0.96
+133.1,Description: Lobby Storefront Door Pair (CR ES PH),False,693,1,SMART Pac Bridge Rectifier,2005M3,HS,,,0.98
+133.1,Description: Lobby Storefront Door Pair (CR ES PH),False,693,2,Concealed Closer,PH91NDCP 105 Stop Block,RF,BSP,,0.96
+133.1,Description: Lobby Storefront Door Pair (CR ES PH),False,693,2,Sweep,18062BSPNB,PE,,,0.98
+133.1,Description: Lobby Storefront Door Pair (CR ES PH),False,693,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+133.1,Description: Lobby Storefront Door Pair (CR ES PH),False,693,2,ElectroLynx Door Harness,QC-C1500,MK,,,0.98
+133.1,Description: Lobby Storefront Door Pair (CR ES PH),False,693,2,Position Switch,DPS-M-BK,SU,,,0.98
+133.1,Description: Lobby Storefront Door Pair (CR ES PH),False,693,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+133.1,Description: Lobby Storefront Door Pair (CR ES PH),False,693,1,PIR Detector,Furnished by Security Contractor,AK,,,0.98
+133.1,Description: Lobby Storefront Door Pair (CR ES PH),False,693,1,Power Supply,Furnished by Security Contractor,SU,,,0.98
+133.2,Description: Lobby Storefront Door Pair PH,False,694,2,Pivot Set,195,RF,622,,0.96
+133.2,Description: Lobby Storefront Door Pair PH,False,694,2,Intermediate Pivot,M19,RF,622,,0.96
+133.2,Description: Lobby Storefront Door Pair PH,False,694,2,"Concealed Vert Rod Exit, Passage",18 5CH ADPE8415 NEMW NB,SA,BSP,,0.96
+133.2,Description: Lobby Storefront Door Pair PH,False,694,2,Concealed Closer,PH91NDCP 105 Stop Block,RF,BSP,,0.96
+133.2,Description: Lobby Storefront Door Pair PH,False,694,2,Sweep,18062BSPNB,PE,,,0.98
+133.2,Description: Lobby Storefront Door Pair PH,False,694,1,Threshold,Per Detail / Type as Req,PE,,,0.98
+134.0,Description: Exterior Stair Storefront Door (CR EPH),False,694,1,Pivot Set,195,RF,622,,0.96
+134.0,Description: Exterior Stair Storefront Door (CR EPH),False,694,1,Electrified Inter Pivot,EM19 QC-8,RF,622,,0.96
+134.0,Description: Exterior Stair Storefront Door (CR EPH),False,694,1,"Rim Elec Exit Device, Key Trim",LD WR 5CH 55 56 72 PE8504 Less Pull,SA,BSP,,0.96
+134.0,Description: Exterior Stair Storefront Door (CR EPH),False,694,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+134.0,Description: Exterior Stair Storefront Door (CR EPH),False,694,1,Door Pull,RM3311-24 Mtg-Type 12HD,RO,BSP,,0.96
+134.0,Description: Exterior Stair Storefront Door (CR EPH),False,694,1,Concealed Closer,PH91NDCP 105 Stop Block,RF,BSP,,0.96
+134.0,Description: Exterior Stair Storefront Door (CR EPH),False,694,1,Sweep,18062BSPNB,PE,,,0.98
+134.0,Description: Exterior Stair Storefront Door (CR EPH),False,694,1,Threshold (verify per detail),176BSP / 2727BSP MSES25,PE,,,0.98
+134.0,Description: Exterior Stair Storefront Door (CR EPH),False,694,1,ElectroLynx Door Harness,QC-C003,MK,,,0.98
+134.0,Description: Exterior Stair Storefront Door (CR EPH),False,694,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+134.0,Description: Exterior Stair Storefront Door (CR EPH),False,694,1,Position Switch,DPS-M-BK,SU,,,0.98
+134.0,Description: Exterior Stair Storefront Door (CR EPH),False,694,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+134.0,Description: Exterior Stair Storefront Door (CR EPH),False,694,1,Power Supply,Furnished by Security Contractor,SU,,,0.98
+135.0,Description: Exterior Storefront Exit Door Pair (PH),False,694,2,Pivot Set,195,RF,622,,0.96
+135.0,Description: Exterior Storefront Exit Door Pair (PH),False,694,4,Intermediate Pivot,M19,RF,622,,0.96
+135.0,Description: Exterior Storefront Exit Door Pair (PH),False,694,1,Storefront Panic Device,PDU8500-3 CA Bldg Code,RO,BSP,,0.96
+135.0,Description: Exterior Storefront Exit Door Pair (PH),False,695,1,Storefront Panic Device,PDU8500-3 02 CA Bldg Code,RO,BSP,,0.96
+135.0,Description: Exterior Storefront Exit Door Pair (PH),False,695,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+135.0,Description: Exterior Storefront Exit Door Pair (PH),False,695,2,Surface Closer Unitrol Stop,UNIJ7500 top jamb,NO,BSP,,0.96
+135.0,Description: Exterior Storefront Exit Door Pair (PH),False,695,2,Sweep,18062BSPNB,PE,,,0.98
+135.0,Description: Exterior Storefront Exit Door Pair (PH),False,695,1,Threshold (verify per detail),2727BSP MSES25,PE,,,0.98
+136.0,Description: Exterior Storefront Waiting Door Pair (WDL PH),False,695,2,Pivot Set,195,RF,622,,0.96
+136.0,Description: Exterior Storefront Waiting Door Pair (WDL PH),False,695,1,Intermediate Pivot,M19,RF,622,,0.96
+136.0,Description: Exterior Storefront Waiting Door Pair (WDL PH),False,695,1,Electrified Inter Pivot,EM19 QC-8,RF,622,,0.96
+136.0,Description: Exterior Storefront Waiting Door Pair (WDL PH),False,695,1,Access Control Concealed Vert Rod Exit,IN100-MDPE8678-BIPS B NEMW (EAC option),SA,BSP,,0.96
+136.0,Description: Exterior Storefront Waiting Door Pair (WDL PH),False,695,1,"Concealed Vert Rod Exit, Exit Only",55 MDPE8610 EO,SA,BSP,,0.96
+136.0,Description: Exterior Storefront Waiting Door Pair (WDL PH),False,695,2,Concealed Closer,PH91NDCP 105 Stop Block,RF,BSP,,0.96
+136.0,Description: Exterior Storefront Waiting Door Pair (WDL PH),False,695,2,Sweep,18062BSPNB,PE,,,0.98
+136.0,Description: Exterior Storefront Waiting Door Pair (WDL PH),False,695,1,Threshold (verify per detail),2727BSP MSES25,PE,,,0.98
+136.0,Description: Exterior Storefront Waiting Door Pair (WDL PH),False,695,1,ElectroLynx Door Harness,QC-C300,MK,,,0.98
+136.0,Description: Exterior Storefront Waiting Door Pair (WDL PH),False,695,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+137.0,Description: Exterior Garden Storefront Door Pair (WDL),False,695,2,Pivot Set,195,RF,622,,0.96
+137.0,Description: Exterior Garden Storefront Door Pair (WDL),False,695,4,Intermediate Pivot,M19,RF,622,,0.96
+137.0,Description: Exterior Garden Storefront Door Pair (WDL),False,695,1,Flush Bolt,2842,RO,BSP,,0.96
+137.0,Description: Exterior Garden Storefront Door Pair (WDL),False,695,1,Dust Proof Strike,570,RO,BSP,,0.96
+137.0,Description: Exterior Garden Storefront Door Pair (WDL),False,695,1,Access Control Mort Lock,70 IN100-82278-BIPS LNMW,SA,BSP,,0.96
+137.0,Description: Exterior Garden Storefront Door Pair (WDL),False,695,1,Mortise Cylinder,72 43 verify cam,SA,BSP,,0.96
+137.0,Description: Exterior Garden Storefront Door Pair (WDL),False,695,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+137.0,Description: Exterior Garden Storefront Door Pair (WDL),False,695,1,Coordinator,2600 Series (size to opening),RO,Black,,0.96
+137.0,Description: Exterior Garden Storefront Door Pair (WDL),False,695,2,Concealed Closer,PH91NDCP 105 Stop Block,RF,BSP,,0.96
+137.0,Description: Exterior Garden Storefront Door Pair (WDL),False,695,1,Astragal,355CS,PE,,,0.98
+137.0,Description: Exterior Garden Storefront Door Pair (WDL),False,695,2,Sweep,18062BSPNB,PE,,,0.98
+137.0,Description: Exterior Garden Storefront Door Pair (WDL),False,695,1,Threshold (verify per detail),176BSP / 2727BSP MSES25,PE,,,0.98
+138.0,Description: Exterior Storefront Door Pair (ADO-PP ES PH),False,696,2,Pivot Set,195,RF,622,,0.96
+138.0,Description: Exterior Storefront Door Pair (ADO-PP ES PH),False,696,4,Intermediate Pivot,M19,RF,622,,0.96
+138.0,Description: Exterior Storefront Door Pair (ADO-PP ES PH),False,696,1,Storefront Panic Device,PDU8500-3 CA Bldg Code,RO,BSP,,0.96
+138.0,Description: Exterior Storefront Door Pair (ADO-PP ES PH),False,696,1,Storefront Panic Device,PDU8500-3 02 CA Bldg Code,RO,BSP,,0.96
+138.0,Description: Exterior Storefront Door Pair (ADO-PP ES PH),False,696,1,Mortise Cylinder,72 43 verify cam,SA,BSP,,0.96
+138.0,Description: Exterior Storefront Door Pair (ADO-PP ES PH),False,696,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+138.0,Description: Exterior Storefront Door Pair (ADO-PP ES PH),False,696,1,Electric Strike,9200W-LMS,HS,BSP,,0.96
+138.0,Description: Exterior Storefront Door Pair (ADO-PP ES PH),False,696,1,SMART Pac Bridge Rectifier,2005M3,HS,,,0.98
+138.0,Description: Exterior Storefront Door Pair (ADO-PP ES PH),False,696,1,Automatic Opener HD Stop Arm,D6061-36 120V (dual-push),NO,BSP,,0.96
+138.0,Description: Exterior Storefront Door Pair (ADO-PP ES PH),False,696,2,ADO Ext Length Actuator,S-I42-3-PCBLACK,WK,BLK,,0.96
+138.0,Description: Exterior Storefront Door Pair (ADO-PP ES PH),False,696,2,Sweep,18062BSPNB,PE,,,0.98
+138.0,Description: Exterior Storefront Door Pair (ADO-PP ES PH),False,696,1,Threshold (verify per detail),2727BSP MSES25,PE,,,0.98
+138.0,Description: Exterior Storefront Door Pair (ADO-PP ES PH),False,696,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+138.0,Description: Exterior Storefront Door Pair (ADO-PP ES PH),False,696,1,Key Switch (Operator On-Off),MCK-2 Custom finish,AK,,,0.98
+139.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,696,2,Pivot Set,195,RF,622,,0.96
+139.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,696,4,Intermediate Pivot,M19,RF,622,,0.96
+139.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,696,1,Storefront Panic Device,PDU8500-3 CA Bldg Code,RO,BSP,,0.96
+139.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,696,1,Storefront Panic Device,PDU8500-3 02 CA Bldg Code,RO,BSP,,0.96
+139.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,696,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+139.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,696,1,Electric Strike,9200W-LMS,HS,BSP,,0.96
+139.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,696,1,SMART Pac Bridge Rectifier,2005M3,HS,,,0.98
+139.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,696,1,Automatic Opener HD Stop Arm,D6061-36 120V (dual-push),NO,BSP,,0.96
+139.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,696,2,ADO Ext Length Actuator,S-I42-3-PCBLACK,WK,BLK,,0.96
+139.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,696,2,Sweep,18062BSPNB,PE,,,0.98
+139.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,696,1,Threshold (verify per detail),2727BSP MSES25,PE,,,0.98
+139.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,696,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+139.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,696,2,Position Switch,DPS-M-BK,SU,,,0.98
+139.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,696,1,Intercom,Furnished by Security Contractor,OT,,,0.98
+139.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,696,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+139.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,1,PIR Detector,Furnished by Security Contractor,AK,,,0.98
+139.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,1,Power Supply,Furnished by Security Contractor,SU,,,0.98
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,2,Pivot Set,195,RF,622,,0.96
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,4,Intermediate Pivot,M19,RF,622,,0.96
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,1,Storefront Panic Device,PDU8500-3 CA Bldg Code,RO,BSP,,0.96
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,1,Storefront Panic Device,PDU8500-3 02 CA Bldg Code,RO,BSP,,0.96
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,1,Electric Strike,9200W-LMS,HS,BSP,,0.96
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,1,SMART Pac Bridge Rectifier,2005M3,HS,,,0.98
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,1,Automatic Opener HD Stop Arm,D6061-36 120V (dual-push),NO,BSP,,0.96
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,1,Bollard (exterior),"BPS-IG-xx""-CRD RDR & IC PCBLACK (custom height)",WK,BLK,,0.96
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,1,Bollard (interior),"BPS-IG-36""-PCBLACK",WE,BLK,,0.96
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,2,ADO Ext Length Actuator,S-I42-3-PCBLACK,WK,BLK,,0.96
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,2,Sweep,18062BSPNB,PE,,,0.98
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,1,Threshold (verify per detail),2727BSP MSES25,PE,,,0.98
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,2,Position Switch,DPS-M-BK,SU,,,0.98
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,1,Intercom,Furnished by Security Contractor,OT,,,0.98
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,1,PIR Detector,Furnished by Security Contractor,AK,,,0.98
+140.0,Description: Exterior Storefront Door Pair (ADO-PP CR ES IC PH),False,697,1,Power Supply,Furnished by Security Contractor,SU,,,0.98
+141.0,Description: Exterior Storefront Patio Door,False,698,1,Specialty Door,Hardware is furnished complete by Vendor,00,,,0.98
+142.0,Description: Storefront Folding / Sliding System,False,698,1,Specialty Door,Hardware is furnished complete by Vendor,00,,,0.98
+142.1,Description: Automatic Sliding Entrance (AO CR IC PH),False,698,1,Mortise Cylinder,72 43 verify cam,SA,BSP,,0.96
+142.1,Description: Automatic Sliding Entrance (AO CR IC PH),False,698,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+142.1,Description: Automatic Sliding Entrance (AO CR IC PH),False,698,1,Intercom,Furnished by Security Contractor,OT,,,0.98
+142.1,Description: Automatic Sliding Entrance (AO CR IC PH),False,698,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+143.0,Description: Site Entry Gate (CR ES),False,698,2,Sure Close Gate Hinge,74108325T,DD,,,0.98
+143.0,Description: Site Entry Gate (CR ES),False,698,1,Storeroom/Closet Lock,72 8204 LNMW,SA,BSP,,0.96
+143.0,Description: Site Entry Gate (CR ES),False,698,1,Small Format Inter Core,7300B CKC GMK,SA,US4,,0.96
+143.0,Description: Site Entry Gate (CR ES),False,698,1,Electric Strike,1500C-LMS,HS,BSP,,0.96
+143.0,Description: Site Entry Gate (CR ES),False,698,1,Buzzer,2006M,HS,,,0.98
+143.0,Description: Site Entry Gate (CR ES),False,698,1,SMART Pac Bridge Rectifier,2005M3,HS,,,0.98
+143.0,Description: Site Entry Gate (CR ES),False,698,1,Gate Stop,7403,DD,BLK,,0.96
+143.0,Description: Site Entry Gate (CR ES),False,699,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+143.0,Description: Site Entry Gate (CR ES),False,699,1,Position Switch,DPS-M-BK,SU,,,0.98
+143.0,Description: Site Entry Gate (CR ES),False,699,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+143.0,Description: Site Entry Gate (CR ES),False,699,1,Power Supply,Furnished by Security Contractor,SU,,,0.98
+144.0,Description: Site Exit Gate (CR ES PH),False,699,2,Sure Close Gate Hinge,74108325T,DD,,,0.98
+144.0,Description: Site Exit Gate (CR ES PH),False,699,1,"Rim Exit Device, Weatherized",CPC WH 43 5CH 72 8806 ETP,SA,US32D,,0.96
+144.0,Description: Site Exit Gate (CR ES PH),False,699,1,Small Format Inter Core,7300B CKC GMK,SA,US15,,0.96
+144.0,Description: Site Exit Gate (CR ES PH),False,699,1,Electric Strike,9600-LBSM,HS,BSP,,0.96
+144.0,Description: Site Exit Gate (CR ES PH),False,699,1,Buzzer,2006M,HS,,,0.98
+144.0,Description: Site Exit Gate (CR ES PH),False,699,1,SMART Pac Bridge Rectifier,2005M3,HS,,,0.98
+144.0,Description: Site Exit Gate (CR ES PH),False,699,1,Gate Stop,7403,DD,BLK,,0.96
+144.0,Description: Site Exit Gate (CR ES PH),False,699,1,ElectroLynx Frame Harness,QC-C1500P,MK,,,0.98
+144.0,Description: Site Exit Gate (CR ES PH),False,699,1,Position Switch,DPS-M-BK,SU,,,0.98
+144.0,Description: Site Exit Gate (CR ES PH),False,699,1,Card Reader,Furnished by Security Contractor,HD,,,0.98
+144.0,Description: Site Exit Gate (CR ES PH),False,699,1,Power Supply,Furnished by Security Contractor,SU,,,0.98
+145.0,Description: WI Gate,False,699,,,,,,,
+146.0,Description: Motorized Vehicle Gate,False,699,,,,,,,
+147.0,Description: Access Panel,False,700,,,,,,,
+148.0,Description: Unit Laundry Door Pairs,False,700,,,,,,,
+149.0,"Description: OH, Garage Section Door",False,700,,,,,,,
+150.0,Description: Eliason Traffic Doors,False,700,,,,,,,
+151.0,Description: TBD,False,700,,* Hub (type & number as required),AH20W14 by Security Contractor,SA,,,0.88
+151.0,Description: TBD,False,700,10,Power Supply,AQL104-E1,SU,,,0.98
+151.0,Description: TBD,False,700,1,Key Cabinet,AWC450-S,TK,GRY,,0.96
+151.0,Description: TBD,False,700,1,Knox Box,3200R (quantity per drawings),KN,,,0.98
