@@ -1,0 +1,241 @@
+{
+  "file": "Lyons Township HS/Project Manual (1).pdf",
+  "pages": [
+    285,
+    286
+  ],
+  "split": "heldout",
+  "sets": [
+    {
+      "set_number": "01",
+      "description": null,
+      "not_used": false,
+      "first_page": 285,
+      "components": [
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "finish": "691"
+        }
+      ]
+    },
+    {
+      "set_number": "02",
+      "description": null,
+      "not_used": false,
+      "first_page": 285,
+      "components": [
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4041 DEL EDA",
+          "mfr": "LCN",
+          "finish": "691"
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVE",
+          "finish": "612"
+        }
+      ]
+    },
+    {
+      "set_number": "03",
+      "description": null,
+      "not_used": false,
+      "first_page": 285,
+      "components": [
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP EDA",
+          "mfr": "LCN",
+          "finish": "691"
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVE",
+          "finish": "612"
+        }
+      ]
+    },
+    {
+      "set_number": "04",
+      "description": null,
+      "not_used": false,
+      "first_page": 285,
+      "components": [
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP REG",
+          "mfr": "LCN",
+          "finish": "691"
+        }
+      ]
+    },
+    {
+      "set_number": "05",
+      "description": null,
+      "not_used": true,
+      "first_page": 285,
+      "components": []
+    },
+    {
+      "set_number": "06",
+      "description": null,
+      "not_used": false,
+      "first_page": 286,
+      "components": [
+        {
+          "qty": 1,
+          "description": "CLASSROOM SECURITY W/ INSIDE INDICATOR",
+          "catalog_number": "ND78BD TLR IS-CRS",
+          "mfr": "SCH",
+          "finish": "612"
+        },
+        {
+          "qty": 2,
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606"
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "finish": "691"
+        }
+      ]
+    },
+    {
+      "set_number": "07",
+      "description": null,
+      "not_used": false,
+      "first_page": 286,
+      "components": [
+        {
+          "qty": 1,
+          "description": "CONT. HINGE",
+          "catalog_number": "224XY",
+          "mfr": "IVE",
+          "finish": "711"
+        },
+        {
+          "qty": 1,
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "99-L-F-2SI-03",
+          "mfr": "VON",
+          "finish": "612"
+        },
+        {
+          "qty": 2,
+          "description": "SFIC RIM HOUSING",
+          "catalog_number": "80-129",
+          "mfr": "SCH",
+          "finish": "612"
+        },
+        {
+          "qty": 2,
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606"
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4041 DEL SCUSH",
+          "mfr": "LCN",
+          "finish": "691"
+        },
+        {
+          "qty": 1,
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "612"
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING SET",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK"
+        }
+      ]
+    },
+    {
+      "set_number": "08",
+      "description": null,
+      "not_used": false,
+      "first_page": 286,
+      "components": [
+        {
+          "qty": 2,
+          "description": "CONT. HINGE",
+          "catalog_number": "224XY",
+          "mfr": "IVE",
+          "finish": "711"
+        },
+        {
+          "qty": 1,
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "9947WDC-L-F-2SI-LBR-03-SNB",
+          "mfr": "VON",
+          "finish": "612"
+        },
+        {
+          "qty": 1,
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "9947WDC-L-F-2SI-LBRAFL-03-SNB",
+          "mfr": "VON",
+          "finish": "612"
+        },
+        {
+          "qty": 4,
+          "description": "SFIC RIM HOUSING",
+          "catalog_number": "80-129",
+          "mfr": "SCH",
+          "finish": "612"
+        },
+        {
+          "qty": 4,
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606"
+        },
+        {
+          "qty": 2,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "finish": "691"
+        },
+        {
+          "qty": 2,
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 1\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "612"
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING SET",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "file": "SJC Well Behavioral/89671ede-20260218_SJC_BeWell_Bldg_B_85__DESIGN_UPDATE_-_SPECIFICATIONS.pdf",
+  "pages": [
+    722,
+    723
+  ],
+  "sets": [
+    {
+      "set_number": "25",
+      "description": "Interior Single - Passage Latchset - Surface Closer - Butt Hinges",
+      "not_used": false,
+      "first_page": 722,
+      "components": [
+        {
+          "qty": null,
+          "description": "Hinge-HT",
+          "catalog_number": "CB51 HT",
+          "mfr": "PBB",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "Cyl. Lock-Passage",
+          "catalog_number": "CDC-75-S",
+          "mfr": "TOW",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "OH Surface Closer",
+          "catalog_number": "4040XP/4040XP EDA",
+          "mfr": "LCN",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "Door Stop",
+          "catalog_number": "Per Specification",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Gasketing",
+          "catalog_number": "5050",
+          "mfr": "NGP",
+          "finish": "BLK"
+        }
+      ]
+    },
+    {
+      "set_number": "25A",
+      "description": "Interior Single - Passage Latchset - No Closer - Butt Hinges",
+      "not_used": false,
+      "first_page": 722,
+      "components": [
+        {
+          "qty": null,
+          "description": "Hinge-HT",
+          "catalog_number": "CB51 HT",
+          "mfr": "PBB",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "Cyl. Lock-Passage",
+          "catalog_number": "CDC-75-S",
+          "mfr": "TOW",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "Door Stop",
+          "catalog_number": "Per Specification",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Gasketing",
+          "catalog_number": "5050",
+          "mfr": "NGP",
+          "finish": "BLK"
+        }
+      ]
+    },
+    {
+      "set_number": "26",
+      "description": "Interior Single - Institutional Lockset/Ligature Resistant - No Closer - Continuous Hinge",
+      "not_used": false,
+      "first_page": 722,
+      "components": [
+        {
+          "qty": 1,
+          "description": "Continuous Hinge",
+          "catalog_number": "AC500 HT SEC",
+          "mfr": "ABH",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "Ligature Res. Mortise Lock-Institution",
+          "catalog_number": "MRX-A-30",
+          "mfr": "TOW",
+          "finish": "630"
+        },
+        {
+          "qty": 2,
+          "description": "Cylinder",
+          "catalog_number": "Per project",
+          "mfr": "TBD",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "Door Stop",
+          "catalog_number": "1841",
+          "mfr": "ABH",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "Gasketing",
+          "catalog_number": "ANTI-LIG 5050",
+          "mfr": "NGP",
+          "finish": "BLK"
+        }
+      ]
+    },
+    {
+      "set_number": "26A",
+      "description": "Interior Single - Institutional Lockset/Ligature Resistant - No Closer - Continuous Hinge",
+      "not_used": false,
+      "first_page": 722,
+      "components": [
+        {
+          "qty": 1,
+          "description": "Continuous Hinge",
+          "catalog_number": "AC500 HT SEC",
+          "mfr": "ABH",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "Ligature Res. Cyl. Lock-Institution",
+          "catalog_number": "CRX-A-87",
+          "mfr": "TOW",
+          "finish": "630"
+        },
+        {
+          "qty": 2,
+          "description": "Cylinder",
+          "catalog_number": "Per project",
+          "mfr": "TBD",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "Door Stop",
+          "catalog_number": "1841",
+          "mfr": "ABH",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "Gasketing",
+          "catalog_number": "ANTI-LIG 5050",
+          "mfr": "NGP",
+          "finish": "BLK"
+        }
+      ]
+    },
+    {
+      "set_number": "27",
+      "description": "Interior Single - Card Reader - Electrified Fail-Secure Lock/Ligature Resistant - No Closer",
+      "not_used": false,
+      "first_page": 723,
+      "components": [
+        {
+          "qty": 1,
+          "description": "Continuous Hinge",
+          "catalog_number": "AC500 HT SEC TW8",
+          "mfr": "ABH",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "Ligature Res. Mortise Lock-Fail Secure",
+          "catalog_number": "X-MRX-A-242C RQE",
+          "mfr": "TOW",
+          "finish": "630",
+          "note": "'RQE' is printed with strikethrough (deleted) in the PDF"
+        },
+        {
+          "qty": 2,
+          "description": "Cylinder",
+          "catalog_number": "Per project",
+          "mfr": "TBD",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "Door Stop",
+          "catalog_number": "1841",
+          "mfr": "ABH",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "Gasketing",
+          "catalog_number": "ANTI-LIG 5050",
+          "mfr": "NGP",
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "Card Reader",
+          "catalog_number": "By Division 28",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Door Position Switch",
+          "catalog_number": "By Division 28",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Lock Power Supply",
+          "catalog_number": "By Division 28",
+          "mfr": null,
+          "finish": null
+        }
+      ]
+    },
+    {
+      "set_number": "28",
+      "description": "Interior Single - Card Reader - Elec Fail-Secure Lock/Ligature Resistant - Self Closing Hinge",
+      "not_used": false,
+      "first_page": 723,
+      "components": [
+        {
+          "qty": 1,
+          "description": "Self Closing Continuous Hinge",
+          "catalog_number": "A507SC HT TW8 SEC",
+          "mfr": "ABH",
+          "finish": "628"
+        },
+        {
+          "qty": 1,
+          "description": "Ligature Res. Mortise Lock-Fail Secure",
+          "catalog_number": "X-MRX-A-242C RQE",
+          "mfr": "TOW",
+          "finish": "630",
+          "note": "'RQE' is printed with strikethrough (deleted) in the PDF"
+        },
+        {
+          "qty": 2,
+          "description": "Cylinder",
+          "catalog_number": "Per project",
+          "mfr": "TBD",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "Door Stop",
+          "catalog_number": "1841",
+          "mfr": "ABH",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "Gasketing",
+          "catalog_number": "ANTI-LIG 5050",
+          "mfr": "NGP",
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "Power Supply",
+          "catalog_number": "631RFUR-1 (One Per Two Drs.)",
+          "mfr": "SDC",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Door Position Switch",
+          "catalog_number": "MC-4 (Or as Req)",
+          "mfr": "SDC",
+          "finish": null,
+          "struck_through": true,
+          "note": "entire row printed with strikethrough (deleted)"
+        },
+        {
+          "qty": 1,
+          "description": "Card Reader",
+          "catalog_number": "By Division 28",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Door Position Switch",
+          "catalog_number": "By Division 28",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Lock Power Supply",
+          "catalog_number": "By Division 28",
+          "mfr": null,
+          "finish": null
+        }
+      ]
+    }
+  ]
+}

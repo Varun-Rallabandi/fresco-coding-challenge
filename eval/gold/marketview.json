@@ -1,0 +1,277 @@
+{
+  "file": "Market View Apartments/S_251107 Market View Prelim Project Manual_pdf.pdf",
+  "pages": [
+    770,
+    771
+  ],
+  "sets": [
+    {
+      "set_number": "01",
+      "description": "A/G EXT PR CR NL-OP-PANIC (DOUBLE EXTERIOR DOORS, EGRESS & CARD READER, ZENTRA PLATFORM)",
+      "not_used": false,
+      "first_page": 770,
+      "components": [
+        {
+          "qty": 2,
+          "description": "CONT. HINGE",
+          "catalog_number": "112XY EPT",
+          "mfr": "IVE",
+          "finish": "628"
+        },
+        {
+          "qty": 2,
+          "description": "POWER TRANSFER",
+          "catalog_number": "EPT10 CON",
+          "mfr": "VON",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "ELEC PANIC HARDWARE",
+          "catalog_number": "RX-MEL-AX-25-C-C-718-CON 24 VDC",
+          "mfr": "FAL",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "ELEC PANIC HARDWARE",
+          "catalog_number": "RX-MEL-AX-25-C-EO-CON 24 VDC",
+          "mfr": "FAL",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "INTERFACE BOX",
+          "catalog_number": "*JB7",
+          "mfr": "VON",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "MORTISE CYLINDER",
+          "catalog_number": "986 009897-024",
+          "mfr": "FAL",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "CYLINDER CAM",
+          "catalog_number": "B520-295",
+          "mfr": "SCH",
+          "finish": null
+        },
+        {
+          "qty": 2,
+          "description": "90 DEG OFFSET PULL",
+          "catalog_number": "8190EZHD 12\" STD",
+          "mfr": "IVE",
+          "finish": "630-316"
+        },
+        {
+          "qty": 2,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "SC71A SS PROVIDE MTG BRKT, SPCR & PLATE AS REQ'D",
+          "mfr": "FAL",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "SEALS",
+          "catalog_number": "BY DOOR MANUFACTURER",
+          "mfr": "B/O",
+          "finish": null
+        },
+        {
+          "qty": 2,
+          "description": "DOOR SWEEP",
+          "catalog_number": "39A",
+          "mfr": "ZER",
+          "finish": "A"
+        },
+        {
+          "qty": 1,
+          "description": "THRESHOLD",
+          "catalog_number": "545A OR AS DETAILED",
+          "mfr": "ZER",
+          "finish": "A"
+        },
+        {
+          "qty": 1,
+          "description": "PIGTAIL CABLE",
+          "catalog_number": "*RC PIGTAIL 25 FT",
+          "mfr": "SCE",
+          "finish": null
+        },
+        {
+          "qty": 2,
+          "description": "WIRE HARNESS",
+          "catalog_number": "CON-XX/CON-XXP LENGTH TO SUIT DOOR CHANNEL",
+          "mfr": "SCH",
+          "finish": null
+        },
+        {
+          "qty": 2,
+          "description": "WIRE HARNESS",
+          "catalog_number": "CON-6W",
+          "mfr": "SCH",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "MULTITECH READER",
+          "catalog_number": "*RC15 12 VDC",
+          "mfr": "SCE",
+          "finish": "BLK"
+        },
+        {
+          "qty": 2,
+          "description": "DOOR CONTACT",
+          "catalog_number": "679-05HM/WD",
+          "mfr": "SCE",
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "POWER SUPPLY",
+          "catalog_number": "PS902 900-2RS 120/240 VAC",
+          "mfr": "VON",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "ADVANCED SECURITY MODULE",
+          "catalog_number": "*ACC-EDK-3A",
+          "mfr": "ISO",
+          "finish": null
+        }
+      ]
+    },
+    {
+      "set_number": "02",
+      "description": "A/G EXT PR CR NL-OP-PANIC (DOUBLE EXTERIOR DOORS, EGRESS & CARD READER, ZENTRA PLATFORM)",
+      "not_used": false,
+      "first_page": 771,
+      "components": [
+        {
+          "qty": 1,
+          "description": "CONT. HINGE",
+          "catalog_number": "112XY",
+          "mfr": "IVE",
+          "finish": "628"
+        },
+        {
+          "qty": 1,
+          "description": "CONT. HINGE",
+          "catalog_number": "112XY EPT",
+          "mfr": "IVE",
+          "finish": "628"
+        },
+        {
+          "qty": 1,
+          "description": "POWER TRANSFER",
+          "catalog_number": "EPT10 CON",
+          "mfr": "VON",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "CONST LATCHING BOLT",
+          "catalog_number": "FB51P/FB61P AS REQ'D",
+          "mfr": "IVE",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "DUST PROOF STRIKE",
+          "catalog_number": "DP1/DP2 AS REQ'D",
+          "mfr": "IVE",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "EU STOREROOM LOCK",
+          "catalog_number": "ND80P6DEU LON RX 12V/24V DC 7/8\" STRIKE LIP LENGTH",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "INTERFACE BOX",
+          "catalog_number": "*JB7",
+          "mfr": "VON",
+          "finish": null
+        },
+        {
+          "qty": 2,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "SC81A SS PROVIDE MTG BRKT, SPCR & PLATE AS REQ'D",
+          "mfr": "FAL",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "SEALS",
+          "catalog_number": "BY DOOR MANUFACTURER",
+          "mfr": "B/O",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "ASTRAGAL",
+          "catalog_number": "44STST",
+          "mfr": "ZER",
+          "finish": "STST"
+        },
+        {
+          "qty": 1,
+          "description": "PIGTAIL CABLE",
+          "catalog_number": "*RC PIGTAIL 25 FT",
+          "mfr": "SCE",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "WIRE HARNESS",
+          "catalog_number": "CON-XX/CON-XXP LENGTH TO SUIT DOOR CHANNEL",
+          "mfr": "SCH",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "WIRE HARNESS",
+          "catalog_number": "CON-6W",
+          "mfr": "SCH",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "MULTITECH READER",
+          "catalog_number": "*RC15 12 VDC",
+          "mfr": "SCE",
+          "finish": "BLK"
+        },
+        {
+          "qty": 2,
+          "description": "DOOR CONTACT",
+          "catalog_number": "679-05HM/WD",
+          "mfr": "SCE",
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "ADVANCED SECURITY MODULE",
+          "catalog_number": "*ACC-EDK-3A",
+          "mfr": "ISO",
+          "finish": null
+        }
+      ]
+    },
+    {
+      "set_number": "03",
+      "description": "HARDWARE BY DOOR MFG.",
+      "not_used": false,
+      "first_page": 771,
+      "components": []
+    }
+  ]
+}

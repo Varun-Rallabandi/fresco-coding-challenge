@@ -1,0 +1,279 @@
+{
+  "file": "Village of Oswego New Public Works Facility  _Copy_/SPECIFICATIONS VOLUME 1.pdf",
+  "pages": [
+    418,
+    428
+  ],
+  "split": "heldout",
+  "sets": [
+    {
+      "set_number": "02",
+      "description": null,
+      "not_used": false,
+      "first_page": 418,
+      "components": [
+        {
+          "qty": 2,
+          "description": "PIVOT SET",
+          "catalog_number": "7215 SET",
+          "mfr": "IVE",
+          "finish": "626"
+        },
+        {
+          "qty": 2,
+          "description": "INTERMEDIATE PIVOT",
+          "catalog_number": "7215 INT",
+          "mfr": "IVE",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "REMOVABLE MULLION",
+          "catalog_number": "KR4954 STAB",
+          "mfr": "VON",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "ELEC PANIC HARDWARE",
+          "catalog_number": "RX-LC-QEL-99-EO W/CYL HOLE-CON-SNB 24 VDC",
+          "mfr": "VON",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "ELEC PANIC HARDWARE",
+          "catalog_number": "RX-LC-QEL-99-EO-CON-SNB 24 VDC",
+          "mfr": "VON",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "MULLION STORAGE KIT",
+          "catalog_number": "MT54",
+          "mfr": "VON",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "FSIC RIM CYLINDER",
+          "catalog_number": "20-057 ICX W/CONST. CORE",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 2,
+          "description": "FSIC MORTISE CYLINDER",
+          "catalog_number": "20-061 ICX W/CONST. CORE",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 3,
+          "description": "FSIC PRIMUS PERMANENT CORE",
+          "catalog_number": "20-740-XP CKC - MATCH EXISTING KEYWAY SYSTEM",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 2,
+          "description": "LONG DOOR PULL",
+          "catalog_number": "9264F 36\" 20\" STD",
+          "mfr": "IVE",
+          "finish": "630-316"
+        },
+        {
+          "qty": 1,
+          "description": "SURF. AUTO OPERATOR W/ MOUNTING PLATE",
+          "catalog_number": "9553 LONG2 LESS TRACK HL/D AS REQ (120/240 VAC)",
+          "mfr": "LCN",
+          "finish": "ANCLR"
+        },
+        {
+          "qty": 1,
+          "description": "ACTUATOR WITH BOLLARD KIT",
+          "catalog_number": "8310-3836T",
+          "mfr": "LCN",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "ACTUATOR, TOUCHLESS",
+          "catalog_number": "8310-813J - INTERIOR MULLION MOUNT",
+          "mfr": "LCN",
+          "finish": null
+        },
+        {
+          "qty": 2,
+          "description": "ACTIVATION RECEIVER",
+          "catalog_number": "8310-865 - AS REQUIRED",
+          "mfr": "LCN",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "MULLION SEAL",
+          "catalog_number": "139N PSA",
+          "mfr": "ZER",
+          "finish": null
+        },
+        {
+          "qty": null,
+          "description": "SEALS - AS TESTED BY DOOR MANUFACTURER",
+          "catalog_number": "BY DOOR / FRAME MANUFACTURER",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "THRESHOLD & 2 SWEEPS",
+          "catalog_number": "THRESHOLD AND SWEEP by Door/Frame Mfgr.",
+          "mfr": "B/O",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "MULTITECH READER - FURNISHED, INSTALLED, COMMISSIONED BY DIV 28",
+          "catalog_number": "MT15B 5VDC - 28VDC - AS REQUIRED",
+          "mfr": "SCE",
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "KEY SWITCH",
+          "catalog_number": "653-1414 L2 12/24 VDC - FOR AUTOMATIC OPERATOR",
+          "mfr": "SCE",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "DOOR CONTACT - BY DIVISION 28",
+          "catalog_number": "679-05 WD/HM - AS REQUIRED",
+          "mfr": "SCE",
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "POWER SUPPLY",
+          "catalog_number": "PS906 900-4RL 900-2RS 900-BBK 120/240 VAC",
+          "mfr": "VON",
+          "finish": null
+        }
+      ]
+    },
+    {
+      "set_number": "19",
+      "description": null,
+      "not_used": false,
+      "first_page": 428,
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1HW 4.5 X 4.5 - NRP AT OUTSWINGING DRS",
+          "mfr": "IVE",
+          "finish": "652"
+        },
+        {
+          "qty": 1,
+          "description": "PANIC HARDWARE",
+          "catalog_number": "CDSI-99-L-03-SNB",
+          "mfr": "VON",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "FSIC RIM CYLINDER",
+          "catalog_number": "20-057 ICX W/CONST. CORE",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "FSIC MORTISE CYLINDER",
+          "catalog_number": "20-061 ICX W/CONST. CORE - CYLINDER DOGGING",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 2,
+          "description": "FSIC PRIMUS PERMANENT CORE",
+          "catalog_number": "20-740-XP CKC - MATCH EXISTING KEYWAY SYSTEM",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "REG/ PA SURFACE CLOSER - AS REQUIRED",
+          "catalog_number": "4040XP REG TBSRT/ 4040XP EDA TBSRT - AS REQUIRED",
+          "mfr": "LCN",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X AS REQ B-CS TKTX",
+          "mfr": "IVE",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVE",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING SET",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK"
+        }
+      ]
+    },
+    {
+      "set_number": "21",
+      "description": null,
+      "not_used": false,
+      "first_page": 428,
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5",
+          "mfr": "IVE",
+          "finish": "652"
+        },
+        {
+          "qty": 1,
+          "description": "OFFICE/ENTRY LOCK",
+          "catalog_number": "L9050T.03.626.A.626.03.626.A.626 09-544",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "FSIC PRIMUS PERMANENT CORE",
+          "catalog_number": "20-740-XP CKC - MATCH EXISTING KEYWAY SYSTEM",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVE",
+          "finish": "626"
+        },
+        {
+          "qty": 3,
+          "description": "GASKETING",
+          "catalog_number": "188S-BK PSA (OMIT @ NON-RATED DOORS, USE SILENCERS)",
+          "mfr": "ZER",
+          "finish": "BK"
+        }
+      ]
+    }
+  ]
+}

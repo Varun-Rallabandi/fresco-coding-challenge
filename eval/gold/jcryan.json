@@ -1,0 +1,181 @@
+{
+  "file": "JC Ryan 2/087100 - Door Hardware-6.pdf",
+  "pages": [
+    30,
+    44
+  ],
+  "sets": [
+    {
+      "set_number": "3.0",
+      "description": "Single Opening – Access Controlled, Stairwell, Fire Rated Aluminum Assembly",
+      "not_used": false,
+      "first_page": 30,
+      "components": [
+        {
+          "qty": null,
+          "description": "Hinge, Full Mortise",
+          "catalog_number": "By Fire Rated Door Manufacturer",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Electric Power Transfer",
+          "catalog_number": "By Fire Rated Door Manufacturer",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Fail Safe Rim Exit Device with integrated request to exit switch",
+          "catalog_number": "[12] 55 PE8875 ETMI By Door Manufacturer",
+          "mfr": "Sargent",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Door Closer x Regular Arm mounted on pull side of door",
+          "catalog_number": "By Fire Rated Door Manufacturer",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Gasketing",
+          "catalog_number": "By Fire Rated Door Manufacturer",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Door/Frame Harness",
+          "catalog_number": "By Fire Rated Door Manufacturer",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Stop",
+          "catalog_number": "RM860",
+          "mfr": "Rockwood",
+          "finish": null
+        }
+      ]
+    },
+    {
+      "set_number": "22.0",
+      "description": "Single Opening – ATS Closet",
+      "not_used": false,
+      "first_page": 44,
+      "components": [
+        {
+          "qty": null,
+          "description": "Hinge, Full Mortise",
+          "catalog_number": "TA2714",
+          "mfr": "McKinney",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Storeroom/Closet Lock",
+          "catalog_number": "8204 LNMI",
+          "mfr": "Sargent",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Surface Closer",
+          "catalog_number": "UNI-7500",
+          "mfr": "Norton",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Gasketing",
+          "catalog_number": "S88BL",
+          "mfr": "Pemko",
+          "finish": null
+        }
+      ]
+    },
+    {
+      "set_number": "23.0",
+      "description": "Single Opening – ATS Room, UPS Room",
+      "not_used": false,
+      "first_page": 44,
+      "components": [
+        {
+          "qty": null,
+          "description": "Hinge, Full Mortise",
+          "catalog_number": "T4A3786",
+          "mfr": "McKinney",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Mortise Exit Device, Nightlatch",
+          "catalog_number": "[12] PE8904 ETL",
+          "mfr": "Sargent",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Surface Closer",
+          "catalog_number": "UNI-7500",
+          "mfr": "Norton",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Gasketing",
+          "catalog_number": "S88BL",
+          "mfr": "Pemko",
+          "finish": null
+        }
+      ]
+    },
+    {
+      "set_number": "24.0",
+      "description": "Single Opening – Closet",
+      "not_used": false,
+      "first_page": 44,
+      "components": [
+        {
+          "qty": null,
+          "description": "Hinge, Full Mortise",
+          "catalog_number": "TA2714",
+          "mfr": "McKinney",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Classroom Lock",
+          "catalog_number": "8237 LNMI",
+          "mfr": "Sargent",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Kick Plate",
+          "catalog_number": "K1050 x 10\" High x CSK x 4BE",
+          "mfr": "Rockwood",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Stop",
+          "catalog_number": "RM860 / 446 / 9-ADJ Series Per Conditions",
+          "mfr": "Rockwood",
+          "finish": null
+        },
+        {
+          "qty": null,
+          "description": "Silencers",
+          "catalog_number": "608",
+          "mfr": "Rockwood",
+          "finish": null
+        }
+      ]
+    }
+  ]
+}

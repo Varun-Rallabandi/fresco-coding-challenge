@@ -1,0 +1,86 @@
+{
+  "file": "USI/c9634958-Radnet_Building_-_Specs.pdf",
+  "pages": [
+    563
+  ],
+  "sets": [
+    {
+      "set_number": "1.0",
+      "description": null,
+      "not_used": false,
+      "first_page": 563,
+      "components": [
+        {
+          "qty": 2,
+          "description": "Door Bottom Rail",
+          "catalog_number": "DRT per Elevation",
+          "mfr": "GS",
+          "finish": "BSP"
+        },
+        {
+          "qty": 2,
+          "description": "Door Top Rail",
+          "catalog_number": "DRT per Elevation",
+          "mfr": "GS",
+          "finish": "BSP"
+        },
+        {
+          "qty": 2,
+          "description": "Bottom Pivot",
+          "catalog_number": "PV-FM-300END",
+          "mfr": "GS",
+          "finish": "US32D"
+        },
+        {
+          "qty": 1,
+          "description": "Exit Device",
+          "catalog_number": "PDU8000-3 Code 01",
+          "mfr": "GS",
+          "finish": "BSP"
+        },
+        {
+          "qty": 1,
+          "description": "Exit Device",
+          "catalog_number": "PDU8000-3",
+          "mfr": "GS",
+          "finish": "BSP"
+        },
+        {
+          "qty": 1,
+          "description": "Mortise Cylinder",
+          "catalog_number": "CR1080 CT6B",
+          "mfr": "RU",
+          "finish": "BSP"
+        },
+        {
+          "qty": 1,
+          "description": "Interchangeable Core",
+          "catalog_number": "CR8000",
+          "mfr": "RU",
+          "finish": "BSP"
+        },
+        {
+          "qty": 2,
+          "description": "Concealed Closer",
+          "catalog_number": "OHC-609-90NHO",
+          "mfr": "GS",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Threshold",
+          "catalog_number": "271A or Per Sill Detail",
+          "mfr": "PE",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Strike",
+          "catalog_number": "MSK-DBL",
+          "mfr": "RO",
+          "finish": "BSP"
+        }
+      ]
+    }
+  ]
+}

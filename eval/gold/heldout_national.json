@@ -1,0 +1,182 @@
+{
+  "file": "National Doors and Hardware/15e2b8ac-FS17_Specs_V1.pdf",
+  "pages": [
+    406,
+    411
+  ],
+  "split": "heldout",
+  "sets": [
+    {
+      "set_number": "01",
+      "description": null,
+      "not_used": false,
+      "first_page": 406,
+      "components": [
+        {
+          "qty": 4,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5 NRP",
+          "mfr": "IVE",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "POWER TRANSFER",
+          "catalog_number": "EPT10 CON",
+          "mfr": "VON",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "EXIT DEVICE",
+          "catalog_number": "EX76 CVR Electric Trim",
+          "mfr": "ADA",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "RIM CYLINDER",
+          "catalog_number": "20-057 ICX",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "90 DEG OFFSET PULL",
+          "catalog_number": "8190EZHD 10\" O",
+          "mfr": "IVE",
+          "finish": "630-316"
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "CUSH SHOE SUPPORT",
+          "catalog_number": "4040XP-30",
+          "mfr": "LCN",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "BLADE STOP SPACER",
+          "catalog_number": "4040XP-61",
+          "mfr": "LCN",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "THRESHOLD",
+          "catalog_number": "566A-223",
+          "mfr": "ZER",
+          "finish": "A"
+        }
+      ]
+    },
+    {
+      "set_number": "12",
+      "description": null,
+      "not_used": false,
+      "first_page": 411,
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5",
+          "mfr": "IVE",
+          "finish": "652"
+        },
+        {
+          "qty": 1,
+          "description": "PRIVACY LOCK W/ OUTSIDE INDICATOR",
+          "catalog_number": "ND40S RHO OS-OCC",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP RW/PA",
+          "mfr": "LCN",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CCV",
+          "mfr": "IVE",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK"
+        },
+        {
+          "qty": 1,
+          "description": "DOOR SWEEP",
+          "catalog_number": "39A",
+          "mfr": "ZER",
+          "finish": "A"
+        }
+      ]
+    },
+    {
+      "set_number": "13",
+      "description": null,
+      "not_used": false,
+      "first_page": 411,
+      "components": [
+        {
+          "qty": 1,
+          "description": "BARN DOOR HARDWARE KIT",
+          "catalog_number": "2610F96S SOFT CLOSE",
+          "mfr": "JOH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "BOTTOM FLOOR GUIDE",
+          "catalog_number": "C-GUIDE SLDING BARN DOOR FLOOR GUIDE",
+          "mfr": null,
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "DOOR PULL",
+          "catalog_number": "AP411G 12 CTC",
+          "mfr": "TRI",
+          "finish": "630"
+        }
+      ]
+    },
+    {
+      "set_number": "14",
+      "description": null,
+      "not_used": false,
+      "first_page": 411,
+      "components": [
+        {
+          "qty": null,
+          "description": "ALL HARDWARE",
+          "catalog_number": "BY OVERHEAD DOOR MFG",
+          "mfr": "B/O",
+          "finish": "626"
+        }
+      ]
+    }
+  ]
+}

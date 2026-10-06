@@ -1,0 +1,407 @@
+{
+  "file": "AMI _Copy_/c43c36d9-000_Full_Volume_ATC_Renovation_Bid_Specs_Volume_1__1_.pdf",
+  "pages": [
+    397,
+    398,
+    399
+  ],
+  "sets": [
+    {
+      "set_number": "01",
+      "description": null,
+      "not_used": false,
+      "first_page": 397,
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5 NRP",
+          "mfr": "IVE",
+          "finish": "652"
+        },
+        {
+          "qty": 1,
+          "description": "PASSAGE SET",
+          "catalog_number": "L9010 17A",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CCV",
+          "mfr": "IVE",
+          "finish": "626"
+        },
+        {
+          "qty": 3,
+          "description": "SILENCER",
+          "catalog_number": "SR64",
+          "mfr": "IVE",
+          "finish": "GRY"
+        }
+      ]
+    },
+    {
+      "set_number": "01A",
+      "description": null,
+      "not_used": false,
+      "first_page": 397,
+      "components": [
+        {
+          "qty": 6,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5 NRP",
+          "mfr": "IVE",
+          "finish": "652"
+        },
+        {
+          "qty": 1,
+          "description": "CONST LATCHING BOLT",
+          "catalog_number": "FB51P",
+          "mfr": "IVE",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "DUST PROOF STRIKE",
+          "catalog_number": "DP2",
+          "mfr": "IVE",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "PASSAGE SET",
+          "catalog_number": "L9010 17A",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 2,
+          "description": "OH STOP",
+          "catalog_number": "100S",
+          "mfr": "GLY",
+          "finish": "630"
+        },
+        {
+          "qty": 2,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP",
+          "mfr": "LCN",
+          "finish": "689"
+        },
+        {
+          "qty": 2,
+          "description": "KICK PLATE",
+          "catalog_number": "8400 8\" X 1\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING",
+          "catalog_number": "488FSBK PSA",
+          "mfr": "ZER",
+          "finish": "BK"
+        },
+        {
+          "qty": 1,
+          "description": "WEATHERSTRIPPING",
+          "catalog_number": "8217SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK"
+        }
+      ]
+    },
+    {
+      "set_number": "02",
+      "description": null,
+      "not_used": false,
+      "first_page": 398,
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5",
+          "mfr": "IVE",
+          "finish": "652"
+        },
+        {
+          "qty": 1,
+          "description": "CLASSROOM DEAD LOCK W/ OUTSIDE INDICATOR",
+          "catalog_number": "L463T OS-LOC",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "FSIC CORE",
+          "catalog_number": "23-030 CKC EV29 T",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "PUSH PLATE",
+          "catalog_number": "8200 4\" X 16\"",
+          "mfr": "IVE",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "PULL PLATE",
+          "catalog_number": "8302 6\" 4\" X 16\"",
+          "mfr": "IVE",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP",
+          "mfr": "LCN",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "MOP PLATE",
+          "catalog_number": "8400 4\" X 1\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "KICK PLATE",
+          "catalog_number": "8400 8\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CCV",
+          "mfr": "IVE",
+          "finish": "626"
+        },
+        {
+          "qty": 3,
+          "description": "SILENCER",
+          "catalog_number": "SR65",
+          "mfr": "IVE",
+          "finish": "GRY"
+        }
+      ]
+    },
+    {
+      "set_number": "03",
+      "description": null,
+      "not_used": false,
+      "first_page": 398,
+      "components": [
+        {
+          "qty": 1,
+          "description": "CONT. HINGE",
+          "catalog_number": "112XY",
+          "mfr": "IVE",
+          "finish": "628"
+        },
+        {
+          "qty": 1,
+          "description": "CONT. HINGE",
+          "catalog_number": "112XY EPT",
+          "mfr": "IVE",
+          "finish": "628"
+        },
+        {
+          "qty": 2,
+          "description": "POWER TRANSFER",
+          "catalog_number": "EPT10 CON",
+          "mfr": "VON",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "CONST LATCHING BOLT",
+          "catalog_number": "FB51P",
+          "mfr": "IVE",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "DUST PROOF STRIKE",
+          "catalog_number": "DP2",
+          "mfr": "IVE",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "ELEC OFFICE LOCK",
+          "catalog_number": "AD-300-MS-50-MT-SPA-J (BY DIV. 28)",
+          "mfr": "SCE",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "FSIC CORE",
+          "catalog_number": "23-030 CKC EV29 T",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "FSIC CORE",
+          "catalog_number": "23-030 ICX",
+          "mfr": "SCH",
+          "finish": "ORG"
+        },
+        {
+          "qty": 2,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP EDA",
+          "mfr": "LCN",
+          "finish": "689"
+        },
+        {
+          "qty": 2,
+          "description": "KICK PLATE",
+          "catalog_number": "8400 8\" X 1\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "630"
+        },
+        {
+          "qty": 2,
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CCV",
+          "mfr": "IVE",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING",
+          "catalog_number": "488FSBK PSA",
+          "mfr": "ZER",
+          "finish": "BK"
+        },
+        {
+          "qty": 1,
+          "description": "WEATHERSTRIPPING",
+          "catalog_number": "8217SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK"
+        },
+        {
+          "qty": 2,
+          "description": "FLAT ASTRAGAL",
+          "catalog_number": "905AA",
+          "mfr": "ZER",
+          "finish": "AA"
+        },
+        {
+          "qty": 1,
+          "description": "POWER SUPPLY",
+          "catalog_number": "(BY DIV. 28)",
+          "mfr": null,
+          "finish": null
+        }
+      ]
+    },
+    {
+      "set_number": "03B",
+      "description": null,
+      "not_used": false,
+      "first_page": 399,
+      "components": [
+        {
+          "qty": 1,
+          "description": "CONT. HINGE",
+          "catalog_number": "112XY",
+          "mfr": "IVE",
+          "finish": "628"
+        },
+        {
+          "qty": 1,
+          "description": "CONT. HINGE",
+          "catalog_number": "112XY EPT",
+          "mfr": "IVE",
+          "finish": "628"
+        },
+        {
+          "qty": 1,
+          "description": "POWER TRANSFER",
+          "catalog_number": "EPT10 CON",
+          "mfr": "VON",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "CONST LATCHING BOLT",
+          "catalog_number": "FB51P",
+          "mfr": "IVE",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "DUST PROOF STRIKE",
+          "catalog_number": "DP2",
+          "mfr": "IVE",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "ELEC OFFICE LOCK",
+          "catalog_number": "AD-300-MS-50-MT-SPA-J (BY DIV. 28)",
+          "mfr": "SCE",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "FSIC CORE",
+          "catalog_number": "23-030 CKC EV29 T",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "FSIC CORE",
+          "catalog_number": "23-030 ICX",
+          "mfr": "SCH",
+          "finish": "ORG"
+        },
+        {
+          "qty": 2,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "finish": "689"
+        },
+        {
+          "qty": 2,
+          "description": "CUSH SHOE SUPPORT",
+          "catalog_number": "4040XP-30 SRT",
+          "mfr": "LCN",
+          "finish": "689"
+        },
+        {
+          "qty": 2,
+          "description": "BLADE STOP SPACER",
+          "catalog_number": "4040XP-61 SRT",
+          "mfr": "LCN",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "PERIMETER GASKETING",
+          "catalog_number": "BY ALUMINUM DOOR MANUFACTURER",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "POWER SUPPLY",
+          "catalog_number": "(BY DIV. 28)",
+          "mfr": null,
+          "finish": null
+        }
+      ]
+    }
+  ]
+}

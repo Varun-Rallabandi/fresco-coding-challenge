@@ -1,0 +1,232 @@
+{
+  "file": "The Door Company _Copy_/Vantage TX-22 Div 01, 08.pdf",
+  "pages": [
+    392,
+    393
+  ],
+  "split": "heldout",
+  "sets": [
+    {
+      "set_number": "401C",
+      "description": null,
+      "not_used": false,
+      "first_page": 392,
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1HW 5 X 4.5",
+          "mfr": "IVE",
+          "finish": "652"
+        },
+        {
+          "qty": 1,
+          "description": "PASSAGE SET",
+          "catalog_number": "L9010 17L",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING",
+          "catalog_number": "488SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK"
+        }
+      ]
+    },
+    {
+      "set_number": "503",
+      "description": null,
+      "not_used": false,
+      "first_page": 392,
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1HW 4.5 X 4.5",
+          "mfr": "IVE",
+          "finish": "652"
+        },
+        {
+          "qty": 1,
+          "description": "CLASSROOM LOCK",
+          "catalog_number": "L9070T 17L",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "PERMANENT CORE",
+          "catalog_number": "COORDINATE WITH OWNER",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CVX",
+          "mfr": "IVE",
+          "finish": "630"
+        },
+        {
+          "qty": 3,
+          "description": "SILENCER",
+          "catalog_number": "SR64",
+          "mfr": "IVE",
+          "finish": "GRY"
+        }
+      ]
+    },
+    {
+      "set_number": "503A",
+      "description": null,
+      "not_used": false,
+      "first_page": 393,
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1HW 4.5 X 4.5",
+          "mfr": "IVE",
+          "finish": "652"
+        },
+        {
+          "qty": 1,
+          "description": "CLASSROOM LOCK",
+          "catalog_number": "L9070T 17L",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "PERMANENT CORE",
+          "catalog_number": "COORDINATE WITH OWNER",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CVX",
+          "mfr": "IVE",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": null,
+          "catalog_number": "GASKETING BY DOOR/FRAME MANUFACTURER",
+          "mfr": null,
+          "finish": null
+        }
+      ]
+    },
+    {
+      "set_number": "503SA",
+      "description": null,
+      "not_used": false,
+      "first_page": 393,
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1HW 4.5 X 4.5",
+          "mfr": "IVE",
+          "finish": "652"
+        },
+        {
+          "qty": 1,
+          "description": "CLASSROOM LOCK",
+          "catalog_number": "L9070T 17L",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "CONSTRUCTION FSIC CORE",
+          "catalog_number": "23-030",
+          "mfr": "SCH",
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "OH STOP",
+          "catalog_number": "90S",
+          "mfr": "GLY",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": null,
+          "catalog_number": "GASKETING BY DOOR/FRAME MANUFACTURER",
+          "mfr": null,
+          "finish": null
+        }
+      ]
+    },
+    {
+      "set_number": "720CRZ",
+      "description": null,
+      "not_used": false,
+      "first_page": 393,
+      "components": [
+        {
+          "qty": 2,
+          "description": "CONT. HINGE",
+          "catalog_number": "224XY",
+          "mfr": "IVE",
+          "finish": "628"
+        },
+        {
+          "qty": 2,
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "9849-EO-F",
+          "mfr": "VON",
+          "finish": "626"
+        },
+        {
+          "qty": 2,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "finish": "689"
+        },
+        {
+          "qty": 2,
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "ASTRAGAL",
+          "catalog_number": "139A-S",
+          "mfr": "ZER",
+          "finish": "A"
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING",
+          "catalog_number": "488SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK"
+        }
+      ]
+    }
+  ]
+}

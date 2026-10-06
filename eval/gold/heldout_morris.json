@@ -1,0 +1,173 @@
+{
+  "file": "Morris Bank/030f2d1d-Morris_Bank_Macon_-Spec_Manual_Issued_for_Const._1-26-26_FULL_SPECS.pdf",
+  "pages": [
+    233,
+    234
+  ],
+  "split": "heldout",
+  "sets": [
+    {
+      "set_number": "101",
+      "description": null,
+      "not_used": false,
+      "first_page": 233,
+      "components": [
+        {
+          "qty": 2,
+          "description": "Continuous Hinge",
+          "catalog_number": "K10BEFM95HD1",
+          "mfr": "PE",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Deadlock",
+          "catalog_number": "MS1850S Door Height Straight Bolt",
+          "mfr": "AD",
+          "finish": "313"
+        },
+        {
+          "qty": 1,
+          "description": "Thumbturn Cylinder",
+          "catalog_number": "4066-01",
+          "mfr": "AD",
+          "finish": "313"
+        },
+        {
+          "qty": 1,
+          "description": "Mortise Cylinder",
+          "catalog_number": "70 7P 43 13-0512",
+          "mfr": "SA",
+          "finish": "10BE"
+        },
+        {
+          "qty": 1,
+          "description": "Construction Core",
+          "catalog_number": "7190224",
+          "mfr": "BE",
+          "finish": null
+        },
+        {
+          "qty": 2,
+          "description": "Pull",
+          "catalog_number": "RM3301 35\" 2\" Doors CTC OVERALL LENGTH",
+          "mfr": "RO",
+          "finish": "10BE"
+        },
+        {
+          "qty": 2,
+          "description": "Pull",
+          "catalog_number": "RM3310 30\" 2\" Doors CTC OVERALL LENGTH",
+          "mfr": "RO",
+          "finish": "10BE"
+        },
+        {
+          "qty": 1,
+          "description": "Closer",
+          "catalog_number": "SRI 268 OB",
+          "mfr": "SA",
+          "finish": "10BE"
+        },
+        {
+          "qty": 1,
+          "description": "Closer",
+          "catalog_number": "SRI 268 OB",
+          "mfr": "SA",
+          "finish": "10BE"
+        },
+        {
+          "qty": 1,
+          "description": "SFIC",
+          "catalog_number": "33700006 N 26 DAKM",
+          "mfr": "MED1",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Threshold",
+          "catalog_number": "2008-10BE-PK 72\" MSES25SS",
+          "mfr": "PE",
+          "finish": null
+        }
+      ]
+    },
+    {
+      "set_number": "102",
+      "description": null,
+      "not_used": false,
+      "first_page": 234,
+      "components": [
+        {
+          "qty": 4,
+          "description": "Hinges",
+          "catalog_number": "MPB79 4 1/2 x 4 1/2 NRP",
+          "mfr": "MC",
+          "finish": "10BE"
+        },
+        {
+          "qty": 1,
+          "description": "Exit Device",
+          "catalog_number": "LC PE8806 F WEMD",
+          "mfr": "SA",
+          "finish": "10BE"
+        },
+        {
+          "qty": 1,
+          "description": "Rim Cylinder",
+          "catalog_number": "70 7P 34",
+          "mfr": "SA",
+          "finish": "10BE"
+        },
+        {
+          "qty": 1,
+          "description": "Construction Core",
+          "catalog_number": "7190224",
+          "mfr": "BE",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Electric Strike",
+          "catalog_number": "9600-LBM 2004M",
+          "mfr": "HS",
+          "finish": "613E"
+        },
+        {
+          "qty": 1,
+          "description": "Closer",
+          "catalog_number": "351 CPS TB",
+          "mfr": "SA",
+          "finish": "10BE"
+        },
+        {
+          "qty": 1,
+          "description": "Wiring Harness",
+          "catalog_number": "QC-C1500",
+          "mfr": "MC",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "SFIC",
+          "catalog_number": "33700006 N 26 DAKM",
+          "mfr": "MED1",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Power Supply",
+          "catalog_number": "LSP-12-24",
+          "mfr": "SA",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Smoke Seal",
+          "catalog_number": "S88 BL 21'",
+          "mfr": "PE",
+          "finish": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "file": "Valor Acres Building E/087100-DOOR-HARDWARE_Rev_2.pdf",
+  "pages": [
+    7,
+    8
+  ],
+  "sets": [
+    {
+      "set_number": "01",
+      "description": "Door U1 – Interior Unit Entry Swing Doors",
+      "not_used": false,
+      "first_page": 7,
+      "components": [
+        {
+          "qty": 3,
+          "description": "BB HINGE",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "ENTRY SET (SCHLAGE LATITUDE LEVER STYLE)",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "DEADBOLT W/ KEYFOB ACCESS",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "OH STOP",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "SEALS (SMOKE)",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "DOOR VIEWER",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        }
+      ]
+    },
+    {
+      "set_number": "02",
+      "description": "Door U3 – Exterior Unit Entries & Balconies Swing Doors",
+      "not_used": false,
+      "first_page": 7,
+      "components": [
+        {
+          "qty": 3,
+          "description": "BB HINGE",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "ENTRY SET (SCHLAGE LATITUDE LEVER STYLE)",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "DEADBOLT W/ KEYFOB ACCESS (EXTERIOR DOOR ONLY)",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "OH STOP",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "SEALS (THERMAL)",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "THRESHOLD",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "DOOR VIEWER (ENTRY DOORS ONLY)",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        }
+      ]
+    },
+    {
+      "set_number": "03",
+      "description": "Doors U5 & U6 – Bathrooms/ Bedrooms Swing Doors",
+      "not_used": false,
+      "first_page": 7,
+      "components": [
+        {
+          "qty": 3,
+          "description": "PB HINGE",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "PRIVACY SET (SCHLAGE LATITUDE LEVER STYLE)",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        }
+      ]
+    },
+    {
+      "set_number": "04",
+      "description": "Doors U7 & U9 – Closets/ Laundry Swing Doors",
+      "not_used": false,
+      "first_page": 8,
+      "components": [
+        {
+          "qty": 2,
+          "description": "BB HINGE",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "PASSAGE SET (SCHLAGE LATITUDE LEVER STYLE)",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "HINGE STOP",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        }
+      ]
+    },
+    {
+      "set_number": "05",
+      "description": "Doors U11 & U12 - Mechanical Closet Swing Doors",
+      "not_used": false,
+      "first_page": 8,
+      "components": [
+        {
+          "qty": 3,
+          "description": "PB HINGE",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "PASSAGE SET (SCHLAGE LATITUDE LEVER STYLE)",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "HINGE STOP",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        }
+      ]
+    },
+    {
+      "set_number": "06",
+      "description": "Door U2 – Balcony/Patio Swing Doors",
+      "not_used": false,
+      "first_page": 8,
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE BY DR SUPPLIER",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "ENTRY SET (SCHLAGE LATITUDE LEVER STYLE)",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE BOLTS",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "WALL STOP",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "DEADBOLT BY DR SUPPLIER",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        }
+      ]
+    },
+    {
+      "set_number": "07",
+      "description": "Doors U13, U14 & U16 – Single Barn doors",
+      "not_used": false,
+      "first_page": 8,
+      "components": [
+        {
+          "qty": 1,
+          "description": "BARN DR TRACK",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 2,
+          "description": "PULL (ACCESSIBLE WHERE REQUIRED)",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        }
+      ]
+    },
+    {
+      "set_number": "08",
+      "description": "Doors U15 & U16 – Double Barn Doors",
+      "not_used": false,
+      "first_page": 8,
+      "components": [
+        {
+          "qty": 2,
+          "description": "BARN DR TRACK",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        },
+        {
+          "qty": 4,
+          "description": "PULL (ACCESSIBLE WHERE REQUIRED)",
+          "catalog_number": null,
+          "mfr": null,
+          "finish": "BLK"
+        }
+      ]
+    }
+  ]
+}

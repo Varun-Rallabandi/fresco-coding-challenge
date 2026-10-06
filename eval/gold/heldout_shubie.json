@@ -1,0 +1,251 @@
+{
+  "file": "Shubie Center/e2231795-IFT_Specs.pdf",
+  "pages": [
+    174,
+    175
+  ],
+  "split": "heldout",
+  "sets": [
+    {
+      "set_number": "01",
+      "description": null,
+      "not_used": false,
+      "first_page": 174,
+      "components": [
+        {
+          "qty": 1,
+          "description": "CONT. HINGE",
+          "catalog_number": "112XY",
+          "mfr": "IVE",
+          "finish": "711"
+        },
+        {
+          "qty": 1,
+          "description": "PANIC HARDWARE",
+          "catalog_number": "33A-NL-OP-388",
+          "mfr": "VON",
+          "finish": "315"
+        },
+        {
+          "qty": 1,
+          "description": "RIM CYLINDER",
+          "catalog_number": "80-329",
+          "mfr": "SCH",
+          "finish": "622"
+        },
+        {
+          "qty": 1,
+          "description": "ELECTRIC STRIKE",
+          "catalog_number": "6300 FSE",
+          "mfr": "VON",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "LONG DOOR PULL",
+          "catalog_number": "9264 48\" 20\" O",
+          "mfr": "IVE",
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "OH STOP",
+          "catalog_number": "100S",
+          "mfr": "GLY",
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "AUTO OPERATOR",
+          "catalog_number": "9542",
+          "mfr": "LCN",
+          "finish": "ANCL"
+        },
+        {
+          "qty": 4,
+          "description": "ACTUATOR, TOUCH",
+          "catalog_number": "8310-818",
+          "mfr": "LCN",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "DOOR SWEEP",
+          "catalog_number": "8192A x door width",
+          "mfr": "ZER",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "THRESHOLD",
+          "catalog_number": "545A x door width",
+          "mfr": "ZER",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "DOOR SEALANT",
+          "catalog_number": "GASKETING BY DR SUPPLIER",
+          "mfr": "UNK",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "WIRE HARNESS",
+          "catalog_number": "CON. TO SUIT",
+          "mfr": "SCH",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "CREDENTIAL",
+          "catalog_number": "BY OTHERS",
+          "mfr": "UNK",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "READER/CONTROLL",
+          "catalog_number": "BY OTHERS",
+          "mfr": "UNK",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "DOOR CONTACT",
+          "catalog_number": "679-05 TO SUIT DR MATERIAL",
+          "mfr": "SCE",
+          "finish": "WHT"
+        },
+        {
+          "qty": 1,
+          "description": "POWER SUPPLY",
+          "catalog_number": "PS904 900-4RL 120/240 VAC",
+          "mfr": "SCE",
+          "finish": "LGR"
+        }
+      ]
+    },
+    {
+      "set_number": "02",
+      "description": null,
+      "not_used": false,
+      "first_page": 175,
+      "components": [
+        {
+          "qty": 1,
+          "description": "CONT. HINGE",
+          "catalog_number": "112XY",
+          "mfr": "IVE",
+          "finish": "711"
+        },
+        {
+          "qty": 1,
+          "description": "PANIC HARDWARE",
+          "catalog_number": "33A-NL-OP-388",
+          "mfr": "VON",
+          "finish": "315"
+        },
+        {
+          "qty": 1,
+          "description": "RIM CYLINDER",
+          "catalog_number": "80-329",
+          "mfr": "SCH",
+          "finish": "622"
+        },
+        {
+          "qty": 1,
+          "description": "LONG DOOR PULL",
+          "catalog_number": "9264 48\" 20\" O",
+          "mfr": "IVE",
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "OH STOP",
+          "catalog_number": "100S",
+          "mfr": "GLY",
+          "finish": "BLK"
+        }
+      ]
+    },
+    {
+      "set_number": "03",
+      "description": null,
+      "not_used": false,
+      "first_page": 175,
+      "components": [
+        {
+          "qty": 3,
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4 NRP",
+          "mfr": "IVE",
+          "finish": "622"
+        },
+        {
+          "qty": 1,
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "98-NL-OP-F 110MD",
+          "mfr": "VON",
+          "finish": "315"
+        },
+        {
+          "qty": 1,
+          "description": "RIM CYLINDER",
+          "catalog_number": "80-329",
+          "mfr": "SCH",
+          "finish": "622"
+        },
+        {
+          "qty": 1,
+          "description": "ELECTRIC STRIKE",
+          "catalog_number": "6300 FSE",
+          "mfr": "VON",
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "DOOR PULL",
+          "catalog_number": "8190HD 10”",
+          "mfr": "IVE",
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "OH STOP",
+          "catalog_number": "90S",
+          "mfr": "GLY",
+          "finish": "BLK"
+        },
+        {
+          "qty": 1,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP LONG",
+          "mfr": "LCN",
+          "finish": "622"
+        },
+        {
+          "qty": 1,
+          "description": "GASKETING",
+          "catalog_number": "312A-S x door width x (2) door",
+          "mfr": "ZER",
+          "finish": "A"
+        },
+        {
+          "qty": 1,
+          "description": "DOOR SWEEP",
+          "catalog_number": "8192AA x door width",
+          "mfr": "ZER",
+          "finish": "AA"
+        },
+        {
+          "qty": 1,
+          "description": "THRESHOLD",
+          "catalog_number": "545A x door width",
+          "mfr": "ZER",
+          "finish": "A"
+        }
+      ]
+    }
+  ]
+}

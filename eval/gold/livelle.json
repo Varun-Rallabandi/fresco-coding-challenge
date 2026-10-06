@@ -1,0 +1,425 @@
+{
+  "file": "Livelle Mulholland - Life Plan Community/2025-12-12_Livelle_Bid_Set_Project_Manual_Vol1_rev1.pdf",
+  "pages": [
+    643,
+    644,
+    647
+  ],
+  "sets": [
+    {
+      "set_number": "1.0",
+      "description": "Unit Entry Door (WDL)",
+      "not_used": false,
+      "first_page": 643,
+      "components": [
+        {
+          "qty": 3,
+          "description": "Hinge, Full Mortise",
+          "catalog_number": "TA2714",
+          "mfr": "MK",
+          "finish": "US15"
+        },
+        {
+          "qty": 1,
+          "description": "Access Control Cyl Lock",
+          "catalog_number": "70 IN100-10XG77-BIPS B LMW",
+          "mfr": "SA",
+          "finish": "US15"
+        },
+        {
+          "qty": 1,
+          "description": "Small Format Inter Core",
+          "catalog_number": "7300B CKC GMK",
+          "mfr": "SA",
+          "finish": "US15"
+        },
+        {
+          "qty": 1,
+          "description": "Surface Closer Cush Stop",
+          "catalog_number": "CA1601 P",
+          "mfr": "NO",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "Wall Stop",
+          "catalog_number": "430-RKW",
+          "mfr": "RO",
+          "finish": "US15"
+        },
+        {
+          "qty": 1,
+          "description": "Viewer",
+          "catalog_number": "626",
+          "mfr": "RO",
+          "finish": "DCRM"
+        },
+        {
+          "qty": 1,
+          "description": "Sound Gasketing",
+          "catalog_number": "S773BL",
+          "mfr": "PE",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Door Bottom",
+          "catalog_number": "2113AV",
+          "mfr": "PE",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Threshold",
+          "catalog_number": "Per Detail / Type as Req",
+          "mfr": "PE",
+          "finish": null
+        }
+      ]
+    },
+    {
+      "set_number": "2.0",
+      "description": "Unit Entry Fire Glazed Storefront Door (WDL)",
+      "not_used": false,
+      "first_page": 644,
+      "components": [
+        {
+          "qty": 4,
+          "description": "Hinge, Full Mortise, Hvy Wt",
+          "catalog_number": "T4A3786",
+          "mfr": "MK",
+          "finish": "US15"
+        },
+        {
+          "qty": 1,
+          "description": "Access Control Cyl Lock",
+          "catalog_number": "70 IN100-10XG77-BIPS B LMW",
+          "mfr": "SA",
+          "finish": "US15"
+        },
+        {
+          "qty": 1,
+          "description": "Small Format Inter Core",
+          "catalog_number": "7300B CKC GMK",
+          "mfr": "SA",
+          "finish": "US15"
+        },
+        {
+          "qty": 1,
+          "description": "Surface Closer Cush Stop",
+          "catalog_number": "CA1601 P",
+          "mfr": "NO",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "Viewer",
+          "catalog_number": "626",
+          "mfr": "RO",
+          "finish": "DCRM"
+        },
+        {
+          "qty": 1,
+          "description": "Sound Gasketing",
+          "catalog_number": "S773BL",
+          "mfr": "PE",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Door Bottom",
+          "catalog_number": "2113AV",
+          "mfr": "PE",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Threshold",
+          "catalog_number": "Per Detail / Type as Req",
+          "mfr": "PE",
+          "finish": null
+        }
+      ]
+    },
+    {
+      "set_number": "3.0",
+      "description": "Villa Custom Door (WDL)",
+      "not_used": false,
+      "first_page": 644,
+      "components": [
+        {
+          "qty": 1,
+          "description": "Pivot Set",
+          "catalog_number": "195",
+          "mfr": "RF",
+          "finish": "622"
+        },
+        {
+          "qty": 2,
+          "description": "Intermediate Pivot",
+          "catalog_number": "M19",
+          "mfr": "RF",
+          "finish": "622"
+        },
+        {
+          "qty": 1,
+          "description": "Access Control Mort Lock",
+          "catalog_number": "IN100-82277-BIPS LNMW LC",
+          "mfr": "SA",
+          "finish": "BSP"
+        },
+        {
+          "qty": 1,
+          "description": "Mortise Cylinder",
+          "catalog_number": "72 43 verify cam",
+          "mfr": "SA",
+          "finish": "BSP"
+        },
+        {
+          "qty": 1,
+          "description": "Small Format Inter Core",
+          "catalog_number": "7300B CKC GMK",
+          "mfr": "SA",
+          "finish": "US4"
+        },
+        {
+          "qty": 1,
+          "description": "Door Stop",
+          "catalog_number": "RM850",
+          "mfr": "RO",
+          "finish": "BSP"
+        },
+        {
+          "qty": 1,
+          "description": "Sweep",
+          "catalog_number": "18062BSPNB",
+          "mfr": "PE",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Threshold",
+          "catalog_number": "Per Detail / Type as Req",
+          "mfr": "PE",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Viewer",
+          "catalog_number": "627",
+          "mfr": "RO",
+          "finish": "BLK"
+        }
+      ]
+    },
+    {
+      "set_number": "4.0",
+      "description": "Unit Garage Door U1F",
+      "not_used": false,
+      "first_page": 644,
+      "components": [
+        {
+          "qty": 4,
+          "description": "Hinge, Full Mortise",
+          "catalog_number": "TA2714",
+          "mfr": "MK",
+          "finish": "US15"
+        },
+        {
+          "qty": 1,
+          "description": "Turn Bolt",
+          "catalog_number": "V04 468",
+          "mfr": "SA",
+          "finish": "US26D"
+        },
+        {
+          "qty": 1,
+          "description": "Passage Latch",
+          "catalog_number": "12 28 DLU15 COMB",
+          "mfr": "SA",
+          "finish": "US15"
+        },
+        {
+          "qty": 1,
+          "description": "Surface Closer",
+          "catalog_number": "1601 P (mount inside room)",
+          "mfr": "NO",
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "Wall Stop",
+          "catalog_number": "430-RKW",
+          "mfr": "RO",
+          "finish": "US15"
+        },
+        {
+          "qty": 1,
+          "description": "Gasketing",
+          "catalog_number": "S88BL",
+          "mfr": "PE",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Door Bottom",
+          "catalog_number": "2113AV",
+          "mfr": "PE",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Threshold",
+          "catalog_number": "Per Detail / Type as Req",
+          "mfr": "PE",
+          "finish": null
+        }
+      ]
+    },
+    {
+      "set_number": "15.0",
+      "description": "Unit Closet Door Pairs U21, U21A, U21B, U21C, U21D, U21E, U21F, U21G, U21H, U21I, U23. U23A, U23B, U23C, U23D, U27G, U27H",
+      "not_used": false,
+      "first_page": 647,
+      "components": [
+        {
+          "qty": 6,
+          "description": "Hinge, Full Mortise",
+          "catalog_number": "RC T2714 4\" x 4\"",
+          "mfr": "MK",
+          "finish": "US15"
+        },
+        {
+          "qty": 2,
+          "description": "Roller Latch",
+          "catalog_number": "911RC",
+          "mfr": "RO",
+          "finish": "US26D"
+        },
+        {
+          "qty": 2,
+          "description": "Half Dummy Trim",
+          "catalog_number": "DLU93 COMB",
+          "mfr": "SA",
+          "finish": "US15"
+        },
+        {
+          "qty": 2,
+          "description": "Hinge Pin Door Stop",
+          "catalog_number": "76306",
+          "mfr": "MK",
+          "finish": "US26D"
+        }
+      ]
+    },
+    {
+      "set_number": "16.0",
+      "description": "Unit Closet Door Pairs U27A, U27B, U27C, U27D, U27E",
+      "not_used": false,
+      "first_page": 647,
+      "components": [
+        {
+          "qty": 4,
+          "description": "Hinge, Full Mortise",
+          "catalog_number": "RC T2714 3-1/2\" x 3-1/2\"",
+          "mfr": "MK",
+          "finish": "US15"
+        },
+        {
+          "qty": 2,
+          "description": "Roller Latch",
+          "catalog_number": "911RC",
+          "mfr": "RO",
+          "finish": "US26D"
+        },
+        {
+          "qty": 2,
+          "description": "Half Dummy Trim",
+          "catalog_number": "DLU93 COMB",
+          "mfr": "SA",
+          "finish": "US15"
+        },
+        {
+          "qty": 2,
+          "description": "Door Stop",
+          "catalog_number": "519",
+          "mfr": "RO",
+          "finish": "US15"
+        }
+      ]
+    },
+    {
+      "set_number": "17.0",
+      "description": "Unit Sliding Pocket Doors U2, U2A, U10",
+      "not_used": false,
+      "first_page": 647,
+      "components": [
+        {
+          "qty": 1,
+          "description": "Hardware Set",
+          "catalog_number": "LP200A 6'",
+          "mfr": "PE",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Pocket Door Latch",
+          "catalog_number": "1074-1 Stockholm",
+          "mfr": "TC",
+          "finish": "630"
+        }
+      ]
+    },
+    {
+      "set_number": "18.0",
+      "description": "Sliding Pocket Door",
+      "not_used": false,
+      "first_page": 647,
+      "components": [
+        {
+          "qty": 1,
+          "description": "Hardware Set",
+          "catalog_number": "LP200A 6'",
+          "mfr": "PE",
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Pocket Door Latch @ Privacy",
+          "catalog_number": "1074-1 Stockholm",
+          "mfr": "TC",
+          "finish": "630"
+        },
+        {
+          "qty": 2,
+          "description": "Pull",
+          "catalog_number": "RM5270-12 Mtg-Type 5HD",
+          "mfr": "RO",
+          "finish": "US32D"
+        }
+      ]
+    },
+    {
+      "set_number": "19.0",
+      "description": "Unit Bi-Pass Doors U26",
+      "not_used": false,
+      "first_page": 647,
+      "components": [
+        {
+          "qty": 1,
+          "description": "Sliding Door Hdwe",
+          "catalog_number": "HBP200A length as required",
+          "mfr": "PE",
+          "finish": null
+        },
+        {
+          "qty": 2,
+          "description": "Flush Pull",
+          "catalog_number": "860",
+          "mfr": "RO",
+          "finish": "US32D"
+        }
+      ]
+    }
+  ]
+}

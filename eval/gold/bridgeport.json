@@ -1,0 +1,336 @@
+{
+  "file": "81-85 Bridgeport/08-70-00-Hardware-Schedule.pdf",
+  "pages": [
+    4,
+    5
+  ],
+  "sets": [
+    {
+      "set_number": "2",
+      "description": null,
+      "not_used": false,
+      "first_page": 4,
+      "components": [
+        {
+          "qty": 1,
+          "description": "Continuous Hinge",
+          "catalog_number": "112XY-83\" C28 EPT @ 42\" Top Down",
+          "mfr": null,
+          "finish": "C28"
+        },
+        {
+          "qty": 1,
+          "description": "Continuous Hinge",
+          "catalog_number": "112XY-83\" C28",
+          "mfr": null,
+          "finish": "C28"
+        },
+        {
+          "qty": 1,
+          "description": "Accessory",
+          "catalog_number": "EPT-10-689",
+          "mfr": null,
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "Electrified Exit Device",
+          "catalog_number": "RX-MEL-24-R-C 630 718C 626 LHR 4' LENGTH CON 965 x 2147 Door",
+          "mfr": null,
+          "finish": "626/630"
+        },
+        {
+          "qty": 1,
+          "description": "Exit Device",
+          "catalog_number": "24-R L 630 RHR 4' LENGTH 965 x 2147 Door",
+          "mfr": null,
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "Cylinder",
+          "catalog_number": "951 626 1 1/4\" G 6-Pin Open",
+          "mfr": null,
+          "finish": "626"
+        },
+        {
+          "qty": 1,
+          "description": "Removable Mullion",
+          "catalog_number": "KR-4023 689 84 17/32\"",
+          "mfr": null,
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "Cylinder",
+          "catalog_number": "985 626 1 1/4\" G 6-Pin Open",
+          "mfr": null,
+          "finish": "626"
+        },
+        {
+          "qty": 2,
+          "description": "Door Pull",
+          "catalog_number": "8145EZHD-18 C32D-316",
+          "mfr": null,
+          "finish": "C32D-316"
+        },
+        {
+          "qty": 1,
+          "description": "Card Access",
+          "catalog_number": "Card Reader & Fobs By Security Contractor",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 2,
+          "description": "Overhead Door Stop",
+          "catalog_number": "104S C26D",
+          "mfr": null,
+          "finish": "C26D"
+        },
+        {
+          "qty": 1,
+          "description": "Surface Closer",
+          "catalog_number": "SC71A Rw/ PA 689 SC70A-18",
+          "mfr": null,
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "Auto Operator",
+          "catalog_number": "Horton 4100 LHR Push Series",
+          "mfr": null,
+          "finish": "US28"
+        },
+        {
+          "qty": 2,
+          "description": "Actuator",
+          "catalog_number": "8310-813",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 2,
+          "description": "Mounting Box",
+          "catalog_number": "9530-18 628",
+          "mfr": null,
+          "finish": "628"
+        },
+        {
+          "qty": 1,
+          "description": "Weatherstripping",
+          "catalog_number": "Weatherstrip Set By Door Supplier",
+          "mfr": null,
+          "finish": "CA"
+        },
+        {
+          "qty": 1,
+          "description": "Threshold",
+          "catalog_number": "CT-65(Stock Size) x 76\"",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 2,
+          "description": "Door Postion Switch",
+          "catalog_number": "679-05HM",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Schematic",
+          "catalog_number": "Opening Schematic By Others",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": null,
+          "catalog_number": "Power Supply - By Security Contractor",
+          "mfr": null,
+          "finish": null
+        }
+      ]
+    },
+    {
+      "set_number": "3",
+      "description": null,
+      "not_used": false,
+      "first_page": 4,
+      "components": [
+        {
+          "qty": 3,
+          "description": "Standard Hinge",
+          "catalog_number": "TA714 4 1/2\" x 4\" C26D",
+          "mfr": null,
+          "finish": "C26D"
+        },
+        {
+          "qty": 1,
+          "description": "Lockset",
+          "catalog_number": "W581 P6 LAT/LAT 626/626 G",
+          "mfr": null,
+          "finish": "626/626"
+        },
+        {
+          "qty": 1,
+          "description": "Floor Door Stop",
+          "catalog_number": "S102LF C26D",
+          "mfr": null,
+          "finish": "C26D"
+        },
+        {
+          "qty": 3,
+          "description": "Door Silencer",
+          "catalog_number": "SR64 GRY",
+          "mfr": null,
+          "finish": "GRY"
+        }
+      ]
+    },
+    {
+      "set_number": "4",
+      "description": null,
+      "not_used": false,
+      "first_page": 5,
+      "components": [
+        {
+          "qty": 3,
+          "description": "Standard Hinge",
+          "catalog_number": "TA714 4 1/2\" x 4\" C26D",
+          "mfr": null,
+          "finish": "C26D"
+        },
+        {
+          "qty": 1,
+          "description": "Lockset",
+          "catalog_number": "W511 P6 LAT/LAT 626/626 G",
+          "mfr": null,
+          "finish": "626/626"
+        },
+        {
+          "qty": 1,
+          "description": "Wall Door Stop",
+          "catalog_number": "63F-626E",
+          "mfr": null,
+          "finish": "-626E"
+        },
+        {
+          "qty": 3,
+          "description": "Door Silencer",
+          "catalog_number": "SR64 GRY",
+          "mfr": null,
+          "finish": "GRY"
+        }
+      ]
+    },
+    {
+      "set_number": "5",
+      "description": null,
+      "not_used": false,
+      "first_page": 5,
+      "components": [
+        {
+          "qty": 3,
+          "description": "Standard Hinge",
+          "catalog_number": "TA714 4 1/2\" x 4\" C26D",
+          "mfr": null,
+          "finish": "C26D"
+        },
+        {
+          "qty": 1,
+          "description": "Lockset",
+          "catalog_number": "T581 P6 LAT/LAT 626/626 G 23981152",
+          "mfr": null,
+          "finish": "626/626"
+        },
+        {
+          "qty": 1,
+          "description": "Electric Strike",
+          "catalog_number": "6400- 24VDC-630",
+          "mfr": null,
+          "finish": "630"
+        },
+        {
+          "qty": 1,
+          "description": "Card Access",
+          "catalog_number": "Card Reader & Fobs By Security Contractor",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Door Postion Switch",
+          "catalog_number": "679-05HM",
+          "mfr": null,
+          "finish": null
+        },
+        {
+          "qty": 1,
+          "description": "Floor Door Stop",
+          "catalog_number": "S102LF C26D",
+          "mfr": null,
+          "finish": "C26D"
+        },
+        {
+          "qty": 3,
+          "description": "Door Silencer",
+          "catalog_number": "SR64 GRY",
+          "mfr": null,
+          "finish": "GRY"
+        }
+      ]
+    },
+    {
+      "set_number": "6",
+      "description": null,
+      "not_used": false,
+      "first_page": 5,
+      "components": [
+        {
+          "qty": 3,
+          "description": "Standard Hinge",
+          "catalog_number": "TA714 4 1/2\" x 4\" C26D",
+          "mfr": null,
+          "finish": "C26D"
+        },
+        {
+          "qty": 1,
+          "description": "Latchset",
+          "catalog_number": "T101 LAT/LAT 626/626",
+          "mfr": null,
+          "finish": "626/626"
+        },
+        {
+          "qty": 1,
+          "description": "Dead Lock",
+          "catalog_number": "B660 P6 626/626 KD C Final Keying By Canada Post",
+          "mfr": null,
+          "finish": "626/626"
+        },
+        {
+          "qty": 1,
+          "description": "Surface Closer",
+          "catalog_number": "SC81A Rw/ PA 689",
+          "mfr": null,
+          "finish": "689"
+        },
+        {
+          "qty": 1,
+          "description": "Floor Door Stop",
+          "catalog_number": "S102LF C26D",
+          "mfr": null,
+          "finish": "C26D"
+        },
+        {
+          "qty": 3,
+          "description": "Door Silencer",
+          "catalog_number": "SR64 GRY",
+          "mfr": null,
+          "finish": "GRY"
+        }
+      ]
+    }
+  ]
+}
