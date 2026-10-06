@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+.pytest_cache/
+.env
+.DS_Store
+corrections/
+samples/
+eval/last_run_misses.json
+.cache/

@@ -1,0 +1,14 @@
+# core extraction
+pymupdf==1.28.2
+pdfplumber==0.11.10
+pydantic==2.13.5
+# review UI
+streamlit==1.65.0
+pandas==3.0.6
+pillow==12.3.0
+# HTTP API + background jobs
+fastapi==0.142.2
+uvicorn==0.54.0
+python-multipart==0.0.32
+# tests
+pytest==9.1.1
