@@ -6,6 +6,7 @@ data/
 .env
 .DS_Store
 corrections/
-samples/
+samples/*
+!samples/ami_hardware_section.pdf
 eval/last_run_misses.json
 .cache/
