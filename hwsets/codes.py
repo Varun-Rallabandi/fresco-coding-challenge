@@ -1,8 +1,4 @@
-"""Reference vocabularies for door hardware.
-
-These lists are what the column vote checks against. A single token like "PE"
-can sit in both lists; the column it lives in decides what it means.
-"""
+"""Manufacturer and finish codes, plus codes learned from each book's legend."""
 from __future__ import annotations
 
 import re
@@ -105,23 +101,14 @@ _STOP = {"BY", "OR", "AND", "THE", "TO", "OF", "IN", "ON", "FOR", "WITH", "SEE",
 
 
 class Vocabulary:
-    """Base dictionaries plus codes the specbook defines for itself.
-
-    Many books print a legend ("PE - Pemko", "626  Satin Chromium Plated") before
-    the schedule. Reading it first means unusual codes like "GS" or "RU" are
-    understood the way this particular book means them.
-    """
+    """Base code lists plus codes from the book's own legend (e.g. "PE - Pemko")."""
 
     def __init__(self) -> None:
         self.learned_mfr: dict[str, str] = {}
         self.learned_finish: dict[str, str] = {}
 
     def learn_from_lines(self, texts: list[str]) -> None:
-        """Find legend blocks: at least three code/name pairs close together.
-
-        Pairs come either on one line ("PE - Pemko") or split over two lines
-        ("EDW" then "Edwards Signaling"), which is how many PDFs extract tables.
-        """
+        """Find legend blocks (3+ code/name pairs close together)."""
         texts = [t.strip() for t in texts]
         pairs: list[tuple[int, str, str]] = []
         for i, t in enumerate(texts):

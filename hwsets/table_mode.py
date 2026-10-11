@@ -1,15 +1,4 @@
-"""Table-format schedules: the set number lives in its own column.
-
-    SET | HARDWARE TYPE | MANUFACTURER - PRODUCT | QTY | FINISH | NOTES
-    5.1   MORTISE HINGE   IVES - 5BB1 4.5" x 4.5"   2     613      ...
-    STUDY HW MORTISE ...  IVES - 5BB1HW ...         1     613      ...
-    ROOM
-
-Here there are no "SET #1" header lines to split on. Instead the column under
-the SET heading tells us where each set starts (a new number appears) and what
-it's for (the words under the number, e.g. "STUDY ROOM SINGLE DOOR"). Column
-positions come straight from the heading row.
-"""
+"""Schedules laid out as a table with a SET column (e.g. Roselle)."""
 from __future__ import annotations
 
 import re

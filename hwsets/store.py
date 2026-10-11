@@ -1,12 +1,4 @@
-"""Data model for jobs and human corrections (SQLite).
-
-    jobs          one row per uploaded PDF: queued -> running -> done | failed
-    corrections   one row per field a reviewer changed, so we can measure where
-                  the extractor is wrong and turn fixes into new answer keys
-
-Extraction results themselves live in the cache (see cache.py), keyed by the
-file fingerprint; a job just points at its result.
-"""
+"""SQLite tables for jobs and corrections."""
 from __future__ import annotations
 
 import sqlite3

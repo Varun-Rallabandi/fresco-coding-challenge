@@ -1,8 +1,4 @@
-"""Stage 2: turn a PDF page into words and lines, each with its position.
-
-Everything downstream works on these Line objects, so every extracted value
-can be traced back to an exact box on the page.
-"""
+"""Words and lines with positions for each page (OCR for scanned pages)."""
 from __future__ import annotations
 
 import re
@@ -54,12 +50,7 @@ class Line:
 
 
 def words_to_lines(words: list[Word], page_no: int, page_height: float = 792.0) -> list[Line]:
-    """Group words that share a row into lines, left to right.
-
-    Table cells are often vertically centred, so a quantity can sit a few points
-    lower than its description. Words join the current line when they start
-    within ~70% of a text height of the line's first word.
-    """
+    """Group words into lines. Cells can be vertically centred, so allow some slack."""
     words = sorted((w for w in words if w.text.strip()), key=lambda w: (w.top, w.x0))
     rows: list[list[Word]] = []
     for w in words:
@@ -86,13 +77,7 @@ def _rejoin(words: list[Word]) -> list[Word]:
 
 
 def read_page_lines(pdf: pdfplumber.PDF, page_no: int, mu_doc=None) -> tuple[list[Line], bool]:
-    """Words with positions for one page. Returns (lines, used_ocr).
-
-    Digital PDFs carry a text layer, so we read it directly. A scanned page has
-    no text layer, just a picture; then we run OCR (optical character
-    recognition: turning an image of text into words with boxes) and feed those
-    words through exactly the same pipeline.
-    """
+    """Lines for one page, using OCR if there's no text layer. Returns (lines, used_ocr)."""
     page = pdf.pages[page_no - 1]
     raw = page.extract_words(x_tolerance=3, y_tolerance=3, keep_blank_chars=False)
     words = [Word(_clean(w["text"]), w["x0"], w["x1"], w["top"], w["bottom"]) for w in raw]
@@ -121,8 +106,7 @@ def ocr_page(mu_doc, page_no: int, dpi: int = 300) -> list[Word]:
     out = []
     for x0, y0, x1, y1, text, *_ in page.get_text("words", textpage=tp):
         t = _clean(text)
-        # Icons and specks get "read" as stray symbols ("=", "~", "|"); a real word
-        # always has at least one letter or digit.
+        # skip stray symbols from icons
         if t and re.search(r"[A-Za-z0-9]", t):
             out.append(Word(t, x0, x1, y0, y1))
     return out
@@ -141,12 +125,7 @@ def _shape(line: Line) -> str:
 
 
 def strip_boilerplate(pages: dict[int, list[Line]]) -> dict[int, list[Line]]:
-    """Drop running headers/footers: text that repeats at the same height on many pages.
-
-    Digits are masked so "Page 4 of 49" and "Page 5 of 49" count as the same line.
-    Only the top and bottom margins are considered, so a hinge row that happens to
-    sit at the same height on every page is never mistaken for a header.
-    """
+    """Remove headers/footers that repeat at the same height on many pages."""
     from .boundaries import match_header  # set headers are content, never boilerplate
 
     def in_margin(l: Line) -> bool:

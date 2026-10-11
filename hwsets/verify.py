@@ -1,11 +1,4 @@
-"""Grounding check: every value we output must be printed on the page.
-
-For each component
-we look at the words physically inside that set's box on that page and confirm
-each field's text is made of those words. A value that isn't on the page is
-removed (set to null) and the set gets a warning, so a parsing mistake (two
-words fused, text pulled from the wrong place) can't reach the final output.
-"""
+"""Drop any value that isn't actually printed inside the set's box."""
 from __future__ import annotations
 
 import re
@@ -36,11 +29,7 @@ def page_vocab(lines: list[Line], bbox: tuple[float, float, float, float], pad: 
 
 
 def is_grounded(value: str, vocab: set[str], squashed: str) -> bool:
-    """True when the value can be rebuilt from words on the page.
-
-    Exact tokens are the normal case. The squashed fallback allows for text that
-    the PDF split differently ("N GP" vs "NGP", or a hyphen break across lines).
-    """
+    """True if the value can be built from words on the page (also tries with spaces removed)."""
     toks = _tokens(value)
     if all(t in vocab for t in toks):
         return True
@@ -48,11 +37,7 @@ def is_grounded(value: str, vocab: set[str], squashed: str) -> bool:
 
 
 def set_vocab(hs: HardwareSet, lines_by_page: dict[int, list[Line]]) -> tuple[set[str], str]:
-    """All words inside the set's footprint, across every page it spans.
-
-    A component can wrap across a page break, so we check against the whole set,
-    never against neighbouring sets.
-    """
+    """Words inside the set's box on every page it spans."""
     vocab: set[str] = set()
     squashed = []
     for span in hs.location:

@@ -1,4 +1,4 @@
-"""Output schema. Every extraction result is validated against these models."""
+"""Output models."""
 from __future__ import annotations
 
 from typing import Optional

@@ -1,9 +1,4 @@
-"""The pipeline: PDF in, validated hardware sets out.
-
-    locate  ->  read lines  ->  learn legend  ->  split into sets  ->  vote on columns  ->  parse rows
-
-Each stage lives in its own module; this file only wires them together.
-"""
+"""Main pipeline: find pages -> read lines -> split sets -> columns -> rows."""
 from __future__ import annotations
 
 import re
@@ -167,8 +162,7 @@ class RowParser:
             if self.is_row_start(l) or (after_table_header and not rows
                                         and self.cmap.kind_at(l.words[0].x0) in ("description", "unit", "catalog")
                                         and not NOTE_RE.match(l.text)):
-                # Directly under a column header, the first line is a component even
-                # without a quantity ("ALL HARDWARE BY DOOR MANUFACTURER").
+                # first line under a header row is a component even without a qty
                 rows.append(self.new_component(l))
             elif not rows:
                 if NOT_USED_RE.search(l.text):
@@ -217,8 +211,7 @@ class RowParser:
         if val.upper() in PLACEHOLDER or re.fullmatch(r"[-–—_\s]+", val):
             return None  # "---" means "nothing here", not a code
         squeezed = "".join(parts)
-        # Only re-join when the pieces are tiny AND the result is a code we know;
-        # otherwise we would be inventing a value the page doesn't contain.
+        # only re-join tiny pieces that make a known code
         if len(parts) > 1 and all(len(p) <= 2 for p in parts) and (
                 self.vocab.is_mfr(squeezed) or self.vocab.is_finish(squeezed)):
             return squeezed
@@ -238,10 +231,7 @@ class RowParser:
             conf *= 0.9
         if not r["catalog"]:
             conf *= 0.9
-        # A row missing a value that its column almost always has usually means the
-        # words landed in the wrong column (e.g. the page is shifted). "By others"
-        # rows are allowed to be empty.
-        # (Finish is often legitimately blank, e.g. thresholds, so only mfr counts.)
+        # missing mfr when the column is almost always filled -> probably shifted columns
         cat = " ".join(r["catalog"]).upper()
         by_others = bool(re.search(r"(^|\(|\s)(BY|PROVIDED|FURNISHED|PER|COORDINATE)\b", cat))
         mfr_col = next((c for c in self.cmap.columns if c.kind == "mfr"), None)
@@ -294,11 +284,7 @@ def spans(lines: list[Line]) -> list[Span]:
 
 def extract(pdf_path: str | Path, pages: list[int] | None = None,
             cache: Cache | None = None) -> Extraction:
-    """Run the whole pipeline on one PDF.
-
-    pages  skip page-finding and read exactly these (1-based)
-    cache  reuse an earlier result for the identical file + options
-    """
+    """Run the pipeline on one PDF. pages: skip page finding and read these (1-based)."""
     t0 = time.time()
     pdf_path = str(pdf_path)
     if cache:
@@ -337,8 +323,7 @@ def extract(pdf_path: str | Path, pages: list[int] | None = None,
         return _finish(pdf_path, doc, pages, [], vocab, ocr_pages, table_sets, t0, cache,
                        cache.result_key(pdf_path, pages) if cache else None, fmt="table")
 
-    # Columns are learned per schedule (a contiguous run of pages); a big manual can
-    # contain several schedules laid out differently. Small runs borrow the book-wide map.
+    # learn columns per schedule (run of pages); small runs use the whole-book map
     def column_map(sets_: list[RawSet]) -> tuple[ColumnMap, int]:
         lines_ = [l for s in sets_ for l in s.lines]
         heads = [l for l in lines_ if is_table_header(l)]
@@ -355,9 +340,7 @@ def extract(pdf_path: str | Path, pages: list[int] | None = None,
             cmap = book_map
         parser = RowParser(cmap, vocab)
         parsed = [parser.parse(r) for r in members]
-        # Judge the schedule as a whole: if most of its sets look like door hardware,
-        # keep every set in it (an empty one is still a set the estimator must see).
-        # If most don't, this "schedule" is prose from another section; drop it.
+        # skip runs where most sets don't look like door hardware
         good = sum(1 for s in parsed if s.not_used or looks_like_hardware(s))
         if good < 0.5 * len(parsed):
             continue
@@ -404,10 +387,7 @@ def _finish(pdf_path, doc, pages, reports, vocab, ocr_pages, sets, t0, cache, ke
 
 
 def looks_like_hardware(s: HardwareSet) -> bool:
-    """Reject "sets" that are really prose from another section ("Set 1" in a metals spec).
-
-    Real components have short descriptions, and most of them name a piece of hardware.
-    """
+    """False for prose that matched a set header (e.g. "Set 1" in a metals spec)."""
     comps = s.components
     if not comps:
         return False

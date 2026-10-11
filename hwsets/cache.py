@@ -1,12 +1,4 @@
-"""Small SQLite cache so repeat work is free.
-
-One table:
-  results    full extraction output, keyed by (file fingerprint, pipeline version, options)
-
-The file fingerprint is a SHA-256 of the PDF bytes, so renaming or moving a file
-still hits the cache, while any change to the PDF misses it. Bumping
-PIPELINE_VERSION invalidates old results when the extraction logic changes.
-"""
+"""SQLite cache keyed by a hash of the PDF bytes."""
 from __future__ import annotations
 
 import hashlib

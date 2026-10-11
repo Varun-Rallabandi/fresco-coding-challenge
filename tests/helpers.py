@@ -1,4 +1,4 @@
-"""Build tiny fake pages so each rule can be tested on its own."""
+"""Helpers to build fake pages for tests."""
 from hwsets.layout import Line, Word
 
 # Column x positions for a typical "QTY | DESCRIPTION | CATALOG | FINISH | MFR" schedule.

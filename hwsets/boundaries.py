@@ -1,10 +1,9 @@
-"""Stage 3: find where each hardware set starts and stops."""
+"""Set header patterns and where each set starts/ends."""
 from __future__ import annotations
 
 import re
 
-# Optional outline prefix that some spec writers' auto-numbering adds ("PART 34 -", "3.", "A.").
-# A bare number is NOT a prefix: "1 Hardware Set LP200A" is a component row (qty 1), not a header.
+# optional numbering prefix like "PART 34 -" or "A." (a bare number is a qty, not a prefix)
 _PREFIX = r"(?:PART\s+\d+\s*[-–]\s*|\d+(?:\.\d+)*\.\s+|\d+\.\d+\s+|[A-Z]\.\s+)?"
 _NUM = r"(?P<num>(?:[A-Z]{1,2}[- ]?)?\d{1,4}(?:\.\d{1,3})?[A-Z]{0,4})\b"
 
@@ -32,8 +31,7 @@ def match_header(text: str) -> tuple[str, str] | None:
         m = rx.match(t)
         if m:
             rest = m.group("rest").strip()
-            # Prose such as "Group Number: 2." in an elevator spec ends in a period
-            # with nothing useful after it; those are rejected later if no rows follow.
+            # false hits from other sections get dropped later if no rows follow
             return m.group("num").upper(), rest
     return None
 

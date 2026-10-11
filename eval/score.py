@@ -1,17 +1,7 @@
-"""Score the extractor against hand-checked answer keys in eval/gold/.
+"""Score the extractor against eval/gold/.
 
-    python -m eval.score            # all gold files
-    python -m eval.score ami usi    # just these
-
-For every gold file we run the extractor on the whole book (page finding
-included), keep the sets whose header falls on the labeled pages, and compare.
-
-Metrics
-  set recall     gold sets we found (matched by set number)
-  set precision  sets we reported on those pages that really exist
-  field accuracy per component field, after lining components up in order
-  mfr/finish     accuracy on just those two fields, plus how often they were swapped
-  set exact      sets where every component and every field is right
+    python -m eval.score
+    python -m eval.score ami usi
 """
 from __future__ import annotations
 

@@ -1,10 +1,4 @@
-"""Stage 1: find which pages of a (possibly huge) project manual hold hardware sets.
-
-Project manuals can run to thousands of pages, and only a handful are the
-hardware schedule. Scanning plain text with PyMuPDF is fast (a 4,000-page book
-takes seconds), so we look at every page cheaply and only hand the hits to the
-slower, position-aware reader.
-"""
+"""Find the hardware schedule pages in a big project manual."""
 from __future__ import annotations
 
 import re
@@ -26,13 +20,7 @@ def code_count(text: str) -> int:
 
 
 def find_hardware_pages(pdf_path: str, doc: pymupdf.Document | None = None) -> list[int]:
-    """Return 1-based page numbers that belong to hardware schedules.
-
-    A page *starts* a run when it has a set header and enough hardware codes
-    around it. The run continues onto following pages (sets often spill over)
-    while those pages still look like schedule content, and stops at
-    "END OF SECTION".
-    """
+    """1-based pages that belong to hardware schedules."""
     doc = doc or pymupdf.open(pdf_path)
     texts = [p.get_text() for p in doc]
     pages: set[int] = set()

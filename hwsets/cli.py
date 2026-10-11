@@ -1,7 +1,5 @@
-"""Command line entry point.
-
-    python -m hwsets.cli extract path/to/book.pdf -o outputs/book.json
-    python -m hwsets.cli batch data/ -o outputs/
+"""python -m hwsets.cli extract book.pdf
+python -m hwsets.cli batch data/ -o outputs/
 """
 from __future__ import annotations
 

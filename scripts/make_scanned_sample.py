@@ -1,6 +1,4 @@
-"""Turn digital PDF pages into a "scanned" PDF: pictures only, no text layer.
-
-Used to prove the OCR path: run the extractor on both versions and compare.
+"""Make an image-only copy of some pages to test OCR.
 
     python scripts/make_scanned_sample.py data/book.pdf 397,398 samples/scanned.pdf
 """

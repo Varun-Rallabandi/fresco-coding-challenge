@@ -1,6 +1,6 @@
-"""Print a quick profile of each specbook: hardware pages and sample set headers.
+"""Quick look at each specbook: hardware pages and set headers.
 
-Usage: python scripts/survey.py data/
+    python scripts/survey.py data/
 """
 import re
 import sys

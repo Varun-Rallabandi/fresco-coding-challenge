@@ -1,19 +1,6 @@
-"""HTTP API with a background job queue.
+"""API: upload a PDF, poll the job, get the result.
 
     uvicorn api.server:app --reload
-
-    POST /jobs                 upload a PDF -> {"job_id": ...} immediately
-    GET  /jobs/{id}            status: queued | running | done | failed (+ run stats)
-    GET  /jobs/{id}/result     the extracted hardware sets (JSON)
-    POST /corrections          record a reviewer's fix to one field
-    GET  /corrections/summary  which fields get corrected most
-
-Why a queue: a 4,000-page project manual takes ~45 s. Instead of holding the
-HTTP request open, the upload returns a job id right away and a background
-worker does the work. Here the queue is an in-process asyncio.Queue with a few
-worker tasks; the extraction itself runs in a thread so the server stays
-responsive. To scale out you would swap the queue for Redis/SQS and run the
-workers as separate processes; the API and the job table would not change.
 """
 from __future__ import annotations
 

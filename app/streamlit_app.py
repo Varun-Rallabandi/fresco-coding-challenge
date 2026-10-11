@@ -1,4 +1,4 @@
-"""Review screen: see each extracted set on the page, fix mistakes, save corrections.
+"""Review UI.
 
     streamlit run app/streamlit_app.py
 """
@@ -37,11 +37,7 @@ cache, store = services()
 
 
 def local_books() -> list[str]:
-    """Books known to contain hardware sets (from `hwsets.cli batch`'s index), present in data/.
-
-    Paths are relative to the repo root. When data/ isn't there (e.g. the hosted demo),
-    fall back to the small PDFs committed in samples/.
-    """
+    """PDFs in data/ that have hardware sets, plus anything in samples/."""
     index = ROOT / "outputs" / "index.json"
     data = ROOT / "data"
     books = []

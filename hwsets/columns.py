@@ -1,16 +1,7 @@
-"""Stage 4: figure out what each column of a hardware schedule *is*.
+"""Find the columns in a schedule and figure out which is mfr vs finish.
 
-Spec writers line their schedules up in columns. We find those columns from where
-words start on the page (x position), then decide each column's job by weighing
-evidence from every row in the book at once:
-
-    * dictionary hits   - "IVE", "SCH", "LCN" are manufacturers; "626", "US26D" are finishes
-    * value shape       - short all-letter codes lean manufacturer; codes with digits lean finish
-    * header label      - a "MFR" / "FINISH" heading above the column
-    * position          - when there are two code columns, manufacturer is usually the last one
-
-A single ambiguous value such as "PE" (Pemko or Painted Enamel) never decides
-anything by itself. It takes the identity of the column it sits in.
+Each column is scored from all its rows (known codes, value shape, header
+label, position), so an ambiguous code like PE takes its column's type.
 """
 from __future__ import annotations
 
@@ -137,8 +128,7 @@ def build_column_map(row_lines: list[Line], header_lines: list[Line], vocab: Voc
         for w in h.words:
             kind = label_of(w.text)
             if kind:
-                # Labels are often centred over their column, so use the word's midpoint
-                # but never let it land left of the column it overlaps.
+                # labels are often centred over the column
                 i = max(cmap.index_of(w.x0), cmap.index_of((w.x0 + w.x1) / 2 - 10))
                 if i >= 0:
                     labels.setdefault(i, Counter())[kind] += 1
@@ -193,8 +183,7 @@ def build_column_map(row_lines: list[Line], header_lines: list[Line], vocab: Voc
             continue  # not enough evidence that this is a code column at all
         kind = "mfr" if mfr >= fin else "finish"
         s = stats[i]
-        # Shape alone ("has digits", "is short") is weak; a code column also needs real
-        # proof: values found in the dictionary or a header label saying what it is.
+        # need dictionary hits or a header label, not just shape
         proof = s["mfr_dict"] if kind == "mfr" else s["fin_dict"]
         if proof < 0.25 and not s["label"].get(kind):
             continue
@@ -203,8 +192,7 @@ def build_column_map(row_lines: list[Line], header_lines: list[Line], vocab: Voc
         taken.add(kind)
         col = cmap.columns[i]
         col.kind = kind
-        # Confidence = how far ahead the winning type is. A lead of 3 votes is near
-        # certain (0.98); a near-tie (lead 0.3) is a coin flip worth a human look (0.63).
+        # bigger lead = more confident
         col.confidence = 1 - 0.5 * math.exp(-abs(mfr - fin))
 
     # 3) description / catalog / notes among the remaining text columns.

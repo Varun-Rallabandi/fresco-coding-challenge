@@ -1,4 +1,4 @@
-"""One test per caveat called out in the challenge brief."""
+"""Tests for the cases called out in the brief."""
 from hwsets.boundaries import match_header, normalize_set_number
 from hwsets.codes import Vocabulary, is_ambiguous
 from hwsets.columns import build_column_map
