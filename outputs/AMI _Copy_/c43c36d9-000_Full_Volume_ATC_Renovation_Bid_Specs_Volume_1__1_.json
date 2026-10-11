@@ -124,7 +124,7 @@
   },
   "stats": {
     "format": "list",
-    "seconds": 3.25,
+    "seconds": 3.73,
     "pages_in_pdf": 611,
     "hardware_pages": 23,
     "ocr_pages": [],
@@ -132,7 +132,6 @@
     "components": 398,
     "low_confidence_sets": 0,
     "ungrounded_values_removed": 0,
-    "ai_rereads": 0,
     "cache": "miss"
   },
   "sets": [
@@ -166,7 +165,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 397,
           "bbox": [
             80.0,
@@ -184,7 +182,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 397,
           "bbox": [
             80.0,
@@ -202,7 +199,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 397,
           "bbox": [
             80.0,
@@ -220,7 +216,6 @@
           "finish": "GRY",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 397,
           "bbox": [
             80.0,
@@ -264,7 +259,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 397,
           "bbox": [
             80.0,
@@ -282,7 +276,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 397,
           "bbox": [
             80.0,
@@ -300,7 +293,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 397,
           "bbox": [
             80.0,
@@ -318,7 +310,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 397,
           "bbox": [
             80.0,
@@ -336,7 +327,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 397,
           "bbox": [
             80.0,
@@ -354,7 +344,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 397,
           "bbox": [
             80.0,
@@ -372,7 +361,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 397,
           "bbox": [
             80.0,
@@ -390,7 +378,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 397,
           "bbox": [
             80.0,
@@ -408,7 +395,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 397,
           "bbox": [
             80.0,
@@ -452,7 +438,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -470,7 +455,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -488,7 +472,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -506,7 +489,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -524,7 +506,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -542,7 +523,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -560,7 +540,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -578,7 +557,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -596,7 +574,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -614,7 +591,6 @@
           "finish": "GRY",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -658,7 +634,6 @@
           "finish": "628",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -676,7 +651,6 @@
           "finish": "628",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -694,7 +668,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -712,7 +685,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -730,7 +702,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -748,7 +719,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -766,7 +736,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -784,7 +753,6 @@
           "finish": "ORG",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -802,7 +770,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -820,7 +787,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -838,7 +804,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -856,7 +821,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -874,7 +838,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -892,7 +855,6 @@
           "finish": "AA",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -910,7 +872,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 398,
           "bbox": [
             80.0,
@@ -954,7 +915,6 @@
           "finish": "628",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 399,
           "bbox": [
             80.0,
@@ -972,7 +932,6 @@
           "finish": "628",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 399,
           "bbox": [
             80.0,
@@ -990,7 +949,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 399,
           "bbox": [
             80.0,
@@ -1008,7 +966,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 399,
           "bbox": [
             80.0,
@@ -1026,7 +983,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 399,
           "bbox": [
             80.0,
@@ -1044,7 +1000,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 399,
           "bbox": [
             80.0,
@@ -1062,7 +1017,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 399,
           "bbox": [
             80.0,
@@ -1080,7 +1034,6 @@
           "finish": "ORG",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 399,
           "bbox": [
             80.0,
@@ -1098,7 +1051,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 399,
           "bbox": [
             80.0,
@@ -1116,7 +1068,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 399,
           "bbox": [
             80.0,
@@ -1134,7 +1085,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 399,
           "bbox": [
             80.0,
@@ -1152,7 +1102,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 399,
           "bbox": [
             80.0,
@@ -1170,7 +1119,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 399,
           "bbox": [
             80.0,
@@ -1214,7 +1162,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 400,
           "bbox": [
             80.0,
@@ -1232,7 +1179,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 400,
           "bbox": [
             80.0,
@@ -1250,7 +1196,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 400,
           "bbox": [
             80.0,
@@ -1268,7 +1213,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 400,
           "bbox": [
             80.0,
@@ -1286,7 +1230,6 @@
           "finish": "ORG",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 400,
           "bbox": [
             80.0,
@@ -1304,7 +1247,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 400,
           "bbox": [
             80.0,
@@ -1322,7 +1264,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 400,
           "bbox": [
             80.0,
@@ -1340,7 +1281,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 400,
           "bbox": [
             80.0,
@@ -1358,7 +1298,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 400,
           "bbox": [
             80.0,
@@ -1402,7 +1341,6 @@
           "finish": "628",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1420,7 +1358,6 @@
           "finish": "628",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1438,7 +1375,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1456,7 +1392,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1474,7 +1409,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1492,7 +1426,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1510,7 +1443,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1528,7 +1460,6 @@
           "finish": "ORG",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1546,7 +1477,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1564,7 +1494,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1582,7 +1511,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1600,7 +1528,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1618,7 +1545,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1636,7 +1562,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1680,7 +1605,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1698,7 +1622,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1716,7 +1639,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1734,7 +1656,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1752,7 +1673,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1770,7 +1690,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1788,7 +1707,6 @@
           "finish": "AA",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 401,
           "bbox": [
             80.0,
@@ -1832,7 +1750,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 402,
           "bbox": [
             80.0,
@@ -1850,7 +1767,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 402,
           "bbox": [
             80.0,
@@ -1868,7 +1784,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 402,
           "bbox": [
             80.0,
@@ -1886,7 +1801,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 402,
           "bbox": [
             80.0,
@@ -1904,7 +1818,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 402,
           "bbox": [
             80.0,
@@ -1948,7 +1861,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 402,
           "bbox": [
             80.0,
@@ -1966,7 +1878,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 402,
           "bbox": [
             80.0,
@@ -1984,7 +1895,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 402,
           "bbox": [
             80.0,
@@ -2002,7 +1912,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 402,
           "bbox": [
             80.0,
@@ -2020,7 +1929,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 402,
           "bbox": [
             80.0,
@@ -2038,7 +1946,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 402,
           "bbox": [
             80.0,
@@ -2056,7 +1963,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 402,
           "bbox": [
             80.0,
@@ -2100,7 +2006,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 402,
           "bbox": [
             80.0,
@@ -2118,7 +2023,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 402,
           "bbox": [
             80.0,
@@ -2136,7 +2040,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 402,
           "bbox": [
             80.0,
@@ -2154,7 +2057,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 402,
           "bbox": [
             80.0,
@@ -2172,7 +2074,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 402,
           "bbox": [
             80.0,
@@ -2216,7 +2117,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2234,7 +2134,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2252,7 +2151,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2270,7 +2168,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2288,7 +2185,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2306,7 +2202,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2324,7 +2219,6 @@
           "finish": "GRY",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2368,7 +2262,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2386,7 +2279,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2404,7 +2296,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2422,7 +2313,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2440,7 +2330,6 @@
           "finish": "GRY",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2484,7 +2373,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2502,7 +2390,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2520,7 +2407,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2538,7 +2424,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2556,7 +2441,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2574,7 +2458,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2592,7 +2475,6 @@
           "finish": "GRY",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 403,
           "bbox": [
             80.0,
@@ -2636,7 +2518,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 404,
           "bbox": [
             80.0,
@@ -2654,7 +2535,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 404,
           "bbox": [
             80.0,
@@ -2672,7 +2552,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 404,
           "bbox": [
             80.0,
@@ -2690,7 +2569,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 404,
           "bbox": [
             80.0,
@@ -2708,7 +2586,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 404,
           "bbox": [
             80.0,
@@ -2726,7 +2603,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 404,
           "bbox": [
             80.0,
@@ -2770,7 +2646,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 404,
           "bbox": [
             80.0,
@@ -2788,7 +2663,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 404,
           "bbox": [
             80.0,
@@ -2806,7 +2680,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 404,
           "bbox": [
             80.0,
@@ -2824,7 +2697,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 404,
           "bbox": [
             80.0,
@@ -2842,7 +2714,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 404,
           "bbox": [
             80.0,
@@ -2860,7 +2731,6 @@
           "finish": "GRY",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 404,
           "bbox": [
             80.0,
@@ -2904,7 +2774,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 404,
           "bbox": [
             80.0,
@@ -2922,7 +2791,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 404,
           "bbox": [
             80.0,
@@ -2940,7 +2808,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 404,
           "bbox": [
             80.0,
@@ -2958,7 +2825,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 404,
           "bbox": [
             80.0,
@@ -2976,7 +2842,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 404,
           "bbox": [
             80.0,
@@ -2994,7 +2859,6 @@
           "finish": "GRY",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 404,
           "bbox": [
             80.0,
@@ -3038,7 +2902,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3056,7 +2919,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3074,7 +2936,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3092,7 +2953,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3110,7 +2970,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3128,7 +2987,6 @@
           "finish": "GRY",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3172,7 +3030,6 @@
           "finish": "628",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3190,7 +3047,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3208,7 +3064,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3226,7 +3081,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3244,7 +3098,6 @@
           "finish": "ANCL R",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3262,7 +3115,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3280,7 +3132,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3298,7 +3149,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3316,7 +3166,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3334,7 +3183,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3352,7 +3200,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3370,7 +3217,6 @@
           "finish": "A",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3388,7 +3234,6 @@
           "finish": "A",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 405,
           "bbox": [
             80.0,
@@ -3432,7 +3277,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 406,
           "bbox": [
             80.0,
@@ -3450,7 +3294,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 406,
           "bbox": [
             80.0,
@@ -3468,7 +3311,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 406,
           "bbox": [
             80.0,
@@ -3486,7 +3328,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 406,
           "bbox": [
             80.0,
@@ -3504,7 +3345,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 406,
           "bbox": [
             80.0,
@@ -3522,7 +3362,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 406,
           "bbox": [
             80.0,
@@ -3540,7 +3379,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 406,
           "bbox": [
             80.0,
@@ -3558,7 +3396,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 406,
           "bbox": [
             80.0,
@@ -3602,7 +3439,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 406,
           "bbox": [
             80.0,
@@ -3620,7 +3456,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 406,
           "bbox": [
             80.0,
@@ -3638,7 +3473,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 406,
           "bbox": [
             80.0,
@@ -3656,7 +3490,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 406,
           "bbox": [
             80.0,
@@ -3674,7 +3507,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 406,
           "bbox": [
             80.0,
@@ -3692,7 +3524,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 406,
           "bbox": [
             80.0,
@@ -3710,7 +3541,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 406,
           "bbox": [
             80.0,
@@ -3728,7 +3558,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 406,
           "bbox": [
             80.0,
@@ -3746,7 +3575,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 406,
           "bbox": [
             80.0,
@@ -3790,7 +3618,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 407,
           "bbox": [
             80.0,
@@ -3808,7 +3635,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 407,
           "bbox": [
             80.0,
@@ -3826,7 +3652,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 407,
           "bbox": [
             80.0,
@@ -3844,7 +3669,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 407,
           "bbox": [
             80.0,
@@ -3862,7 +3686,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 407,
           "bbox": [
             80.0,
@@ -3880,7 +3703,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 407,
           "bbox": [
             80.0,
@@ -3898,7 +3720,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 407,
           "bbox": [
             80.0,
@@ -3916,7 +3737,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 407,
           "bbox": [
             80.0,
@@ -3934,7 +3754,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 407,
           "bbox": [
             80.0,
@@ -3978,7 +3797,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 407,
           "bbox": [
             80.0,
@@ -3996,7 +3814,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 407,
           "bbox": [
             80.0,
@@ -4014,7 +3831,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 407,
           "bbox": [
             80.0,
@@ -4032,7 +3848,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 407,
           "bbox": [
             80.0,
@@ -4050,7 +3865,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 407,
           "bbox": [
             80.0,
@@ -4068,7 +3882,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 407,
           "bbox": [
             80.0,
@@ -4086,7 +3899,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 407,
           "bbox": [
             80.0,
@@ -4104,7 +3916,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 407,
           "bbox": [
             80.0,
@@ -4122,7 +3933,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 407,
           "bbox": [
             80.0,
@@ -4166,7 +3976,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4184,7 +3993,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4202,7 +4010,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4220,7 +4027,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4238,7 +4044,6 @@
           "finish": "ORG",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4256,7 +4061,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4274,7 +4078,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4292,7 +4095,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4310,7 +4112,6 @@
           "finish": "GRY",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4354,7 +4155,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4372,7 +4172,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4390,7 +4189,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4408,7 +4206,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4426,7 +4223,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4444,7 +4240,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4462,7 +4257,6 @@
           "finish": "ORG",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4480,7 +4274,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4498,7 +4291,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4516,7 +4308,6 @@
           "finish": "GRY",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4534,7 +4325,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 408,
           "bbox": [
             80.0,
@@ -4578,7 +4368,6 @@
           "finish": "628",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 409,
           "bbox": [
             80.0,
@@ -4596,7 +4385,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 409,
           "bbox": [
             80.0,
@@ -4614,7 +4402,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 409,
           "bbox": [
             80.0,
@@ -4632,7 +4419,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 409,
           "bbox": [
             80.0,
@@ -4650,7 +4436,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 409,
           "bbox": [
             80.0,
@@ -4668,7 +4453,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 409,
           "bbox": [
             80.0,
@@ -4686,7 +4470,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 409,
           "bbox": [
             80.0,
@@ -4704,7 +4487,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 409,
           "bbox": [
             80.0,
@@ -4722,7 +4504,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 409,
           "bbox": [
             80.0,
@@ -4740,7 +4521,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 409,
           "bbox": [
             80.0,
@@ -4758,7 +4538,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 409,
           "bbox": [
             80.0,
@@ -4776,7 +4555,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 409,
           "bbox": [
             80.0,
@@ -4794,7 +4572,6 @@
           "finish": "AA",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 409,
           "bbox": [
             80.0,
@@ -4812,7 +4589,6 @@
           "finish": "BLK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 409,
           "bbox": [
             80.0,
@@ -4830,7 +4606,6 @@
           "finish": "WHT",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 409,
           "bbox": [
             80.0,
@@ -4874,7 +4649,6 @@
           "finish": "628",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 410,
           "bbox": [
             80.0,
@@ -4892,7 +4666,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 410,
           "bbox": [
             80.0,
@@ -4910,7 +4683,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 410,
           "bbox": [
             80.0,
@@ -4928,7 +4700,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 410,
           "bbox": [
             80.0,
@@ -4946,7 +4717,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 410,
           "bbox": [
             80.0,
@@ -4964,7 +4734,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 410,
           "bbox": [
             80.0,
@@ -4982,7 +4751,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 410,
           "bbox": [
             80.0,
@@ -5000,7 +4768,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 410,
           "bbox": [
             80.0,
@@ -5018,7 +4785,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 410,
           "bbox": [
             80.0,
@@ -5036,7 +4802,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 410,
           "bbox": [
             80.0,
@@ -5054,7 +4819,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 410,
           "bbox": [
             80.0,
@@ -5072,7 +4836,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 410,
           "bbox": [
             80.0,
@@ -5090,7 +4853,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 410,
           "bbox": [
             80.0,
@@ -5108,7 +4870,6 @@
           "finish": "AA",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 410,
           "bbox": [
             80.0,
@@ -5152,7 +4913,6 @@
           "finish": "628",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 411,
           "bbox": [
             80.0,
@@ -5170,7 +4930,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 411,
           "bbox": [
             80.0,
@@ -5188,7 +4947,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 411,
           "bbox": [
             80.0,
@@ -5206,7 +4964,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 411,
           "bbox": [
             80.0,
@@ -5224,7 +4981,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 411,
           "bbox": [
             80.0,
@@ -5242,7 +4998,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 411,
           "bbox": [
             80.0,
@@ -5260,7 +5015,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 411,
           "bbox": [
             80.0,
@@ -5278,7 +5032,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 411,
           "bbox": [
             80.0,
@@ -5296,7 +5049,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 411,
           "bbox": [
             80.0,
@@ -5314,7 +5066,6 @@
           "finish": "AA",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 411,
           "bbox": [
             80.0,
@@ -5332,7 +5083,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 411,
           "bbox": [
             80.0,
@@ -5350,7 +5100,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 411,
           "bbox": [
             80.0,
@@ -5368,7 +5117,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 411,
           "bbox": [
             80.0,
@@ -5386,7 +5134,6 @@
           "finish": "AA",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 411,
           "bbox": [
             80.0,
@@ -5404,7 +5151,6 @@
           "finish": "A",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 411,
           "bbox": [
             80.0,
@@ -5422,7 +5168,6 @@
           "finish": "WHT",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 411,
           "bbox": [
             80.0,
@@ -5466,7 +5211,6 @@
           "finish": "628",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5484,7 +5228,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5502,7 +5245,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5520,7 +5262,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5538,7 +5279,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5556,7 +5296,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5574,7 +5313,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5592,7 +5330,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5610,7 +5347,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5628,7 +5364,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5646,7 +5381,6 @@
           "finish": "ANCL R",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5664,7 +5398,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5682,7 +5415,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5700,7 +5432,6 @@
           "finish": "PLA",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5718,7 +5449,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5736,7 +5466,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5754,7 +5483,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5772,7 +5500,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5790,7 +5517,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5808,7 +5534,6 @@
           "finish": "AA",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5826,7 +5551,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5844,7 +5568,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5862,7 +5585,6 @@
           "finish": "AA",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5880,7 +5602,6 @@
           "finish": "A",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5898,7 +5619,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5916,7 +5636,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5934,7 +5653,6 @@
           "finish": "BLK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5952,7 +5670,6 @@
           "finish": "WHT",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 412,
           "bbox": [
             80.0,
@@ -5996,7 +5713,6 @@
           "finish": "628",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6014,7 +5730,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6032,7 +5747,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6050,7 +5764,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6068,7 +5781,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6086,7 +5798,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6104,7 +5815,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6122,7 +5832,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6140,7 +5849,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6158,7 +5866,6 @@
           "finish": "AA",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6176,7 +5883,6 @@
           "finish": "BLK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6194,7 +5900,6 @@
           "finish": "WHT",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6238,7 +5943,6 @@
           "finish": "628",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6256,7 +5960,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6274,7 +5977,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6292,7 +5994,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6310,7 +6011,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6328,7 +6028,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6346,7 +6045,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6364,7 +6062,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6382,7 +6079,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6400,7 +6096,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6418,7 +6113,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6436,7 +6130,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6454,7 +6147,6 @@
           "finish": "AA",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 413,
           "bbox": [
             80.0,
@@ -6498,7 +6190,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6516,7 +6207,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6534,7 +6224,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6552,7 +6241,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6570,7 +6258,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6588,7 +6275,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6606,7 +6292,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6624,7 +6309,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6642,7 +6326,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6660,7 +6343,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6704,7 +6386,6 @@
           "finish": "652",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6722,7 +6403,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6740,7 +6420,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6758,7 +6437,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6776,7 +6454,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6794,7 +6471,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6812,7 +6488,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6830,7 +6505,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6848,7 +6522,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6866,7 +6539,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6884,7 +6556,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 414,
           "bbox": [
             80.0,
@@ -6928,7 +6599,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -6946,7 +6616,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -6964,7 +6633,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -6982,7 +6650,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -7000,7 +6667,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -7018,7 +6684,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -7036,7 +6701,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -7054,7 +6718,6 @@
           "finish": "AA",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -7072,7 +6735,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -7090,7 +6752,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -7108,7 +6769,6 @@
           "finish": "SP",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -7126,7 +6786,6 @@
           "finish": "AA",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -7144,7 +6803,6 @@
           "finish": "A",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -7162,7 +6820,6 @@
           "finish": "WHT",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -7206,7 +6863,6 @@
           "finish": "US28",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -7224,7 +6880,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -7242,7 +6897,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -7260,7 +6914,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -7278,7 +6931,6 @@
           "finish": "WHT",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 415,
           "bbox": [
             80.0,
@@ -7322,7 +6974,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 416,
           "bbox": [
             80.0,
@@ -7340,7 +6991,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 416,
           "bbox": [
             80.0,
@@ -7358,7 +7008,6 @@
           "finish": "BLK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 416,
           "bbox": [
             80.0,
@@ -7376,7 +7025,6 @@
           "finish": "WHT",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 416,
           "bbox": [
             80.0,
@@ -7394,7 +7042,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 416,
           "bbox": [
             80.0,
@@ -7438,7 +7085,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 416,
           "bbox": [
             80.0,
@@ -7456,7 +7102,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 416,
           "bbox": [
             80.0,
@@ -7474,7 +7119,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 416,
           "bbox": [
             80.0,
@@ -7492,7 +7136,6 @@
           "finish": "ORG",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 416,
           "bbox": [
             80.0,
@@ -7510,7 +7153,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 416,
           "bbox": [
             80.0,
@@ -7528,7 +7170,6 @@
           "finish": "AA",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 416,
           "bbox": [
             80.0,
@@ -7546,7 +7187,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 416,
           "bbox": [
             80.0,
@@ -7564,7 +7204,6 @@
           "finish": "SP",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 416,
           "bbox": [
             80.0,
@@ -7582,7 +7221,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 416,
           "bbox": [
             80.0,
@@ -7626,7 +7264,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 417,
           "bbox": [
             80.0,
@@ -7644,7 +7281,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 417,
           "bbox": [
             80.0,
@@ -7662,7 +7298,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 417,
           "bbox": [
             80.0,
@@ -7680,7 +7315,6 @@
           "finish": "ORG",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 417,
           "bbox": [
             80.0,
@@ -7698,7 +7332,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 417,
           "bbox": [
             80.0,
@@ -7716,7 +7349,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 417,
           "bbox": [
             80.0,
@@ -7734,7 +7366,6 @@
           "finish": "SP",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 417,
           "bbox": [
             80.0,
@@ -7752,7 +7383,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 417,
           "bbox": [
             80.0,
@@ -7796,7 +7426,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 417,
           "bbox": [
             80.0,
@@ -7814,7 +7443,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 417,
           "bbox": [
             80.0,
@@ -7832,7 +7460,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 417,
           "bbox": [
             80.0,
@@ -7850,7 +7477,6 @@
           "finish": "ORG",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 417,
           "bbox": [
             80.0,
@@ -7868,7 +7494,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 417,
           "bbox": [
             80.0,
@@ -7886,7 +7511,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 417,
           "bbox": [
             80.0,
@@ -7904,7 +7528,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 417,
           "bbox": [
             80.0,
@@ -7948,7 +7571,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 418,
           "bbox": [
             80.0,
@@ -7966,7 +7588,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 418,
           "bbox": [
             80.0,
@@ -7984,7 +7605,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 418,
           "bbox": [
             80.0,
@@ -8002,7 +7622,6 @@
           "finish": "ORG",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 418,
           "bbox": [
             80.0,
@@ -8020,7 +7639,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 418,
           "bbox": [
             80.0,
@@ -8038,7 +7656,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 418,
           "bbox": [
             80.0,
@@ -8056,7 +7673,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 418,
           "bbox": [
             80.0,
@@ -8100,7 +7716,6 @@
           "finish": "689",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 418,
           "bbox": [
             80.0,
@@ -8118,7 +7733,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 418,
           "bbox": [
             80.0,
@@ -8136,7 +7750,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 418,
           "bbox": [
             80.0,
@@ -8154,7 +7767,6 @@
           "finish": "ORG",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 418,
           "bbox": [
             80.0,
@@ -8172,7 +7784,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 418,
           "bbox": [
             80.0,
@@ -8190,7 +7801,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 418,
           "bbox": [
             80.0,
@@ -8234,7 +7844,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 418,
           "bbox": [
             80.0,
@@ -8252,7 +7861,6 @@
           "finish": "WHT",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 418,
           "bbox": [
             80.0,
@@ -8296,7 +7904,6 @@
           "finish": "US28",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 419,
           "bbox": [
             80.0,
@@ -8314,7 +7921,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 419,
           "bbox": [
             80.0,
@@ -8332,7 +7938,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 419,
           "bbox": [
             80.0,
@@ -8350,7 +7955,6 @@
           "finish": "WHT",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 419,
           "bbox": [
             80.0,
@@ -8394,7 +7998,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 419,
           "bbox": [
             80.0,
@@ -8412,7 +8015,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 419,
           "bbox": [
             80.0,
@@ -8430,7 +8032,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 419,
           "bbox": [
             80.0,

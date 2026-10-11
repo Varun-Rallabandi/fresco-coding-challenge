@@ -1,17 +1,17 @@
-"""Anti-hallucination check: every value we output must be printed on the page.
+"""Grounding check: every value we output must be printed on the page.
 
-This runs on everything, rules output and AI output alike. For each component
+For each component
 we look at the words physically inside that set's box on that page and confirm
 each field's text is made of those words. A value that isn't on the page is
-removed (set to null) and the set gets a warning, so nothing invented can reach
-the final output, no matter which stage produced it.
+removed (set to null) and the set gets a warning, so a parsing mistake (two
+words fused, text pulled from the wrong place) can't reach the final output.
 """
 from __future__ import annotations
 
 import re
 
 from .layout import Line
-from .schema import Component, HardwareSet
+from .schema import HardwareSet
 
 CHECKED_FIELDS = ("description", "catalog_number", "mfr", "finish")
 
@@ -69,7 +69,7 @@ def verify_set(hs: HardwareSet, lines_by_page: dict[int, list[Line]]) -> Hardwar
         for field in CHECKED_FIELDS:
             val = getattr(c, field)
             if val and not is_grounded(val, vocab, squashed):
-                hs.warnings.append(f"removed ungrounded {field} {val!r} ({c.source})")
+                hs.warnings.append(f"removed ungrounded {field} {val!r}")
                 setattr(c, field, None)
                 c.confidence = round(c.confidence * 0.5, 2)
     return hs
@@ -81,18 +81,3 @@ def grounding_rate(hs: HardwareSet, lines_by_page: dict[int, list[Line]]) -> flo
     vals = [getattr(c, f) for c in hs.components for f in CHECKED_FIELDS if getattr(c, f)]
     return sum(is_grounded(v, vocab, squashed) for v in vals) / len(vals) if vals else 1.0
 
-
-def component_from_ai(data: dict, page: int) -> Component:
-    """Build a component from model output; the verifier decides what survives."""
-    qty = data.get("qty")
-    return Component(
-        qty=qty if isinstance(qty, int) else None,
-        description=data.get("description") or None,
-        catalog_number=data.get("catalog_number") or None,
-        mfr=data.get("mfr") or None,
-        finish=data.get("finish") or None,
-        notes=data.get("notes") or None,
-        confidence=0.75,
-        source="ai",
-        page=page,
-    )

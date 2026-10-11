@@ -19,9 +19,9 @@ the columns of the schedule become visible. Then decide what each column **is**
 (quantity, description, catalog number, finish, manufacturer) by letting every
 row in the schedule **vote**, which settles ambiguous codes like `PE` (Pemko or
 Painted Enamel) from context instead of guessing them one at a time. Finally,
-**check every value against the words actually printed on the page**, so
-nothing invented can reach the output. AI is an optional backup for the few
-sets the rules flag as uncertain. It is not the engine.
+**check every value against the words actually printed on the page**, so a
+parsing mistake can't reach the output. Anything the rules aren't sure about is
+flagged with a low confidence score for a person to review.
 
 ```mermaid
 flowchart LR
@@ -33,7 +33,7 @@ flowchart LR
     F --> G[6 Verify<br/>every value printed<br/>on the page?]
     G --> H{confident?}
     H -- yes --> J[JSON / CSV<br/>with page + box]
-    H -- no, and --ai --> I[Multimodal AI<br/>re-reads that region] --> G
+    H -- no --> I[Flagged for review<br/>in the review screen]
 ```
 
 ## Results
@@ -95,7 +95,6 @@ make data           # downloads the challenge specbooks into data/
 ```bash
 .venv/bin/python -m hwsets.cli extract "data/AMI _Copy_/<file>.pdf"   # -> outputs/<file>.json + .csv
 .venv/bin/python -m hwsets.cli batch data -o outputs                  # every book
-.venv/bin/python -m hwsets.cli extract book.pdf --ai                  # AI second opinion
 ```
 
 **Review screen** (`make ui`, then open http://localhost:8501). Pick a book or
@@ -115,7 +114,7 @@ curl localhost:8000/jobs/<id>/result                  # the hardware sets
 **Tests and evaluation**
 
 ```bash
-make test           # 12 unit tests, one per caveat; no PDFs needed (also runs in CI)
+make test           # 11 unit tests, one per caveat; no PDFs needed (also runs in CI)
 make eval           # scoreboard against eval/gold/, plus confidence calibration
 ```
 
@@ -140,21 +139,22 @@ make eval           # scoreboard against eval/gold/, plus confidence calibration
 `bbox` is in PDF points from the top-left of the page: `[x0, top, x1, bottom]`.
 Each file also records how every column was classified (with its votes), the
 codes learned from the book's legend, and run stats (pages, OCR pages, values
-removed by verification, AI re-reads, cache hit or miss).
+removed by verification, cache hit or miss).
 
 ## Design decisions and tradeoffs
 
-**Rules first, AI as a backup.** Specbook schedules are *laid out* data. The
+**Rules, not a language model.** Specbook schedules are *laid out* data. The
 columns are physically aligned, so position plus a little domain knowledge gets
 almost everything right. It is fast (a 4,000-page manual takes ~40 s, most
 books take a few seconds), costs nothing per page, gives the same answer every
 run, and every decision can be explained. An LLM reading whole pages would be
 slower, cost money per page, and could invent plausible-looking part numbers.
 The tradeoff is that unusual layouts need a rule. The confidence score routes
-exactly those cases to the AI fallback or to a person.
+exactly those cases to a person. I didn't add an LLM step because I wasn't sure
+it was within the challenge's constraints; a model re-reading only the flagged
+sets would be the natural place to add one.
 
-**Verification on everything.** Every value, whether it came from rules or AI,
-must be printed inside that set's box. In the full corpus the check looks at
+**Verification on everything.** Every value must be printed inside that set's box. In the full corpus the check looks at
 34,000+ values. During development it caught my own code fusing `AN CLR` into
 `ANCLR`, a value that isn't on the page. The check is at the **set** level, so a
 value can't be borrowed from a different set. It could still be borrowed from
@@ -172,7 +172,7 @@ contain several schedules with different layouts.
 
 - **One page in JC Ryan is shifted 14 pt** relative to the rest of the book, so
   its catalog numbers land in the wrong column. The rows are flagged
-  low-confidence and are exactly what `--ai` is for. *Next:* re-learn columns
+  low-confidence for review. *Next:* re-learn columns
   per page when a page's word starts don't line up with the book's.
 - **Struck-through text** (deleted in a revision) is still extracted. *Next:*
   detect strike lines from the PDF's drawing layer.
@@ -203,15 +203,14 @@ hwsets/
   columns.py      4. find columns and vote on their type (mfr vs finish lives here)
   codes.py        manufacturer / finish vocabularies + legend learning
   extract.py      5. row parsing and the pipeline that ties the stages together
-  verify.py       6. anti-hallucination: every value must be printed on the page
-  llm_fallback.py optional multimodal second opinion, strict structured output
-  cache.py        SQLite cache keyed by file fingerprint (results and AI calls)
+  verify.py       6. grounding check: every value must be printed on the page
+  cache.py        SQLite cache keyed by file fingerprint
   store.py        jobs + corrections tables
   schema.py       Pydantic output models
   cli.py          command line
 api/server.py     FastAPI + background job queue
 app/streamlit_app.py  review and correction screen
 eval/             answer keys, scorer, first blind held-out run
-tests/            unit tests per caveat, AI path tested with a fake model
-docs/             format survey, learning guide, demo script
+tests/            unit tests, one per caveat
+docs/             format survey of the provided specbooks
 ```

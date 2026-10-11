@@ -192,7 +192,7 @@
   },
   "stats": {
     "format": "list",
-    "seconds": 1.06,
+    "seconds": 1.27,
     "pages_in_pdf": 46,
     "hardware_pages": 22,
     "ocr_pages": [],
@@ -200,7 +200,6 @@
     "components": 255,
     "low_confidence_sets": 4,
     "ungrounded_values_removed": 0,
-    "ai_rereads": 0,
     "cache": "miss"
   },
   "sets": [
@@ -234,7 +233,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.9,
-          "source": "rules",
           "page": 24,
           "bbox": [
             82.8,
@@ -252,7 +250,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.9,
-          "source": "rules",
           "page": 24,
           "bbox": [
             82.8,
@@ -270,7 +267,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.9,
-          "source": "rules",
           "page": 24,
           "bbox": [
             82.8,
@@ -288,7 +284,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 24,
           "bbox": [
             74.3,
@@ -332,7 +327,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.9,
-          "source": "rules",
           "page": 24,
           "bbox": [
             82.8,
@@ -350,7 +344,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.9,
-          "source": "rules",
           "page": 24,
           "bbox": [
             82.8,
@@ -394,7 +387,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 26,
           "bbox": [
             74.3,
@@ -412,7 +404,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 26,
           "bbox": [
             74.3,
@@ -430,7 +421,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 26,
           "bbox": [
             74.3,
@@ -448,7 +438,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 26,
           "bbox": [
             74.3,
@@ -466,7 +455,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 26,
           "bbox": [
             74.3,
@@ -484,7 +472,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 26,
           "bbox": [
             74.3,
@@ -502,7 +489,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 26,
           "bbox": [
             74.3,
@@ -559,7 +545,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 27,
           "bbox": [
             74.3,
@@ -577,7 +562,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 27,
           "bbox": [
             74.3,
@@ -595,7 +579,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 27,
           "bbox": [
             74.3,
@@ -613,7 +596,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 27,
           "bbox": [
             74.3,
@@ -631,7 +613,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 27,
           "bbox": [
             74.3,
@@ -649,7 +630,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 27,
           "bbox": [
             74.3,
@@ -667,7 +647,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 27,
           "bbox": [
             74.3,
@@ -685,7 +664,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 27,
           "bbox": [
             74.3,
@@ -703,7 +681,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 27,
           "bbox": [
             74.3,
@@ -721,7 +698,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 27,
           "bbox": [
             74.3,
@@ -739,7 +715,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 27,
           "bbox": [
             74.3,
@@ -757,7 +732,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 27,
           "bbox": [
             74.3,
@@ -775,7 +749,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 27,
           "bbox": [
             74.3,
@@ -793,7 +766,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.9,
-          "source": "rules",
           "page": 27,
           "bbox": [
             74.3,
@@ -837,7 +809,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 28,
           "bbox": [
             74.3,
@@ -855,7 +826,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 28,
           "bbox": [
             74.3,
@@ -873,7 +843,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 28,
           "bbox": [
             74.3,
@@ -891,7 +860,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 28,
           "bbox": [
             74.3,
@@ -909,7 +877,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 28,
           "bbox": [
             74.3,
@@ -927,7 +894,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 28,
           "bbox": [
             74.3,
@@ -945,7 +911,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 28,
           "bbox": [
             74.3,
@@ -989,7 +954,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 28,
           "bbox": [
             74.3,
@@ -1007,7 +971,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 28,
           "bbox": [
             74.3,
@@ -1025,7 +988,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 28,
           "bbox": [
             74.3,
@@ -1043,7 +1005,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 28,
           "bbox": [
             74.3,
@@ -1061,7 +1022,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 28,
           "bbox": [
             74.3,
@@ -1079,7 +1039,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 28,
           "bbox": [
             74.3,
@@ -1097,7 +1056,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 28,
           "bbox": [
             74.3,
@@ -1115,7 +1073,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 28,
           "bbox": [
             74.3,
@@ -1133,7 +1090,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.9,
-          "source": "rules",
           "page": 28,
           "bbox": [
             74.3,
@@ -1177,7 +1133,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 29,
           "bbox": [
             74.3,
@@ -1195,7 +1150,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 29,
           "bbox": [
             74.3,
@@ -1213,7 +1167,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 29,
           "bbox": [
             74.3,
@@ -1231,7 +1184,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 29,
           "bbox": [
             74.3,
@@ -1249,7 +1201,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 29,
           "bbox": [
             74.3,
@@ -1267,7 +1218,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 29,
           "bbox": [
             74.3,
@@ -1285,7 +1235,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 29,
           "bbox": [
             74.3,
@@ -1303,7 +1252,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 29,
           "bbox": [
             74.3,
@@ -1321,7 +1269,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.9,
-          "source": "rules",
           "page": 29,
           "bbox": [
             74.3,
@@ -1365,7 +1312,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.7,
-          "source": "rules",
           "page": 30,
           "bbox": [
             74.3,
@@ -1383,7 +1329,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.7,
-          "source": "rules",
           "page": 30,
           "bbox": [
             74.3,
@@ -1401,7 +1346,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 30,
           "bbox": [
             74.3,
@@ -1419,7 +1363,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.7,
-          "source": "rules",
           "page": 30,
           "bbox": [
             74.3,
@@ -1437,7 +1380,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 30,
           "bbox": [
             74.3,
@@ -1455,7 +1397,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.6,
-          "source": "rules",
           "page": 30,
           "bbox": [
             74.3,
@@ -1499,7 +1440,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.6,
-          "source": "rules",
           "page": 31,
           "bbox": [
             74.3,
@@ -1517,7 +1457,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 31,
           "bbox": [
             74.3,
@@ -1535,7 +1474,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 31,
           "bbox": [
             74.3,
@@ -1553,7 +1491,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.6,
-          "source": "rules",
           "page": 31,
           "bbox": [
             74.3,
@@ -1571,7 +1508,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 31,
           "bbox": [
             74.3,
@@ -1589,7 +1525,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.6,
-          "source": "rules",
           "page": 31,
           "bbox": [
             74.3,
@@ -1607,7 +1542,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.6,
-          "source": "rules",
           "page": 31,
           "bbox": [
             74.3,
@@ -1625,7 +1559,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.9,
-          "source": "rules",
           "page": 31,
           "bbox": [
             74.3,
@@ -1669,7 +1602,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 32,
           "bbox": [
             74.3,
@@ -1687,7 +1619,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.6,
-          "source": "rules",
           "page": 32,
           "bbox": [
             74.3,
@@ -1705,7 +1636,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 32,
           "bbox": [
             74.3,
@@ -1723,7 +1653,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.6,
-          "source": "rules",
           "page": 32,
           "bbox": [
             74.3,
@@ -1767,7 +1696,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 32,
           "bbox": [
             74.3,
@@ -1785,7 +1713,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.6,
-          "source": "rules",
           "page": 32,
           "bbox": [
             74.3,
@@ -1803,7 +1730,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 32,
           "bbox": [
             74.3,
@@ -1821,7 +1747,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.6,
-          "source": "rules",
           "page": 32,
           "bbox": [
             74.3,
@@ -1839,7 +1764,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.6,
-          "source": "rules",
           "page": 32,
           "bbox": [
             74.3,
@@ -1857,7 +1781,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.6,
-          "source": "rules",
           "page": 32,
           "bbox": [
             74.3,
@@ -1875,7 +1798,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.9,
-          "source": "rules",
           "page": 32,
           "bbox": [
             74.3,
@@ -1919,7 +1841,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 33,
           "bbox": [
             74.3,
@@ -1937,7 +1858,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 33,
           "bbox": [
             74.3,
@@ -1955,7 +1875,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 33,
           "bbox": [
             74.3,
@@ -1973,7 +1892,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 33,
           "bbox": [
             74.3,
@@ -1991,7 +1909,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 33,
           "bbox": [
             74.3,
@@ -2009,7 +1926,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 33,
           "bbox": [
             74.3,
@@ -2027,7 +1943,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 33,
           "bbox": [
             74.3,
@@ -2045,7 +1960,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 33,
           "bbox": [
             74.3,
@@ -2063,7 +1977,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.9,
-          "source": "rules",
           "page": 33,
           "bbox": [
             74.3,
@@ -2107,7 +2020,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 33,
           "bbox": [
             74.3,
@@ -2125,7 +2037,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 33,
           "bbox": [
             74.3,
@@ -2143,7 +2054,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 33,
           "bbox": [
             74.3,
@@ -2161,7 +2071,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 33,
           "bbox": [
             74.3,
@@ -2179,7 +2088,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 33,
           "bbox": [
             74.3,
@@ -2223,7 +2131,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 34,
           "bbox": [
             74.3,
@@ -2241,7 +2148,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 34,
           "bbox": [
             74.3,
@@ -2259,7 +2165,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 34,
           "bbox": [
             74.3,
@@ -2277,7 +2182,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 34,
           "bbox": [
             74.3,
@@ -2295,7 +2199,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 34,
           "bbox": [
             74.3,
@@ -2313,7 +2216,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 34,
           "bbox": [
             74.3,
@@ -2331,7 +2233,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 34,
           "bbox": [
             74.3,
@@ -2349,7 +2250,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 34,
           "bbox": [
             74.3,
@@ -2367,7 +2267,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 34,
           "bbox": [
             74.3,
@@ -2385,7 +2284,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 34,
           "bbox": [
             74.3,
@@ -2403,7 +2301,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.9,
-          "source": "rules",
           "page": 34,
           "bbox": [
             74.3,
@@ -2447,7 +2344,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 35,
           "bbox": [
             74.3,
@@ -2465,7 +2361,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 35,
           "bbox": [
             74.3,
@@ -2483,7 +2378,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 35,
           "bbox": [
             74.3,
@@ -2501,7 +2395,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 35,
           "bbox": [
             74.3,
@@ -2519,7 +2412,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 35,
           "bbox": [
             74.3,
@@ -2537,7 +2429,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 35,
           "bbox": [
             74.3,
@@ -2555,7 +2446,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 35,
           "bbox": [
             74.3,
@@ -2573,7 +2463,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 35,
           "bbox": [
             74.3,
@@ -2591,7 +2480,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 35,
           "bbox": [
             74.3,
@@ -2609,7 +2497,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 35,
           "bbox": [
             74.3,
@@ -2627,7 +2514,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 35,
           "bbox": [
             74.3,
@@ -2645,7 +2531,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 35,
           "bbox": [
             74.3,
@@ -2663,7 +2548,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.9,
-          "source": "rules",
           "page": 35,
           "bbox": [
             74.3,
@@ -2707,7 +2591,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 36,
           "bbox": [
             74.3,
@@ -2725,7 +2608,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 36,
           "bbox": [
             74.3,
@@ -2743,7 +2625,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 36,
           "bbox": [
             74.3,
@@ -2761,7 +2642,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 36,
           "bbox": [
             74.3,
@@ -2779,7 +2659,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 36,
           "bbox": [
             74.3,
@@ -2797,7 +2676,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 36,
           "bbox": [
             74.3,
@@ -2815,7 +2693,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 36,
           "bbox": [
             74.3,
@@ -2833,7 +2710,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 36,
           "bbox": [
             74.3,
@@ -2851,7 +2727,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 36,
           "bbox": [
             74.3,
@@ -2869,7 +2744,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 36,
           "bbox": [
             74.3,
@@ -2887,7 +2761,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.9,
-          "source": "rules",
           "page": 36,
           "bbox": [
             74.3,
@@ -2931,7 +2804,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 37,
           "bbox": [
             74.3,
@@ -2949,7 +2821,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 37,
           "bbox": [
             74.3,
@@ -2967,7 +2838,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 37,
           "bbox": [
             74.3,
@@ -2985,7 +2855,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 37,
           "bbox": [
             74.3,
@@ -3003,7 +2872,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 37,
           "bbox": [
             74.3,
@@ -3021,7 +2889,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 37,
           "bbox": [
             74.3,
@@ -3039,7 +2906,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.9,
-          "source": "rules",
           "page": 37,
           "bbox": [
             74.3,
@@ -3083,7 +2949,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 38,
           "bbox": [
             82.8,
@@ -3101,7 +2966,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 38,
           "bbox": [
             74.3,
@@ -3119,7 +2983,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 38,
           "bbox": [
             74.3,
@@ -3137,7 +3000,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 38,
           "bbox": [
             74.3,
@@ -3155,7 +3017,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 38,
           "bbox": [
             74.3,
@@ -3173,7 +3034,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 38,
           "bbox": [
             74.3,
@@ -3191,7 +3051,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 38,
           "bbox": [
             74.3,
@@ -3209,7 +3068,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 38,
           "bbox": [
             74.3,
@@ -3227,7 +3085,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 38,
           "bbox": [
             74.3,
@@ -3245,7 +3102,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.9,
-          "source": "rules",
           "page": 38,
           "bbox": [
             74.3,
@@ -3289,7 +3145,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 39,
           "bbox": [
             82.8,
@@ -3307,7 +3162,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 39,
           "bbox": [
             74.3,
@@ -3325,7 +3179,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 39,
           "bbox": [
             74.3,
@@ -3343,7 +3196,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 39,
           "bbox": [
             74.3,
@@ -3361,7 +3213,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 39,
           "bbox": [
             74.3,
@@ -3379,7 +3230,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 39,
           "bbox": [
             74.3,
@@ -3397,7 +3247,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 39,
           "bbox": [
             74.3,
@@ -3415,7 +3264,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 39,
           "bbox": [
             74.3,
@@ -3433,7 +3281,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 39,
           "bbox": [
             74.3,
@@ -3451,7 +3298,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 39,
           "bbox": [
             74.3,
@@ -3495,7 +3341,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 39,
           "bbox": [
             82.8,
@@ -3513,7 +3358,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 39,
           "bbox": [
             74.3,
@@ -3531,7 +3375,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 39,
           "bbox": [
             74.3,
@@ -3549,7 +3392,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 39,
           "bbox": [
             74.3,
@@ -3567,7 +3409,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 39,
           "bbox": [
             74.3,
@@ -3585,7 +3426,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 39,
           "bbox": [
             74.3,
@@ -3629,7 +3469,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 40,
           "bbox": [
             82.8,
@@ -3647,7 +3486,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 40,
           "bbox": [
             74.3,
@@ -3665,7 +3503,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 40,
           "bbox": [
             74.3,
@@ -3683,7 +3520,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 40,
           "bbox": [
             74.3,
@@ -3701,7 +3537,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 40,
           "bbox": [
             74.3,
@@ -3719,7 +3554,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 40,
           "bbox": [
             74.3,
@@ -3763,7 +3597,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 40,
           "bbox": [
             82.8,
@@ -3781,7 +3614,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 40,
           "bbox": [
             74.3,
@@ -3799,7 +3631,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 40,
           "bbox": [
             74.3,
@@ -3817,7 +3648,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 40,
           "bbox": [
             74.3,
@@ -3835,7 +3665,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 40,
           "bbox": [
             74.3,
@@ -3853,7 +3682,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 40,
           "bbox": [
             74.3,
@@ -3871,7 +3699,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 40,
           "bbox": [
             74.3,
@@ -3915,7 +3742,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 41,
           "bbox": [
             82.8,
@@ -3933,7 +3759,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 41,
           "bbox": [
             74.3,
@@ -3951,7 +3776,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 41,
           "bbox": [
             74.3,
@@ -3969,7 +3793,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 41,
           "bbox": [
             74.3,
@@ -3987,7 +3810,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 41,
           "bbox": [
             74.3,
@@ -4005,7 +3827,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 41,
           "bbox": [
             74.3,
@@ -4023,7 +3844,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 41,
           "bbox": [
             74.3,
@@ -4041,7 +3861,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 41,
           "bbox": [
             74.3,
@@ -4112,7 +3931,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 41,
           "bbox": [
             82.8,
@@ -4130,7 +3948,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 41,
           "bbox": [
             74.3,
@@ -4148,7 +3965,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 41,
           "bbox": [
             74.3,
@@ -4166,7 +3982,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 41,
           "bbox": [
             74.3,
@@ -4210,7 +4025,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 42,
           "bbox": [
             82.8,
@@ -4228,7 +4042,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 42,
           "bbox": [
             74.3,
@@ -4246,7 +4059,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 42,
           "bbox": [
             74.3,
@@ -4264,7 +4076,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 42,
           "bbox": [
             74.3,
@@ -4282,7 +4093,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 42,
           "bbox": [
             74.3,
@@ -4326,7 +4136,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 42,
           "bbox": [
             82.9,
@@ -4344,7 +4153,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 42,
           "bbox": [
             74.3,
@@ -4362,7 +4170,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 42,
           "bbox": [
             74.3,
@@ -4380,7 +4187,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 42,
           "bbox": [
             74.3,
@@ -4398,7 +4204,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 42,
           "bbox": [
             74.3,
@@ -4416,7 +4221,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 42,
           "bbox": [
             74.3,
@@ -4434,7 +4238,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 42,
           "bbox": [
             74.3,
@@ -4452,7 +4255,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 42,
           "bbox": [
             74.3,
@@ -4496,7 +4298,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.8,
-          "source": "rules",
           "page": 42,
           "bbox": [
             82.8,
@@ -4514,7 +4315,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 42,
           "bbox": [
             74.3,
@@ -4532,7 +4332,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 42,
           "bbox": [
             74.3,
@@ -4576,7 +4375,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.9,
-          "source": "rules",
           "page": 43,
           "bbox": [
             82.8,
@@ -4594,7 +4392,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 43,
           "bbox": [
             74.3,
@@ -4612,7 +4409,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 43,
           "bbox": [
             74.3,
@@ -4630,7 +4426,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 43,
           "bbox": [
             74.3,
@@ -4674,7 +4469,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 43,
           "bbox": [
             74.3,
@@ -4692,7 +4486,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 43,
           "bbox": [
             74.3,
@@ -4710,7 +4503,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 43,
           "bbox": [
             74.3,
@@ -4728,7 +4520,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 43,
           "bbox": [
             74.3,
@@ -4746,7 +4537,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 43,
           "bbox": [
             74.3,
@@ -4764,7 +4554,6 @@
           "finish": null,
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 43,
           "bbox": [
             74.3,
@@ -4808,7 +4597,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 43,
           "bbox": [
             82.8,
@@ -4826,7 +4614,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 43,
           "bbox": [
             74.3,
@@ -4844,7 +4631,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 43,
           "bbox": [
             74.3,
@@ -4862,7 +4648,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 43,
           "bbox": [
             74.3,
@@ -4880,7 +4665,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 43,
           "bbox": [
             74.3,
@@ -4898,7 +4682,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 43,
           "bbox": [
             74.3,
@@ -4942,7 +4725,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 44,
           "bbox": [
             82.8,
@@ -4960,7 +4742,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 44,
           "bbox": [
             74.3,
@@ -4978,7 +4759,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 44,
           "bbox": [
             74.3,
@@ -4996,7 +4776,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 44,
           "bbox": [
             74.3,
@@ -5040,7 +4819,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 44,
           "bbox": [
             82.8,
@@ -5058,7 +4836,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 44,
           "bbox": [
             74.3,
@@ -5076,7 +4853,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 44,
           "bbox": [
             74.3,
@@ -5094,7 +4870,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 44,
           "bbox": [
             74.3,
@@ -5138,7 +4913,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 44,
           "bbox": [
             82.8,
@@ -5156,7 +4930,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 44,
           "bbox": [
             74.3,
@@ -5174,7 +4947,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 44,
           "bbox": [
             74.3,
@@ -5192,7 +4964,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 44,
           "bbox": [
             74.3,
@@ -5210,7 +4981,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 44,
           "bbox": [
             82.8,
@@ -5254,7 +5024,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 45,
           "bbox": [
             82.8,
@@ -5272,7 +5041,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 45,
           "bbox": [
             74.3,
@@ -5290,7 +5058,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 45,
           "bbox": [
             74.3,
@@ -5308,7 +5075,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 45,
           "bbox": [
             74.3,
@@ -5326,7 +5092,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 45,
           "bbox": [
             74.3,
@@ -5344,7 +5109,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 45,
           "bbox": [
             82.8,
@@ -5388,7 +5152,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 45,
           "bbox": [
             74.3,
@@ -5406,7 +5169,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 45,
           "bbox": [
             74.3,
@@ -5424,7 +5186,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 45,
           "bbox": [
             74.3,
@@ -5442,7 +5203,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 45,
           "bbox": [
             77.1,
@@ -5486,7 +5246,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 45,
           "bbox": [
             82.8,
@@ -5504,7 +5263,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 45,
           "bbox": [
             74.3,
@@ -5522,7 +5280,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 45,
           "bbox": [
             74.3,
@@ -5540,7 +5297,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 45,
           "bbox": [
             74.3,
@@ -5558,7 +5314,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 45,
           "bbox": [
             74.3,
@@ -5576,7 +5331,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 45,
           "bbox": [
             82.8,
@@ -5620,7 +5374,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 46,
           "bbox": [
             82.8,
@@ -5638,7 +5391,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 46,
           "bbox": [
             74.3,
@@ -5656,7 +5408,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 46,
           "bbox": [
             74.3,
@@ -5674,7 +5425,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 46,
           "bbox": [
             74.3,
@@ -5692,7 +5442,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 46,
           "bbox": [
             74.3,
@@ -5710,7 +5459,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 46,
           "bbox": [
             74.3,
@@ -5728,7 +5476,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 46,
           "bbox": [
             74.3,
@@ -5746,7 +5493,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 46,
           "bbox": [
             74.3,
@@ -5764,7 +5510,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 46,
           "bbox": [
             74.3,
@@ -5782,7 +5527,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 46,
           "bbox": [
             74.3,

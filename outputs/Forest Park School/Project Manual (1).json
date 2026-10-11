@@ -154,7 +154,7 @@
   },
   "stats": {
     "format": "list",
-    "seconds": 1.25,
+    "seconds": 1.51,
     "pages_in_pdf": 344,
     "hardware_pages": 4,
     "ocr_pages": [],
@@ -162,7 +162,6 @@
     "components": 4,
     "low_confidence_sets": 0,
     "ungrounded_values_removed": 0,
-    "ai_rereads": 0,
     "cache": "miss"
   },
   "sets": [
@@ -209,7 +208,6 @@
           "finish": "26D",
           "notes": null,
           "confidence": 0.95,
-          "source": "rules",
           "page": 262,
           "bbox": [
             72.0,
@@ -227,7 +225,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 0.95,
-          "source": "rules",
           "page": 262,
           "bbox": [
             72.0,
@@ -245,7 +242,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 0.95,
-          "source": "rules",
           "page": 263,
           "bbox": [
             72.0,
@@ -263,7 +259,6 @@
           "finish": "US32D",
           "notes": null,
           "confidence": 0.95,
-          "source": "rules",
           "page": 263,
           "bbox": [
             72.0,

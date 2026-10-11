@@ -110,7 +110,7 @@ def test_legend_teaches_book_specific_codes():
 
 
 def test_verifier_removes_values_not_printed_on_the_page():
-    """Anti-hallucination: a value the page doesn't contain is dropped, whoever produced it."""
+    """Grounding: a value the page doesn't contain is dropped."""
     from hwsets.verify import verify_set
     lines = schedule(TYPICAL)
     (hs,), _ = parse(lines)

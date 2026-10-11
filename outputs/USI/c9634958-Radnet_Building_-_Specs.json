@@ -251,7 +251,7 @@
   },
   "stats": {
     "format": "list",
-    "seconds": 6.16,
+    "seconds": 7.11,
     "pages_in_pdf": 1460,
     "hardware_pages": 5,
     "ocr_pages": [],
@@ -259,7 +259,6 @@
     "components": 30,
     "low_confidence_sets": 0,
     "ungrounded_values_removed": 0,
-    "ai_rereads": 0,
     "cache": "miss"
   },
   "sets": [
@@ -293,7 +292,6 @@
           "finish": "BSP",
           "notes": null,
           "confidence": 0.94,
-          "source": "rules",
           "page": 563,
           "bbox": [
             74.3,
@@ -311,7 +309,6 @@
           "finish": "BSP",
           "notes": null,
           "confidence": 0.94,
-          "source": "rules",
           "page": 563,
           "bbox": [
             74.3,
@@ -329,7 +326,6 @@
           "finish": "US32D",
           "notes": null,
           "confidence": 0.94,
-          "source": "rules",
           "page": 563,
           "bbox": [
             74.3,
@@ -347,7 +343,6 @@
           "finish": "BSP",
           "notes": null,
           "confidence": 0.94,
-          "source": "rules",
           "page": 563,
           "bbox": [
             74.3,
@@ -365,7 +360,6 @@
           "finish": "BSP",
           "notes": null,
           "confidence": 0.94,
-          "source": "rules",
           "page": 563,
           "bbox": [
             74.3,
@@ -383,7 +377,6 @@
           "finish": "BSP",
           "notes": null,
           "confidence": 0.94,
-          "source": "rules",
           "page": 563,
           "bbox": [
             74.3,
@@ -401,7 +394,6 @@
           "finish": "BSP",
           "notes": null,
           "confidence": 0.94,
-          "source": "rules",
           "page": 563,
           "bbox": [
             74.3,
@@ -419,7 +411,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 563,
           "bbox": [
             74.3,
@@ -437,7 +428,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 563,
           "bbox": [
             74.3,
@@ -455,7 +445,6 @@
           "finish": "BSP",
           "notes": null,
           "confidence": 0.94,
-          "source": "rules",
           "page": 563,
           "bbox": [
             74.3,
@@ -512,7 +501,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 711,
           "bbox": [
             144.0,
@@ -530,7 +518,6 @@
           "finish": "No.",
           "notes": null,
           "confidence": 0.83,
-          "source": "rules",
           "page": 711,
           "bbox": [
             144.0,
@@ -548,7 +535,6 @@
           "finish": "sides of than Section 4 finish.",
           "notes": null,
           "confidence": 0.83,
-          "source": "rules",
           "page": 711,
           "bbox": [
             115.2,
@@ -566,7 +552,6 @@
           "finish": "4 finish. acrylic",
           "notes": null,
           "confidence": 0.83,
-          "source": "rules",
           "page": 711,
           "bbox": [
             115.2,
@@ -584,7 +569,6 @@
           "finish": "No. 8 finish",
           "notes": null,
           "confidence": 0.83,
-          "source": "rules",
           "page": 712,
           "bbox": [
             86.4,
@@ -654,7 +638,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.89,
-          "source": "rules",
           "page": 712,
           "bbox": [
             144.0,
@@ -672,7 +655,6 @@
           "finish": "No.",
           "notes": null,
           "confidence": 0.83,
-          "source": "rules",
           "page": 712,
           "bbox": [
             144.0,
@@ -690,7 +672,6 @@
           "finish": "sides of than Section 4 finish.",
           "notes": null,
           "confidence": 0.83,
-          "source": "rules",
           "page": 712,
           "bbox": [
             115.2,
@@ -708,7 +689,6 @@
           "finish": "4 finish. acrylic",
           "notes": null,
           "confidence": 0.83,
-          "source": "rules",
           "page": 712,
           "bbox": [
             115.2,
@@ -726,7 +706,6 @@
           "finish": "No. 8 finish",
           "notes": null,
           "confidence": 0.83,
-          "source": "rules",
           "page": 712,
           "bbox": [
             172.8,
@@ -744,7 +723,6 @@
           "finish": "accessories.",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 712,
           "bbox": [
             72.0,
@@ -762,7 +740,6 @@
           "finish": "to be self-supporting to comply to in rise of 450 the following: inch thick. noncorrosive,",
           "notes": null,
           "confidence": 0.83,
-          "source": "rules",
           "page": 712,
           "bbox": [
             86.4,
@@ -780,7 +757,6 @@
           "finish": "Type B, B, pickled. embossed",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 713,
           "bbox": [
             72.0,
@@ -798,7 +774,6 @@
           "finish": "or UNS",
           "notes": null,
           "confidence": 0.83,
-          "source": "rules",
           "page": 713,
           "bbox": [
             72.0,
@@ -816,7 +791,6 @@
           "finish": "requirements hoistways, supporting",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 713,
           "bbox": [
             72.0,
@@ -834,7 +808,6 @@
           "finish": "to corrected.",
           "notes": null,
           "confidence": 0.83,
-          "source": "rules",
           "page": 713,
           "bbox": [
             86.4,
@@ -852,7 +825,6 @@
           "finish": "ELEVATORS elevator work operation, with AWS mounts elevator system. by manufacturers. of elevator final adjustment safe, workable direction. sill solidly indicated: two floor.",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 713,
           "bbox": [
             72.0,
@@ -870,7 +842,6 @@
           "finish": "elevator. or in place frames. jambs procedures Include lubrication, rated speed",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 714,
           "bbox": [
             72.0,
@@ -888,7 +859,6 @@
           "finish": "so no evidence to the shop,",
           "notes": null,
           "confidence": 0.83,
-          "source": "rules",
           "page": 714,
           "bbox": [
             115.2,
@@ -906,7 +876,6 @@
           "finish": "maintenance before date period.",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 714,
           "bbox": [
             72.0,

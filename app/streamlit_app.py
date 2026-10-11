@@ -18,13 +18,12 @@ from PIL import Image, ImageDraw
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
-from hwsets import llm_fallback  # noqa: E402
 from hwsets.cache import Cache  # noqa: E402
-from hwsets.extract import extract  # noqa: E402
+from hwsets.extract import LOW_CONFIDENCE, extract  # noqa: E402
 from hwsets.store import Store  # noqa: E402
 
 FIELDS = ["qty", "description", "catalog_number", "mfr", "finish", "notes"]
-LOW = llm_fallback.CONFIDENCE_FLOOR
+LOW = LOW_CONFIDENCE
 
 st.set_page_config(page_title="Hardware Set Extractor", layout="wide")
 
@@ -48,8 +47,8 @@ def local_books() -> list[str]:
 
 
 @st.cache_data(show_spinner="Reading the specbook...")
-def run(pdf_path: str, ai: bool) -> dict:
-    return extract(pdf_path, ai=ai, cache=cache).model_dump()
+def run(pdf_path: str) -> dict:
+    return extract(pdf_path, cache=cache).model_dump()
 
 
 def page_image(pdf_path: str, page: int, boxes: list[tuple], zoom: float = 1.6) -> Image.Image:
@@ -83,17 +82,13 @@ else:
     else:
         st.sidebar.info("No PDFs in data/. Upload one instead.")
 
-ai = st.sidebar.checkbox("AI second opinion on low-confidence sets", value=False,
-                         disabled=not llm_fallback.available(),
-                         help="Every AI value is still checked against the page text.")
-
 if not pdf_path:
     st.title("Hardware Set Extractor")
     st.write("Pick a specbook on the left. The extractor finds the Division 08 hardware schedule, "
              "pulls out every hardware set, and shows you where each one is on the page.")
     st.stop()
 
-result = run(pdf_path, ai)
+result = run(pdf_path)
 sets = result["sets"]
 stats = result["stats"]
 
@@ -159,10 +154,10 @@ with right:
     for w in hs["warnings"]:
         st.warning(w)
 
-    df = pd.DataFrame([{f: c[f] for f in FIELDS} | {"confidence": c["confidence"], "source": c["source"]}
+    df = pd.DataFrame([{f: c[f] for f in FIELDS} | {"confidence": c["confidence"]}
                        for c in hs["components"]])
     edited = st.data_editor(df, num_rows="dynamic", use_container_width=True, hide_index=True,
-                            disabled=["confidence", "source"], key=f"ed-{result['source_file']}-{hs['set_number']}")
+                            disabled=["confidence"], key=f"ed-{result['source_file']}-{hs['set_number']}")
 
     if st.button("Save corrections", type="primary"):
         n = 0

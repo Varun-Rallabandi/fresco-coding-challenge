@@ -117,7 +117,7 @@
   },
   "stats": {
     "format": "list",
-    "seconds": 0.78,
+    "seconds": 0.95,
     "pages_in_pdf": 201,
     "hardware_pages": 2,
     "ocr_pages": [],
@@ -125,7 +125,6 @@
     "components": 31,
     "low_confidence_sets": 0,
     "ungrounded_values_removed": 0,
-    "ai_rereads": 0,
     "cache": "miss"
   },
   "sets": [
@@ -172,7 +171,6 @@
           "finish": "711",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 174,
           "bbox": [
             70.0,
@@ -190,7 +188,6 @@
           "finish": "315",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 174,
           "bbox": [
             70.0,
@@ -208,7 +205,6 @@
           "finish": "622",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 174,
           "bbox": [
             70.0,
@@ -226,7 +222,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 174,
           "bbox": [
             70.0,
@@ -244,7 +239,6 @@
           "finish": "BLK",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 174,
           "bbox": [
             70.0,
@@ -262,7 +256,6 @@
           "finish": "BLK",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 174,
           "bbox": [
             70.0,
@@ -280,7 +273,6 @@
           "finish": "ANCL",
           "notes": "EA-R",
           "confidence": 0.93,
-          "source": "rules",
           "page": 174,
           "bbox": [
             70.0,
@@ -298,7 +290,6 @@
           "finish": "630",
           "notes": "EA-R",
           "confidence": 0.93,
-          "source": "rules",
           "page": 174,
           "bbox": [
             69.9,
@@ -316,7 +307,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 174,
           "bbox": [
             69.9,
@@ -334,7 +324,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 174,
           "bbox": [
             69.9,
@@ -352,7 +341,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 174,
           "bbox": [
             69.9,
@@ -370,7 +358,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 174,
           "bbox": [
             69.9,
@@ -388,7 +375,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 174,
           "bbox": [
             69.9,
@@ -406,7 +392,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.99,
-          "source": "rules",
           "page": 174,
           "bbox": [
             69.9,
@@ -424,7 +409,6 @@
           "finish": "WHT",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 174,
           "bbox": [
             69.9,
@@ -442,7 +426,6 @@
           "finish": "LGR",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 174,
           "bbox": [
             69.9,
@@ -486,7 +469,6 @@
           "finish": "711",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 175,
           "bbox": [
             70.0,
@@ -504,7 +486,6 @@
           "finish": "315",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 175,
           "bbox": [
             70.0,
@@ -522,7 +503,6 @@
           "finish": "622",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 175,
           "bbox": [
             70.0,
@@ -540,7 +520,6 @@
           "finish": "BLK",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 175,
           "bbox": [
             70.0,
@@ -558,7 +537,6 @@
           "finish": "BLK",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 175,
           "bbox": [
             70.0,
@@ -602,7 +580,6 @@
           "finish": "622",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 175,
           "bbox": [
             70.0,
@@ -620,7 +597,6 @@
           "finish": "315",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 175,
           "bbox": [
             70.0,
@@ -638,7 +614,6 @@
           "finish": "622",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 175,
           "bbox": [
             70.0,
@@ -656,7 +631,6 @@
           "finish": "630",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 175,
           "bbox": [
             70.0,
@@ -674,7 +648,6 @@
           "finish": "BLK",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 175,
           "bbox": [
             70.0,
@@ -692,7 +665,6 @@
           "finish": "BLK",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 175,
           "bbox": [
             69.5,
@@ -710,7 +682,6 @@
           "finish": "622",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 175,
           "bbox": [
             69.5,
@@ -728,7 +699,6 @@
           "finish": "A",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 175,
           "bbox": [
             69.5,
@@ -746,7 +716,6 @@
           "finish": "AA",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 175,
           "bbox": [
             70.0,
@@ -764,7 +733,6 @@
           "finish": "A",
           "notes": null,
           "confidence": 0.93,
-          "source": "rules",
           "page": 175,
           "bbox": [
             70.0,

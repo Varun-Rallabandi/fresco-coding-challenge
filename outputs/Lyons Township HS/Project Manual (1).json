@@ -130,7 +130,7 @@
   },
   "stats": {
     "format": "list",
-    "seconds": 1.16,
+    "seconds": 1.35,
     "pages_in_pdf": 309,
     "hardware_pages": 10,
     "ocr_pages": [],
@@ -138,7 +138,6 @@
     "components": 145,
     "low_confidence_sets": 3,
     "ungrounded_values_removed": 0,
-    "ai_rereads": 0,
     "cache": "miss"
   },
   "sets": [
@@ -172,7 +171,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 285,
           "bbox": [
             76.0,
@@ -216,7 +214,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 285,
           "bbox": [
             76.0,
@@ -234,7 +231,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 285,
           "bbox": [
             76.0,
@@ -278,7 +274,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 285,
           "bbox": [
             76.0,
@@ -296,7 +291,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 285,
           "bbox": [
             76.0,
@@ -340,7 +334,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 285,
           "bbox": [
             76.0,
@@ -409,7 +402,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 286,
           "bbox": [
             76.0,
@@ -427,7 +419,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 286,
           "bbox": [
             76.0,
@@ -445,7 +436,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 286,
           "bbox": [
             76.0,
@@ -489,7 +479,6 @@
           "finish": "711",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 286,
           "bbox": [
             76.0,
@@ -507,7 +496,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 286,
           "bbox": [
             76.0,
@@ -525,7 +513,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 286,
           "bbox": [
             76.0,
@@ -543,7 +530,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 286,
           "bbox": [
             76.0,
@@ -561,7 +547,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 286,
           "bbox": [
             76.0,
@@ -579,7 +564,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 286,
           "bbox": [
             76.0,
@@ -597,7 +581,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 286,
           "bbox": [
             76.0,
@@ -641,7 +624,6 @@
           "finish": "711",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 286,
           "bbox": [
             76.0,
@@ -659,7 +641,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 286,
           "bbox": [
             76.0,
@@ -677,7 +658,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 286,
           "bbox": [
             76.0,
@@ -695,7 +675,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 286,
           "bbox": [
             76.0,
@@ -713,7 +692,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 286,
           "bbox": [
             76.0,
@@ -731,7 +709,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 286,
           "bbox": [
             76.0,
@@ -749,7 +726,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 286,
           "bbox": [
             76.0,
@@ -767,7 +743,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 286,
           "bbox": [
             76.0,
@@ -811,7 +786,6 @@
           "finish": "711",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 287,
           "bbox": [
             76.0,
@@ -829,7 +803,6 @@
           "finish": "695",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 287,
           "bbox": [
             76.0,
@@ -847,7 +820,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 287,
           "bbox": [
             76.0,
@@ -865,7 +837,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 287,
           "bbox": [
             76.0,
@@ -883,7 +854,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 287,
           "bbox": [
             76.0,
@@ -901,7 +871,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 287,
           "bbox": [
             76.0,
@@ -919,7 +888,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 287,
           "bbox": [
             76.0,
@@ -937,7 +905,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 287,
           "bbox": [
             76.0,
@@ -955,7 +922,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 287,
           "bbox": [
             76.0,
@@ -999,7 +965,6 @@
           "finish": "711",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 287,
           "bbox": [
             76.0,
@@ -1017,7 +982,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 287,
           "bbox": [
             76.0,
@@ -1035,7 +999,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 287,
           "bbox": [
             76.0,
@@ -1053,7 +1016,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 287,
           "bbox": [
             76.0,
@@ -1071,7 +1033,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 287,
           "bbox": [
             76.0,
@@ -1089,7 +1050,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 287,
           "bbox": [
             76.0,
@@ -1107,7 +1067,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 287,
           "bbox": [
             76.0,
@@ -1125,7 +1084,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 287,
           "bbox": [
             76.0,
@@ -1143,7 +1101,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 287,
           "bbox": [
             76.0,
@@ -1187,7 +1144,6 @@
           "finish": "711",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1205,7 +1161,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1223,7 +1178,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1241,7 +1195,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1259,7 +1212,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1277,7 +1229,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1295,7 +1246,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1313,7 +1263,6 @@
           "finish": "695",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1331,7 +1280,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1375,7 +1323,6 @@
           "finish": "711",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1393,7 +1340,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1411,7 +1357,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1429,7 +1374,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1447,7 +1391,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1465,7 +1408,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1483,7 +1425,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1501,7 +1442,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1519,7 +1459,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1537,7 +1476,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 288,
           "bbox": [
             76.0,
@@ -1581,7 +1519,6 @@
           "finish": "711",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1599,7 +1536,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1617,7 +1553,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1635,7 +1570,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1653,7 +1587,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1671,7 +1604,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1689,7 +1621,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1707,7 +1638,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1725,7 +1655,6 @@
           "finish": "695",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1743,7 +1672,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1787,7 +1715,6 @@
           "finish": "711",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1805,7 +1732,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1823,7 +1749,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1841,7 +1766,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1859,7 +1783,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1877,7 +1800,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1895,7 +1817,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1913,7 +1834,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1931,7 +1851,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1949,7 +1868,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1967,7 +1885,6 @@
           "finish": "695",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -1985,7 +1902,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 289,
           "bbox": [
             76.0,
@@ -2029,7 +1945,6 @@
           "finish": "639",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 290,
           "bbox": [
             76.0,
@@ -2047,7 +1962,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 290,
           "bbox": [
             76.0,
@@ -2065,7 +1979,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 290,
           "bbox": [
             76.0,
@@ -2083,7 +1996,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 290,
           "bbox": [
             76.0,
@@ -2101,7 +2013,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 290,
           "bbox": [
             76.0,
@@ -2119,7 +2030,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 290,
           "bbox": [
             76.0,
@@ -2188,7 +2098,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 290,
           "bbox": [
             76.0,
@@ -2206,7 +2115,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 290,
           "bbox": [
             76.0,
@@ -2224,7 +2132,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 290,
           "bbox": [
             76.0,
@@ -2242,7 +2149,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 290,
           "bbox": [
             76.0,
@@ -2260,7 +2166,6 @@
           "finish": "711",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 290,
           "bbox": [
             76.0,
@@ -2278,7 +2183,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 290,
           "bbox": [
             76.0,
@@ -2296,7 +2200,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 290,
           "bbox": [
             76.0,
@@ -2314,7 +2217,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 290,
           "bbox": [
             76.0,
@@ -2358,7 +2260,6 @@
           "finish": "CLASSROOM 117",
           "notes": null,
           "confidence": 0.7,
-          "source": "rules",
           "page": 291,
           "bbox": [
             76.0,
@@ -2376,7 +2277,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 291,
           "bbox": [
             76.0,
@@ -2394,7 +2294,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 291,
           "bbox": [
             76.0,
@@ -2412,7 +2311,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 291,
           "bbox": [
             76.0,
@@ -2456,7 +2354,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 291,
           "bbox": [
             76.0,
@@ -2474,7 +2371,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 291,
           "bbox": [
             76.0,
@@ -2492,7 +2388,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 291,
           "bbox": [
             76.0,
@@ -2510,7 +2405,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 291,
           "bbox": [
             76.0,
@@ -2554,7 +2448,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.7,
-          "source": "rules",
           "page": 291,
           "bbox": [
             76.0,
@@ -2572,7 +2465,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 291,
           "bbox": [
             76.0,
@@ -2590,7 +2482,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 291,
           "bbox": [
             76.0,
@@ -2608,7 +2499,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 291,
           "bbox": [
             76.0,
@@ -2702,7 +2592,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 292,
           "bbox": [
             76.0,
@@ -2720,7 +2609,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 292,
           "bbox": [
             76.0,
@@ -2738,7 +2626,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 292,
           "bbox": [
             76.0,
@@ -2782,7 +2669,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 292,
           "bbox": [
             76.0,
@@ -2800,7 +2686,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 292,
           "bbox": [
             76.0,
@@ -2818,7 +2703,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 292,
           "bbox": [
             76.0,
@@ -2836,7 +2720,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 292,
           "bbox": [
             76.0,
@@ -2880,7 +2763,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.63,
-          "source": "rules",
           "page": 292,
           "bbox": [
             76.0,
@@ -2898,7 +2780,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 292,
           "bbox": [
             76.0,
@@ -2916,7 +2797,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 292,
           "bbox": [
             76.0,
@@ -2934,7 +2814,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 292,
           "bbox": [
             76.0,
@@ -2978,7 +2857,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 292,
           "bbox": [
             76.0,
@@ -3022,7 +2900,6 @@
           "finish": "639",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 293,
           "bbox": [
             76.0,
@@ -3040,7 +2917,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 293,
           "bbox": [
             76.0,
@@ -3058,7 +2934,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 293,
           "bbox": [
             76.0,
@@ -3076,7 +2951,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 293,
           "bbox": [
             76.0,
@@ -3094,7 +2968,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 293,
           "bbox": [
             76.0,
@@ -3112,7 +2985,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 293,
           "bbox": [
             76.0,
@@ -3130,7 +3002,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 293,
           "bbox": [
             76.0,
@@ -3174,7 +3045,6 @@
           "finish": "711",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 293,
           "bbox": [
             76.0,
@@ -3192,7 +3062,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 293,
           "bbox": [
             76.0,
@@ -3210,7 +3079,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 293,
           "bbox": [
             76.0,
@@ -3228,7 +3096,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 293,
           "bbox": [
             76.0,
@@ -3246,7 +3113,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 293,
           "bbox": [
             76.0,
@@ -3264,7 +3130,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 293,
           "bbox": [
             76.0,
@@ -3282,7 +3147,6 @@
           "finish": "695",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 293,
           "bbox": [
             76.0,
@@ -3300,7 +3164,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 293,
           "bbox": [
             76.0,
@@ -3344,7 +3207,6 @@
           "finish": "711",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 294,
           "bbox": [
             76.0,
@@ -3362,7 +3224,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 294,
           "bbox": [
             76.0,
@@ -3380,7 +3241,6 @@
           "finish": "626",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 294,
           "bbox": [
             76.0,
@@ -3398,7 +3258,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 294,
           "bbox": [
             76.0,
@@ -3416,7 +3275,6 @@
           "finish": "606",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 294,
           "bbox": [
             76.0,
@@ -3434,7 +3292,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 294,
           "bbox": [
             76.0,
@@ -3452,7 +3309,6 @@
           "finish": "691",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 294,
           "bbox": [
             76.0,
@@ -3470,7 +3326,6 @@
           "finish": "612",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 294,
           "bbox": [
             76.0,
@@ -3488,7 +3343,6 @@
           "finish": "BK",
           "notes": null,
           "confidence": 1.0,
-          "source": "rules",
           "page": 294,
           "bbox": [
             76.0,

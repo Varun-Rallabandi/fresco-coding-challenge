@@ -21,7 +21,6 @@ CREATE TABLE IF NOT EXISTS jobs (
     id          TEXT PRIMARY KEY,
     filename    TEXT NOT NULL,
     pdf_path    TEXT NOT NULL,
-    ai          INTEGER NOT NULL DEFAULT 0,
     status      TEXT NOT NULL,          -- queued | running | done | failed
     error       TEXT,
     result_key  TEXT,
@@ -53,10 +52,10 @@ class Store:
         self.db.executescript(SCHEMA)
 
     # jobs ---------------------------------------------------------------
-    def create_job(self, filename: str, pdf_path: str, ai: bool) -> str:
+    def create_job(self, filename: str, pdf_path: str) -> str:
         job_id = uuid.uuid4().hex[:12]
-        self.db.execute("INSERT INTO jobs (id, filename, pdf_path, ai, status, created) VALUES (?,?,?,?,?,?)",
-                        (job_id, filename, pdf_path, int(ai), "queued", time.time()))
+        self.db.execute("INSERT INTO jobs (id, filename, pdf_path, status, created) VALUES (?,?,?,?,?)",
+                        (job_id, filename, pdf_path, "queued", time.time()))
         self.db.commit()
         return job_id
 

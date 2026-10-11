@@ -44,10 +44,10 @@ async def worker(n: int) -> None:
         job = store.get_job(job_id)
         try:
             store.update_job(job_id, status="running", started=time.time())
-            key = cache.result_key(job["pdf_path"], None, bool(job["ai"]))
+            key = cache.result_key(job["pdf_path"], None)
             hit = cache.get_result(key) is not None
             # CPU-heavy PDF work runs in a thread so the event loop keeps serving requests.
-            await asyncio.to_thread(extract, job["pdf_path"], None, bool(job["ai"]), cache)
+            await asyncio.to_thread(extract, job["pdf_path"], None, cache)
             store.update_job(job_id, status="done", finished=time.time(), result_key=key, cache_hit=int(hit))
         except Exception as e:  # a bad PDF fails its own job, never the worker
             store.update_job(job_id, status="failed", finished=time.time(), error=str(e)[:500])
@@ -74,7 +74,7 @@ def health():
 
 
 @app.post("/jobs")
-async def create_job(file: UploadFile = File(...), ai: bool = False):
+async def create_job(file: UploadFile = File(...)):
     if not (file.filename or "").lower().endswith(".pdf"):
         raise HTTPException(400, "upload a PDF")
     UPLOADS.mkdir(parents=True, exist_ok=True)
@@ -84,7 +84,7 @@ async def create_job(file: UploadFile = File(...), ai: bool = False):
     # Store by content fingerprint: the same PDF uploaded twice is one file (and one cache entry).
     dest = UPLOADS / f"{file_fingerprint(tmp)}.pdf"
     tmp.replace(dest)
-    job_id = store.create_job(file.filename, str(dest), ai)
+    job_id = store.create_job(file.filename, str(dest))
     await queue.put(job_id)
     return {"job_id": job_id, "status": "queued"}
 

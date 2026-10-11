@@ -35,7 +35,7 @@ def write_outputs(result, out_json: Path) -> None:
 def cmd_extract(args) -> None:
     pages = [int(p) for p in args.pages.split(",")] if args.pages else None
     t = time.time()
-    result = extract(args.pdf, pages=pages, ai=args.ai, cache=None if args.no_cache else Cache())
+    result = extract(args.pdf, pages=pages, cache=None if args.no_cache else Cache())
     out = Path(args.output or f"outputs/{Path(args.pdf).stem}.json")
     write_outputs(result, out)
     n = sum(len(s.components) for s in result.sets)
@@ -54,7 +54,7 @@ def cmd_batch(args) -> None:
         out = out_dir / rel.parent.name / f"{pdf.stem}.json"
         try:
             t = time.time()
-            r = extract(pdf, ai=args.ai, cache=cache)
+            r = extract(pdf, cache=cache)
             write_outputs(r, out)
             n = sum(len(s.components) for s in r.sets)
             low = r.stats["low_confidence_sets"]
@@ -73,13 +73,11 @@ def main() -> None:
     e.add_argument("pdf")
     e.add_argument("-o", "--output")
     e.add_argument("--pages", help="comma-separated 1-based pages (skip auto-detection)")
-    e.add_argument("--ai", action="store_true", help="AI second opinion on low-confidence sets")
     e.add_argument("--no-cache", action="store_true", help="ignore cached results")
     e.set_defaults(fn=cmd_extract)
     b = sub.add_parser("batch", help="extract every PDF under a folder")
     b.add_argument("folder")
     b.add_argument("-o", "--output", default="outputs")
-    b.add_argument("--ai", action="store_true", help="AI second opinion on low-confidence sets")
     b.set_defaults(fn=cmd_batch)
     args = ap.parse_args()
     args.fn(args)

@@ -23,7 +23,6 @@ class Component(BaseModel):
     finish: Optional[str] = None
     notes: Optional[str] = None
     confidence: float = 1.0
-    source: str = "rules"
     page: int = 0
     bbox: Optional[tuple[float, float, float, float]] = None
 
@@ -45,5 +44,5 @@ class Extraction(BaseModel):
     hardware_pages: list[int]
     columns: list[dict] = Field(default_factory=list, description="how each column was classified, with its votes")
     learned_codes: dict[str, dict[str, str]] = Field(default_factory=dict)
-    stats: dict = Field(default_factory=dict, description="run summary: timing, OCR pages, grounding, AI usage")
+    stats: dict = Field(default_factory=dict, description="run summary: timing, OCR pages, grounding")
     sets: list[HardwareSet]

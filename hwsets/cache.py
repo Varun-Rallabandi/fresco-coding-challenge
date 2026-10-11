@@ -1,8 +1,7 @@
 """Small SQLite cache so repeat work is free.
 
-Two tables:
+One table:
   results    full extraction output, keyed by (file fingerprint, pipeline version, options)
-  llm_calls  AI responses, keyed by (model, prompt, image) so the same question is never paid for twice
 
 The file fingerprint is a SHA-256 of the PDF bytes, so renaming or moving a file
 still hits the cache, while any change to the PDF misses it. Bumping
@@ -36,7 +35,6 @@ class Cache:
         self.db = sqlite3.connect(self.path, check_same_thread=False)
         self.db.execute("PRAGMA journal_mode=WAL")  # readers don't block the writer
         self.db.execute("CREATE TABLE IF NOT EXISTS results (key TEXT PRIMARY KEY, json TEXT, created REAL)")
-        self.db.execute("CREATE TABLE IF NOT EXISTS llm_calls (key TEXT PRIMARY KEY, json TEXT, created REAL)")
         self.db.commit()
 
     @staticmethod
@@ -47,8 +45,8 @@ class Cache:
             h.update(b"\x00")
         return h.hexdigest()
 
-    def result_key(self, pdf_path: str | Path, pages, ai: bool) -> str:
-        return self.key(file_fingerprint(pdf_path), PIPELINE_VERSION, pages, ai)
+    def result_key(self, pdf_path: str | Path, pages) -> str:
+        return self.key(file_fingerprint(pdf_path), PIPELINE_VERSION, pages)
 
     def _get(self, table: str, key: str):
         row = self.db.execute(f"SELECT json FROM {table} WHERE key = ?", (key,)).fetchone()
@@ -64,8 +62,3 @@ class Cache:
     def put_result(self, key: str, value) -> None:
         self._put("results", key, value)
 
-    def get_llm(self, key: str):
-        return self._get("llm_calls", key)
-
-    def put_llm(self, key: str, value) -> None:
-        self._put("llm_calls", key, value)

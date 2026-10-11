@@ -14,7 +14,6 @@ from pathlib import Path
 import pdfplumber
 import pymupdf
 
-from . import llm_fallback
 from .boundaries import END_RE, NOT_USED_RE, clean_description, match_header
 from .cache import Cache
 from .codes import Vocabulary, is_ambiguous
@@ -24,6 +23,8 @@ from .locate import find_hardware_pages
 from .table_mode import parse_table
 from .schema import Component, Extraction, HardwareSet, Span
 from .verify import verify_set
+
+LOW_CONFIDENCE = 0.8  # sets below this are flagged for review
 
 DOORS_RE = re.compile(r"^(doors?\s*:|for use on|opening\s*:|item\s*#)", re.I)
 FILLER_RE = re.compile(r"^(?:PART\s+\d+\s*[-–]\s*)?(provide each|each (opening )?to (have|receive)|each to have)", re.I)
@@ -291,18 +292,17 @@ def spans(lines: list[Line]) -> list[Span]:
     return out
 
 
-def extract(pdf_path: str | Path, pages: list[int] | None = None, ai: bool = False,
+def extract(pdf_path: str | Path, pages: list[int] | None = None,
             cache: Cache | None = None) -> Extraction:
     """Run the whole pipeline on one PDF.
 
     pages  skip page-finding and read exactly these (1-based)
-    ai     let low-confidence sets get a second opinion from a multimodal model
     cache  reuse an earlier result for the identical file + options
     """
     t0 = time.time()
     pdf_path = str(pdf_path)
     if cache:
-        key = cache.result_key(pdf_path, pages, ai)
+        key = cache.result_key(pdf_path, pages)
         hit = cache.get_result(key)
         if hit:
             out = Extraction.model_validate(hit)
@@ -332,8 +332,8 @@ def extract(pdf_path: str | Path, pages: list[int] | None = None, ai: bool = Fal
     if table_sets and len(table_sets) >= 2:
         for hs in table_sets:
             verify_set(hs, raw_lines)
-        return _finish(pdf_path, doc, pages, [], vocab, ocr_pages, table_sets, t0, 0, cache,
-                       cache.result_key(pdf_path, pages, ai) if cache else None, fmt="table")
+        return _finish(pdf_path, doc, pages, [], vocab, ocr_pages, table_sets, t0, cache,
+                       cache.result_key(pdf_path, pages) if cache else None, fmt="table")
 
     # Columns are learned per schedule (a contiguous run of pages); a big manual can
     # contain several schedules laid out differently. Small runs borrow the book-wide map.
@@ -346,7 +346,6 @@ def extract(pdf_path: str | Path, pages: list[int] | None = None, ai: bool = Fal
     book_map, _ = column_map(raw_sets)
     sets: list[HardwareSet] = []
     reports = []
-    ai_used = 0
     for run in sorted({r.run for r in raw_sets}):
         members = [r for r in raw_sets if r.run == run]
         cmap, n = column_map(members)
@@ -368,19 +367,15 @@ def extract(pdf_path: str | Path, pages: list[int] | None = None, ai: bool = Fal
                     c.confidence = round(c.confidence * 0.85, 2)
             verify_set(hs, raw_lines)
             hs.confidence = round(min((c.confidence for c in hs.components), default=hs.confidence), 2)
-            if ai and llm_fallback.available() and hs.components and hs.confidence < llm_fallback.CONFIDENCE_FLOOR:
-                llm_fallback.second_opinion(hs, pdf_path, raw_lines, report, cache)
-                verify_set(hs, raw_lines)  # the model's answer is checked the same way
-                ai_used += 1
         reports.append({"pages": f"{members[0].header.page}-{(members[-1].lines or [members[-1].header])[-1].page}",
                         "columns": report})
         sets.extend(parsed)
 
-    return _finish(pdf_path, doc, pages, reports, vocab, ocr_pages, sets, t0, ai_used, cache,
+    return _finish(pdf_path, doc, pages, reports, vocab, ocr_pages, sets, t0, cache,
                    key if cache else None, fmt="list")
 
 
-def _finish(pdf_path, doc, pages, reports, vocab, ocr_pages, sets, t0, ai_used, cache, key, fmt) -> Extraction:
+def _finish(pdf_path, doc, pages, reports, vocab, ocr_pages, sets, t0, cache, key, fmt) -> Extraction:
     comps = [c for s in sets for c in s.components]
     out = Extraction(
         source_file=Path(pdf_path).name,
@@ -395,9 +390,8 @@ def _finish(pdf_path, doc, pages, reports, vocab, ocr_pages, sets, t0, ai_used, 
             "ocr_pages": ocr_pages,
             "sets": len(sets),
             "components": len(comps),
-            "low_confidence_sets": sum(1 for s in sets if s.confidence < llm_fallback.CONFIDENCE_FLOOR),
+            "low_confidence_sets": sum(1 for s in sets if s.confidence < LOW_CONFIDENCE),
             "ungrounded_values_removed": sum(1 for s in sets for w in s.warnings if w.startswith("removed ungrounded")),
-            "ai_rereads": ai_used,
             "cache": "miss" if cache else "off",
         },
         sets=sets,

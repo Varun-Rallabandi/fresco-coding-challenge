@@ -23,7 +23,7 @@
   },
   "stats": {
     "format": "table",
-    "seconds": 0.55,
+    "seconds": 0.75,
     "pages_in_pdf": 17,
     "hardware_pages": 3,
     "ocr_pages": [],
@@ -31,7 +31,6 @@
     "components": 196,
     "low_confidence_sets": 0,
     "ungrounded_values_removed": 0,
-    "ai_rereads": 0,
     "cache": "miss"
   },
   "sets": [
@@ -65,7 +64,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ SLIDING AUTO ENTRANCE MFR.",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29704124000002,
@@ -109,7 +107,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29744096919945,
@@ -127,7 +124,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) CLASSROOM SECURITY W/ HOLDBACK FUNCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29684137540021,
@@ -145,7 +141,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.297241104599664,
@@ -163,7 +158,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) EXTRA DUTY ARM, METAL COVER",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29764083379912,
@@ -181,7 +175,6 @@
           "finish": "BLACK",
           "notes": "THRESHOLD PROVIDED BY CURTAINWALL ENTRANCE MFR.",
           "confidence": 0.8,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.11770941016898,
@@ -199,7 +192,6 @@
           "finish": null,
           "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR COORDINATE W/ CURTAINWALL ENTRANCE MFR.",
           "confidence": 0.8,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.297041239999935,
@@ -243,7 +235,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29684137540027,
@@ -261,7 +252,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.296241781601026,
@@ -279,7 +269,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) PANIC / CLASSROOM FUNCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.296641510800455,
@@ -297,7 +286,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) EXTRA DUTY ARM, METAL COVER",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.11671008717035,
@@ -315,7 +303,6 @@
           "finish": "BLACK",
           "notes": "THRESHOLD PROVIDED BY CURTAINWALL ENTRANCE MFR. COORDINATE W/ CURTAINWALL ENTRANCE MFR.",
           "confidence": 0.8,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.11671008717035,
@@ -359,7 +346,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.295042594002666,
@@ -377,7 +363,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) PANIC / PASSAGE FUNCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29444300020348,
@@ -395,7 +380,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) EXTRA DUTY ARM, METAL COVER",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29484272940291,
@@ -413,7 +397,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) COORDINATE W/ FIRE ALARM SYSTEM",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.11491130577281,
@@ -431,7 +414,6 @@
           "finish": "BLACK",
           "notes": "CONTRACTOR TO CONFIRM QUANTITIES COORDINATE W/ FIRE-RATED GLASS ENTRANCE MFR.",
           "confidence": 0.8,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.11491130577281,
@@ -475,7 +457,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29474279710307,
@@ -493,7 +474,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) CLASSROOM SECURITY W/ HOLDBACK FUNCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29414320330383,
@@ -511,7 +491,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) EXTRA DUTY ARM, METAL COVER",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29454293250329,
@@ -529,7 +508,6 @@
           "finish": "BLACK",
           "notes": "THRESHOLD PROVIDED BY CURTAINWALL ENTRANCE MFR. COORDINATE W/ CURTAINWALL ENTRANCE MFR.",
           "confidence": 0.8,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.2939433387041,
@@ -573,7 +551,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29662829217413,
@@ -591,7 +568,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) CLASSROOM FUNCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29602869837489,
@@ -609,7 +585,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29642842757437,
@@ -627,7 +602,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) EXTRA DUTY ARM, METAL COVER",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.2968281567738,
@@ -645,7 +619,6 @@
           "finish": "BLACK",
           "notes": null,
           "confidence": 0.8,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.11689673314366,
@@ -663,7 +636,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.8,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.11689673314366,
@@ -681,7 +653,6 @@
           "finish": null,
           "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
           "confidence": 0.8,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.296828156773806,
@@ -725,7 +696,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29662829217413,
@@ -743,7 +713,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29602869837489,
@@ -761,7 +730,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) CLASSROOM FUNCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29642842757434,
@@ -779,7 +747,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29682815677383,
@@ -797,7 +764,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) EXTRA DUTY ARM, METAL COVER",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.11789605614227,
@@ -815,7 +781,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) TOP & BOTTOM",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.1178960561423,
@@ -833,7 +798,6 @@
           "finish": "BLACK",
           "notes": "THRESHOLD PROVIDED BY CURTAINWALL ENTRANCE MFR.",
           "confidence": 0.8,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.1178960561423,
@@ -851,7 +815,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.8,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.11689673314363,
@@ -869,7 +832,6 @@
           "finish": null,
           "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
           "confidence": 0.8,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29682815677378,
@@ -913,7 +875,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29662829217401,
@@ -931,7 +892,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.296028698374776,
@@ -949,7 +909,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) PANIC / CLASSROOM FUNCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29642842757423,
@@ -967,7 +926,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) EXTRA DUTY ARM, METAL COVER",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.1164970039441,
@@ -985,7 +943,6 @@
           "finish": "BLACK",
           "notes": "THRESHOLD PROVIDED BY CURTAINWALL ENTRANCE MFR.",
           "confidence": 0.8,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.1164970039441,
@@ -1003,7 +960,6 @@
           "finish": null,
           "notes": null,
           "confidence": 0.8,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.11549768094544,
@@ -1047,7 +1003,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29542910457557,
@@ -1065,7 +1020,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29482951077641,
@@ -1083,7 +1037,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) PANIC / CLASSROOM FUNCTION; COORDINATE W/ OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29522923997587,
@@ -1101,7 +1054,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) EXTRA DUTY ARM, METAL COVER",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.11599734244476,
@@ -1119,7 +1071,6 @@
           "finish": "BLACK",
           "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
           "confidence": 0.8,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.11599734244473,
@@ -1137,7 +1088,6 @@
           "finish": null,
           "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
           "confidence": 0.8,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29632849527428,
@@ -1181,7 +1131,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29612863067464,
@@ -1199,7 +1148,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) OFFICE FUNCTION W/ AUTO UNLOCKING",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.2955290368754,
@@ -1217,7 +1165,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) SEE PLANS FOR WALL CONSTRUCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.11619720704442,
@@ -1235,7 +1182,6 @@
           "finish": "MILL",
           "notes": "ALUM / BLACK",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.11619720704445,
@@ -1253,7 +1199,6 @@
           "finish": "BLACK",
           "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
           "confidence": 0.8,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.11559761324527,
@@ -1297,7 +1242,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29592876607482,
@@ -1315,7 +1259,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29532917227567,
@@ -1333,7 +1276,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) ELECTRIC UNLOCKING FUNCTION; COORDINATE W/ OWNER'S SECURITY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.29572890147513,
@@ -1351,7 +1293,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.1156975455451,
@@ -1369,7 +1310,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) SEE PLANS FOR WALL CONSTRUCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.11669686854368,
@@ -1387,7 +1327,6 @@
           "finish": "MILL",
           "notes": "ALUM / BLACK",
           "confidence": 0.9,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.11669686854371,
@@ -1405,7 +1344,6 @@
           "finish": "BLACK",
           "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
           "confidence": 0.8,
-          "source": "rules",
           "page": 15,
           "bbox": [
             97.11609727474453,
@@ -1423,7 +1361,6 @@
           "finish": null,
           "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
           "confidence": 0.8,
-          "source": "rules",
           "page": 15,
           "bbox": [
             55.296428427574085,
@@ -1467,7 +1404,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.09670123999999,
@@ -1485,7 +1421,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.09610164620076,
@@ -1503,7 +1438,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) ELECTRIC UNLOCKING FUNCTION; COORDINATE W/ OWNER'S SECURITY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.096501375400216,
@@ -1521,7 +1455,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.9164700194702,
@@ -1539,7 +1472,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) SEE PLANS FOR WALL CONSTRUCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.91746934246878,
@@ -1557,7 +1489,6 @@
           "finish": "BLACK",
           "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
           "confidence": 0.8,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.9174693424688,
@@ -1575,7 +1506,6 @@
           "finish": null,
           "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
           "confidence": 0.8,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.09780049529836,
@@ -1619,7 +1549,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.0976006306986,
@@ -1637,7 +1566,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.097001036899364,
@@ -1655,7 +1583,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) ELECTRIC UNLOCKING FUNCTION; COORDINATE W/ OWNER'S SECURITY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.097400766098815,
@@ -1673,7 +1600,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) COORDINATE W/ OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.91736941016879,
@@ -1691,7 +1617,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.91836873316731,
@@ -1709,7 +1634,6 @@
           "finish": "BLACK",
           "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
           "confidence": 0.8,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.91836873316728,
@@ -1727,7 +1651,6 @@
           "finish": null,
           "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
           "confidence": 0.8,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.098699885996844,
@@ -1771,7 +1694,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.0985000213972,
@@ -1789,7 +1711,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.09790042759796,
@@ -1807,7 +1728,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) ELECTRIC UNLOCKING FUNCTION; COORDINATE W/ OWNER'S SECURITY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.09830015679742,
@@ -1825,7 +1745,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) COORDINATE W/ OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.9182688008674,
@@ -1843,7 +1762,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) TOP & BOTTOM",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.91926812386592,
@@ -1861,7 +1779,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.91926812386589,
@@ -1879,7 +1796,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) SEE PLANS FOR WALL CONSTRUCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.91926812386589,
@@ -1897,7 +1813,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.91926812386589,
@@ -1915,7 +1830,6 @@
           "finish": "BLACK",
           "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
           "confidence": 0.8,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.91926812386589,
@@ -1933,7 +1847,6 @@
           "finish": null,
           "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
           "confidence": 0.8,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.09959927669545,
@@ -1977,7 +1890,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.099399412095806,
@@ -1995,7 +1907,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) STOREROOM FUNCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.09879981829656,
@@ -2013,7 +1924,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.91846866546697,
@@ -2031,7 +1941,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) SEE PLANS FOR WALL CONSTRUCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.91946798846558,
@@ -2049,7 +1958,6 @@
           "finish": "BLACK",
           "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
           "confidence": 0.8,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.91946798846561,
@@ -2093,7 +2001,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.09979914129517,
@@ -2111,7 +2018,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) STOREROOM FUNCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.09919954749602,
@@ -2129,7 +2035,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.91926812386589,
@@ -2147,7 +2052,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) SEE PLANS FOR WALL CONSTRUCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.9202674468645,
@@ -2165,7 +2069,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.92026744686453,
@@ -2183,7 +2086,6 @@
           "finish": "BLACK",
           "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
           "confidence": 0.8,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.92026744686453,
@@ -2227,7 +2129,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.10059859969408,
@@ -2245,7 +2146,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) STOREROOM FUNCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.09999900589493,
@@ -2263,7 +2163,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.9200675822648,
@@ -2281,7 +2180,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.9210669052634,
@@ -2299,7 +2197,6 @@
           "finish": "BLACK",
           "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
           "confidence": 0.8,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.92106690526343,
@@ -2343,7 +2240,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.10139805809299,
@@ -2361,7 +2257,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.10079846429384,
@@ -2379,7 +2274,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) ELECTRIC UNLOCKING FUNCTION; COORDINATE W/ OWNER'S SECURITY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.101198193493296,
@@ -2397,7 +2291,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.92116683756328,
@@ -2415,7 +2308,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) SEE PLANS FOR WALL CONSTRUCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.92216616056186,
@@ -2433,7 +2325,6 @@
           "finish": "BLACK",
           "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
           "confidence": 0.8,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.92216616056189,
@@ -2451,7 +2342,6 @@
           "finish": null,
           "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
           "confidence": 0.8,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.10249731339144,
@@ -2495,7 +2385,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.10229744879168,
@@ -2513,7 +2402,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.101697854992445,
@@ -2531,7 +2419,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) ELECTRIC UNLOCKING FUNCTION; COORDINATE W/ OWNER'S SECURITY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.102097584191895,
@@ -2549,7 +2436,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.92206622826187,
@@ -2567,7 +2453,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) TOP & BOTTOM",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.92306555126045,
@@ -2585,7 +2470,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.92306555126048,
@@ -2603,7 +2487,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.92306555126048,
@@ -2621,7 +2504,6 @@
           "finish": "BLACK",
           "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
           "confidence": 0.8,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.92306555126048,
@@ -2639,7 +2521,6 @@
           "finish": null,
           "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
           "confidence": 0.8,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.10339670409004,
@@ -2683,7 +2564,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.10319683949028,
@@ -2701,7 +2581,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.102597245691044,
@@ -2719,7 +2598,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) ELECTRIC UNLOCKING FUNCTION; COORDINATE W/ OWNER'S SECURITY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.1029969748905,
@@ -2737,7 +2615,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.92296561896048,
@@ -2755,7 +2632,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) TOP & BOTTOM",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.92396494195906,
@@ -2773,7 +2649,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.92396494195908,
@@ -2791,7 +2666,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.92396494195908,
@@ -2809,7 +2683,6 @@
           "finish": "BLACK",
           "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
           "confidence": 0.8,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.92396494195908,
@@ -2827,7 +2700,6 @@
           "finish": null,
           "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
           "confidence": 0.8,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.104296094788644,
@@ -2871,7 +2743,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.10409623018889,
@@ -2889,7 +2760,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) STOREROOM FUNCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             55.10349663638965,
@@ -2907,7 +2777,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.92316548356007,
@@ -2925,7 +2794,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) TOP & BOTTOM",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.92416480655866,
@@ -2943,7 +2811,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.9241648065587,
@@ -2961,7 +2828,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.9241648065587,
@@ -2979,7 +2845,6 @@
           "finish": "BLACK",
           "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
           "confidence": 0.8,
-          "source": "rules",
           "page": 16,
           "bbox": [
             96.9241648065587,
@@ -3023,7 +2888,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58229123999998,
@@ -3041,7 +2905,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58169164620075,
@@ -3059,7 +2922,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) ELECTRIC UNLOCKING FUNCTION; COORDINATE W/ OWNER'S SECURITY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58209137540021,
@@ -3077,7 +2939,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) SEE PLANS FOR WALL CONSTRUCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             94.40206001947018,
@@ -3095,7 +2956,6 @@
           "finish": "BLACK",
           "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
           "confidence": 0.8,
-          "source": "rules",
           "page": 17,
           "bbox": [
             94.40206001947016,
@@ -3113,7 +2973,6 @@
           "finish": null,
           "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR PROVIDE FLOOR STOP @ DOOR 223",
           "confidence": 0.8,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.582391172299715,
@@ -3157,7 +3016,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) PROVIDED BY ALUR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58219130770007,
@@ -3175,7 +3033,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) CLASSROOM FUNCTION; PROVIDED BY ALUR (COORDINATE KEYING/CORE W/ OTHER TRADES)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58219130770007,
@@ -3193,7 +3050,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ ALUR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58099212010159,
@@ -3211,7 +3067,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ ALUR & OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58099212010162,
@@ -3229,7 +3084,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) PROVIDED BY ALUR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             94.40066096727205,
@@ -3247,7 +3101,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             94.40066096727205,
@@ -3265,7 +3118,6 @@
           "finish": null,
           "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
           "confidence": 0.8,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58099212010162,
@@ -3309,7 +3161,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) PROVIDED BY ALUR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58099212010159,
@@ -3327,7 +3178,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) PROVIDED BY ALUR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58099212010159,
@@ -3345,7 +3195,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ ALUR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.580792255501784,
@@ -3363,7 +3212,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) PROVIDED BY ALUR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.580792255501784,
@@ -3381,7 +3229,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             94.40146042567082,
@@ -3425,7 +3272,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.581791578500415,
@@ -3443,7 +3289,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL HEIGHT 'F' STYLE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58179157850044,
@@ -3461,7 +3306,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58159171390069,
@@ -3479,7 +3323,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ ALL-GLASS ENTRANCE MFR.",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58159171390072,
@@ -3523,7 +3366,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.5810920524014,
@@ -3541,7 +3383,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL HEIGHT 'F' STYLE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.5810920524014,
@@ -3559,7 +3400,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.580892187801645,
@@ -3577,7 +3417,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ ALL-GLASS ENTRANCE MFR.",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.580892187801616,
@@ -3621,7 +3460,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.5803925263023,
@@ -3639,7 +3477,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL HEIGHT 'F' STYLE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.5803925263023,
@@ -3657,7 +3494,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58019266170254,
@@ -3675,7 +3511,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ OWNER'S SECUIRTY VENDOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58019266170251,
@@ -3693,7 +3528,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             94.40086083187154,
@@ -3711,7 +3545,6 @@
           "finish": null,
           "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR COORDINATE W/ ALL-GLASS ENTRANCE MFR.",
           "confidence": 0.8,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58119198470112,
@@ -3755,7 +3588,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58099212010148,
@@ -3773,7 +3605,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL HEIGHT 'F' STYLE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58099212010148,
@@ -3791,7 +3622,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58099212010148,
@@ -3809,7 +3639,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ ALL-GLASS ENTRANCE MFR.",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58079225550173,
@@ -3853,7 +3682,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58029259400244,
@@ -3871,7 +3699,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL HEIGHT 'F' STYLE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.58029259400244,
@@ -3889,7 +3716,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.57969300020322,
@@ -3907,7 +3733,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ ALL-GLASS ENTRANCE MFR.",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.57969300020325,
@@ -3951,7 +3776,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.57919333870393,
@@ -3969,7 +3793,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL HEIGHT 'F' STYLE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.57919333870393,
@@ -3987,7 +3810,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.578593744904666,
@@ -4005,7 +3827,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ ALL-GLASS ENTRANCE MFR.",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.578593744904694,
@@ -4049,7 +3870,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.578094083405375,
@@ -4067,7 +3887,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) PRIVACY FUNCTION (\"OCCUPIED\") W/ DEADBOLT & COIN TURN",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.57749448960614,
@@ -4085,7 +3904,6 @@
           "finish": null,
           "notes": "COORDINATE W/ LOCKSET, ELECTRIC STRIKE & AUTO OPERATOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.57689489580696,
@@ -4103,7 +3921,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE) COORDINATE W/ DEADBOLT MONITOR & ELECTRIC STRIKE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.57689489580696,
@@ -4121,7 +3938,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) COORDINATE W/ DEADBOLT MONITOR & AUTO OPERATOR",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             94.3969634721768,
@@ -4139,7 +3955,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) SEE PLANS FOR WALL CONSTRUCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             94.39696347217685,
@@ -4157,7 +3972,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             94.39696347217682,
@@ -4175,7 +3989,6 @@
           "finish": "BLACK",
           "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
           "confidence": 0.8,
-          "source": "rules",
           "page": 17,
           "bbox": [
             94.39696347217682,
@@ -4219,7 +4032,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.57729462500638,
@@ -4237,7 +4049,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) 72\" LENGTH",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.57669503120723,
@@ -4255,7 +4066,6 @@
           "finish": "691",
           "notes": "(LIGHT BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.57709476040665,
@@ -4273,7 +4083,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) SEE PLANS FOR WALL CONSTRUCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.57709476040665,
@@ -4291,7 +4100,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE)",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             94.39716333677654,
@@ -4309,7 +4117,6 @@
           "finish": "BLACK",
           "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
           "confidence": 0.8,
-          "source": "rules",
           "page": 17,
           "bbox": [
             94.39716333677654,
@@ -4353,7 +4160,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) FULL MORTISE, FIVE KNUCKLE BB HINGE",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.57749448960611,
@@ -4371,7 +4177,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) PRIVACY FUNCTION (\"OCCUPIED\") W/ DEADBOLT & COIN TURN",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.57689489580696,
@@ -4389,7 +4194,6 @@
           "finish": "613",
           "notes": "(OIL RUBBED BRONZE) SEE PLANS FOR WALL CONSTRUCTION",
           "confidence": 0.9,
-          "source": "rules",
           "page": 17,
           "bbox": [
             52.57629530200777,
@@ -4407,7 +4211,6 @@
           "finish": "BLACK",
           "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
           "confidence": 0.8,
-          "source": "rules",
           "page": 17,
           "bbox": [
             94.39596414917818,
