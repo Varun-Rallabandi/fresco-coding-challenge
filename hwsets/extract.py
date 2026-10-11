@@ -311,6 +311,8 @@ def extract(pdf_path: str | Path, pages: list[int] | None = None,
 
     doc = pymupdf.open(pdf_path)
     pages = pages or find_hardware_pages(pdf_path, doc)
+    if not pages and len(doc) <= 30 and not any(pg.get_text().strip() for pg in doc):
+        pages = list(range(1, len(doc) + 1))  # a short scan has no text to search: read it all with OCR
 
     vocab = Vocabulary()
     # Legends usually sit just before the schedule, so read a few pages back too.

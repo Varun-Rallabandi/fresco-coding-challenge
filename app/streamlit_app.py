@@ -38,12 +38,19 @@ cache, store = services()
 
 @st.cache_data(show_spinner=False)
 def local_books() -> list[str]:
-    """Books known to contain hardware sets (from `hwsets.cli batch`'s index), present in data/."""
+    """Books known to contain hardware sets (from `hwsets.cli batch`'s index), present in data/.
+
+    Paths are relative to the repo root. When data/ isn't there (e.g. the hosted demo),
+    fall back to the small PDFs committed in samples/.
+    """
     index = ROOT / "outputs" / "index.json"
     data = ROOT / "data"
+    books = []
     if index.exists():
-        return [b["pdf"] for b in json.loads(index.read_text()) if (data / b["pdf"]).exists()]
-    return sorted(str(p.relative_to(data)) for p in data.rglob("*.pdf")) if data.exists() else []
+        books = [f"data/{b['pdf']}" for b in json.loads(index.read_text()) if (data / b["pdf"]).exists()]
+    elif data.exists():
+        books = sorted(str(p.relative_to(ROOT)) for p in data.rglob("*.pdf"))
+    return books + sorted(str(p.relative_to(ROOT)) for p in (ROOT / "samples").glob("*.pdf"))
 
 
 @st.cache_data(show_spinner="Reading the specbook...")
@@ -67,7 +74,7 @@ def colour(conf: float) -> str:
 
 # ---------------------------------------------------------------- sidebar: pick a book
 st.sidebar.title("Hardware Set Extractor")
-source = st.sidebar.radio("Specbook", ["Upload a PDF", "Sample from data/"], index=1 if local_books() else 0)
+source = st.sidebar.radio("Specbook", ["Upload a PDF", "Sample book"], index=1 if local_books() else 0)
 pdf_path = None
 if source == "Upload a PDF":
     up = st.sidebar.file_uploader("Division 08 specbook (PDF)", type="pdf")
@@ -78,9 +85,9 @@ if source == "Upload a PDF":
 else:
     books = local_books()
     if books:
-        pdf_path = str(ROOT / "data" / st.sidebar.selectbox("Book", books))
+        pdf_path = str(ROOT / st.sidebar.selectbox("Book", books))
     else:
-        st.sidebar.info("No PDFs in data/. Upload one instead.")
+        st.sidebar.info("No sample PDFs found. Upload one instead.")
 
 if not pdf_path:
     st.title("Hardware Set Extractor")
