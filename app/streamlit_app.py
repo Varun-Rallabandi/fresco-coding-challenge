@@ -36,7 +36,6 @@ def services():
 cache, store = services()
 
 
-@st.cache_data(show_spinner=False)
 def local_books() -> list[str]:
     """Books known to contain hardware sets (from `hwsets.cli batch`'s index), present in data/.
 
